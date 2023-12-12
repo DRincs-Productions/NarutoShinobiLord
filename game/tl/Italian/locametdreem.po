@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: naruto-shinobi-lord\n"
+"X-Crowdin-Project-ID: 633788\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/locametdreem.po\n"
+"X-Crowdin-File-ID: 12750\n"
+"Project-Id-Version: naruto-shinobi-lord\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2023-12-12 18:22\n"
+
+# TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/locametdreem.rpy:8 #-#-# translate crowdin sisi1_d37e6817:
+msgid "[_m_] It's nice to finally take a break from all this business..."
+msgstr ""
+
+# game/locametdreem.rpy:12 #-#-# translate crowdin sisi1_a6d9a3bf:
+msgid "[_m_] I think I've been working too hard lately..."
+msgstr ""
+
+# game/locametdreem.rpy:16 #-#-# translate crowdin sisi1_ed3c4a1b:
+msgid "[_m_] But man... Do I have a choice?"
+msgstr ""
+
+# game/locametdreem.rpy:18 #-#-# translate crowdin sisi1_509e8611:
+msgid "[_m_] If I had stayed in the old world, I wonder how my life would have turned out..."
+msgstr ""
+
+# game/locametdreem.rpy:20 #-#-# translate crowdin sisi1_322dfb91:
+msgid "[_m_] Probably nothing much, would have gone to my old job, lived one day at a time."
+msgstr ""
+
+# game/locametdreem.rpy:22 #-#-# translate crowdin sisi1_0005bb27:
+msgid "[_m_] The days would go by too fast and I wouldn't even notice."
+msgstr ""
+
+# game/locametdreem.rpy:26 #-#-# translate crowdin sisi1_d428de06:
+msgid "[_m_] But no... I'd notice... We have so many holidays."
+msgstr ""
+
+# game/locametdreem.rpy:30 #-#-# translate crowdin sisi1_f5cf22a1:
+msgid "[_m_] I love holidays."
+msgstr ""
+
+# game/locametdreem.rpy:34 #-#-# translate crowdin sisi1_a37b3a08:
+msgid "[_m_] Lately I've been celebrating without my family, and I don't have any friends."
+msgstr ""
+
+# game/locametdreem.rpy:38 #-#-# translate crowdin sisi1_677f3ffb:
+msgid "[_m_] But it was still fun..."
+msgstr ""
+
+# game/locametdreem.rpy:42 #-#-# translate crowdin sisi1_a619df87:
+msgid "[_m_] I remember on New Year's I'd buy a couple of beers and watch Harry Potter and just... Forgetting everything..."
+msgstr ""
+
+# game/locametdreem.rpy:50 #-#-# translate crowdin sisi1_ae2487b8:
+msgid "[_m_] I wish... My happy memories... Were not so.... Lonely..."
+msgstr ""
+
+# game/locametdreem.rpy:58 #-#-# translate crowdin sisi1_ddb46f80:
+msgid "[_saku_] This champagne is so strong! I didn't expect to get drunk that fast..."
+msgstr ""
+
+# game/locametdreem.rpy:62 #-#-# translate crowdin sisi1_f235761c:
+msgid "[_hi_] You just don't see the measure, Sakura. The first bottle went away pretty quickly!"
+msgstr ""
+
+# game/locametdreem.rpy:66 #-#-# translate crowdin sisi1_661d4da2:
+msgid "[_saku_] Well downtime! Never knew how to drink properly... It's actually not that easy!"
+msgstr ""
+
+# game/locametdreem.rpy:70 #-#-# translate crowdin sisi1_4e1faa01:
+msgid "[_hi_] I seem to get it right, even though I'm not the most experienced drinker."
+msgstr ""
+
+# game/locametdreem.rpy:74 #-#-# translate crowdin sisi1_0ddd5a73:
+msgid "[_saku_] What do you think? I think you should drink everything at once! Why stretch it out?"
+msgstr ""
+
+# game/locametdreem.rpy:78 #-#-# translate crowdin sisi1_22cb048d:
+msgid "[_hi_] If you drink everything at once, you won't feel the pleasure, am I right?"
+msgstr ""
+
+# game/locametdreem.rpy:82 #-#-# translate crowdin sisi1_a233482f:
+msgid "[_gg_] Girls..."
+msgstr ""
+
+# game/locametdreem.rpy:84 #-#-# translate crowdin sisi1_5ece9ef7:
+msgid "[_gg_] You... You're having fun here, aren't you? With me?"
+msgstr ""
+
+# game/locametdreem.rpy:88 #-#-# translate crowdin sisi1_c8328be2:
+msgid "[_saku_] What are you talking about? I'm having fun in your company! Sasuke is disappearing as usual to who knows where... Sarada's out celebrating with her friends... It's kinda sad to see the new year alone!"
+msgstr ""
+
+# game/locametdreem.rpy:92 #-#-# translate crowdin sisi1_72ddfbe2:
+msgid "[_hi_] I agree... I wouldn't want to celebrate the new year alone either... It's fun with you, especially since we have things to do, right Sakura?"
+msgstr ""
+
+# game/locametdreem.rpy:96 #-#-# translate crowdin sisi1_b524aa5d:
+msgid "[_saku_] Are you thinking the same thing Hinata?"
+msgstr ""
+
+# game/locametdreem.rpy:100 #-#-# translate crowdin sisi1_cbdbb3fc:
+msgid "[_hi_] Yes. It's time to give him New Year's presents!"
+msgstr ""
+
+# game/locametdreem.rpy:106 #-#-# translate crowdin sisi1_3670a65a:
+msgid "[_saku_] I can see in your eyes that you like our present."
+msgstr ""
+
+# game/locametdreem.rpy:114 #-#-# translate crowdin sisi1_ddcfc6d5:
+msgid "[_hi_] He's in a stupor... I think we should really shake him up..."
+msgstr ""
+
+# game/locametdreem.rpy:118 #-#-# translate crowdin sisi1_b9243fd2:
+msgid "[_saku_] You're about to get as much dirty sex as you've ever had!"
+msgstr ""
+
+# game/locametdreem.rpy:122 #-#-# translate crowdin sisi1_f0e3db3d:
+msgid "[_gg_] You talk so much..."
+msgstr ""
+
+# game/locametdreem.rpy:126 #-#-# translate crowdin sisi1_1bc435d0:
+msgid "[_gg_] Maybe it's time to occupy your mouths with something more useful."
+msgstr ""
+
+# game/locametdreem.rpy:130 #-#-# translate crowdin sisi1_013282b7:
+msgid "[_saku_] Did you hear that? He's so cocky! Love it!"
+msgstr ""
+
+# game/locametdreem.rpy:134 #-#-# translate crowdin sisi1_2c684bc9:
+msgid "[_hi_] Let's split this cock for two!"
+msgstr ""
+
+# game/locametdreem.rpy:146 #-#-# translate crowdin sisi1_7ab48c3e:
+msgid "[_m_] These perverts have such hungry eyes!"
+msgstr ""
+
+# game/locametdreem.rpy:148 #-#-# translate crowdin sisi1_5417a72b:
+msgid "[_m_] How well they work together..."
+msgstr ""
+
+# game/locametdreem.rpy:150 #-#-# translate crowdin sisi1_7ffda88e:
+msgid "[_gg_] Yeah... That's it, suck my balls Hinata!"
+msgstr ""
+
+# game/locametdreem.rpy:152 #-#-# translate crowdin sisi1_8a2f697d:
+msgid "[_m_] Fuck... I've never felt that in my life..."
+msgstr ""
+
+# game/locametdreem.rpy:154 #-#-# translate crowdin sisi1_bcedf024:
+msgid "[_m_] Their mouths are sucking so greedily on my balls and cock that I can barely hold back..."
+msgstr ""
+
+# game/locametdreem.rpy:156 #-#-# translate crowdin sisi1_0080894d:
+msgid "[_gg_] More saliva Sakura! That's the way to go..."
+msgstr ""
+
+# game/locametdreem.rpy:158 #-#-# translate crowdin sisi1_6801822a:
+msgid "[_m_] I wish I could wake up to this every day..."
+msgstr ""
+
+# game/locametdreem.rpy:160 #-#-# translate crowdin sisi1_3de647a5:
+msgid "[_m_] I'll remember this feeling for a long time!"
+msgstr ""
+
+# game/locametdreem.rpy:162 #-#-# translate crowdin sisi1_c9748eb5:
+msgid "[_gg_] Change position, I want Hinata to suck that cock good!"
+msgstr ""
+
+# game/locametdreem.rpy:174 #-#-# translate crowdin sisi1_190e1414:
+msgid "[_saku_] You like that cock Hinata? Don't hold back!"
+msgstr ""
+
+# game/locametdreem.rpy:176 #-#-# translate crowdin sisi1_683d1225:
+msgid "[_saku_] No matter how much spit there is, I'll back you up with my mouth..."
+msgstr ""
+
+# game/locametdreem.rpy:178 #-#-# translate crowdin sisi1_313a70ab:
+msgid "[_gg_] You suck so good, Hinata!"
+msgstr ""
+
+# game/locametdreem.rpy:180 #-#-# translate crowdin sisi1_06bc9ccf:
+msgid "[_saku_] She loves it so much, I never would have thought our Hinata was such a slut!"
+msgstr ""
+
+# game/locametdreem.rpy:182 #-#-# translate crowdin sisi1_e09f4e01:
+msgid "[_m_] And Sakura knows how to talk dirty..."
+msgstr ""
+
+# game/locametdreem.rpy:184 #-#-# translate crowdin sisi1_5c4e8b7c:
+msgid "[_saku_] Only a real dirty slut would work her non-husband's cock with such love!"
+msgstr ""
+
+# game/locametdreem.rpy:186 #-#-# translate crowdin sisi1_aa25bed6:
+msgid "[_gg_] You sucked my cock with enviable interest too, Sakura."
+msgstr ""
+
+# game/locametdreem.rpy:188 #-#-# translate crowdin sisi1_5e11c9dd:
+msgid "[_saku_] And who says I'm any different from Hinata? I love dicks!"
+msgstr ""
+
+# game/locametdreem.rpy:190 #-#-# translate crowdin sisi1_eb29cc61:
+msgid "[_gg_] You like dicks then? It's time to give you a good fuck."
+msgstr ""
+
+# game/locametdreem.rpy:192 #-#-# translate crowdin sisi1_39e54cc1:
+msgid "[_saku_] Yes, Daddy! Give me your cock!"
+msgstr ""
+
+# game/locametdreem.rpy:204 #-#-# translate crowdin sisi1_b8706a85:
+msgid "[_gg_] How do you like it? Do you like being fucked by someone other than your husband?"
+msgstr ""
+
+# game/locametdreem.rpy:206 #-#-# translate crowdin sisi1_533cb457:
+msgid "[_saku_] Yes! I love it when your cock slides in my pussy!"
+msgstr ""
+
+# game/locametdreem.rpy:208 #-#-# translate crowdin sisi1_75f2c74b:
+msgid "[_hi_] You sound like a real slut, Sakura..."
+msgstr ""
+
+# game/locametdreem.rpy:210 #-#-# translate crowdin sisi1_c387f218:
+msgid "[_saku_] MMMM! I'm ready to be anything with that cock in me as often as possible!"
+msgstr ""
+
+# game/locametdreem.rpy:212 #-#-# translate crowdin sisi1_376ec445:
+msgid "[_saku_] I love it when you fuck me like a slut!"
+msgstr ""
+
+# game/locametdreem.rpy:214 #-#-# translate crowdin sisi1_e061abea:
+msgid "[_gg_] You're such a dirty bitch, Sakura!"
+msgstr ""
+
+# game/locametdreem.rpy:216 #-#-# translate crowdin sisi1_22490c03:
+msgid "[_gg_] I need to punish you more often with my cock!"
+msgstr ""
+
+# game/locametdreem.rpy:218 #-#-# translate crowdin sisi1_cb054a26:
+msgid "[_saku_] MMMMM! Yes! Yes! YES!"
+msgstr ""
+
+# game/locametdreem.rpy:220 #-#-# translate crowdin sisi1_a7731569:
+msgid "[_hi_] Your mouth can only be closed with kisses right? Come here."
+msgstr ""
+
+# game/locametdreem.rpy:222 #-#-# translate crowdin sisi1_4f8ae3e5:
+msgid "[_m_] Their duet is just something! "
+msgstr ""
+
+# game/locametdreem.rpy:224 #-#-# translate crowdin sisi1_626d6385:
+msgid "[_m_] Hinata knows exactly what I want and when, and Sakura is just a dirty, perverted slut who loves my cock!"
+msgstr ""
+
+# game/locametdreem.rpy:226 #-#-# translate crowdin sisi1_7a88eeb3:
+msgid "[_m_] Gotta pay attention to every hole!"
+msgstr ""
+
+# game/locametdreem.rpy:228 #-#-# translate crowdin sisi1_68cc0e9d:
+msgid "[_gg_] Hinata! Give me your pussy, I want you!"
+msgstr ""
+
+# game/locametdreem.rpy:230 #-#-# translate crowdin sisi1_e9e49393:
+msgid "[_hi_] Finally!"
+msgstr ""
+
+# game/locametdreem.rpy:242 #-#-# translate crowdin sisi1_25f8aa15:
+msgid "[_gg_] Did you miss me? Don't think I've forgotten about you, Hinata."
+msgstr ""
+
+# game/locametdreem.rpy:244 #-#-# translate crowdin sisi1_15a7ecf8:
+msgid "[_hi_] You have twice as much work today, so it's no big deal!"
+msgstr ""
+
+# game/locametdreem.rpy:246 #-#-# translate crowdin sisi1_6a486b7e:
+msgid "[_saku_] Fuck! Yes! Your fingers!"
+msgstr ""
+
+# game/locametdreem.rpy:248 #-#-# translate crowdin sisi1_84d77390:
+msgid "[_hi_] I'll take care of you Sakura, just trust me!"
+msgstr ""
+
+# game/locametdreem.rpy:250 #-#-# translate crowdin sisi1_d44906f5:
+msgid "[_saku_] Yes! MMM! I'm... I'm so close!"
+msgstr ""
+
+# game/locametdreem.rpy:252 #-#-# translate crowdin sisi1_c7b3d358:
+msgid "[_hi_] Come on! Don't stop! I want us to cum together with Sakura!"
+msgstr ""
+
+# game/locametdreem.rpy:254 #-#-# translate crowdin sisi1_80bf78ee:
+msgid "[_gg_] I'll fuck you as hard as you deserve it!"
+msgstr ""
+
+# game/locametdreem.rpy:256 #-#-# translate crowdin sisi1_05072a0f:
+msgid "[_saku_] Cumming! I'm coming!"
+msgstr ""
+
+# game/locametdreem.rpy:258 #-#-# translate crowdin sisi1_46890f2d:
+msgid "[_hi_] That's it! Yes, that's it!!!"
+msgstr ""
+
+# game/locametdreem.rpy:260 #-#-# translate crowdin sisi1_4ee04060:
+msgid "[_hi_] MMMMM! Yes... I..."
+msgstr ""
+
+# game/locametdreem.rpy:262 #-#-# translate crowdin sisi1_5ff5af4a:
+msgid "[_saku_] You have incredible fingers, Hinata..."
+msgstr ""
+
+# game/locametdreem.rpy:264 #-#-# translate crowdin sisi1_448cc520:
+msgid "[_gg_] Me too soon!"
+msgstr ""
+
+# game/locametdreem.rpy:266 #-#-# translate crowdin sisi1_88c6694e:
+msgid "[_saku_] I want to taste it!"
+msgstr ""
+
+# game/locametdreem.rpy:268 #-#-# translate crowdin sisi1_08a5c103:
+msgid "[_hi_] Give us the face!"
+msgstr ""
+
+# game/locametdreem.rpy:280 #-#-# translate crowdin sisi1_9b662d32:
+msgid "[_gg_] FUCK! YES!!! Take it all!"
+msgstr ""
+
+# game/locametdreem.rpy:282 #-#-# translate crowdin sisi1_2df2d112:
+msgid "[_gg_] Now you look like real whores."
+msgstr ""
+
+# game/locametdreem.rpy:286 #-#-# translate crowdin sisi1_2b4fd871:
+msgid "[_hi_] So thick..."
+msgstr ""
+
+# game/locametdreem.rpy:288 #-#-# translate crowdin sisi1_17c25219:
+msgid "[_saku_] What a strong smell!"
+msgstr ""
+
+# game/locametdreem.rpy:290 #-#-# translate crowdin sisi1_1490d9f2:
+msgid "[_gg_] Oh, did you look at your watch? It's 00:00."
+msgstr ""
+
+# game/locametdreem.rpy:292 #-#-# translate crowdin sisi1_155e8ab4:
+msgid "[_hi_] Let's go together Sakura!"
+msgstr ""
+
+# game/locametdreem.rpy:294 #-#-# translate crowdin sisi1_187fa43e:
+msgid "[_saku_] 3...2...1..."
+msgstr ""
+
+# game/locametdreem.rpy:298 #-#-# translate crowdin sisi1_400248f3:
+msgid "Happy New Year!"
+msgstr ""
+
+# game/locametdreem.rpy:312 #-#-# translate crowdin sisi2_6f81e71c:
+msgid "[_gg_] Why am I blindfolded?"
+msgstr ""
+
+# game/locametdreem.rpy:313 #-#-# translate crowdin sisi2_f869553d:
+msgid "[_tema_] No questions, lie on your back."
+msgstr ""
+
+# game/locametdreem.rpy:314 #-#-# translate crowdin sisi2_18f612fb:
+msgid "[_gg_] Do you know what you're doing exactly?"
+msgstr ""
+
+# game/locametdreem.rpy:315 #-#-# translate crowdin sisi2_5f175d6f:
+msgid "[_tema_] Shut up! Now I'm going to put that tongue of yours to work!."
+msgstr ""
+
+# game/locametdreem.rpy:321 #-#-# translate crowdin sisi2_b47f3f8f:
+msgid "[_tema_] Come on boy, try harder!"
+msgstr ""
+
+# game/locametdreem.rpy:322 #-#-# translate crowdin sisi2_29da2000:
+msgid "[_tema_] If you want me to play with your dick, work for it!"
+msgstr ""
+
+# game/locametdreem.rpy:326 #-#-# translate crowdin sisi2_2c19b3b4:
+msgid "[_tema_] Okay... Good boy."
+msgstr ""
+
+# game/locametdreem.rpy:327 #-#-# translate crowdin sisi2_9584b855:
+msgid "[_tema_] Mistress will cum on your face now..."
+msgstr ""
+
+# game/locametdreem.rpy:331 #-#-# translate crowdin sisi2_4da2ec3d:
+msgid "[_tema_] Yes... This is what you want, right?"
+msgstr ""
+
+# game/locametdreem.rpy:332 #-#-# translate crowdin sisi2_54919f17:
+msgid "[_tema_] Keep going! MMMMM!"
+msgstr ""
+
+# game/locametdreem.rpy:338 #-#-# translate crowdin sisi2_631ca321:
+msgid "[_tema_] Not bad... This is your full-time job now, boy."
+msgstr ""
+
