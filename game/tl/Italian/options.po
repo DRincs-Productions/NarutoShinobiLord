@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-12-12 18:22\n"
+"PO-Revision-Date: 2024-01-07 17:10\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # §translate crowdin strings: #|#|# # game/options.rpy:15
 msgid "Naruto: Shinobi Lord"
-msgstr ""
+msgstr "Naruto: Shinobi Lord"
 
 # game/options.rpy:70
 msgid "Autor - Cats-creators.\n\n"
@@ -25,5 +25,11 @@ msgid "Autor - Cats-creators.\n\n"
 "The Whole Other - The Missing Link\n\n"
 "Naruto Shippūden OST - Obito's Theme/ Bi - PianoDeuss\n\n"
 "Senya (Itachi Theme) - Yasuharu Takanashi/ Bi - Ru's Piano Ru味春捲\n\n"
-msgstr ""
+msgstr "Autor - Gatti-creatori.\n\n"
+"Musica:\n\n"
+"Cinematic Atmosphere Score 2\n\n"
+"Huey Daze — Amore\n\n"
+"The Whole Other - The Missing Link\n\n"
+"Naruto Shippu<unk> den OST - Obito's Theme/ Bi - PianoDeuss\n\n"
+"Senya (Itachi Theme) - Yasuharu Takanashi/ Bi - Piano Ru<unk> <unk>\n\n"
 
