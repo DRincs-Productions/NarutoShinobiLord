@@ -15082,7 +15082,7 @@ msgstr "[_r_] Ah... Che dire di quella ragazza e la sua famiglia..."
 
 # game/script.rpy:19117 #-#-# translate crowdin niztam_26c45b03:
 msgid "[_ka_] They saw us. Your face, me. I dealt with them, too."
-msgstr ""
+msgstr "[_ka_] Ci hanno visto. La tua faccia, io. Ho avuto a che fare anche con loro."
 
 # game/script.rpy:19125 #-#-# translate crowdin imennotak_f773cee4:
 msgid "[_ka_] Of course honey."
