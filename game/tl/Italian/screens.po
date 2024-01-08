@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: naruto-shinobi-lord\n"
+"X-Crowdin-Project-ID: 633788\n"
+"X-Crowdin-Language: it\n"
+"X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 12758\n"
+"Project-Id-Version: naruto-shinobi-lord\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Italian\n"
+"Language: it_IT\n"
+"PO-Revision-Date: 2024-01-05 08:47\n"
+
+# TODO: Translation updated at 2023-12-08 11:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:903
+msgid "Back"
+msgstr "Indietro"
+
+# game/screens.rpy:904
+msgid "History"
+msgstr "Storico"
+
+# game/screens.rpy:905
+msgid "Skip"
+msgstr "Salta"
+
+# game/screens.rpy:906
+msgid "Auto"
+msgstr "Automatico"
+
+# game/screens.rpy:907
+msgid "Save"
+msgstr "Salva"
+
+# game/screens.rpy:908
+msgid "Q.Save"
+msgstr "Q.Save"
+
+# game/screens.rpy:909
+msgid "Q.Load"
+msgstr "Q.Load"
+
+# game/screens.rpy:910
+msgid "Prefs"
+msgstr "Prefs"
+
+# game/screens.rpy:911
+msgid "Hide"
+msgstr "Nascondi"
+
+# game/screens.rpy:956
+msgid "Start"
+msgstr "Inizia"
+
+# game/screens.rpy:964
+msgid "Load"
+msgstr "Carica"
+
+# game/screens.rpy:966
+msgid "Galery"
+msgstr "Galery"
+
+# game/screens.rpy:968
+msgid "Preferences"
+msgstr "Preferenze"
+
+# game/screens.rpy:972
+msgid "End Replay"
+msgstr "Fine Replay"
+
+# game/screens.rpy:976
+msgid "Main Menu"
+msgstr "Menu Principale"
+
+# game/screens.rpy:978
+msgid "About"
+msgstr "Informazioni"
+
+# game/screens.rpy:983
+msgid "Help"
+msgstr "Aiuto"
+
+# game/screens.rpy:989
+msgid "Quit"
+msgstr "Esci"
+
+# game/screens.rpy:1479
+msgid "Return"
+msgstr "Ritorno"
+
+# game/screens.rpy:1564
+msgid "Version [config.version!t]\n"
+msgstr "Versione [config.version!t]\n"
+
+# game/screens.rpy:1570
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr "Realizzato con {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+
+# game/screens.rpy:1606
+msgid "Page {}"
+msgstr "Pagina {}"
+
+# game/screens.rpy:1606
+msgid "Automatic saves"
+msgstr "Salvataggi automatici"
+
+# game/screens.rpy:1606
+msgid "Quick saves"
+msgstr "Salvataggi rapidi"
+
+# game/screens.rpy:1649
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
+
+# game/screens.rpy:1649
+msgid "empty slot"
+msgstr "posto vuoto"
+
+# game/screens.rpy:1666
+msgid "<"
+msgstr "<"
+
+# game/screens.rpy:1669
+msgid "{#auto_page}A"
+msgstr "{#auto_page}A"
+
+# game/screens.rpy:1672
+msgid "{#quick_page}Q"
+msgstr "{#quick_page}Q"
+
+# game/screens.rpy:1678
+msgid ">"
+msgstr ">"
+
+# game/screens.rpy:1735
+msgid "Display"
+msgstr "Visualizzazione"
+
+# game/screens.rpy:1736
+msgid "Window"
+msgstr "Finestra"
+
+# game/screens.rpy:1737
+msgid "Fullscreen"
+msgstr "Schermo"
+
+# game/screens.rpy:1741
+msgid "Rollback Side"
+msgstr "Lato Di Rollback"
+
+# game/screens.rpy:1742
+msgid "Disable"
+msgstr "Disabilita"
+
+# game/screens.rpy:1743
+msgid "Left"
+msgstr "Sinistra"
+
+# game/screens.rpy:1744
+msgid "Right"
+msgstr "Destra"
+
+# game/screens.rpy:1749
+msgid "Unseen Text"
+msgstr "Unseen Text"
+
+# game/screens.rpy:1750
+msgid "After Choices"
+msgstr "Dopo Le Scelte"
+
+# game/screens.rpy:1751
+msgid "Transitions"
+msgstr "Transizioni"
+
+# game/screens.rpy:1764
+msgid "Text Speed"
+msgstr "Velocità Testo"
+
+# game/screens.rpy:1768
+msgid "Auto-Forward Time"
+msgstr "Tempo Di Auto-Inoltro"
+
+# game/screens.rpy:1775
+msgid "Music Volume"
+msgstr "Volume Musica"
+
+# game/screens.rpy:1782
+msgid "Sound Volume"
+msgstr "Volume Suono"
+
+# game/screens.rpy:1788
+msgid "Test"
+msgstr "Prova"
+
+# game/screens.rpy:1792
+msgid "Voice Volume"
+msgstr "Volume Vocale"
+
+# game/screens.rpy:1803
+msgid "Mute All"
+msgstr "Silenzia Tutto"
+
+# game/screens.rpy:1809
+msgid "Language"
+msgstr "Lingua"
+
+# game/screens.rpy:1927
+msgid "The dialogue history is empty."
+msgstr "La storia del dialogo è vuota."
+
+# game/screens.rpy:1997
+msgid "Keyboard"
+msgstr "Keyboard"
+
+# game/screens.rpy:1998
+msgid "Mouse"
+msgstr "Mouse"
+
+# game/screens.rpy:2001
+msgid "Gamepad"
+msgstr "Gamepad"
+
+# game/screens.rpy:2014
+msgid "Enter"
+msgstr "Inserisci"
+
+# game/screens.rpy:2015
+msgid "Advances dialogue and activates the interface."
+msgstr "Avanza il dialogo e attiva l'interfaccia."
+
+# game/screens.rpy:2018
+msgid "Space"
+msgstr "Spazio"
+
+# game/screens.rpy:2019
+msgid "Advances dialogue without selecting choices."
+msgstr "Avanza il dialogo senza selezionare le scelte."
+
+# game/screens.rpy:2022
+msgid "Arrow Keys"
+msgstr "Tasti Freccia"
+
+# game/screens.rpy:2023
+msgid "Navigate the interface."
+msgstr "Naviga nell'interfaccia."
+
+# game/screens.rpy:2026
+msgid "Escape"
+msgstr "Fuga"
+
+# game/screens.rpy:2027
+msgid "Accesses the game menu."
+msgstr "Accede al menu di gioco."
+
+# game/screens.rpy:2030
+msgid "Ctrl"
+msgstr "Ctrl"
+
+# game/screens.rpy:2031
+msgid "Skips dialogue while held down."
+msgstr "Salta il dialogo mentre è trattenuto."
+
+# game/screens.rpy:2034
+msgid "Tab"
+msgstr "Tab"
+
+# game/screens.rpy:2035
+msgid "Toggles dialogue skipping."
+msgstr "Attiva/Disattiva salto dialogo."
+
+# game/screens.rpy:2038
+msgid "Page Up"
+msgstr "Pagina Su"
+
+# game/screens.rpy:2039
+msgid "Rolls back to earlier dialogue."
+msgstr "Ritorna al dialogo precedente."
+
+# game/screens.rpy:2042
+msgid "Page Down"
+msgstr "Pagina Giù"
+
+# game/screens.rpy:2043
+msgid "Rolls forward to later dialogue."
+msgstr "Si avvicina al dialogo successivo."
+
+# game/screens.rpy:2047
+msgid "Hides the user interface."
+msgstr "Nasconde l'interfaccia utente."
+
+# game/screens.rpy:2051
+msgid "Takes a screenshot."
+msgstr "Prende uno screenshot."
+
+# game/screens.rpy:2055
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "Attiva/Disattiva assistenza {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+
+# game/screens.rpy:2059
+msgid "Opens the accessibility menu."
+msgstr "Apre il menu di accessibilità."
+
+# game/screens.rpy:2065
+msgid "Left Click"
+msgstr "Clic Sinistro"
+
+# game/screens.rpy:2069
+msgid "Middle Click"
+msgstr "Clic Centrale"
+
+# game/screens.rpy:2073
+msgid "Right Click"
+msgstr "Click Destro"
+
+# game/screens.rpy:2077
+msgid "Mouse Wheel Up\n"
+"Click Rollback Side"
+msgstr "Mouse Wheel Up\n"
+"Click Rollback Lato"
+
+# game/screens.rpy:2081
+msgid "Mouse Wheel Down"
+msgstr "Ruota Del Mouse Giù"
+
+# game/screens.rpy:2088
+msgid "Right Trigger\n"
+"A/Bottom Button"
+msgstr "Trigger Destro\n"
+"Pulsante A/Inferiore"
+
+# game/screens.rpy:2092
+msgid "Left Trigger\n"
+"Left Shoulder"
+msgstr "Innesco Sinistro\n"
+"Spalla Sinistra"
+
+# game/screens.rpy:2096
+msgid "Right Shoulder"
+msgstr "Spalla Destra"
+
+# game/screens.rpy:2101
+msgid "D-Pad, Sticks"
+msgstr "D-Pad, Bastoncini"
+
+# game/screens.rpy:2105
+msgid "Start, Guide"
+msgstr "Iniziare, Guida"
+
+# game/screens.rpy:2109
+msgid "Y/Top Button"
+msgstr "Pulsante Y/Top"
+
+# game/screens.rpy:2112
+msgid "Calibrate"
+msgstr "Calibra"
+
+# game/screens.rpy:2177
+msgid "Yes"
+msgstr "Sì"
+
+# game/screens.rpy:2178
+msgid "No"
+msgstr "No"
+
+# game/screens.rpy:2224
+msgid "Skipping"
+msgstr "Salto"
+
+# game/screens.rpy:2447
+msgid "Menu"
+msgstr "Menu"
+
