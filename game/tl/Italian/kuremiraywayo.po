@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-12-13 18:29\n"
+"PO-Revision-Date: 2024-01-08 07:32\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/kuremiraywayo.rpy:6 #-#-# translate crowdin kuremiraywayo_2c661c9f:
 msgid "[_m_] I'm not sure I can get both mother and daughter at the same time."
@@ -1266,7 +1266,7 @@ msgstr "[_r_] Perché hai fatto..."
 
 # game/kuremiraywayo.rpy:1370 #-#-# translate crowdin swistun_6b096fac:
 msgid "[_ka_] He was watching us. You and me."
-msgstr ""
+msgstr "[_ka_] Egli ci stava guardando. Tu e me."
 
 # game/kuremiraywayo.rpy:1371 #-#-# translate crowdin swistun_0e066333:
 msgid "[_ka_] Don't let his vulnerable position fool you. He has some insanely good chakra reserves and excellent control."
