@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2023-12-13 18:29\n"
+"PO-Revision-Date: 2024-01-08 07:33\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/locamet.rpy:6 #-#-# translate crowdin kat1_dc17cd33:
 msgid "[_ka_] Be braver, boy."
@@ -22,7 +22,7 @@ msgstr "[_ka_] Mi ha dato il tuo primo bacio, bravo ragazzo."
 
 # game/locamet.rpy:10 #-#-# translate crowdin kat1_69d7829a:
 msgid "[_gg_] You know everything, don't you..."
-msgstr ""
+msgstr "[_gg_] Tu sai tutto, no..."
 
 # game/locamet.rpy:12 #-#-# translate crowdin kat1_b5f9642e:
 msgid "[_ka_] You won't hide anything like this from me."
@@ -594,7 +594,7 @@ msgstr "[_m_] lo adoro... finirò proprio in gola!"
 
 # game/locamet.rpy:423 #-#-# translate crowdin kat6_138aa564:
 msgid "[_m_] FUCK! THERE IT IS!"
-msgstr ""
+msgstr "[ _m_] CAZZO! ECCOLO!"
 
 # game/locamet.rpy:425 #-#-# translate crowdin kat6_b2c04aa2:
 msgid "[_ay_] GHMM... MH! MMPH!"
@@ -830,7 +830,7 @@ msgstr "[_gg_] sto iniziando!"
 
 # game/locamet.rpy:631 #-#-# translate crowdin gvcverw43_b0237530:
 msgid "[_ka_] FUCK! THAT’S IT!! HOW THE FUCK IT IS! COME ON! MORE THAN A POUND!"
-msgstr ""
+msgstr "[_ka_] FANCULO! QUESTO È TUTTO!! COME CAZZO È! DAI! PIÙ DI UNA LIBERA!"
 
 # game/locamet.rpy:633 #-#-# translate crowdin gvcverw43_cadbcc81:
 msgid "[_m_] I fuck this crazy woman in the ass with all my strength, but it is not enough for her... I definitely will not equal with her perversity..."
