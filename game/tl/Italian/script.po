@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-05 08:47\n"
+"PO-Revision-Date: 2024-01-08 07:33\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -294,7 +294,7 @@ msgstr "[_r_] Spero che non sarà nulla di grave? Non sono affatto uno shinobi, 
 
 # game/script.rpy:389 #-#-# translate crowdin start_4a644e0a:
 msgid "[_ka_] Don't be afraid. You don't need to fight anyone. I'll give you strength with which you'll never have to fight."
-msgstr ""
+msgstr "[_ka_] Non aver paura. Non hai bisogno di combattere nessuno. Ti darò la forza con la quale non dovrai mai combattere."
 
 # game/script.rpy:394 #-#-# translate crowdin start_1fe34005:
 msgid "[_r_] Sounds quite safe."
@@ -418,7 +418,7 @@ msgstr "[_ka_] Mi ha dato il tuo primo bacio, bravo ragazzo."
 
 # game/script.rpy:541 #-#-# translate crowdin buni1_484f5437:
 msgid "[_r_] You know everything, don't you..."
-msgstr ""
+msgstr "[_r_] Tu sai tutto, non è vero..."
 
 # game/script.rpy:543 #-#-# translate crowdin buni1_b5f9642e:
 msgid "[_ka_] You won't hide anything like this from me."
@@ -1746,7 +1746,7 @@ msgstr "[_r_] Sì, esattamente, penso che sia per oggi, ha funzionato bene."
 
 # game/script.rpy:2495 #-#-# translate crowdin konecc_73a8d535:
 msgid "[_hi_] I'm very grateful to you for today. You shouldn't come tomorrow, it's going to be a weekend after all. I'llI'll write you when to come. Most probably on Monday."
-msgstr ""
+msgstr "[_hi_] Ti sono molto grato per oggi. Non dovresti venire domani, dopo tutto sarà un fine settimana. Ti scriverò quando venire. Molto probabilmente lunedì."
 
 # game/script.rpy:2500 #-#-# translate crowdin konecc_8d85771e:
 msgid "[_r_] Sure, till next time then! Have a nice evening."
@@ -1858,7 +1858,7 @@ msgstr "[_r_] Piacevole di aiutare!"
 
 # game/script.rpy:2722 #-#-# translate crowdin moki_ccbcb2e6:
 msgid "[_hi_] You know what... You're not in a hurry, are you?"
-msgstr ""
+msgstr "[_hi_] Sai una cosa... Non hai fretta, vero?"
 
 # game/script.rpy:2726 #-#-# translate crowdin moki_bbb53ed8:
 msgid "[_r_] No, I have a lot of free time."
@@ -2770,7 +2770,7 @@ msgstr "[_hima_] Io... Ho paura... può fare qualcosa di male ai miei amici..."
 
 # game/script.rpy:3869 #-#-# translate crowdin gogo_b7f38e20:
 msgid "[_r_] Don't be afraid, he's such a coward. I think he'll never bother you again."
-msgstr ""
+msgstr "[_r_] Non aver paura, è un tale codardo. Penso che non ti disturberà mai più."
 
 # game/script.rpy:3871 #-#-# translate crowdin gogo_877936a6:
 msgid "[_r_] You just need to fight him back."
@@ -3610,7 +3610,7 @@ msgstr "[_m_] lo adoro... finirò proprio in gola!"
 
 # game/script.rpy:4816 #-#-# translate crowdin bon5_138aa564:
 msgid "[_m_] FUCK! THERE IT IS!"
-msgstr ""
+msgstr "[_m_] FANCULO! ECCOLO!"
 
 # game/script.rpy:4818 #-#-# translate crowdin bon5_b2c04aa2:
 msgid "[_ay_] GHMM... MH! MMPH!"
@@ -3930,7 +3930,7 @@ msgstr "[_r_] Va bene, lo ottengo totalmente."
 
 # game/script.rpy:5295 #-#-# translate crowdin nugo5_9bcc16c3:
 msgid "[_hi_] Boruto couldn’t either, he's on a mission."
-msgstr ""
+msgstr "[_hi_] Nemmeno Boruto potrebbe, è in missione."
 
 # game/script.rpy:5300 #-#-# translate crowdin nugo5_e00ac0e6:
 msgid "[_r_] It’s okay, I’m sure the three of us will have fun."
@@ -4274,7 +4274,7 @@ msgstr "[_ay_] [viname]... A-alright..."
 
 # game/script.rpy:5711 #-#-# translate crowdin bun6_36de6ead:
 msgid "[_r_] I’ll come back sometime."
-msgstr ""
+msgstr "[_r_] Tornerò qualche volta."
 
 # game/script.rpy:5716 #-#-# translate crowdin bun6_853f5c89:
 msgid "[_ay_] Y-yeah... Goodbye..."
@@ -5010,7 +5010,7 @@ msgstr "[_r_] Certo, morirà rapidamente, ma ne sarò toccato per il resto di qu
 
 # game/script.rpy:6816 #-#-# translate crowdin burii_c2875095:
 msgid "[_hi_] Flowers are created for this, to bring pleasure!"
-msgstr ""
+msgstr "[_hi_] I fiori sono creati per questo, per portare piacere!"
 
 # game/script.rpy:6836 #-#-# translate crowdin moe_d4c835aa:
 msgid "[_ka_] Back at last! I've been waiting for your return for a long time!"
@@ -8834,7 +8834,7 @@ msgstr "[_naru_] Quel giorno io e te stavamo parlando a casa mia. Ad un certo pu
 
 # game/script.rpy:11612 #-#-# translate crowdin razobla1_a82ffce3:
 msgid "[_naru_] Kurama was able to figure out that it was due to the influence of an outside chakra. Sakura and several top medics examined me, and found a minuscule amount of chakra unknown to me."
-msgstr ""
+msgstr "[_naru_] Kurama riuscì a capire che ciò era dovuto all'influenza di un chakra esterno. Sakura e diversi medici di alto livello mi hanno esaminato e hanno trovato una minuscola quantità di chakra a me sconosciuta."
 
 # game/script.rpy:11614 #-#-# translate crowdin razobla1_db90ccc1:
 msgid "[_naru_] Thanks to the best searchers from the Yamanaka clan, we discovered quite a bit of the same chakra inside you, Ootsutsuki's chakra."
@@ -9578,7 +9578,7 @@ msgstr "[_r_] sto iniziando!"
 
 # game/script.rpy:12468 #-#-# translate crowdin analka_b0237530:
 msgid "[_ka_] FUCK! THAT’S IT!! HOW THE FUCK IT IS! COME ON! MORE THAN A POUND!"
-msgstr ""
+msgstr "[_ka_] FANCULO! QUESTO È TUTTO!! COME CAZZO È! DAI! PIÙ DI UNA LIBERA!"
 
 # game/script.rpy:12470 #-#-# translate crowdin analka_cadbcc81:
 msgid "[_m_] I fuck this crazy woman in the ass with all my strength, but it is not enough for her... I definitely will not equal with her perversity..."
@@ -9890,7 +9890,7 @@ msgstr "[_mira_] Mom!"
 
 # game/script.rpy:12928 #-#-# translate crowdin nerobla_c015d0af:
 msgid "[_mira_] Apparently not, went to the hot springs probably."
-msgstr ""
+msgstr "[_mira_] Apparentemente no, probabilmente è andato alle sorgenti termali."
 
 # game/script.rpy:12930 #-#-# translate crowdin nerobla_c7d8f897:
 msgid "[_m_] That's right, she lives with her mother, Kurenai."
@@ -11238,7 +11238,7 @@ msgstr "[_hi_] Buon giorno anche a voi, caro!"
 
 # game/script.rpy:14486 #-#-# translate crowdin miratut_f5ad307b:
 msgid "[_m_] Apparently Mirai was up to something."
-msgstr ""
+msgstr "[_m_] A quanto pare Mirai aveva in mente qualcosa."
 
 # game/script.rpy:14488 #-#-# translate crowdin miratut_26d4c794:
 msgid "[_r_] Let me go to the bathroom, a little twisted stomach..."
@@ -11370,7 +11370,7 @@ msgstr "[_m_] O vai a dormire..."
 
 # game/script.rpy:14641 #-#-# translate crowdin jijiki_e92fdc5f:
 msgid "[_m_] Fuck it, I’m just going to sleep."
-msgstr ""
+msgstr "[_m_] Fanculo, vado a dormire e basta."
 
 # game/script.rpy:14645 #-#-# translate crowdin jijiki_58ad672e:
 msgid "[_ka_] [viname] Come here."
@@ -11978,7 +11978,7 @@ msgstr "[_r_] è cambiato. Pensi che il vecchio Naruto lo farebbe a te?"
 
 # game/script.rpy:15339 #-#-# translate crowdin bomb1_fbd23f79:
 msgid "[_r_] He is not worthy of you."
-msgstr ""
+msgstr "[_r_] Non è degno di te."
 
 # game/script.rpy:15343 #-#-# translate crowdin bomb1_7b890b92:
 msgid "[_hi_] I... I don't... That's... Why... Naruto..."
@@ -13890,7 +13890,7 @@ msgstr "[_hi_] Cosa devo fare...?"
 
 # game/script.rpy:17739 #-#-# translate crowdin uramizdohli_6c0e5480:
 msgid "[_hi_] I'm... I'm so tired, so tired of trying for this relationship..."
-msgstr ""
+msgstr "[_hi_] Sono... sono così stanco, così stanco di tentare questa relazione..."
 
 # game/script.rpy:17743 #-#-# translate crowdin uramizdohli_b235f3d1:
 msgid "[_r_] When was the last time you talked to Naruto?"
