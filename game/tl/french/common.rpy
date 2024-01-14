@@ -85,9 +85,9 @@ translate french strings:
     old "Enable"
     new "Active"
 
-    # renpy/common/00accessibility.rpy:186
-    old "Disable"
-    new "Désactivé"
+    # # renpy/common/00accessibility.rpy:186
+    # old "Disable"
+    # new "Désactivé"
 
     # renpy/common/00accessibility.rpy:193
     old "Self-Voicing"
@@ -117,9 +117,9 @@ translate french strings:
     old "The options on this menu are intended to improve accessibility. They may not work with all games, and some combinations of options may render the game unplayable. This is not an issue with the game or engine. For the best results when changing fonts, try to keep the text size the same as it originally was."
     new "Les options de ce menu ont pour objectif d'augmenter l'accessibilité. Elles peuvent ne pas fonctionner sur tous les jeux, et certaines combinations d'options peuvent rendre le jeu injouable. Le problème ne vient pas du jeu ou du moteur. Pour de meilleurs résultats en changeant la police, essayez de maintenir le texte de la même taille qu'avant."
 
-    # renpy/common/00accessibility.rpy:229
-    old "Return"
-    new "Retour"
+    # # renpy/common/00accessibility.rpy:229
+    # old "Return"
+    # new "Retour"
 
     # renpy/common/00action_file.rpy:26
     old "{#weekday}Monday"
@@ -301,17 +301,17 @@ translate french strings:
     old "File page [text]"
     new "Page [text]"
 
-    # renpy/common/00action_file.rpy:639
-    old "Page {}"
-    new "Page {}"
+    # # renpy/common/00action_file.rpy:639
+    # old "Page {}"
+    # new "Page {}"
 
-    # renpy/common/00action_file.rpy:639
-    old "Automatic saves"
-    new "Sauvegardes automatiques"
+    # # renpy/common/00action_file.rpy:639
+    # old "Automatic saves"
+    # new "Sauvegardes automatiques"
 
-    # renpy/common/00action_file.rpy:639
-    old "Quick saves"
-    new "Sauvegardes rapides"
+    # # renpy/common/00action_file.rpy:639
+    # old "Quick saves"
+    # new "Sauvegardes rapides"
 
     # renpy/common/00action_file.rpy:780
     old "Next file page."
@@ -781,9 +781,9 @@ translate french strings:
     old "Proceed"
     new "Continuer"
 
-    # renpy/common/00compat.rpy:371
-    old "Fullscreen"
-    new "Plein écran"
+    # # renpy/common/00compat.rpy:371
+    # old "Fullscreen"
+    # new "Plein écran"
 
     # renpy/common/00gallery.rpy:627
     old "Image [index] of [count] locked."
@@ -801,9 +801,9 @@ translate french strings:
     old "slideshow"
     new "diaporama"
 
-    # renpy/common/00gallery.rpy:650
-    old "return"
-    new "retour"
+    # # renpy/common/00gallery.rpy:650
+    # old "Return"
+    # new "retour"
 
     # renpy/common/00gltest.rpy:89
     old "Renderer"
@@ -837,17 +837,17 @@ translate french strings:
     old "Force GLES2 Renderer"
     new "Forcer le moteur de rendu GLES2"
 
-    # renpy/common/00gltest.rpy:132
-    old "Gamepad"
-    new "Manette"
+    # # renpy/common/00gltest.rpy:132
+    # old "Gamepad"
+    # new "Manette"
 
     # renpy/common/00gltest.rpy:136
     old "Enable (No Blocklist)"
     new "Activer (Sans Blocklist)"
 
-    # renpy/common/00gltest.rpy:150
-    old "Calibrate"
-    new "Calibrage"
+    # # renpy/common/00gltest.rpy:150
+    # old "Calibrate"
+    # new "Calibrage"
 
     # renpy/common/00gltest.rpy:159
     old "Powersave"
@@ -877,9 +877,9 @@ translate french strings:
     old "Changes will take effect the next time this program is run."
     new "Les changements prendront effet au prochain démarrage du programme."
 
-    # renpy/common/00gltest.rpy:214
-    old "Quit"
-    new "Quitter"
+    # # renpy/common/00gltest.rpy:214
+    # old "Quit"
+    # new "Quitter"
 
     # renpy/common/00gltest.rpy:242
     old "Performance Warning"
