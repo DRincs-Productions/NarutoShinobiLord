@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-12-12 19:33\n"
+"PO-Revision-Date: 2024-01-23 13:07\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/sakuracan.rpy:16 #-#-# translate crowdin sakuracan_62efc2f4:
 msgid "[_k_] Come back again."
@@ -1166,7 +1166,7 @@ msgstr ""
 
 # game/sakuracan.rpy:1174 #-#-# translate crowdin opasks1_b2347401:
 msgid "[_m_] What..."
-msgstr ""
+msgstr "[_m_] Quoi..."
 
 # game/sakuracan.rpy:1185 #-#-# translate crowdin opasks1_6bef5efd:
 msgid "[_su_] I thought you would run away..."
@@ -1182,7 +1182,7 @@ msgstr ""
 
 # game/sakuracan.rpy:1198 #-#-# translate crowdin opasks1_3c8e055f:
 msgid "[_m_] I..."
-msgstr ""
+msgstr "[_m_] Je..."
 
 # game/sakuracan.rpy:1199 #-#-# translate crowdin opasks1_2cd8dfd0:
 msgid "[_m_] It happened again..."
