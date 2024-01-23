@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2023-12-12 19:33\n"
+"PO-Revision-Date: 2024-01-23 13:07\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -10702,7 +10702,7 @@ msgstr ""
 
 # game/script.rpy:13824 #-#-# translate crowdin niono_3c8e055f:
 msgid "[_m_] I..."
-msgstr ""
+msgstr "[_m_] Je..."
 
 # game/script.rpy:13826 #-#-# translate crowdin niono_4ecb85c3:
 msgid "[_m_] This emotion is too strong..."
@@ -15598,7 +15598,7 @@ msgstr ""
 
 # game/script.rpy:19608 #-#-# translate crowdin doroaos_49309409:
 msgid "[_m_] What the..."
-msgstr ""
+msgstr "[_m_] Qu'est-ce que..."
 
 # game/script.rpy:19610 #-#-# translate crowdin doroaos_ed802644:
 msgid "[_m_] Was Hinata always this bold?"
@@ -16470,7 +16470,7 @@ msgstr ""
 
 # game/script.rpy:12397
 msgid "Inside"
-msgstr ""
+msgstr "A l'intérieur"
 
 # game/script.rpy:12413
 msgid "Don’t even ask, get your ass ready! (Patrons only)"
