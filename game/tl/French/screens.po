@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-01-23 13:07\n"
+"PO-Revision-Date: 2024-01-23 15:01\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:903
 msgid "Back"
@@ -58,7 +58,7 @@ msgstr "Charger"
 
 # game/screens.rpy:966
 msgid "Galery"
-msgstr ""
+msgstr "Galery"
 
 # game/screens.rpy:968
 msgid "Preferences"
@@ -120,7 +120,7 @@ msgstr "Emplacement vide"
 
 # game/screens.rpy:1666
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/screens.rpy:1669
 msgid "{#auto_page}A"
@@ -132,7 +132,7 @@ msgstr "{#quick_page}Q"
 
 # game/screens.rpy:1678
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/screens.rpy:1735
 msgid "Display"
@@ -300,7 +300,7 @@ msgstr "Active/désactive l'assistance {a=https://www.renpy.org/l/voicing}voix a
 
 # game/screens.rpy:2059
 msgid "Opens the accessibility menu."
-msgstr ""
+msgstr "Ouvre le menu d'accessibilité."
 
 # game/screens.rpy:2065
 msgid "Left Click"
