@@ -10,27 +10,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-01-24 14:31\n"
+"PO-Revision-Date: 2024-01-24 15:52\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/trainroom1.rpy:115 #-#-# translate crowdin roomhand1s_20e36cd1:
 msgid "[_r_] That's it Hinata, don't rush, just get a feel of my cock with your hands."
-msgstr ""
+msgstr "[_r_] 就是Hinata，不要偷走，只要你的手就能感觉到我的鸡。"
 
 # game/trainroom1.rpy:116 #-#-# translate crowdin roomhand1s_bfdc32ca:
 msgid "[_r_] Breathe in the scent, resist the urge."
-msgstr ""
+msgstr "[_r_] 沙子里的呼吸，抗拒尿液。"
 
 # game/trainroom1.rpy:118 #-#-# translate crowdin roomhand1s_8e51a226:
 msgid "[_hi_] It looks so... Tasty... Makes me want to jump on it and..."
-msgstr ""
+msgstr "[_hi_] 看起来是这样……任务……让我想跳上它，然后……"
 
 # game/trainroom1.rpy:120 #-#-# translate crowdin roomhand1s_5885b5c5:
 msgid "[_r_] Your desires in this room are unimportant. You must become an obedient girl who does what her master tells her to."
-msgstr ""
+msgstr "[_r_] 你在这个房间里的愿望是不重要的。你必须成为一个顺从的女孩，她的主告诉她。"
 
 # game/trainroom1.rpy:121 #-#-# translate crowdin roomhand1s_13f8c764:
 msgid "[_r_] Think of all the things you'd like to do to me now..."
-msgstr ""
+msgstr "[_r_] 现在想想想你想要做的所有东西..."
 
 # game/trainroom1.rpy:123 #-#-# translate crowdin roomhand1s_cfb4ec85:
 msgid "[_hi_] Y-yes... There’s a lot I want... Rough... Long..."
@@ -38,43 +38,43 @@ msgstr ""
 
 # game/trainroom1.rpy:125 #-#-# translate crowdin roomhand1s_be129e49:
 msgid "[_r_] Whatever you think of, this room will be even tougher, more pleasant and more diverse than you could ever imagine."
-msgstr ""
+msgstr "[_r_] 无论你认为什么，本会议室都会比你想象的更坚硬、更愉快和更多样化。"
 
 # game/trainroom1.rpy:126 #-#-# translate crowdin roomhand1s_384da815:
 msgid "[_r_] All you have to do is obey and perform."
-msgstr ""
+msgstr "[_r_] 您必须做的都是服从和表演。"
 
 # game/trainroom1.rpy:130 #-#-# translate crowdin roomhand1s_100b2a0e:
 msgid "[_hi_] O-obey... Perform..."
-msgstr ""
+msgstr "[_hi_] O-obey..."
 
 # game/trainroom1.rpy:132 #-#-# translate crowdin roomhand1s_693ed383:
 msgid "[_r_] Jerk that cock with all the love and obedience you have."
-msgstr ""
+msgstr "[_r_] 以你所有的爱和顺从的杰尔。"
 
 # game/trainroom1.rpy:134 #-#-# translate crowdin roomhand1s_76f85df2:
 msgid "[_hi_] D-Do you like this...?"
-msgstr ""
+msgstr "[_hi_] D-你喜欢这么...？"
 
 # game/trainroom1.rpy:136 #-#-# translate crowdin roomhand1s_d412c5a1:
 msgid "[_r_] Do you like it, Master?. Say it more respectfully."
-msgstr ""
+msgstr "[_r_] 你喜欢它，大师？更恭敬地说它。"
 
 # game/trainroom1.rpy:140 #-#-# translate crowdin roomhand1s_e9c8b579:
 msgid "[_hi_] Do you like it, master...?"
-msgstr ""
+msgstr "[_hi_] 你喜欢它，主人...？"
 
 # game/trainroom1.rpy:142 #-#-# translate crowdin roomhand1s_932b448f:
 msgid "[_r_] Yeah... Don't stop, I'll cum all over your lustful face!"
-msgstr ""
+msgstr "[_r_] 是……不要停下来，我会在你的好人脸上一直闪亮！"
 
 # game/trainroom1.rpy:143 #-#-# translate crowdin roomhand1s_cbf3c0af:
 msgid "[_r_] That's it! Close your eyes!"
-msgstr ""
+msgstr "[_r_] 就是这样！关闭你的眼睛！"
 
 # game/trainroom1.rpy:157 #-#-# translate crowdin cumhands1s_f6b68a39:
 msgid "[_r_] W-well... Great job, Hinata."
-msgstr ""
+msgstr "[_r_] 好吧... 干得好，黑纳塔。"
 
 # game/trainroom1.rpy:168 #-#-# translate crowdin roomhand2s_b2d5009e:
 msgid "[_r_] You're so lucky, Hinata."
@@ -82,59 +82,59 @@ msgstr ""
 
 # game/trainroom1.rpy:169 #-#-# translate crowdin roomhand2s_5dd17de2:
 msgid "[_r_] Your breasts are just perfect, so juicy and squishy."
-msgstr ""
+msgstr "[_r_] 你的乳房不过是完美的，既喜欢又疯狂。"
 
 # game/trainroom1.rpy:170 #-#-# translate crowdin roomhand2s_86812df4:
 msgid "[_r_] The perfect tool to satisfy my needs."
-msgstr ""
+msgstr "[_r_] 是满足我需要的完美工具。"
 
 # game/trainroom1.rpy:172 #-#-# translate crowdin roomhand2s_97a1b8ce:
 msgid "[_hi_] You always look at my breasts like that, master..."
-msgstr ""
+msgstr "[_hi_] 你总是看着我的乳房，大师..."
 
 # game/trainroom1.rpy:173 #-#-# translate crowdin roomhand2s_0dcf7888:
 msgid "[_hi_] Are they really that special?"
-msgstr ""
+msgstr "[_hi_] 他们真的是特殊吗？"
 
 # game/trainroom1.rpy:177 #-#-# translate crowdin roomhand2s_4c978885:
 msgid "[_r_] Yeah... Feeling my dick sliding between your soft and perky boobs is unbelievable..."
-msgstr ""
+msgstr "[_r_] 是……感觉我的口令在你的柔性和perky boob之间滑动是难以置信的..."
 
 # game/trainroom1.rpy:179 #-#-# translate crowdin roomhand2s_5d40aac4:
 msgid "[_hi_] I'm glad my master likes it so much..."
-msgstr ""
+msgstr "[_hi_] 我很高兴我的大师很喜欢它..."
 
 # game/trainroom1.rpy:181 #-#-# translate crowdin roomhand2s_766c922f:
 msgid "[_r_] And I’m glad that you're getting used to calling me like that in this room."
-msgstr ""
+msgstr "[_r_] 我很高兴你习惯于在这个会议厅里打电话给我。"
 
 # game/trainroom1.rpy:183 #-#-# translate crowdin roomhand2s_b8c3d2c2:
 msgid "[_hi_] I'm trying..."
-msgstr ""
+msgstr "[_hi_] 我正在尝试..."
 
 # game/trainroom1.rpy:187 #-#-# translate crowdin roomhand2s_10681b16:
 msgid "[_r_] Just a little more Hinata, now I'm going to cover your tits in cum, is that what you want?"
-msgstr ""
+msgstr "[_r_] 只要再多一点Hinata，我现在要把你的小贴士加在一起吧，你想要的是吗？"
 
 # game/trainroom1.rpy:189 #-#-# translate crowdin roomhand2s_8f431037:
 msgid "[_hi_] Y-yes master... Do it!"
-msgstr ""
+msgstr "[_hi_] Y-yes 主人... 执行！"
 
 # game/trainroom1.rpy:204 #-#-# translate crowdin cumtitis1s_dd0ebbf0:
 msgid "[_r_] Wow, Hinata... That was fucking awesome..."
-msgstr ""
+msgstr "[_r_] Wow，Hinata... 这正在令人惊叹..."
 
 # game/trainroom1.rpy:260 #-#-# translate crowdin fullminety_a8a7b8ad:
 msgid "[_r_] That's right, Hinata... Take your time."
-msgstr ""
+msgstr "[_r_] 正确，Hinata... 占用您的时间。"
 
 # game/trainroom1.rpy:261 #-#-# translate crowdin fullminety_5ae97715:
 msgid "[_r_] Taste my dick properly..."
-msgstr ""
+msgstr "[_r_] 正确调试我的口典..."
 
 # game/trainroom1.rpy:262 #-#-# translate crowdin fullminety_ccbe98f5:
 msgid "[_r_] I love looking down at you... Seeing you suck so passionately..."
-msgstr ""
+msgstr "[_r_] 我喜欢看你……看看你这么热情的吸着……"
 
 # game/trainroom1.rpy:266 #-#-# translate crowdin fullminety_6b82ddb1:
 msgid "[_r_] Mmm... Yes... Move your head faster..."
@@ -142,11 +142,11 @@ msgstr ""
 
 # game/trainroom1.rpy:267 #-#-# translate crowdin fullminety_790b2b05:
 msgid "[_r_] I can almost reach the back of your throat..."
-msgstr ""
+msgstr "[_r_] 我几乎可以到达你的背部..."
 
 # game/trainroom1.rpy:268 #-#-# translate crowdin fullminety_33f45a6e:
 msgid "[_r_] Let's take it further, Hinata! I want you to choke on my dick!"
-msgstr ""
+msgstr "[_r_] 让我们进一步把它拖下去，Hinata！我想让你把我的口径停下来！"
 
 # game/trainroom1.rpy:272 #-#-# translate crowdin fullminety_6d8bfdaa:
 msgid "[_r_] YES! Swallow!"
@@ -162,19 +162,19 @@ msgstr ""
 
 # game/trainroom1.rpy:284 #-#-# translate crowdin cumminore_d18960db:
 msgid "[_r_] Good girl..."
-msgstr ""
+msgstr "[_r_] 好女孩..."
 
 # game/trainroom1.rpy:342 #-#-# translate crowdin hinatapipisa_6563baf1:
 msgid "[_r_] Yes, lie like this. Relax... I'll start slowly..."
-msgstr ""
+msgstr "[_r_] 是的，好像。放松... 我会慢慢开始..."
 
 # game/trainroom1.rpy:343 #-#-# translate crowdin hinatapipisa_62d402c4:
 msgid "[_r_] Just have fun, got it?"
-msgstr ""
+msgstr "[_r_] 只是有趣的，好吗？"
 
 # game/trainroom1.rpy:344 #-#-# translate crowdin hinatapipisa_14042554:
 msgid "[_hi_] Uh-huh..."
-msgstr ""
+msgstr "[_hi_] Uh-huh..."
 
 # game/trainroom1.rpy:348 #-#-# translate crowdin hinatapipisa_2d39a1d3:
 msgid "[_r_] I'll speed up a bit. You're so wet..."
@@ -182,15 +182,15 @@ msgstr ""
 
 # game/trainroom1.rpy:349 #-#-# translate crowdin hinatapipisa_9f9532e6:
 msgid "[_r_] My fingers slid inside you without resistance."
-msgstr ""
+msgstr "[_r_] 我的手指在没有抵抗的情况下滑动到你内部。"
 
 # game/trainroom1.rpy:350 #-#-# translate crowdin hinatapipisa_04af1965:
 msgid "[_r_] That's it... Moan from my fingers, Hinata..."
-msgstr ""
+msgstr "[_r_] 就是这样... 来自我的手指、Hinata的月球..."
 
 # game/trainroom1.rpy:354 #-#-# translate crowdin hinatapipisa_03cc7d02:
 msgid "[_r_] What a tight pussy..."
-msgstr ""
+msgstr "[_r_] 是什么紧凑的推力..."
 
 # game/trainroom1.rpy:355 #-#-# translate crowdin hinatapipisa_28414821:
 msgid "[_r_] You're leaking so much!"
@@ -198,15 +198,15 @@ msgstr ""
 
 # game/trainroom1.rpy:356 #-#-# translate crowdin hinatapipisa_8e8279fe:
 msgid "[_r_] I love the expression you’re making right now!"
-msgstr ""
+msgstr "[_r_] 我喜欢您现在正在制作的表达式！"
 
 # game/trainroom1.rpy:366 #-#-# translate crowdin cumotruk_a960d4d2:
 msgid "[_hi_] I'm cumming! I'm cumming! I'm cumming!"
-msgstr ""
+msgstr "[_hi_] 我累积了！我累积了！我累积了！"
 
 # game/trainroom1.rpy:367 #-#-# translate crowdin cumotruk_ab66c75b:
 msgid "[_r_] Great... Get some rest..."
-msgstr ""
+msgstr "[_r_] 太好了... 得到一些剩余..."
 
 # game/trainroom1.rpy:423 #-#-# translate crowdin hinatalizuka_b98e7c1a:
 msgid "[_r_] Look at you, you're so horny..."
@@ -214,31 +214,31 @@ msgstr ""
 
 # game/trainroom1.rpy:424 #-#-# translate crowdin hinatalizuka_e0ee706e:
 msgid "[_r_] You like this dick, don’t you?"
-msgstr ""
+msgstr "[_r_] 你喜欢这个狗，不要你吗？"
 
 # game/trainroom1.rpy:425 #-#-# translate crowdin hinatalizuka_3a9e3ed0:
 msgid "[_hi_] Yes..."
-msgstr ""
+msgstr "[_hi_] 是..."
 
 # game/trainroom1.rpy:429 #-#-# translate crowdin hinatalizuka_5e4ad3ad:
 msgid "[_r_] Fuck... How nice..."
-msgstr ""
+msgstr "[_r_] 跳跃... 好坏程度..."
 
 # game/trainroom1.rpy:430 #-#-# translate crowdin hinatalizuka_4e4e3027:
 msgid "[_r_] Your hand and tongue..."
-msgstr ""
+msgstr "[_r_] 你的手和语音..."
 
 # game/trainroom1.rpy:431 #-#-# translate crowdin hinatalizuka_80656ffb:
 msgid "[_r_] Keep going it's very arousing..."
-msgstr ""
+msgstr "[_r_] 仍然很激动..."
 
 # game/trainroom1.rpy:435 #-#-# translate crowdin hinatalizuka_264705d7:
 msgid "[_r_] Y-yes! Damn, you're good at this..."
-msgstr ""
+msgstr "[_r_] Y-yes! Damn, 你很好..."
 
 # game/trainroom1.rpy:436 #-#-# translate crowdin hinatalizuka_a158b86b:
 msgid "[_r_] Don't stop!"
-msgstr ""
+msgstr "[_r_] 不要停止!"
 
 # game/trainroom1.rpy:437 #-#-# translate crowdin hinatalizuka_cb6d4f1d:
 msgid "[_r_] I'll cum any second now!"
@@ -246,9 +246,9 @@ msgstr ""
 
 # game/trainroom1.rpy:447 #-#-# translate crowdin cumoros_49dcf0a6:
 msgid "[_r_] Mmmm... A load of thick cum on your lustful face..."
-msgstr ""
+msgstr "[_r_] Mmmm……你的发光面上有厚的厘米..."
 
 # game/trainroom1.rpy:448 #-#-# translate crowdin cumoros_d18960db:
 msgid "[_r_] Good girl..."
-msgstr ""
+msgstr "[_r_] 好女孩..."
 
