@@ -1,0 +1,374 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: naruto-shinobi-lord\n"
+"X-Crowdin-Project-ID: 633788\n"
+"X-Crowdin-Language: ja\n"
+"X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 12758\n"
+"Project-Id-Version: naruto-shinobi-lord\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Japanese\n"
+"Language: ja_JP\n"
+"PO-Revision-Date: 2024-01-24 14:31\n"
+
+# TODO: Translation updated at 2023-12-08 11:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:903
+msgid "Back"
+msgstr "戻る"
+
+# game/screens.rpy:904
+msgid "History"
+msgstr "沿革"
+
+# game/screens.rpy:905
+msgid "Skip"
+msgstr "スキップ"
+
+# game/screens.rpy:906
+msgid "Auto"
+msgstr "自動"
+
+# game/screens.rpy:907
+msgid "Save"
+msgstr "保存"
+
+# game/screens.rpy:908
+msgid "Q.Save"
+msgstr "Q.Save"
+
+# game/screens.rpy:909
+msgid "Q.Load"
+msgstr "Q.Load"
+
+# game/screens.rpy:910
+msgid "Prefs"
+msgstr "設定"
+
+# game/screens.rpy:911
+msgid "Hide"
+msgstr "非表示"
+
+# game/screens.rpy:956
+msgid "Start"
+msgstr "開始"
+
+# game/screens.rpy:964
+msgid "Load"
+msgstr "読み込み"
+
+# game/screens.rpy:966
+msgid "Galery"
+msgstr "Galery"
+
+# game/screens.rpy:968
+msgid "Preferences"
+msgstr "設定"
+
+# game/screens.rpy:972
+msgid "End Replay"
+msgstr "リプレイを終了"
+
+# game/screens.rpy:976
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+# game/screens.rpy:978
+msgid "About"
+msgstr "About"
+
+# game/screens.rpy:983
+msgid "Help"
+msgstr "ヘルプ"
+
+# game/screens.rpy:989
+msgid "Quit"
+msgstr "終了"
+
+# game/screens.rpy:1479
+msgid "Return"
+msgstr "Return"
+
+# game/screens.rpy:1564
+msgid "Version [config.version!t]\n"
+msgstr "Version [config.version!t]\n"
+
+# game/screens.rpy:1570
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr "{a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]で作成しました。\n\n"
+"[renpy.license!t]"
+
+# game/screens.rpy:1606
+msgid "Page {}"
+msgstr "ページ {}"
+
+# game/screens.rpy:1606
+msgid "Automatic saves"
+msgstr "自動保存"
+
+# game/screens.rpy:1606
+msgid "Quick saves"
+msgstr "クイックセーブデータ"
+
+# game/screens.rpy:1649
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr "{#file_time}%A %B %d %Y, %H:%M"
+
+# game/screens.rpy:1649
+msgid "empty slot"
+msgstr "空のスロット"
+
+# game/screens.rpy:1666
+msgid "<"
+msgstr "<"
+
+# game/screens.rpy:1669
+msgid "{#auto_page}A"
+msgstr "{#auto_page}A"
+
+# game/screens.rpy:1672
+msgid "{#quick_page}Q"
+msgstr "{#quick_page}Q"
+
+# game/screens.rpy:1678
+msgid ">"
+msgstr ">"
+
+# game/screens.rpy:1735
+msgid "Display"
+msgstr "表示"
+
+# game/screens.rpy:1736
+msgid "Window"
+msgstr "ウィンドウ"
+
+# game/screens.rpy:1737
+msgid "Fullscreen"
+msgstr "全画面"
+
+# game/screens.rpy:1741
+msgid "Rollback Side"
+msgstr "ロールバックサイド"
+
+# game/screens.rpy:1742
+msgid "Disable"
+msgstr "無効"
+
+# game/screens.rpy:1743
+msgid "Left"
+msgstr "左"
+
+# game/screens.rpy:1744
+msgid "Right"
+msgstr "右"
+
+# game/screens.rpy:1749
+msgid "Unseen Text"
+msgstr "Unseen Text"
+
+# game/screens.rpy:1750
+msgid "After Choices"
+msgstr "選択の後"
+
+# game/screens.rpy:1751
+msgid "Transitions"
+msgstr "トランジション"
+
+# game/screens.rpy:1764
+msgid "Text Speed"
+msgstr "テキストの速度"
+
+# game/screens.rpy:1768
+msgid "Auto-Forward Time"
+msgstr "自動転送時間"
+
+# game/screens.rpy:1775
+msgid "Music Volume"
+msgstr "音楽の音量"
+
+# game/screens.rpy:1782
+msgid "Sound Volume"
+msgstr "音の音量"
+
+# game/screens.rpy:1788
+msgid "Test"
+msgstr "テスト"
+
+# game/screens.rpy:1792
+msgid "Voice Volume"
+msgstr "音声音量"
+
+# game/screens.rpy:1803
+msgid "Mute All"
+msgstr "すべてミュート"
+
+# game/screens.rpy:1809
+msgid "Language"
+msgstr "言語"
+
+# game/screens.rpy:1927
+msgid "The dialogue history is empty."
+msgstr "ダイアログの履歴は空です。"
+
+# game/screens.rpy:1997
+msgid "Keyboard"
+msgstr "Keyboard"
+
+# game/screens.rpy:1998
+msgid "Mouse"
+msgstr "マウス"
+
+# game/screens.rpy:2001
+msgid "Gamepad"
+msgstr "ゲームパッド"
+
+# game/screens.rpy:2014
+msgid "Enter"
+msgstr "Enter"
+
+# game/screens.rpy:2015
+msgid "Advances dialogue and activates the interface."
+msgstr "ダイアログが進み、インターフェイスがアクティブになります。"
+
+# game/screens.rpy:2018
+msgid "Space"
+msgstr "スペース"
+
+# game/screens.rpy:2019
+msgid "Advances dialogue without selecting choices."
+msgstr "選択肢を選択せずにダイアログを進めます。"
+
+# game/screens.rpy:2022
+msgid "Arrow Keys"
+msgstr "矢印キー"
+
+# game/screens.rpy:2023
+msgid "Navigate the interface."
+msgstr "インターフェースをナビゲートします。"
+
+# game/screens.rpy:2026
+msgid "Escape"
+msgstr "エスケープ"
+
+# game/screens.rpy:2027
+msgid "Accesses the game menu."
+msgstr "ゲームメニューにアクセスします。"
+
+# game/screens.rpy:2030
+msgid "Ctrl"
+msgstr "(Ctrl)"
+
+# game/screens.rpy:2031
+msgid "Skips dialogue while held down."
+msgstr "保留中にダイアログをスキップします。"
+
+# game/screens.rpy:2034
+msgid "Tab"
+msgstr "Tab"
+
+# game/screens.rpy:2035
+msgid "Toggles dialogue skipping."
+msgstr "ダイアログのスキップを切り替えます。"
+
+# game/screens.rpy:2038
+msgid "Page Up"
+msgstr "Page Up"
+
+# game/screens.rpy:2039
+msgid "Rolls back to earlier dialogue."
+msgstr "前のダイアログに戻します。"
+
+# game/screens.rpy:2042
+msgid "Page Down"
+msgstr "Page Down"
+
+# game/screens.rpy:2043
+msgid "Rolls forward to later dialogue."
+msgstr "後の対話に転送ロール。"
+
+# game/screens.rpy:2047
+msgid "Hides the user interface."
+msgstr "ユーザーインターフェイスを隠します。"
+
+# game/screens.rpy:2051
+msgid "Takes a screenshot."
+msgstr "スクリーンショットを撮影します。"
+
+# game/screens.rpy:2055
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr "Assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}を切り替えます。"
+
+# game/screens.rpy:2059
+msgid "Opens the accessibility menu."
+msgstr "ユーザー補助メニューを開きます。"
+
+# game/screens.rpy:2065
+msgid "Left Click"
+msgstr "左クリック"
+
+# game/screens.rpy:2069
+msgid "Middle Click"
+msgstr "中央クリック"
+
+# game/screens.rpy:2073
+msgid "Right Click"
+msgstr "右クリック"
+
+# game/screens.rpy:2077
+msgid "Mouse Wheel Up\n"
+"Click Rollback Side"
+msgstr "マウスホイールアップ\n"
+"ロールバックサイドをクリックしてください"
+
+# game/screens.rpy:2081
+msgid "Mouse Wheel Down"
+msgstr "マウスホイールダウン"
+
+# game/screens.rpy:2088
+msgid "Right Trigger\n"
+"A/Bottom Button"
+msgstr "右トリガー\n"
+"A/下ボタン"
+
+# game/screens.rpy:2092
+msgid "Left Trigger\n"
+"Left Shoulder"
+msgstr "左トリガー\n"
+"左ショルダー"
+
+# game/screens.rpy:2096
+msgid "Right Shoulder"
+msgstr "Right Shoulder"
+
+# game/screens.rpy:2101
+msgid "D-Pad, Sticks"
+msgstr "D-パッド、スティック"
+
+# game/screens.rpy:2105
+msgid "Start, Guide"
+msgstr "開始、ガイド"
+
+# game/screens.rpy:2109
+msgid "Y/Top Button"
+msgstr "Y/上ボタン"
+
+# game/screens.rpy:2112
+msgid "Calibrate"
+msgstr "Calibrate"
+
+# game/screens.rpy:2177
+msgid "Yes"
+msgstr "はい"
+
+# game/screens.rpy:2178
+msgid "No"
+msgstr "いいえ"
+
+# game/screens.rpy:2224
+msgid "Skipping"
+msgstr "スキップ"
+
+# game/screens.rpy:2447
+msgid "Menu"
+msgstr "メニュー"
+
