@@ -10,51 +10,51 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-01-24 15:51\n"
+"PO-Revision-Date: 2024-01-25 21:47\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/sakuracan.rpy:16 #-#-# translate crowdin sakuracan_62efc2f4:
 msgid "[_k_] Come back again."
-msgstr "[_k_] 再次回来。"
+msgstr ""
 
 # game/sakuracan.rpy:17 #-#-# translate crowdin sakuracan_759d7d1d:
 msgid "[_k_] And again..."
-msgstr "[_k_] 并再次..."
+msgstr ""
 
 # game/sakuracan.rpy:18 #-#-# translate crowdin sakuracan_16d3316c:
 msgid "[_k_] Into a web of choices and events."
-msgstr "[_k_] 进入一个选择和活动网络。"
+msgstr ""
 
 # game/sakuracan.rpy:27 #-#-# translate crowdin sakuracan_5180c803:
 msgid "[_k_] Time is a big web, a huge chain of endless events."
-msgstr "[_k_] 时间是一个大的网，是一连串无止境的事件。"
+msgstr ""
 
 # game/sakuracan.rpy:28 #-#-# translate crowdin sakuracan_31355f72:
 msgid "[_k_] And your only purpose..."
-msgstr "[_k_] 和你唯一的目的..."
+msgstr ""
 
 # game/sakuracan.rpy:29 #-#-# translate crowdin sakuracan_0c757210:
 msgid "[_k_] Is to not get tangled."
-msgstr "[_k_] 不会被调用."
+msgstr ""
 
 # game/sakuracan.rpy:39 #-#-# translate crowdin sakuracan_26fe14ec:
 msgid "[_m_] Wh-what the..."
-msgstr "[_m_] 是什么..."
+msgstr ""
 
 # game/sakuracan.rpy:40 #-#-# translate crowdin sakuracan_f170a651:
 msgid "[_m_] Stupid nightmares..."
-msgstr "[_m_] 填充恶梦..."
+msgstr ""
 
 # game/sakuracan.rpy:41 #-#-# translate crowdin sakuracan_3f65e0f3:
 msgid "[_m_] This one was even weirder than the one with Kamiko..."
-msgstr "[_m_] 这个人甚至比Kamiko的人更厌倦了..."
+msgstr ""
 
 # game/sakuracan.rpy:42 #-#-# translate crowdin sakuracan_112b9998:
 msgid "[_m_] Damn it, time to get ready for a new day."
-msgstr "[_m_] 破坏了，是时候准备好了新的一天。"
+msgstr ""
 
 # game/sakuracan.rpy:50 #-#-# translate crowdin sakuracan_26f6db11:
 msgid "[_ka_] Good morning, you look worried. Is something wrong?"
-msgstr "[_ka_] 早晨，你看起来很担心。有什么问题？"
+msgstr ""
 
 # game/sakuracan.rpy:51 #-#-# translate crowdin sakuracan_7e87265b:
 msgid "[_ka_] Ah forget it, you need to prepare to subdue Sakura."
@@ -62,43 +62,43 @@ msgstr ""
 
 # game/sakuracan.rpy:56 #-#-# translate crowdin sakuracan_01463c35:
 msgid "[_ka_] Or have you chosen to delay it?"
-msgstr "[_ka_] 或者您是否选择推迟？"
+msgstr ""
 
 # game/sakuracan.rpy:57 #-#-# translate crowdin sakuracan_c16a09f9:
 msgid "[_ka_] You sat in the love room for a long while yesterday."
-msgstr "[_ka_] 昨天你在爱情室里坐了很长时间。"
+msgstr ""
 
 # game/sakuracan.rpy:62 #-#-# translate crowdin sakuracan_7dc1c90c:
 msgid "[_r_] Yeah... You know, I figured it'd be best to act right away, without stupid workarounds."
-msgstr "[_r_] 是……你知道，我认为它最好马上行动，而不是愚蠢的工作。"
+msgstr ""
 
 # game/sakuracan.rpy:63 #-#-# translate crowdin sakuracan_0f5b86bc:
 msgid "[_r_] The sooner I subdue Sakura, the sooner I can enjoy life, right?"
-msgstr "[_r_] 越早解冻Sakura，我就能越早享受生命，对吗？"
+msgstr ""
 
 # game/sakuracan.rpy:68 #-#-# translate crowdin sakuracan_9327fc9d:
 msgid "[_ka_] That's my boy, grab the bull by the horns eh? You’ve got this, rest assured."
-msgstr "[_ka_] 就是我的男童，用马匹抓住了大棒吗？你得到了这一点，请放心。"
+msgstr ""
 
 # game/sakuracan.rpy:73 #-#-# translate crowdin sakuracan_e1ad43dc:
 msgid "[_r_] Where do I start? Should I just start working for Sakura?"
-msgstr "[_r_] 我从哪里开始？我是否应该开始为Sakura工作？"
+msgstr ""
 
 # game/sakuracan.rpy:78 #-#-# translate crowdin sakuracan_a6b1eb07:
 msgid "[_ka_] You answered your own question, Hinata paved the way for you, just call Sakura and get started."
-msgstr "[_ka_] 你回答了你自己的问题，Hinata为你铺平了道路，只需调用 Sakura 就可以开始。"
+msgstr ""
 
 # game/sakuracan.rpy:83 #-#-# translate crowdin sakuracan_c90219ba:
 msgid "[_r_] Alright, gotcha."
-msgstr "[_r_] 好吧，获得了。"
+msgstr ""
 
 # game/sakuracan.rpy:93 #-#-# translate crowdin sakuracan_9cf11a47:
 msgid "[_saku_] Konoha Hospital, senior doctor. Who am I speaking to?."
-msgstr "[_saku_] Konoha医院，高级医生。我是谁说话？"
+msgstr ""
 
 # game/sakuracan.rpy:94 #-#-# translate crowdin sakuracan_6e13cae1:
 msgid "[_r_] Sakura, hi, it's me... Um... Massager guy, I decided that I actually need the job, if you don't mind."
-msgstr "[_r_] Sakura, hi, it me. Um. Massager guy, 我决定如果你不想，我实际上需要这个工作。"
+msgstr ""
 
 # game/sakuracan.rpy:95 #-#-# translate crowdin sakuracan_e483683a:
 msgid "[_saku_] Oh, hello, masseur boy."
@@ -106,15 +106,15 @@ msgstr ""
 
 # game/sakuracan.rpy:96 #-#-# translate crowdin sakuracan_acdc91c5:
 msgid "[_saku_] It's all right, so long as you’re ready.. Come to my office, we'll discuss your working conditions and all."
-msgstr "[_saku_] 是正确的，只要你准备好……来到我的办公室，我们将讨论你的工作条件和所有问题。"
+msgstr ""
 
 # game/sakuracan.rpy:97 #-#-# translate crowdin sakuracan_1d3aec96:
 msgid "[_r_] Great. Should I wear special clothes? It is a hospital, after all."
-msgstr "[_r_] 太棒了。我应该穿特殊衣服？毕竟它是一家医院。"
+msgstr ""
 
 # game/sakuracan.rpy:98 #-#-# translate crowdin sakuracan_a31bdfd5:
 msgid "[_saku_] No, no, relax, I often come here dressed casually, just show up."
-msgstr "[_saku_] 不，不要，松懈，我常常偶尔到这里穿着衣服，只是露面。"
+msgstr ""
 
 # game/sakuracan.rpy:99 #-#-# translate crowdin sakuracan_1bad5e58:
 msgid "[_r_] Sure, I'll be there soon."
@@ -122,75 +122,75 @@ msgstr ""
 
 # game/sakuracan.rpy:107 #-#-# translate crowdin sakuracan_67f1d6fd:
 msgid "[_ka_] That was easy, wasn't it?"
-msgstr "[_ka_] 很容易，难道不是吗？"
+msgstr ""
 
 # game/sakuracan.rpy:112 #-#-# translate crowdin sakuracan_df549f90:
 msgid "[_r_] Easier than... You know, breaking into Naruto's office in disguise."
-msgstr "[_r_] 比……更容易……你知道伪装地闯入纳鲁托的办公室。"
+msgstr ""
 
 # game/sakuracan.rpy:117 #-#-# translate crowdin sakuracan_5ba72079:
 msgid "[_ka_] It's already in the past, we must move on, especially since you are already an experienced boy."
-msgstr "[_ka_] 已经过去了，我们必须继续前进，特别是因为你已经是一个有经验的男孩。"
+msgstr ""
 
 # game/sakuracan.rpy:122 #-#-# translate crowdin sakuracan_1e1e475f:
 msgid "[_r_] Okay, it won't be any worse than our walk to the tree, I'll head to the hospital."
-msgstr "[_r_] 好吧，它不会比我们走上树木的步行更糟，我会走上医院。"
+msgstr ""
 
 # game/sakuracan.rpy:127 #-#-# translate crowdin sakuracan_9c2dd258:
 msgid "[_ka_] Have a nice day, honey!"
-msgstr "[_ka_] 祝你好日子，蜂蜜！"
+msgstr ""
 
 # game/sakuracan.rpy:132 #-#-# translate crowdin sakuracan_555666ff:
 msgid "[_r_] Yeah."
-msgstr "[_r_] 是的。"
+msgstr ""
 
 # game/sakuracan.rpy:156 #-#-# translate crowdin uiuis_c8453b41:
 msgid "[_saku_] Great day to get a job, right?"
-msgstr "[_saku_] 获得工作的好日子，对吗？"
+msgstr ""
 
 # game/sakuracan.rpy:157 #-#-# translate crowdin uiuis_08a20ed2:
 msgid "[_saku_] Don't worry, I'll warn you just in case, this is a purely formal survey, I’m required to ask this and record it to the database later, nothing unusual."
-msgstr "[_saku_] 不要担心，我会警告您，如果这只是一个纯粹正式的调查。 我需要问这个问题并稍后将其记录到数据库中，没有什么异常。"
+msgstr ""
 
 # game/sakuracan.rpy:161 #-#-# translate crowdin uiuis_100b2ab1:
 msgid "[_r_] Of course, that’s alright with me."
-msgstr "[_r_] 当然，这是很不错的。"
+msgstr ""
 
 # game/sakuracan.rpy:165 #-#-# translate crowdin uiuis_636cabe7:
 msgid "[_saku_] What was your name again?"
-msgstr "[_saku_] 你的名字又是什么?"
+msgstr ""
 
 # game/sakuracan.rpy:169 #-#-# translate crowdin uiuis_a3e2c6b3:
 msgid "[_r_] [viname]"
-msgstr "[_r_] [viname]"
+msgstr ""
 
 # game/sakuracan.rpy:173 #-#-# translate crowdin uiuis_5050612a:
 msgid "[_saku_] Family name?"
-msgstr "[_saku_] 姓氏？"
+msgstr ""
 
 # game/sakuracan.rpy:177 #-#-# translate crowdin uiuis_effc7c92:
 msgid "[_r_] Oh... Well..."
-msgstr "[_r_] Oh... Well..."
+msgstr ""
 
 # game/sakuracan.rpy:181 #-#-# translate crowdin uiuis_e9dc72c9:
 msgid "[_saku_] Are you from some distant clan? It's okay, there are many clan names in the land of fire, don't be shy."
-msgstr "[_saku_] 你来自一些遥远的部族？好吧，在火焰的土地上有许多部族名字，别说了。"
+msgstr ""
 
 # game/sakuracan.rpy:185 #-#-# translate crowdin uiuis_1e669dc0:
 msgid "[_r_] Actually... I don't know my family name... My family were traders, merchants... Nobody ever told me..."
-msgstr "[_r_] 实际上……我不知道我的家人……我的家人是商人……没有人告诉我……"
+msgstr ""
 
 # game/sakuracan.rpy:189 #-#-# translate crowdin uiuis_a8dad156:
 msgid "[_saku_] Don't worry, your card has all the information about your family name or clan, it should be in the database."
-msgstr "[_saku_] 别担心，您的卡上有关于您的姓氏或部族的所有信息，应该在数据库中。"
+msgstr ""
 
 # game/sakuracan.rpy:191 #-#-# translate crowdin uiuis_8a850c26:
 msgid "[_m_] Fuck... What card are you talking about? I think I’m in trouble..."
-msgstr "[_m_] Fuck... 你在谈什么卡片？我觉得我有问题..."
+msgstr ""
 
 # game/sakuracan.rpy:193 #-#-# translate crowdin uiuis_5a375a77:
 msgid "[_saku_] I already checked everything before we spoke, so don't worry, your clan's name is already on the form, just like I said, just a formality."
-msgstr "[_saku_] 我已经在说话之前检查了所有内容，所以不要担心， 你的部族名字已经在表格上，就像我说过的那样，只是一种形式。"
+msgstr ""
 
 # game/sakuracan.rpy:195 #-#-# translate crowdin uiuis_fbba9023:
 msgid "[_m_] Oh, so Kamiko took care of that as well. I didn't need to worry."
@@ -198,75 +198,75 @@ msgstr ""
 
 # game/sakuracan.rpy:197 #-#-# translate crowdin uiuis_c479c110:
 msgid "[_saku_] How would you describe your medical skills?"
-msgstr "[_saku_] 你将如何描述你的医疗技能？"
+msgstr ""
 
 # game/sakuracan.rpy:211 #-#-# translate crowdin otv1_133e254b:
 msgid "[_r_] I've always been interested in medicine, I do slightly regret not getting a decent education."
-msgstr "[_r_] 我一直对医药感兴趣，我对没有获得体面教育略感遗憾。"
+msgstr ""
 
 # game/sakuracan.rpy:215 #-#-# translate crowdin otv1_851be4cb:
 msgid "[_saku_] It's never too late for that."
-msgstr "[_saku_] 对此永远不会太晚。"
+msgstr ""
 
 # game/sakuracan.rpy:216 #-#-# translate crowdin otv1_8b696326:
 msgid "[_saku_] I'm telling you as a head physician who dedicated her youth to the shinobi arts."
-msgstr "[_saku_] 我作为一位头医师告诉你们，她们把年轻人奉献给阴影艺术。"
+msgstr ""
 
 # game/sakuracan.rpy:224 #-#-# translate crowdin otv2_b82cdf01:
 msgid "[_r_] I don't know anything about professional medicine, not even remotely."
-msgstr "[_r_] 我不知道任何有关专业医学的东西，甚至不知道很遥远。"
+msgstr ""
 
 # game/sakuracan.rpy:225 #-#-# translate crowdin otv2_ee9fd7aa:
 msgid "[_r_] But I'm a good massage therapist, I have strong hands and good skills."
-msgstr "[_r_] 但我是一个很好的按摩治疗师，我有很强的手和很好的技能。"
+msgstr ""
 
 # game/sakuracan.rpy:226 #-#-# translate crowdin otv2_b09bfd1f:
 msgid "[_r_] I actually like relieving people of pain."
-msgstr "[_r_] 实际上我喜欢减轻人们的痛苦。"
+msgstr ""
 
 # game/sakuracan.rpy:230 #-#-# translate crowdin otv2_a670bc20:
 msgid "[_saku_] Great, in our business we value not only professionalism, but also motivation for the sake of helping people."
-msgstr "[_saku_] 太好了，在我们的业务中，我们不仅珍惜专业精神，而且珍惜帮助人们的积极性。"
+msgstr ""
 
 # game/sakuracan.rpy:231 #-#-# translate crowdin otv2_45c4f46c:
 msgid "[_saku_] You can’t go without it in a hospital, it is a key factor ."
-msgstr "[_saku_] 你不能不去医院，它是一个关键因素 。"
+msgstr ""
 
 # game/sakuracan.rpy:237 #-#-# translate crowdin obejusa_221713e4:
 msgid "[_saku_] Okay, how about talking to people? Are you good at that?"
-msgstr "[_saku_] 好吧，如何与人说话？你好吗？"
+msgstr ""
 
 # game/sakuracan.rpy:251 #-#-# translate crowdin oire1_38b9e16b:
 msgid "[_r_] I like to communicate, I like to listen, I like to advise."
-msgstr "[_r_] 我想交流，我想听听，我想提出建议。"
+msgstr ""
 
 # game/sakuracan.rpy:252 #-#-# translate crowdin oire1_ae835097:
 msgid "[_r_] Healthy dialogue helps you forget about pressing problems, even if not for long, but it is also a kind of medicine."
-msgstr "[_r_] 健康对话有助于你忘记紧迫的问题，即使不是很长时间，但也是一种药物。"
+msgstr ""
 
 # game/sakuracan.rpy:256 #-#-# translate crowdin oire1_977e1017:
 msgid "[_saku_] It's great, the customers, especially elderly ones, love to talk."
-msgstr "[_saku_] 是巨大的，客户，尤其是老客户，想要说话。"
+msgstr ""
 
 # game/sakuracan.rpy:257 #-#-# translate crowdin oire1_b14df991:
 msgid "[_saku_] It's not required, of course, but such a skill is much appreciated."
-msgstr "[_saku_] 当然不需要，但这种技能是非常受欢迎的。"
+msgstr ""
 
 # game/sakuracan.rpy:265 #-#-# translate crowdin oire2_95b48657:
 msgid "[_r_] You know, talking is not my thing."
-msgstr "[_r_] 你知道，说话不是我的事情。"
+msgstr ""
 
 # game/sakuracan.rpy:266 #-#-# translate crowdin oire2_4daae746:
 msgid "[_r_] I’d rather let my actions do the talking."
-msgstr "[_r_] 我宁愿让我的行动来说话。"
+msgstr ""
 
 # game/sakuracan.rpy:270 #-#-# translate crowdin oire2_2f98256d:
 msgid "[_saku_] That’s your main task, so it's okay."
-msgstr "[_saku_] 这是您的主要任务，所以没问题。"
+msgstr ""
 
 # game/sakuracan.rpy:278 #-#-# translate crowdin omegaxui_1262df73:
 msgid "[_saku_] Well, you seem like a nice guy."
-msgstr "[_saku_] 好吧，你看起来像一个好的家伙。"
+msgstr ""
 
 # game/sakuracan.rpy:279 #-#-# translate crowdin omegaxui_64bd70a7:
 msgid "[_saku_] There's a lot of demand for people like that in the team."
@@ -274,15 +274,15 @@ msgstr ""
 
 # game/sakuracan.rpy:280 #-#-# translate crowdin omegaxui_4b0abc00:
 msgid "[_saku_] We only have a couple of massage therapists left, and they're mostly old, so you're a breath of fresh air."
-msgstr "[_saku_] 我们只剩下几名按摩治疗师，他们大多是老人，所以你是呼吸新鲜空气。"
+msgstr ""
 
 # game/sakuracan.rpy:284 #-#-# translate crowdin omegaxui_2173c592:
 msgid "[_r_] So I'm in?"
-msgstr "[_r_] 所以我加入？"
+msgstr ""
 
 # game/sakuracan.rpy:288 #-#-# translate crowdin omegaxui_c7f7d80e:
 msgid "[_saku_] That's right, welcome to Konoha Hospital."
-msgstr "[_saku_] 正确，欢迎来到科诺哈医院。"
+msgstr ""
 
 # game/sakuracan.rpy:292 #-#-# translate crowdin omegaxui_870977ff:
 msgid "[_r_] Great! I… I'm glad. When can I start?"
@@ -290,11 +290,11 @@ msgstr ""
 
 # game/sakuracan.rpy:296 #-#-# translate crowdin omegaxui_d92f694b:
 msgid "[_saku_] Come here tomorrow, I'll take you to your department."
-msgstr "[_saku_] 明天来到这里，我会把你带到你的部门。"
+msgstr ""
 
 # game/sakuracan.rpy:297 #-#-# translate crowdin omegaxui_7c29c615:
 msgid "[_saku_] We'll see each other often now, I'm your direct superior."
-msgstr "[_saku_] 我们现在经常看到对方。我是你的直上司！"
+msgstr ""
 
 # game/sakuracan.rpy:301 #-#-# translate crowdin omegaxui_6830a46a:
 msgid "[_r_] Oh, okay, go easy on me!"
@@ -302,19 +302,19 @@ msgstr ""
 
 # game/sakuracan.rpy:305 #-#-# translate crowdin omegaxui_2d420245:
 msgid "[_saku_] Of course, of course! The main thing is to always answer my calls or messages, in general, stay in touch."
-msgstr "[_saku_] 当然！主要的事情是总是响应我的呼叫或信息，一般来说保持联系。"
+msgstr ""
 
 # game/sakuracan.rpy:306 #-#-# translate crowdin omegaxui_18c11539:
 msgid "[_saku_] We've already called each other, this is my personal number, so I'll text you from it."
-msgstr "[_saku_] 我们已经互相呼叫，这是我的个人号码，所以我会给你写信。"
+msgstr ""
 
 # game/sakuracan.rpy:310 #-#-# translate crowdin omegaxui_7451e0bf:
 msgid "[_r_] Sure, I'll wait for your call, boss."
-msgstr "[_r_] 确定, 我会等待你的电话, 老板."
+msgstr ""
 
 # game/sakuracan.rpy:314 #-#-# translate crowdin omegaxui_65c452c0:
 msgid "[_saku_] See you tomorrow, newbie!"
-msgstr "[_saku_] 明天见你，新手！"
+msgstr ""
 
 # game/sakuracan.rpy:334 #-#-# translate crowdin omegaxui_2da482e1:
 msgid "[_ka_] You’re back early, how did it go?"
@@ -322,7 +322,7 @@ msgstr ""
 
 # game/sakuracan.rpy:339 #-#-# translate crowdin omegaxui_b3fff7a3:
 msgid "[_r_] All good, they accepted me."
-msgstr "[_r_] 好的，他们都接受了我。"
+msgstr ""
 
 # game/sakuracan.rpy:344 #-#-# translate crowdin omegaxui_61e6f17c:
 msgid "[_k_] Great, now you'll be closer to Sakura, you'll have time to use that to your advantage."
@@ -330,67 +330,67 @@ msgstr ""
 
 # game/sakuracan.rpy:345 #-#-# translate crowdin omegaxui_b04da308:
 msgid "[_k_] What are you gonna do now? You have a whole day off."
-msgstr "[_k_] 您现在做了什么？您有整整一天的关闭。"
+msgstr ""
 
 # game/sakuracan.rpy:350 #-#-# translate crowdin omegaxui_0556cfaf:
 msgid "[_r_] When I was leaving, I saw Sakura going home, I have an idea."
-msgstr "[_r_] 当我离开时，我看到萨库拉回家，我有一个想法。"
+msgstr ""
 
 # game/sakuracan.rpy:355 #-#-# translate crowdin omegaxui_d7e9182c:
 msgid "[_ka_] Are you going to spy on her?"
-msgstr "[_ka_] 您是否要对她进行间谍活动？"
+msgstr ""
 
 # game/sakuracan.rpy:360 #-#-# translate crowdin omegaxui_6a21dec0:
 msgid "[_r_] Yes, it would be cool to use a disguise and follow Sakura for a bit."
-msgstr "[_r_] 是的，使用伪装和跟随Sakura会很酷。"
+msgstr ""
 
 # game/sakuracan.rpy:361 #-#-# translate crowdin omegaxui_d6faf309:
 msgid "[_r_] I should find out more about her personal life, it will help us bond."
-msgstr "[_r_] 我应该更多地了解她的个人生活，这将有助于我们的商誉。"
+msgstr ""
 
 # game/sakuracan.rpy:366 #-#-# translate crowdin omegaxui_ca183d4a:
 msgid "[_ka_] Good idea, go for it."
-msgstr "[_ka_] 好主意，去找它。"
+msgstr ""
 
 # game/sakuracan.rpy:371 #-#-# translate crowdin omegaxui_22836dcf:
 msgid "[_r_] Let's go."
-msgstr "[_r_] 让我们离开吧。"
+msgstr ""
 
 # game/sakuracan.rpy:387 #-#-# translate crowdin omegaxui_e8170d1f:
 msgid "[_m_] The door is open, great."
-msgstr "[_m_] 大门打开得很好。"
+msgstr ""
 
 # game/sakuracan.rpy:388 #-#-# translate crowdin omegaxui_ed2be6cf:
 msgid "[_m_] So... I kind of entered quietly..."
-msgstr "[_m_] 就是……我想静悄悄地输入..."
+msgstr ""
 
 # game/sakuracan.rpy:389 #-#-# translate crowdin omegaxui_4e3124e2:
 msgid "[_m_] Where's Sakura..."
-msgstr "[_m_] Sakura的位置..."
+msgstr ""
 
 # game/sakuracan.rpy:390 #-#-# translate crowdin omegaxui_9cd9be4a:
 msgid "[_m_] Well, well, well... Just look at this..."
-msgstr "[_m_] 好吧，好吧... 只要看看这个..."
+msgstr ""
 
 # game/sakuracan.rpy:398 #-#-# translate crowdin omegaxui_54b72465:
 msgid "[_m_] Fucking Jackpot..."
-msgstr "[_m_] 喷射杰克普特..."
+msgstr ""
 
 # game/sakuracan.rpy:399 #-#-# translate crowdin omegaxui_bf329068:
 msgid "[_m_] That body... she's so fucking hot..."
-msgstr "[_m_] 那个身体……她很快就会吃惊了……"
+msgstr ""
 
 # game/sakuracan.rpy:400 #-#-# translate crowdin omegaxui_9c97e49f:
 msgid "[_m_] Naruto and Sasuke got themselves the hottest women in all of fucking Konoha."
-msgstr "[_m_] Naruto和Sasuke在包围Konoha的所有活动中都得到了最好的妇女。"
+msgstr ""
 
 # game/sakuracan.rpy:401 #-#-# translate crowdin omegaxui_70b98eab:
 msgid "[_m_] I'm on time, huh?"
-msgstr "[_m_] 我正在按时，是？"
+msgstr ""
 
 # game/sakuracan.rpy:402 #-#-# translate crowdin omegaxui_849193eb:
 msgid "[_m_] You're getting ready, but who's coming?"
-msgstr "[_m_] 你准备好了，但是谁来了？"
+msgstr ""
 
 # game/sakuracan.rpy:403 #-#-# translate crowdin omegaxui_004b728d:
 msgid "[_m_] Hmm, I think there's only one right answer."
@@ -398,7 +398,7 @@ msgstr ""
 
 # game/sakuracan.rpy:404 #-#-# translate crowdin omegaxui_b8b34679:
 msgid "[_m_] That’s definitely for Sasuke's arrival."
-msgstr "[_m_] 肯定是为了萨苏克的到达。"
+msgstr ""
 
 # game/sakuracan.rpy:408 #-#-# translate crowdin omegaxui_cd9dce53:
 msgid "[_saku_] He'll definitely appreciate this outfit!"
@@ -410,71 +410,71 @@ msgstr ""
 
 # game/sakuracan.rpy:410 #-#-# translate crowdin omegaxui_ae737f25:
 msgid "[_saku_] Good thing Sarada is on a mission."
-msgstr "[_saku_] 很好的Sarada正在执行任务。"
+msgstr ""
 
 # game/sakuracan.rpy:414 #-#-# translate crowdin omegaxui_19b1a30d:
 msgid "[_m_] That lingerie is just right."
-msgstr "[_m_] 这个老生常谈是正确的。"
+msgstr ""
 
 # game/sakuracan.rpy:415 #-#-# translate crowdin omegaxui_790b8c2a:
 msgid "[_m_] Now, since Sasuke's going to get here, I gotta get out."
-msgstr "[_m_] 现在，自Sasuke来到这里以来，我走了。"
+msgstr ""
 
 # game/sakuracan.rpy:416 #-#-# translate crowdin omegaxui_9fce4332:
 msgid "[_m_] I can't be 100% sure the guy won’t see me with his eyes."
-msgstr "[_m_] 我不能100%确保你不会看到我的眼睛。"
+msgstr ""
 
 # game/sakuracan.rpy:417 #-#-# translate crowdin omegaxui_4ce67629:
 msgid "[_m_] Since he saw Kamiko's chakra thread in the past..."
-msgstr "[_m_] 因为他在过去看到Kamiko的chakra 线程..."
+msgstr ""
 
 # game/sakuracan.rpy:431 #-#-# translate crowdin omegaxui_7ca7e9dc:
 msgid "[_m_] Well, well... Hinata... Time to practice with Kamiko's gift."
-msgstr "[_m_] 好吧，好... Hinata... 是使用Kamiko礼物练习的时候了。"
+msgstr ""
 
 # game/sakuracan.rpy:432 #-#-# translate crowdin omegaxui_69827d90:
 msgid "[_m_] She's not at home, so this is the perfect time to try out the room."
-msgstr "[_m_] 她不在家中，所以现在是试试房间的最佳时间。"
+msgstr ""
 
 # game/sakuracan.rpy:474 #-#-# translate crowdin omegaxui_244cec6c:
 msgid "[_r_] Yes, come in, Hinata."
-msgstr "[_r_] 是的，来到Hinata。"
+msgstr ""
 
 # game/sakuracan.rpy:484 #-#-# translate crowdin omegaxui_dff8ccd8:
 msgid "[_hi_] So this is your little apartment, huh?"
-msgstr "[_hi_] 所以这是你小的公寓，是吧？"
+msgstr ""
 
 # game/sakuracan.rpy:485 #-#-# translate crowdin omegaxui_c6bf1dbf:
 msgid "[_hi_] It's cozy in here, I'm glad you decided to invite me."
-msgstr "[_hi_] 在这里，我很高兴你决定邀请我。"
+msgstr ""
 
 # game/sakuracan.rpy:490 #-#-# translate crowdin omegaxui_50724843:
 msgid "[_r_] I thought you wouldn't like it much considering you live in a big house."
-msgstr "[_r_] 我觉得你不喜欢你生活在一个大屋子里。"
+msgstr ""
 
 # game/sakuracan.rpy:495 #-#-# translate crowdin omegaxui_98eea4d2:
 msgid "[_hi_] No matter where, you're always fun to be around."
-msgstr "[_hi_] 不管在哪里，你总是很有趣。"
+msgstr ""
 
 # game/sakuracan.rpy:500 #-#-# translate crowdin omegaxui_44b8ac9b:
 msgid "[_r_] I've got something interesting for you..."
-msgstr "[_r_] 我有一些对您有趣的东西..."
+msgstr ""
 
 # game/sakuracan.rpy:501 #-#-# translate crowdin omegaxui_88f1f79b:
 msgid "[_r_] Ready to have some fun?"
-msgstr "[_r_] 准备好有一些乐趣？"
+msgstr ""
 
 # game/sakuracan.rpy:506 #-#-# translate crowdin omegaxui_b6646c14:
 msgid "[_hi_] Of course... That's why I came..."
-msgstr "[_hi_] 当然... 这就是我为什么要见到..."
+msgstr ""
 
 # game/sakuracan.rpy:511 #-#-# translate crowdin omegaxui_1607ff2d:
 msgid "[_r_] Put on this outfit, you'll look incredibly hot in it."
-msgstr "[_r_] 放在这个外衣上，你会看起来很炎热。"
+msgstr ""
 
 # game/sakuracan.rpy:516 #-#-# translate crowdin omegaxui_e2404c11:
 msgid "[_hi_] Sure, give me a minute..."
-msgstr "[_hi_] 确切，给我一分钟..."
+msgstr ""
 
 # game/sakuracan.rpy:518 #-#-# translate crowdin omegaxui_d618d52a:
 msgid "[_m_] Kamiko made a cool costume, I like it."
@@ -486,7 +486,7 @@ msgstr ""
 
 # game/sakuracan.rpy:537 #-#-# translate crowdin omegaxui_c2466ce5:
 msgid "[_hi_] The outfit is so... Revealing... Do you like how it highlights my shapes?"
-msgstr "[_hi_] 这个外衣就是这样... 你喜欢如何突出强调我的形状吗？"
+msgstr ""
 
 # game/sakuracan.rpy:542 #-#-# translate crowdin omegaxui_5b109283:
 msgid "[_r_] Of course, Hinata... You're incredibly hot."
@@ -498,83 +498,83 @@ msgstr ""
 
 # game/sakuracan.rpy:552 #-#-# translate crowdin omegaxui_394f7b7b:
 msgid "[_r_] Come with me to the other room, it's time to relax a bit."
-msgstr "[_r_] 和我一起来到其他房间，现在是放松一点的时候了。"
+msgstr ""
 
 # game/sakuracan.rpy:560 #-#-# translate crowdin omegaxui_186c4c10:
 msgid "[_r_] Do you see this room, Hinata? From now on, we’ll spend every evening here."
-msgstr "[_r_] 你看到这个房间，Hinata吗？从现在起，我们将每天晚上在这里度假。"
+msgstr ""
 
 # game/sakuracan.rpy:561 #-#-# translate crowdin omegaxui_fce8dbd7:
 msgid "[_r_] We will experience a world of pleasure here."
-msgstr "[_r_] 我们将在这里体验一个愉快的世界。"
+msgstr ""
 
 # game/sakuracan.rpy:562 #-#-# translate crowdin omegaxui_9166ffa0:
 msgid "[_r_] Let's slowly discover everything we can..."
-msgstr "[_r_] 让我们慢慢地发现我们能够做的事情..."
+msgstr ""
 
 # game/sakuracan.rpy:566 #-#-# translate crowdin omegaxui_def6ee62:
 msgid "[_hi_] Y-yes..."
-msgstr "[_hi_] Y-yes..."
+msgstr ""
 
 # game/sakuracan.rpy:567 #-#-# translate crowdin omegaxui_6a1ce48e:
 msgid "[_hi_] I'm ready..."
-msgstr "[_hi_] 我准备好了..."
+msgstr ""
 
 # game/sakuracan.rpy:571 #-#-# translate crowdin omegaxui_e821e54e:
 msgid "[_r_] What shall we name this room? Love room? Lust room? Training room? M...? What do you think?"
-msgstr "[_r_] 我们应该给这个房间命名什么？爱房间？学习室？我……？你怎么想？"
+msgstr ""
 
 # game/sakuracan.rpy:575 #-#-# translate crowdin omegaxui_b60c5c89:
 msgid "[_hi_] The last one... Sounds so hot... I like it..."
-msgstr "[_hi_] 最后一个... 听起来很热... 我喜欢它..."
+msgstr ""
 
 # game/sakuracan.rpy:579 #-#-# translate crowdin omegaxui_6a4e9543:
 msgid "[_r_] Training room. So be it."
-msgstr "[_r_] 训练室，也就好了。"
+msgstr ""
 
 # game/sakuracan.rpy:580 #-#-# translate crowdin omegaxui_32378ce2:
 msgid "[_r_] So in this room you are mine and I am yours. No prying eyes, no judgment or fear."
-msgstr "[_r_] 所以你在这个房间里是我的，我是你们。没有可喜的眼睛，没有判断力，也没有恐惧。"
+msgstr ""
 
 # game/sakuracan.rpy:581 #-#-# translate crowdin omegaxui_4c218dae:
 msgid "[_r_] No matter what you and I do in this room... All of this will remain within these walls..."
-msgstr "[_r_] 无论你和我在这个房间做什么... 所有这一切都将留在墙内..."
+msgstr ""
 
 # game/sakuracan.rpy:585 #-#-# translate crowdin omegaxui_f97e2160:
 msgid "[_hi_] Yes... Only here..."
-msgstr "[_hi_] 是... 仅在这里......"
+msgstr ""
 
 # game/sakuracan.rpy:589 #-#-# translate crowdin omegaxui_7d6dae57:
 msgid "[_r_] In ordinary life, anywhere, we are good friends... Lovers..."
-msgstr "[_r_] 在普通生活中，在任何地方，我们都是好朋友..."
+msgstr ""
 
 # game/sakuracan.rpy:590 #-#-# translate crowdin omegaxui_fec489c0:
 msgid "[_r_] But when you cross the threshold of this room... You are my submissive, my slave, I am your master, owner."
-msgstr "[_r_] 但当你跨过这个房间的门槛时，你是我的下属，我是你的主人，主人。"
+msgstr ""
 
 # game/sakuracan.rpy:594 #-#-# translate crowdin omegaxui_ec718e7f:
 msgid "[_hi_] T-Then... Take care of me... Master..."
-msgstr "[_hi_] T-Then……照顾我……主..."
+msgstr ""
 
 # game/sakuracan.rpy:611 #-#-# translate crowdin uououosas_33db15ae:
 msgid "[_m_] I did a good job, got a job from Sakura, trained Hinata."
-msgstr "[_m_] 我做了很好的工作，从Sakura找到了一份训练有素的Hinata。"
+msgstr ""
 
 # game/sakuracan.rpy:612 #-#-# translate crowdin uououosas_ee8a949f:
 msgid "[_m_] Kamiko must be pleased with me!"
-msgstr "[_m_] Kamiko必须对我很高兴！"
+msgstr ""
 
 # game/sakuracan.rpy:613 #-#-# translate crowdin uououosas_58fa6222:
 msgid "[_m_] Tomorrow I will meet up with Sakura and begin to look over my plan."
-msgstr "[_m_] 明天，我将与Sakura会面，并开始展望我的计划。"
+msgstr ""
 
 # game/sakuracan.rpy:614 #-#-# translate crowdin uououosas_4a50d56a:
 msgid "[_m_] After all, I need to use taunt on her to start seducing her."
-msgstr "[_m_] 毕竟，我需要用嘲讽来开始教育她。"
+msgstr ""
 
 # game/sakuracan.rpy:620 #-#-# translate crowdin uououosas_f68741ea:
 msgid "[_m_] Huh? Is that Sakura?"
-msgstr "[_m_] Huh？那是Sakura吗？"
+msgstr ""
 
 # game/sakuracan.rpy:654 #-#-# translate crowdin uououosas_30865a3c:
 msgid "[_m_] Oh, right now? With this rain?"
@@ -582,11 +582,11 @@ msgstr ""
 
 # game/sakuracan.rpy:655 #-#-# translate crowdin uououosas_4da6c8d7:
 msgid "[_m_] On the other hand, Sakura took the initiative herself!"
-msgstr "[_m_] 另一方面，Sakura本人主动采取主动行动！"
+msgstr ""
 
 # game/sakuracan.rpy:659 #-#-# translate crowdin uououosas_7326614a:
 msgid "[_m_] That's even better, I'll try to use taunt today if the chance is right."
-msgstr "[_m_] 更好，如果机会合适，我今天会尝试使用嘲笑。"
+msgstr ""
 
 # game/sakuracan.rpy:673 #-#-# translate crowdin uououosas_f93e6eae:
 msgid "[_m_] There she is! Damn, I hope she didn't get too wet."
@@ -594,15 +594,15 @@ msgstr ""
 
 # game/sakuracan.rpy:674 #-#-# translate crowdin uououosas_e3fd17dc:
 msgid "[_m_] Slightly delayed, even ashamed somehow..."
-msgstr "[_m_] 稍微延迟，甚至是羞耻..."
+msgstr ""
 
 # game/sakuracan.rpy:676 #-#-# translate crowdin uououosas_2d64738c:
 msgid "[_r_] Hey Boss! Sorry, it was a little hard to find this building, isn't it an old hospital?"
-msgstr "[_r_] Hey Bos! 对不起，很难找到这座建筑，不是老医院吗？"
+msgstr ""
 
 # game/sakuracan.rpy:682 #-#-# translate crowdin uououosas_a507f5db:
 msgid "[_r_] Great raincoat, it suits you, by the way!"
-msgstr "[_r_] 优秀的雨色适合您，途经！"
+msgstr ""
 
 # game/sakuracan.rpy:683 #-#-# translate crowdin uououosas_10233a01:
 msgid "[_r_] So what are we going to do? Let's go insi..."
@@ -610,75 +610,75 @@ msgstr ""
 
 # game/sakuracan.rpy:698 #-#-# translate crowdin uououosas_fd6a2cc8:
 msgid "[_su_] I... Really..."
-msgstr "[_su_] 我……真的..."
+msgstr ""
 
 # game/sakuracan.rpy:699 #-#-# translate crowdin uououosas_a728ef8f:
 msgid "[_su_] It was so simple."
-msgstr "[_su_] 这么简单。"
+msgstr ""
 
 # game/sakuracan.rpy:707 #-#-# translate crowdin uououosas_195d453e:
 msgid "[_su_] The world of shinobi..."
-msgstr "[_su_] 闪亮的世界..."
+msgstr ""
 
 # game/sakuracan.rpy:708 #-#-# translate crowdin uououosas_ad36dc44:
 msgid "[_su_] Konoha..."
-msgstr "[_su_] Konoha..."
+msgstr ""
 
 # game/sakuracan.rpy:709 #-#-# translate crowdin uououosas_a91370ba:
 msgid "[_su_] Now you won't destroy anything... You son of a bitch."
-msgstr "[_su_] 现在你不会摧毁任何东西……你的儿子有点儿子。"
+msgstr ""
 
 # game/sakuracan.rpy:721 #-#-# translate crowdin uououosas_439fd75c:
 msgid "[_k_] Danger is not an illusion."
-msgstr "[_k_] 危险不是幻想。"
+msgstr ""
 
 # game/sakuracan.rpy:722 #-#-# translate crowdin uououosas_8c21624e:
 msgid "[_k_] Time is changeable."
-msgstr "[_k_] 时间是可以更改的。"
+msgstr ""
 
 # game/sakuracan.rpy:723 #-#-# translate crowdin uououosas_a231e520:
 msgid "[_k_] Life is not permanent."
-msgstr "[_k_] 生命不是永久性的。"
+msgstr ""
 
 # game/sakuracan.rpy:728 #-#-# translate crowdin uououosas_a066c9bb:
 msgid "[_k_] Be reborn child."
-msgstr "[_k_] 是新生儿。"
+msgstr ""
 
 # game/sakuracan.rpy:729 #-#-# translate crowdin uououosas_2f25159f:
 msgid "[_k_] Be reborn."
-msgstr "[_k_] 重新出生。"
+msgstr ""
 
 # game/sakuracan.rpy:740 #-#-# translate crowdin uououosas_e4205548:
 msgid "[_m_] A-alive..."
-msgstr "[_m_] A-alive..."
+msgstr ""
 
 # game/sakuracan.rpy:741 #-#-# translate crowdin uououosas_f7074c38:
 msgid "[_m_] What the fuck happened just now..."
-msgstr "[_m_] 刚刚发生了什么事情..."
+msgstr ""
 
 # game/sakuracan.rpy:742 #-#-# translate crowdin uououosas_d35c8046:
 msgid "[_m_] My neck! Fuck... I..."
-msgstr "[_m_] 我的颈部！福克……我..."
+msgstr ""
 
 # game/sakuracan.rpy:743 #-#-# translate crowdin uououosas_b82bbacc:
 msgid "[_m_] I-Is everything okay...?"
-msgstr "[_m_] I-一切都可以...？"
+msgstr ""
 
 # game/sakuracan.rpy:744 #-#-# translate crowdin uououosas_046b6587:
 msgid "[_m_] The pain is real."
-msgstr "[_m_] 疼痛是真实的。"
+msgstr ""
 
 # game/sakuracan.rpy:745 #-#-# translate crowdin uououosas_d7054e8b:
 msgid "[_m_] It feels like my head was just cut off... What a nightmare..."
-msgstr "[_m_] 感觉好像我的头只是被切断了……梦想是什么……"
+msgstr ""
 
 # game/sakuracan.rpy:746 #-#-# translate crowdin uououosas_4a356b3d:
 msgid "[_m_] My dreams have become more and more realistic lately."
-msgstr "[_m_] 我的梦想最近变得越来越现实。"
+msgstr ""
 
 # game/sakuracan.rpy:757 #-#-# translate crowdin uououosas_414b4a50:
 msgid "[_k_] Good morning, you look worried. Is something wrong?"
-msgstr "[_k_] 早晨，你看起来很担心。有什么问题？"
+msgstr ""
 
 # game/sakuracan.rpy:762 #-#-# translate crowdin uououosas_1eef0536:
 msgid "[_k_] Ah forget it, you need to prepare to subdue Sakura."
@@ -686,19 +686,19 @@ msgstr ""
 
 # game/sakuracan.rpy:767 #-#-# translate crowdin uououosas_7f041bd3:
 msgid "[_k_] Or have you chosen to delay it?"
-msgstr "[_k_] 或者您是否选择推迟？"
+msgstr ""
 
 # game/sakuracan.rpy:768 #-#-# translate crowdin uououosas_bd0ed3ee:
 msgid "[_k_] You sat in the love room for a long while yesterday."
-msgstr "[_k_] 昨天你在爱情室里坐了很长时间。"
+msgstr ""
 
 # game/sakuracan.rpy:773 #-#-# translate crowdin uououosas_e08e35cf:
 msgid "[_m_] What is she talking about? I've already decided everything."
-msgstr "[_m_] 她在谈什么？我已经决定了一切。"
+msgstr ""
 
 # game/sakuracan.rpy:778 #-#-# translate crowdin uououosas_2a7f2100:
 msgid "[_r_] You’re a forgetful one, I literally had an interview with Sakura yesterday."
-msgstr "[_r_] 你是一个虚假的人，我昨天实际上接受了对Sakura的采访。"
+msgstr ""
 
 # game/sakuracan.rpy:783 #-#-# translate crowdin uououosas_9bd3877f:
 msgid "[_ka_] Nonsense, I gave you the keys to your room yesterday, are you sure you're okay?"
@@ -710,47 +710,47 @@ msgstr ""
 
 # game/sakuracan.rpy:793 #-#-# translate crowdin uououosas_24eaeb21:
 msgid "[_ka_] Of course, my memory is great."
-msgstr "[_ka_] 当然，我的记忆非常好。"
+msgstr ""
 
 # game/sakuracan.rpy:798 #-#-# translate crowdin uououosas_f807a8ac:
 msgid "[_r_] And didn't I visit Sakura yesterday?"
-msgstr "[_r_] 昨天我没有访问Sakura吗？"
+msgstr ""
 
 # game/sakuracan.rpy:803 #-#-# translate crowdin uououosas_12de6ed4:
 msgid "[_ka_] Only Hinata, if that's the case."
-msgstr "[_ka_] 只能是Hinata，如果情况如此。"
+msgstr ""
 
 # game/sakuracan.rpy:808 #-#-# translate crowdin uououosas_59843a1d:
 msgid "[_m_] Nonsense... Was it all a dream?"
-msgstr "[_m_] 无意义……这是一种梦想吗？"
+msgstr ""
 
 # game/sakuracan.rpy:810 #-#-# translate crowdin uououosas_6b8046cb:
 msgid "[_m_] Feeling weirder than usual..."
-msgstr "[_m_] 比平时感到穿戴者..."
+msgstr ""
 
 # game/sakuracan.rpy:815 #-#-# translate crowdin uououosas_504307e1:
 msgid "[_r_] O-Okay, time to get hired by Sakura then, right?"
-msgstr "[_r_] O-Okay，由Sakura雇用的时间，对吗？"
+msgstr ""
 
 # game/sakuracan.rpy:820 #-#-# translate crowdin uououosas_8100bf72:
 msgid "[_ka_] Are you asking me? That's for you to decide."
-msgstr "[_ka_] 你问我吗？这是由你来决定。"
+msgstr ""
 
 # game/sakuracan.rpy:821 #-#-# translate crowdin uououosas_205deb2e:
 msgid "[_ka_] You’re being sillier than usual today.."
-msgstr "[_ka_] 今天你比通常更沉默了..."
+msgstr ""
 
 # game/sakuracan.rpy:826 #-#-# translate crowdin uououosas_5666ace7:
 msgid "[_m_] Okay, pull yourself together."
-msgstr "[_m_] 好的，把自己拉在一起。"
+msgstr ""
 
 # game/sakuracan.rpy:836 #-#-# translate crowdin uououosas_9cf11a47:
 msgid "[_saku_] Konoha Hospital, senior doctor. Who am I speaking to?."
-msgstr "[_saku_] Konoha医院，高级医生。我是谁说话？"
+msgstr ""
 
 # game/sakuracan.rpy:838 #-#-# translate crowdin uououosas_cfdf6dda:
 msgid "[_r_] Hello Sakura! I'm the massage guy, we met alongside Hinata yesterday..."
-msgstr "[_r_] 你好Sakura！我是按摩店，我们昨天在Hinata旁面见了……"
+msgstr ""
 
 # game/sakuracan.rpy:840 #-#-# translate crowdin uououosas_764dadf0:
 msgid "[_saku_] Hi! Masseur boy, I do remember you, still interested in joining us?"
@@ -758,71 +758,71 @@ msgstr ""
 
 # game/sakuracan.rpy:842 #-#-# translate crowdin uououosas_78259fa9:
 msgid "[_r_] Yes, if the offer is still available."
-msgstr "[_r_] 是的，如果报价仍然可用。"
+msgstr ""
 
 # game/sakuracan.rpy:844 #-#-# translate crowdin uououosas_dcf367e0:
 msgid "[_saku_] Of course, come to my office and we'll discuss everything we need to get started."
-msgstr "[_saku_] 当然来到我的办公室，我们将讨论我们开始所需的一切。"
+msgstr ""
 
 # game/sakuracan.rpy:854 #-#-# translate crowdin uououosas_84c71bc5:
 msgid "[_saku_] Great day to get hired, right?"
-msgstr "[_saku_] 获得雇用的好日子，对吗？"
+msgstr ""
 
 # game/sakuracan.rpy:855 #-#-# translate crowdin uououosas_08a20ed2:
 msgid "[_saku_] Don't worry, I'll warn you just in case, this is a purely formal survey, I’m required to ask this and record it to the database later, nothing unusual."
-msgstr "[_saku_] 不要担心，我会警告您，如果这只是一个纯粹正式的调查。 我需要问这个问题并稍后将其记录到数据库中，没有什么异常。"
+msgstr ""
 
 # game/sakuracan.rpy:859 #-#-# translate crowdin uououosas_54640dce:
 msgid "[_r_] S-Sure..."
-msgstr "[_r_] S-确定..."
+msgstr ""
 
 # game/sakuracan.rpy:860 #-#-# translate crowdin uououosas_1ff464d3:
 msgid "[_m_] Is this really happening?"
-msgstr "[_m_] 这是否真的发生？"
+msgstr ""
 
 # game/sakuracan.rpy:864 #-#-# translate crowdin uououosas_636cabe7:
 msgid "[_saku_] What was your name again?"
-msgstr "[_saku_] 你的名字又是什么?"
+msgstr ""
 
 # game/sakuracan.rpy:865 #-#-# translate crowdin uououosas_bceaff1f:
 msgid "[_m_] She's not kidding..."
-msgstr "[_m_] 她没有被踢出..."
+msgstr ""
 
 # game/sakuracan.rpy:866 #-#-# translate crowdin uououosas_e724b59f:
 msgid "[_saku_] Are you daydreaming?"
-msgstr "[_saku_] 你是日梦吗？"
+msgstr ""
 
 # game/sakuracan.rpy:870 #-#-# translate crowdin uououosas_98ddae4f:
 msgid "[_r_] S-sorry, could you repeat the question?..."
-msgstr "[_r_] S-对不起，你可以重复这个问题吗？..."
+msgstr ""
 
 # game/sakuracan.rpy:874 #-#-# translate crowdin uououosas_758a1ff5:
 msgid "[_saku_] Name, what's your name?"
-msgstr "[_saku_] 名称，你的名字是什么？"
+msgstr ""
 
 # game/sakuracan.rpy:878 #-#-# translate crowdin uououosas_75b2def2:
 msgid "[_r_] [viname]."
-msgstr "[_r_] [viname]."
+msgstr ""
 
 # game/sakuracan.rpy:882 #-#-# translate crowdin uououosas_d0b0019d:
 msgid "[_saku_] Great! See, it's not that hard."
-msgstr "[_saku_] 太棒了！看看，这不是很难的。"
+msgstr ""
 
 # game/sakuracan.rpy:883 #-#-# translate crowdin uououosas_44146c5f:
 msgid "[_saku_] Please tell me your family name."
-msgstr "[_saku_] 请告诉我您的姓氏。"
+msgstr ""
 
 # game/sakuracan.rpy:884 #-#-# translate crowdin uououosas_4b453b19:
 msgid "[_m_] Everything’s literally the same..."
-msgstr "[_m_] 一切都是一样的..."
+msgstr ""
 
 # game/sakuracan.rpy:885 #-#-# translate crowdin uououosas_35fb82a1:
 msgid "[_m_] Pull yourself together, answer the same as then!"
-msgstr "[_m_] 把自己拉在一起，回答相同的问题！"
+msgstr ""
 
 # game/sakuracan.rpy:891 #-#-# translate crowdin uououosas_1262df73:
 msgid "[_saku_] Well, you seem like a nice guy."
-msgstr "[_saku_] 好吧，你看起来像一个好的家伙。"
+msgstr ""
 
 # game/sakuracan.rpy:892 #-#-# translate crowdin uououosas_64bd70a7:
 msgid "[_saku_] There's a lot of demand for people like that in the team."
@@ -830,75 +830,75 @@ msgstr ""
 
 # game/sakuracan.rpy:893 #-#-# translate crowdin uououosas_4b0abc00:
 msgid "[_saku_] We only have a couple of massage therapists left, and they're mostly old, so you're a breath of fresh air."
-msgstr "[_saku_] 我们只剩下几名按摩治疗师，他们大多是老人，所以你是呼吸新鲜空气。"
+msgstr ""
 
 # game/sakuracan.rpy:897 #-#-# translate crowdin uououosas_8fffbbaf:
 msgid "[_r_] That means I’m hired, right?"
-msgstr "[_r_] 这意味着我被雇用，对吗？"
+msgstr ""
 
 # game/sakuracan.rpy:901 #-#-# translate crowdin uououosas_abbe5678:
 msgid "[_saku_] That's right, welcome to Konoha Hospital! You're part of the team now!"
-msgstr "[_saku_] 是正确的，欢迎来到Konoha医院！你现在就加入了队伍！"
+msgstr ""
 
 # game/sakuracan.rpy:905 #-#-# translate crowdin uououosas_06530bbf:
 msgid "[_r_] I'm glad. What should I do next? Will you get in contact with me?"
-msgstr "[_r_] 我很高兴。接下来我应该怎么办？你会与我联系吗？"
+msgstr ""
 
 # game/sakuracan.rpy:909 #-#-# translate crowdin uououosas_46077ebf:
 msgid "[_saku_] Come to my office tomorrow, I'll walk you through your workspace!"
-msgstr "[_saku_] 明天来到我的办公室，我会走你的工作空间！"
+msgstr ""
 
 # game/sakuracan.rpy:913 #-#-# translate crowdin uououosas_6189355c:
 msgid "[_r_] Okay, thanks."
-msgstr "[_r_] 好的，谢谢。"
+msgstr ""
 
 # game/sakuracan.rpy:928 #-#-# translate crowdin uououosas_ebb8fd20:
 msgid "[_m_] Fuck.... FUCK!"
-msgstr "[_m_] Fuck... FUCK ！"
+msgstr ""
 
 # game/sakuracan.rpy:929 #-#-# translate crowdin uououosas_2cf5ac1f:
 msgid "[_m_] What was it? The day repeated itself exactly to the smallest detail..."
-msgstr "[_m_] 是什么？那天反复重复到最小的细节..."
+msgstr ""
 
 # game/sakuracan.rpy:930 #-#-# translate crowdin uououosas_28ff9d15:
 msgid "[_m_] Sakura was talking about the same things as yesterday, it wasn't a dream."
-msgstr "[_m_] Sakura谈论的是与昨天相同的事情，这不是一个梦想。"
+msgstr ""
 
 # game/sakuracan.rpy:931 #-#-# translate crowdin uououosas_16afcb61:
 msgid "[_m_] Am I going crazy?"
-msgstr "[_m_] 我要疯狂吗？"
+msgstr ""
 
 # game/sakuracan.rpy:932 #-#-# translate crowdin uououosas_9a7a7b1d:
 msgid "[_m_] There must be an explanation... There must be something..."
-msgstr "[_m_] 必须有一个解释..."
+msgstr ""
 
 # game/sakuracan.rpy:933 #-#-# translate crowdin uououosas_3d77d852:
 msgid "[_m_] That man in the raincoat.. It wasn't Sakura."
-msgstr "[_m_] 那个在雨库里的人……它不是Sakura。"
+msgstr ""
 
 # game/sakuracan.rpy:934 #-#-# translate crowdin uououosas_f9e11003:
 msgid "[_m_] Before he swung the katana, I saw his eyes... One eye, to be exact."
-msgstr "[_m_] 在他挥舞katana之前，我看到了他的眼睛……一只眼睛是准确的。"
+msgstr ""
 
 # game/sakuracan.rpy:935 #-#-# translate crowdin uououosas_d0a563c8:
 msgid "[_m_] I could be wrong but... Sharingan? How is that even possible?"
-msgstr "[_m_] 我可能错了……Sharingan？这怎么可能？"
+msgstr ""
 
 # game/sakuracan.rpy:936 #-#-# translate crowdin uououosas_4765c52e:
 msgid "[_m_] Some unknown Uchiha is after me?"
-msgstr "[_m_] 在我之后还有一些未知的 Uchiha 吗？"
+msgstr ""
 
 # game/sakuracan.rpy:937 #-#-# translate crowdin uououosas_87306f74:
 msgid "[_m_] They were all killed by Itachi and Obito many years ago!"
-msgstr "[_m_] 他们多年前都被Itachi和Obito杀死！"
+msgstr ""
 
 # game/sakuracan.rpy:938 #-#-# translate crowdin uououosas_04a354c0:
 msgid "[_m_] M-maybe Sasuke? No, he did not look like Sasuke, he was completely different..."
-msgstr "[_m_] M-maybe Sasuke？不，他看起来不像Sasuke，他完全不同……"
+msgstr ""
 
 # game/sakuracan.rpy:939 #-#-# translate crowdin uououosas_ad66b9ac:
 msgid "[_m_] I have to pull myself together, repeat the events of yesterday, and when I get the messages, I'll know who the bastard is!"
-msgstr "[_m_] 我必须一起拉，重复昨天的事件，当我收到消息时，我会知道谁是坏人！"
+msgstr ""
 
 # game/sakuracan.rpy:951 #-#-# translate crowdin uououosas_fba2a851:
 msgid "[_m_] Okay, I did everything exactly like yesterday."
@@ -906,135 +906,135 @@ msgstr ""
 
 # game/sakuracan.rpy:952 #-#-# translate crowdin uououosas_1320d046:
 msgid "[_m_] Visited Sakura, trained Hinata."
-msgstr "[_m_] 访问过的Sakura训练了Hinata。"
+msgstr ""
 
 # game/sakuracan.rpy:953 #-#-# translate crowdin uououosas_3984f338:
 msgid "[_m_] Now we just have to wait for a message from Hinata and..."
-msgstr "[_m_] 现在我们只需等待Hinata的消息和..."
+msgstr ""
 
 # game/sakuracan.rpy:958 #-#-# translate crowdin uououosas_9346fc0c:
 msgid "[_m_] It’s her."
-msgstr "[_m_] 是她。"
+msgstr ""
 
 # game/sakuracan.rpy:992 #-#-# translate crowdin uououosas_9bfdbf03:
 msgid "[_m_] I tried to answer the same way, I hope that bastard didn't get suspicious."
-msgstr "[_m_] 我试图以同样的方式回答，我希望坏人不会有可疑之处。"
+msgstr ""
 
 # game/sakuracan.rpy:993 #-#-# translate crowdin uououosas_6e1a81ef:
 msgid "[_m_] Now the most important thing. I'll use my disguise and follow him."
-msgstr "[_m_] 现在是最重要的事情。我会使用我的伪装并跟随他。"
+msgstr ""
 
 # game/sakuracan.rpy:995 #-#-# translate crowdin uououosas_066f458b:
 msgid "[_m_] Time to find out what's going on here."
-msgstr "[_m_] 是时候去找出在这里发生的事情。"
+msgstr ""
 
 # game/sakuracan.rpy:1020 #-#-# translate crowdin masereras_8836362f:
 msgid "[_m_] There he is. I did everything right, didn't scare him away."
-msgstr "[_m_] 他在那里。我做了一切都是正确的，没有吓他了。"
+msgstr ""
 
 # game/sakuracan.rpy:1021 #-#-# translate crowdin masereras_c596a94a:
 msgid "[_m_] Who are you? And most importantly, why are you craving my death?"
-msgstr "[_m_] 你是谁？最重要的是，你为什么要激起我的死亡？"
+msgstr ""
 
 # game/sakuracan.rpy:1022 #-#-# translate crowdin masereras_332cc984:
 msgid "[_m_] Should I get closer? No, it's dangerous."
-msgstr "[_m_] 我应该接近吗？不，它是危险的。"
+msgstr ""
 
 # game/sakuracan.rpy:1023 #-#-# translate crowdin masereras_a511df8d:
 msgid "[_m_] I know for a fact that he has a sharingan, and that he's also armed."
-msgstr "[_m_] 我知道他有一个分享的人，他也有武装。"
+msgstr ""
 
 # game/sakuracan.rpy:1024 #-#-# translate crowdin masereras_423f4450:
 msgid "[_m_] For now, all I can do is keep my distance."
-msgstr "[_m_] 现在，我可以做的只是保持我的距离。"
+msgstr ""
 
 # game/sakuracan.rpy:1025 #-#-# translate crowdin masereras_a460c26d:
 msgid "[_m_] Even so, it's dangerous anyway."
-msgstr "[_m_] 即使如此，它仍然是危险的。"
+msgstr ""
 
 # game/sakuracan.rpy:1026 #-#-# translate crowdin masereras_51176622:
 msgid "[_m_] I can't be sure he can't see me."
-msgstr "[_m_] 我不能确定他看不到我。"
+msgstr ""
 
 # game/sakuracan.rpy:1027 #-#-# translate crowdin masereras_cdd3d833:
 msgid "[_m_] At least he doesn't show it."
-msgstr "[_m_] 至少他不显示它。"
+msgstr ""
 
 # game/sakuracan.rpy:1034 #-#-# translate crowdin masereras_3e11eb18:
 msgid "[_m_] He's leaving. Apparently he realized that something was wrong."
-msgstr "[_m_] 他离开了。显然，他意识到一些东西是错误的。"
+msgstr ""
 
 # game/sakuracan.rpy:1035 #-#-# translate crowdin masereras_c5207658:
 msgid "[_m_] I haven't appeared for over an hour now, he's definitely afraid."
-msgstr "[_m_] 我现在没有出现过一个多小时了，他确实害怕。"
+msgstr ""
 
 # game/sakuracan.rpy:1036 #-#-# translate crowdin masereras_9f8acf33:
 msgid "[_m_] Where is he going..."
-msgstr "[_m_] 他去哪儿..."
+msgstr ""
 
 # game/sakuracan.rpy:1037 #-#-# translate crowdin masereras_8565dcca:
 msgid "[_m_] Do I even need to know?"
-msgstr "[_m_] 我是否需要知道？"
+msgstr ""
 
 # game/sakuracan.rpy:1038 #-#-# translate crowdin masereras_14eb92d2:
 msgid "[_m_] Or is it too dangerous to follow him now?"
-msgstr "[_m_] 或者现在跟随他是否太危险？"
+msgstr ""
 
 # game/sakuracan.rpy:1039 #-#-# translate crowdin masereras_660a08bb:
 msgid "[_m_] Take risks and try to find out what's going on..."
-msgstr "[_m_] 冒险，试着了解事态发展..."
+msgstr ""
 
 # game/sakuracan.rpy:1040 #-#-# translate crowdin masereras_a159df1b:
 msgid "[_m_] Or let go of this situation and deal with it later..."
-msgstr "[_m_] 或者让这种情况转到以后处理..."
+msgstr ""
 
 # game/sakuracan.rpy:1063 #-#-# translate crowdin opasks1_9937e965:
 msgid "[_m_] I actually decided to follow him."
-msgstr "[_m_] 我实际上决定跟他走了。"
+msgstr ""
 
 # game/sakuracan.rpy:1064 #-#-# translate crowdin opasks1_9f269567:
 msgid "[_m_] I tried to keep my distance, take my time, act very carefully."
-msgstr "[_m_] 我试图保持我的距离，占用我的时间，非常仔细地行动。"
+msgstr ""
 
 # game/sakuracan.rpy:1065 #-#-# translate crowdin opasks1_ac50c4f2:
 msgid "[_m_] He, in turn, did not turn around, did not react at all."
-msgstr "[_m_] 他反过来没有转弯，根本没有反应。"
+msgstr ""
 
 # game/sakuracan.rpy:1066 #-#-# translate crowdin opasks1_998b4c08:
 msgid "[_m_] I just hope he has no clue about my presence."
-msgstr "[_m_] 我只是希望他没有关于我出席会议的线索。"
+msgstr ""
 
 # game/sakuracan.rpy:1067 #-#-# translate crowdin opasks1_128d719a:
 msgid "[_m_] We were slowly wandering in an unknown direction."
-msgstr "[_m_] 我们正在缓慢地朝未知方向行驶。"
+msgstr ""
 
 # game/sakuracan.rpy:1068 #-#-# translate crowdin opasks1_7057fe35:
 msgid "[_m_] I started to feel like he was just wandering aimlessly around Konoha."
-msgstr "[_m_] 我开始觉得他刚刚在科诺哈周围毫无目的地游荡。"
+msgstr ""
 
 # game/sakuracan.rpy:1069 #-#-# translate crowdin opasks1_bf03775f:
 msgid "[_m_] Until we ran into people I knew."
-msgstr "[_m_] 直到我们跑进人时我知道了。"
+msgstr ""
 
 # game/sakuracan.rpy:1070 #-#-# translate crowdin opasks1_e6299ee5:
 msgid "[_m_] It was Sasuke and Sakura, they were sitting on a bench in the rainy weather talking about something."
-msgstr "[_m_] Sasuke和Sakura正在雨季天气中坐在一个座位上，谈论某些问题。"
+msgstr ""
 
 # game/sakuracan.rpy:1071 #-#-# translate crowdin opasks1_e1bf0fc7:
 msgid "[_m_] The stranger just stood there and watched them for a while."
-msgstr "[_m_] 陌生人刚刚站在那里并观看了一段时间。"
+msgstr ""
 
 # game/sakuracan.rpy:1072 #-#-# translate crowdin opasks1_6e03e1d7:
 msgid "[_m_] When I allowed myself to take my eyes off him for a fraction of a second, the stranger simply vanished."
-msgstr "[_m_] 当我让自己把眼睛拿下来几秒钟时，陌生人就消失了。"
+msgstr ""
 
 # game/sakuracan.rpy:1073 #-#-# translate crowdin opasks1_14342543:
 msgid "[_m_] Where I had previously seen a dark raincoat soaking through, there was an empty space."
-msgstr "[_m_] 以前我看到黑暗的降雨涂泄漏的地方有空的空间。"
+msgstr ""
 
 # game/sakuracan.rpy:1074 #-#-# translate crowdin opasks1_58397740:
 msgid "[_m_] It vanished like a mirage, which made me shudder for a second, because that same dark raincoat could be behind me."
-msgstr "[_m_] 它像一个幻影消失了，它使我倒闭了第二个，因为那个黑暗的彩虹可能会落在我后面。"
+msgstr ""
 
 # game/sakuracan.rpy:1075 #-#-# translate crowdin opasks1_b9c7e40f:
 msgid "[_m_] But no, luckily there was no one there."
@@ -1042,59 +1042,59 @@ msgstr ""
 
 # game/sakuracan.rpy:1076 #-#-# translate crowdin opasks1_a380f2d6:
 msgid "[_m_] I've lost the only clue that could give me any answers."
-msgstr "[_m_] 我失去了能给我任何答案的唯一线索。"
+msgstr ""
 
 # game/sakuracan.rpy:1077 #-#-# translate crowdin opasks1_80014826:
 msgid "[_m_] However, I still saw Sasuke and Sakura chatting carefree in the pouring rain."
-msgstr "[_m_] 然而，我仍然看到Sasuke 和 Sakura在温带雨中无忧无虑。"
+msgstr ""
 
 # game/sakuracan.rpy:1078 #-#-# translate crowdin opasks1_a09d13d3:
 msgid "[_m_] I couldn't deny myself the pleasure of eavesdropping."
-msgstr "[_m_] 我不能剥夺自己的耳朵快乐。"
+msgstr ""
 
 # game/sakuracan.rpy:1083 #-#-# translate crowdin opasks1_9ea48bfe:
 msgid "[_saku_] You know she misses you a lot, right?"
-msgstr "[_saku_] 你知道她多错了，对吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1087 #-#-# translate crowdin opasks1_09cc1325:
 msgid "[_saku_] Not only her, me too."
-msgstr "[_saku_] 不仅仅是她，我也是如此。"
+msgstr ""
 
 # game/sakuracan.rpy:1091 #-#-# translate crowdin opasks1_d3d6accd:
 msgid "[_sasu_] Sarada - Uchiha, she's strong. My absence won't stop her from getting better."
-msgstr "[_sasu_] Sarada - Uchiha, 她的强大。我的缺席不会阻止她变得更好。"
+msgstr ""
 
 # game/sakuracan.rpy:1095 #-#-# translate crowdin opasks1_479d3ad7:
 msgid "[_saku_] Sasuke... she's still your daughter, the daughter who thinks about you all the time and is sad, not knowing whether you're okay..."
-msgstr "[_saku_] Sasuke……她仍然是你的女儿，女儿一直想着你的时候，她很伤心，不知道你是否好……"
+msgstr ""
 
 # game/sakuracan.rpy:1099 #-#-# translate crowdin opasks1_50b93a2b:
 msgid "[_sasu_] Now I care about her safety more than anyone."
-msgstr "[_sasu_] 现在我比任何人都更关心她的安全。"
+msgstr ""
 
 # game/sakuracan.rpy:1103 #-#-# translate crowdin opasks1_66b363c3:
 msgid "[_sasu_] Sakura. These are not the safest times. Konoha is in danger, we must decide what to do next."
-msgstr "[_sasu_] Sakura。这些不是最安全的时代。Konoha处于危险之中，我们必须决定下一步怎么办。"
+msgstr ""
 
 # game/sakuracan.rpy:1107 #-#-# translate crowdin opasks1_e975efeb:
 msgid "[_saku_] What exactly are you talking about?"
-msgstr "[_saku_] 你说的是什么？"
+msgstr ""
 
 # game/sakuracan.rpy:1111 #-#-# translate crowdin opasks1_53a858db:
 msgid "[_sasu_] Otsutsuki. Like Kaguya, some of them have entered our world."
-msgstr "[_sasu_] Otsutsuki。就像Kaguya一样，其中一些人进入了我们的世界。"
+msgstr ""
 
 # game/sakuracan.rpy:1113 #-#-# translate crowdin opasks1_de289703:
 msgid "[_sasu_] I don't know about their motives, but their appearance certainly doesn't bode well."
-msgstr "[_sasu_] 我不知道他们的动机，但他们的外观肯定不好。"
+msgstr ""
 
 # game/sakuracan.rpy:1117 #-#-# translate crowdin opasks1_b0bdd66f:
 msgid "[_saku_] How many of them are there? How dangerous are they? Have you spoken to Naruto about this yet?"
-msgstr "[_saku_] 其中有多少人？他们有多危险？你还是与纳鲁托谈过这个问题吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1121 #-#-# translate crowdin opasks1_3104f2ff:
 msgid "[_sasu_] Two, they are very dangerous, and yes I discussed it with Naruto."
-msgstr "[_sasu_] 两次，他们非常危险，是的，我与纳鲁托进行了讨论。"
+msgstr ""
 
 # game/sakuracan.rpy:1125 #-#-# translate crowdin opasks1_551efee6:
 msgid "[_sasu_] But that's not all. I have a hunch that there's another threat that's even closer..."
@@ -1102,51 +1102,51 @@ msgstr ""
 
 # game/sakuracan.rpy:1129 #-#-# translate crowdin opasks1_f83b7295:
 msgid "[_saku_] This pause scares me..."
-msgstr "[_saku_] 这暂停了对我的恐惧..."
+msgstr ""
 
 # game/sakuracan.rpy:1133 #-#-# translate crowdin opasks1_42de4410:
 msgid "[_sasu_] A being as powerful as me and Naruto... it's somewhere nearby, right in Konoha..."
-msgstr "[_sasu_] 像我和纳鲁托一样强大……就在附近，就在科诺哈……"
+msgstr ""
 
 # game/sakuracan.rpy:1134 #-#-# translate crowdin opasks1_95e1684e:
 msgid "[_sasu_] I don't have any evidence like those two Ōtsutsuki... But I saw... I saw this colossal accumulation of chakra..."
-msgstr "[_sasu_] 我没有任何证据像这两个Oscutsuki一样……但我看到……我看到这个链锁的巨大积累……"
+msgstr ""
 
 # game/sakuracan.rpy:1135 #-#-# translate crowdin opasks1_1b63eb54:
 msgid "[_sasu_] Only once did I catch the thread of this creature's chakra for a split second, but I saw..."
-msgstr "[_sasu_] 我只一次抓住这个生物的链条进行了第二次分割，但是我看到了..."
+msgstr ""
 
 # game/sakuracan.rpy:1139 #-#-# translate crowdin opasks1_643f6dad:
 msgid "[_saku_] What did you see dear, you can tell me..."
-msgstr "[_saku_] 你看到了什么，你可以告诉我..."
+msgstr ""
 
 # game/sakuracan.rpy:1143 #-#-# translate crowdin opasks1_0d8380b3:
 msgid "[_sasu_] Wild and unbridled chakra... There is so much of it... Dozens of times more than in Naruto and Kurama..."
-msgstr "[_sasu_] 野蛮和无节制的链锁……这么多……比纳鲁托和库拉马多出几倍……"
+msgstr ""
 
 # game/sakuracan.rpy:1145 #-#-# translate crowdin opasks1_b0e9beb7:
 msgid "[_sasu_] M-Maybe it's self-hypnosis... But I don't even know... Because of what I've seen, I'm having more and more nightmares..."
-msgstr "[_sasu_] M-Maybe是自己的伪装……但我甚至不知道……由于我看到的情况，我有越来越多的恶梦……"
+msgstr ""
 
 # game/sakuracan.rpy:1149 #-#-# translate crowdin opasks1_11a76255:
 msgid "[_saku_] Do you think this chakra is related to those Ōtsutsuki?"
-msgstr "[_saku_] 你认为这个链球是否与那些Oscutsuki相关？"
+msgstr ""
 
 # game/sakuracan.rpy:1153 #-#-# translate crowdin opasks1_6d99c976:
 msgid "[_sasu_] I don't know. It's likely that only Ōtsutsuki could have that level of power, but I can't be certain."
-msgstr "[_sasu_] 我不知道。很可能只有Oscutsuki才能拥有这种水平的力量，但我不敢肯定。"
+msgstr ""
 
 # game/sakuracan.rpy:1157 #-#-# translate crowdin opasks1_809847aa:
 msgid "[_saku_] It's okay Sasuke, we'll figure this out together..."
-msgstr "[_saku_] 没关系，我们会一起找出这个..."
+msgstr ""
 
 # game/sakuracan.rpy:1164 #-#-# translate crowdin opasks1_6a5a8097:
 msgid "[_m_] Sasuke and Sakura left about an hour ago."
-msgstr "[_m_] Sasuke和Sakura大约一个小时前离开。"
+msgstr ""
 
 # game/sakuracan.rpy:1165 #-#-# translate crowdin opasks1_39e1519d:
 msgid "[_m_] All this time I've been standing there wondering if Kamiko is so dangerous that even Sasuke Uchiha is trembling..."
-msgstr "[_m_] 我一直站在那里怀疑Kamiko是否如此危险，以至于即使是Sasuke Uchiha也是恐慌……"
+msgstr ""
 
 # game/sakuracan.rpy:1166 #-#-# translate crowdin opasks1_5a5a4a04:
 msgid "[_m_] Am I, an ordinary guy, a pizza delivery man... Completely useless as a shinobi... What's the matter... Even as a person..."
@@ -1154,47 +1154,47 @@ msgstr ""
 
 # game/sakuracan.rpy:1167 #-#-# translate crowdin opasks1_697052f4:
 msgid "[_m_] Did I fall into the clutches of the most terrible creature in the world?"
-msgstr "[_m_] 我是否落入了世界上最可怕生物的陷阱？"
+msgstr ""
 
 # game/sakuracan.rpy:1168 #-#-# translate crowdin opasks1_8baed910:
 msgid "[_m_] Or... Is it all wrong?"
-msgstr "[_m_] 或... 这一切都是错误的？"
+msgstr ""
 
 # game/sakuracan.rpy:1172 #-#-# translate crowdin opasks1_06a60e4e:
 msgid "[_su_] I found you."
-msgstr "[_su_] 找到了你。"
+msgstr ""
 
 # game/sakuracan.rpy:1174 #-#-# translate crowdin opasks1_b2347401:
 msgid "[_m_] What..."
-msgstr "[_m_] 什么..."
+msgstr ""
 
 # game/sakuracan.rpy:1185 #-#-# translate crowdin opasks1_6bef5efd:
 msgid "[_su_] I thought you would run away..."
-msgstr "[_su_] 我想你会跑去..."
+msgstr ""
 
 # game/sakuracan.rpy:1186 #-#-# translate crowdin opasks1_92d4b12c:
 msgid "[_su_] You won't hurt anyone else."
-msgstr "[_su_] 你不会伤害任何其他人。"
+msgstr ""
 
 # game/sakuracan.rpy:1187 #-#-# translate crowdin opasks1_1d136051:
 msgid "[_su_] Beast."
-msgstr "[_su_] 爆破."
+msgstr ""
 
 # game/sakuracan.rpy:1198 #-#-# translate crowdin opasks1_3c8e055f:
 msgid "[_m_] I..."
-msgstr "[_m_] 我..."
+msgstr ""
 
 # game/sakuracan.rpy:1199 #-#-# translate crowdin opasks1_2cd8dfd0:
 msgid "[_m_] It happened again..."
-msgstr "[_m_] 再次发生..."
+msgstr ""
 
 # game/sakuracan.rpy:1200 #-#-# translate crowdin opasks1_d93f55fa:
 msgid "[_m_] How did he find me..."
-msgstr "[_m_] 他是如何找到我的..."
+msgstr ""
 
 # game/sakuracan.rpy:1201 #-#-# translate crowdin opasks1_84f162f6:
 msgid "[_m_] I was in disguise..."
-msgstr "[_m_] 我在伪装中..."
+msgstr ""
 
 # game/sakuracan.rpy:1202 #-#-# translate crowdin opasks1_fcacb06c:
 msgid "[_m_] All over again? I have to repeat this day again."
@@ -1202,55 +1202,55 @@ msgstr ""
 
 # game/sakuracan.rpy:1213 #-#-# translate crowdin opasks1_a71ba65a:
 msgid "[_m_] Okay, I'm supposed to get a message right now."
-msgstr "[_m_] 好吧，我现在应该得到一条消息。"
+msgstr ""
 
 # game/sakuracan.rpy:1214 #-#-# translate crowdin opasks1_cf491386:
 msgid "[_m_] Following him was a mistake, he's more dangerous than I thought last time..."
-msgstr "[_m_] 跟着他是一个错误，他比我上次想象的更危险..."
+msgstr ""
 
 # game/sakuracan.rpy:1215 #-#-# translate crowdin opasks1_43a29aec:
 msgid "[_m_] I must cancel this meeting."
-msgstr "[_m_] 我必须取消这次会议。"
+msgstr ""
 
 # game/sakuracan.rpy:1216 #-#-# translate crowdin opasks1_2afab597:
 msgid "[_m_] But how can I do that? I can't just let my boss down..."
-msgstr "[_m_] 但我怎么能做？我不能让我的老板倒下..."
+msgstr ""
 
 # game/sakuracan.rpy:1217 #-#-# translate crowdin opasks1_158892e8:
 msgid "[_m_] Maybe I can come up with some urgent matter?"
-msgstr "[_m_] 也许我可以提出一些紧急事项吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1218 #-#-# translate crowdin opasks1_f51a1f40:
 msgid "[_m_] After all, she messaged me very unexpectedly..."
-msgstr "[_m_] 毕竟，她出乎意料地给我留下了消息..."
+msgstr ""
 
 # game/sakuracan.rpy:1236 #-#-# translate crowdin opasks1_a70bd53c:
 msgid "[_m_] How strange of her to just ignore me... She just stopped responding..."
-msgstr "[_m_] 只要忽略我，她多么奇怪... 她刚刚停止了响应..."
+msgstr ""
 
 # game/sakuracan.rpy:1237 #-#-# translate crowdin opasks1_9f927f95:
 msgid "[_m_] Is that even her?"
-msgstr "[_m_] 哪怕是她？"
+msgstr ""
 
 # game/sakuracan.rpy:1238 #-#-# translate crowdin opasks1_88962a73:
 msgid "[_m_] This is all too weird. I'll have to ask her about these messages at work tomorrow."
-msgstr "[_m_] 这太令人厌倦了。我不得不问她明天在工作中的这些消息。"
+msgstr ""
 
 # game/sakuracan.rpy:1239 #-#-# translate crowdin opasks1_27f323ef:
 msgid "[_m_] I made it through the night, so things aren't going so badly..."
-msgstr "[_m_] 我让它过了夜，所以事情不会如此差..."
+msgstr ""
 
 # game/sakuracan.rpy:1257 #-#-# translate crowdin rilnemertv_4839fa27:
 msgid "[_saku_] Come in!"
-msgstr "[_saku_] 来到！"
+msgstr ""
 
 # game/sakuracan.rpy:1268 #-#-# translate crowdin rilnemertv_b15d49ba:
 msgid "[_saku_] Masseur, good morning! Ready to get to work?"
-msgstr "[_saku_] Masseur，早晨！准备好工作吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1273 #-#-# translate crowdin rilnemertv_c1bf41eb:
 msgid "[_r_] Morning boss, I think so. Always ready to work as needed."
-msgstr "[_r_] 早晨，我认为是随时准备在需要时工作。"
+msgstr ""
 
 # game/sakuracan.rpy:1278 #-#-# translate crowdin rilnemertv_103d0e6d:
 msgid "[_saku_] That's great. Let me quickly explain to you the schedule and lunch breaks."
@@ -1258,47 +1258,47 @@ msgstr ""
 
 # game/sakuracan.rpy:1279 #-#-# translate crowdin rilnemertv_78fc9dd5:
 msgid "[_saku_] Your job is to take patients who need massages into your private office."
-msgstr "[_saku_] 您的工作是将需要按摩的病人带到您的私人办公室。"
+msgstr ""
 
 # game/sakuracan.rpy:1284 #-#-# translate crowdin rilnemertv_a5ee025d:
 msgid "[_r_] Do they have any specific back problems?"
-msgstr "[_r_] 他们是否有任何特定的返回问题？"
+msgstr ""
 
 # game/sakuracan.rpy:1289 #-#-# translate crowdin rilnemertv_ca67708e:
 msgid "[_saku_] No no, it's mostly old people who need to stretch their muscles well, I can't refer more severe cases to you just yet."
-msgstr "[_saku_] 不是，大部分老人需要很好地伸展他们的肌肉，我还不能把更严重的病例提交给你。"
+msgstr ""
 
 # game/sakuracan.rpy:1290 #-#-# translate crowdin rilnemertv_58f7f04a:
 msgid "[_saku_] I'll have to see how you handle regular preventative massage for now."
-msgstr "[_saku_] 我必须看看你现在如何处理正常的按摩。"
+msgstr ""
 
 # game/sakuracan.rpy:1295 #-#-# translate crowdin rilnemertv_e7b32a92:
 msgid "[_r_] Gotcha, boss."
-msgstr "[_r_] Gotcha, boss."
+msgstr ""
 
 # game/sakuracan.rpy:1300 #-#-# translate crowdin rilnemertv_656c67ef:
 msgid "[_saku_] Regarding the schedule, you have a full eight-hour day, you can take lunch breaks whenever you like, the flow of patients will not be serious."
-msgstr "[_saku_] 关于日程安排，你有整整八小时的天 只要你愿意，你就可以吃午餐，病人的流动就不会严重。"
+msgstr ""
 
 # game/sakuracan.rpy:1302 #-#-# translate crowdin rilnemertv_64738d44:
 msgid "[_saku_] You can eat right in your office!"
-msgstr "[_saku_] 你可以在你的办公室里吃得正好！"
+msgstr ""
 
 # game/sakuracan.rpy:1307 #-#-# translate crowdin rilnemertv_23aee810:
 msgid "[_r_] I was given a whole office, amazing."
-msgstr "[_r_] 给我一个完整的办公室，令人惊奇。"
+msgstr ""
 
 # game/sakuracan.rpy:1312 #-#-# translate crowdin rilnemertv_2842dc3c:
 msgid "[_saku_] It's not actually your personal space, it's the workplace for massage therapists who are currently not on duty. But nevertheless, it's your personal space for the time being!"
-msgstr "[_saku_] 实际上不是你的个人空间，它是目前没有值班的按摩治疗师的工作场所。 但现在还是你的个人空间！"
+msgstr ""
 
 # game/sakuracan.rpy:1317 #-#-# translate crowdin rilnemertv_a6596fb7:
 msgid "[_r_] All fine by me!"
-msgstr "[_r_] 我的所有美金！"
+msgstr ""
 
 # game/sakuracan.rpy:1322 #-#-# translate crowdin rilnemertv_38f28b71:
 msgid "[_saku_] At the end of the day, come to my office to give me the keys. That's all."
-msgstr "[_saku_] 最后，来到我的办公室，给我说钥匙，就是这一切。"
+msgstr ""
 
 # game/sakuracan.rpy:1327 #-#-# translate crowdin rilnemertv_9c480bda:
 msgid "[_r_] Thank you, may I get started then?"
@@ -1306,47 +1306,47 @@ msgstr ""
 
 # game/sakuracan.rpy:1332 #-#-# translate crowdin rilnemertv_05e3f8bd:
 msgid "[_saku_] Of course! Let’s go, I'll take you to your office."
-msgstr "[_saku_] 当然！让我们走，我会带你去您的办公室。"
+msgstr ""
 
 # game/sakuracan.rpy:1345 #-#-# translate crowdin rilnemertv_eee2b51e:
 msgid "[_m_] This is the third visitor in the last two hours."
-msgstr "[_m_] 这是最近两个小时内的第三个访客。"
+msgstr ""
 
 # game/sakuracan.rpy:1346 #-#-# translate crowdin rilnemertv_5c0a79bd:
 msgid "[_m_] Massaging isn't as hard as it sounds, but I'm beginning to think I'll just wait until the end of the day while on my phone."
-msgstr "[_m_] 按摩不如听起来那么难， 但我开始想，我只会等到我的手机上的那一天结束。"
+msgstr ""
 
 # game/sakuracan.rpy:1347 #-#-# translate crowdin rilnemertv_a8973213:
 msgid "[_m_] I must also remember that massaging old ladies is not my main goal in this damn hospital."
-msgstr "[_m_] 我还必须记住，按摩老女士不是我在这家水坝医院的主要目标。"
+msgstr ""
 
 # game/sakuracan.rpy:1348 #-#-# translate crowdin rilnemertv_6758574c:
 msgid "[_m_] I should get closer to Sakura."
-msgstr "[_m_] 我应该更接近Sakura。"
+msgstr ""
 
 # game/sakuracan.rpy:1349 #-#-# translate crowdin rilnemertv_19905d8c:
 msgid "[_m_] All I could come up with in those few hours was to try and touch her hand at the end of the day."
-msgstr "[_m_] 在这几个小时内我能够拿到的只是在一天结束时试着触摸她。"
+msgstr ""
 
 # game/sakuracan.rpy:1350 #-#-# translate crowdin rilnemertv_f91646bb:
 msgid "[_m_] When I hand over the keys to her, I should formally say goodbye to her, let’s say, to pay respect to my boss."
-msgstr "[_m_] 当我把钥匙交给她时，我应该正式告诉她，请允许我对我的老板表示敬意。"
+msgstr ""
 
 # game/sakuracan.rpy:1351 #-#-# translate crowdin rilnemertv_7b48dc52:
 msgid "[_m_] Shaking hands is the most appropriate farewell, I think she'll be fine if I'm the first to extend my hand."
-msgstr "[_m_] 摇晃手是最合适的告别，我认为如果我是第一个伸手的人，她会很好。"
+msgstr ""
 
 # game/sakuracan.rpy:1352 #-#-# translate crowdin rilnemertv_bcced2df:
 msgid "[_m_] That's where I'll use the provocation skill."
-msgstr "[_m_] 这就是我使用挑衅技巧的地方。"
+msgstr ""
 
 # game/sakuracan.rpy:1353 #-#-# translate crowdin rilnemertv_0a08e74e:
 msgid "[_m_] As far as I know, Sakura has high chakra control, the reserve is small, but the mastery is very good."
-msgstr "[_m_] 据我所知，Sakura拥有很高的chakra控制权，保留地很小，但精通很好。"
+msgstr ""
 
 # game/sakuracan.rpy:1354 #-#-# translate crowdin rilnemertv_c97c898c:
 msgid "[_m_] It's not strange, she's a doctor after all."
-msgstr "[_m_] 并不奇怪，她毕竟是一名医生。"
+msgstr ""
 
 # game/sakuracan.rpy:1355 #-#-# translate crowdin rilnemertv_3a40446c:
 msgid "[_m_] Anyway, I'm not the same as before. After waking up, I feel much more powerful."
@@ -1354,127 +1354,127 @@ msgstr ""
 
 # game/sakuracan.rpy:1356 #-#-# translate crowdin rilnemertv_52527460:
 msgid "[_m_] Maybe I won't need as much time as with Hinata."
-msgstr "[_m_] 也许我不需要与Hinata一样多的时间。"
+msgstr ""
 
 # game/sakuracan.rpy:1357 #-#-# translate crowdin rilnemertv_c6aae686:
 msgid "[_m_] But Hinata on the other hand doesn't have as much chakra power as Sakura."
-msgstr "[_m_] 但另一方面，Hinata不像Sakura那样拥有混乱的力量。"
+msgstr ""
 
 # game/sakuracan.rpy:1358 #-#-# translate crowdin rilnemertv_223f6d06:
 msgid "[_m_] I'll have to try and see what happens."
-msgstr "[_m_] 我必须尝试看看发生了什么。"
+msgstr ""
 
 # game/sakuracan.rpy:1366 #-#-# translate crowdin rilnemertv_7fe55c44:
 msgid "[_saku_] Come in."
-msgstr "[_saku_] 即将加入。"
+msgstr ""
 
 # game/sakuracan.rpy:1373 #-#-# translate crowdin rilnemertv_36be09c5:
 msgid "[_r_] Boss, I'm done for today."
-msgstr "[_r_] 老板，我今天做完了。"
+msgstr ""
 
 # game/sakuracan.rpy:1378 #-#-# translate crowdin rilnemertv_668cbb74:
 msgid "[_saku_] Have you come to hand over the keys? Good on you for remembering."
-msgstr "[_saku_] 你是否来交出钥匙？很好地让你记住它。"
+msgstr ""
 
 # game/sakuracan.rpy:1379 #-#-# translate crowdin rilnemertv_de18ffe6:
 msgid "[_saku_] How's your first day at work been?"
-msgstr "[_saku_] 您工作的第一天是怎么样的？"
+msgstr ""
 
 # game/sakuracan.rpy:1384 #-#-# translate crowdin rilnemertv_f4bb547e:
 msgid "[_r_] Fine, I liked the workplace, I got used to it quickly."
-msgstr "[_r_] 好吧，我喜欢工作场所，我很快就用过了。"
+msgstr ""
 
 # game/sakuracan.rpy:1389 #-#-# translate crowdin rilnemertv_ed7328f5:
 msgid "[_saku_] I'm glad that you easily adjusted to the new conditions, not everyone is able to do it so quickly."
-msgstr "[_saku_] 我很高兴你能够轻松地适应新的条件，不是每个人都能够很快地这样做。"
+msgstr ""
 
 # game/sakuracan.rpy:1390 #-#-# translate crowdin rilnemertv_6c8ef47e:
 msgid "[_m_] That's what I'm best at..."
-msgstr "[_m_] 这是我最好的..."
+msgstr ""
 
 # game/sakuracan.rpy:1395 #-#-# translate crowdin rilnemertv_20378ac2:
 msgid "[_r_] Thanks for the praise boss, see you tomorrow?"
-msgstr "[_r_] 感谢你们的赞美，明天见你们？"
+msgstr ""
 
 # game/sakuracan.rpy:1400 #-#-# translate crowdin rilnemertv_54bee2e8:
 msgid "[_saku_] Sure, come in at the same time!"
-msgstr "[_saku_] 正常，同时进入！"
+msgstr ""
 
 # game/sakuracan.rpy:1405 #-#-# translate crowdin rilnemertv_e56de7b8:
 msgid "[_r_] Of course, have a nice day then."
-msgstr "[_r_] 当然那天有一个美好的日子。"
+msgstr ""
 
 # game/sakuracan.rpy:1407 #-#-# translate crowdin rilnemertv_b8803660:
 msgid "[_m_] Come on, let's..."
-msgstr "[_m_] 开启，让我们..."
+msgstr ""
 
 # game/sakuracan.rpy:1413 #-#-# translate crowdin rilnemertv_c6f9f0b7:
 msgid "[_m_] Gotcha!"
-msgstr "[_m_] Gotcha!"
+msgstr ""
 
 # game/sakuracan.rpy:1429 #-#-# translate crowdin ziopoew_0692ba92:
 msgid "[_saku_] S-see you later..."
-msgstr "[_saku_] 稍后查看您..."
+msgstr ""
 
 # game/sakuracan.rpy:1434 #-#-# translate crowdin ziopoew_ef6fb138:
 msgid "[_r_] Is everything okay, boss?"
-msgstr "[_r_] 一切都好吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1439 #-#-# translate crowdin ziopoew_247013a0:
 msgid "[_saku_] Y-Yeah, I just... Got a little dizzy, not a big deal."
-msgstr "[_saku_] Y-Yeah，我刚刚……有点头晕，不是大笔。"
+msgstr ""
 
 # game/sakuracan.rpy:1444 #-#-# translate crowdin ziopoew_d0a62d6d:
 msgid "[_r_] See you tomorrow, then."
-msgstr "[_r_] 明天看到你，然后再看看。"
+msgstr ""
 
 # game/sakuracan.rpy:1449 #-#-# translate crowdin ziopoew_9136ca9e:
 msgid "[_saku_] A-alright..."
-msgstr "[_saku_] A-Alright..."
+msgstr ""
 
 # game/sakuracan.rpy:1462 #-#-# translate crowdin ziopoew_7137f84b:
 msgid "[_m_] Job done, need some rest."
-msgstr "[_m_] 任务已完成，需要休息一些时间。"
+msgstr ""
 
 # game/sakuracan.rpy:1463 #-#-# translate crowdin ziopoew_bded707b:
 msgid "[_m_] Useful rest."
-msgstr "[_m_] 有用的休息。"
+msgstr ""
 
 # game/sakuracan.rpy:1506 #-#-# translate crowdin ziopoew_0e9ce650:
 msgid "[_r_] You're still here! What about Boruto’s dinner?"
-msgstr "[_r_] 你仍然在这里！Boruto晚餐怎么样？"
+msgstr ""
 
 # game/sakuracan.rpy:1511 #-#-# translate crowdin ziopoew_2ea28ea3:
 msgid "[_hi_] It’s alright, I had to use a little trick."
-msgstr "[_hi_] 好吧，我不得不使用一点技巧。"
+msgstr ""
 
 # game/sakuracan.rpy:1516 #-#-# translate crowdin ziopoew_44af5136:
 msgid "[_r_] Lazy cooking?"
-msgstr "[_r_] 延迟烹饪？"
+msgstr ""
 
 # game/sakuracan.rpy:1521 #-#-# translate crowdin ziopoew_4c0cb768:
 msgid "[_hi_] No, I left a clone, Boruto won't notice anything, and I can relax in the room..."
-msgstr "[_hi_] 否，我留下了一个克隆，Boruto不会注意到任何事情，我可以放松在房间里..."
+msgstr ""
 
 # game/sakuracan.rpy:1526 #-#-# translate crowdin ziopoew_763940d4:
 msgid "[_r_] Very creative, Hinata!"
-msgstr "[_r_] 非常有创意，Hinata!"
+msgstr ""
 
 # game/sakuracan.rpy:1527 #-#-# translate crowdin ziopoew_4aedb7b4:
 msgid "[_r_] Come on, time for some fun."
-msgstr "[_r_] 开启，一些乐趣的时间。"
+msgstr ""
 
 # game/sakuracan.rpy:1543 #-#-# translate crowdin endcomnata_e3eb7241:
 msgid "[_r_] We had some fun together, don’t you think so?"
-msgstr "[_r_] 我们有一些乐趣，你不想这么？"
+msgstr ""
 
 # game/sakuracan.rpy:1548 #-#-# translate crowdin endcomnata_80ef11ff:
 msgid "[_hi_] I liked it, such experiments are very rare in my intimate life..."
-msgstr "[_hi_] 我喜欢它，这种实验在我的亲密生活中非常罕见..."
+msgstr ""
 
 # game/sakuracan.rpy:1553 #-#-# translate crowdin endcomnata_4a44f78b:
 msgid "[_r_] Now that you have me in your life, you'll have a lot of stuff of that sort."
-msgstr "[_r_] 现在你有我在你的生活中，你会有很多这种东西。"
+msgstr ""
 
 # game/sakuracan.rpy:1558 #-#-# translate crowdin endcomnata_be73c338:
 msgid "[_hi_] And I’m so glad! I love your large cock, I feel like the most satisfied woman in the world!"
@@ -1482,11 +1482,11 @@ msgstr ""
 
 # game/sakuracan.rpy:1563 #-#-# translate crowdin endcomnata_348fb40b:
 msgid "[_r_] It will get even more interesting soon, don't forget to reply to my messages."
-msgstr "[_r_] 很快就会更加令人感兴趣，不要忘记回复我的消息。"
+msgstr ""
 
 # game/sakuracan.rpy:1568 #-#-# translate crowdin endcomnata_362d5101:
 msgid "[_hi_] I'm always available, honey."
-msgstr "[_hi_] 我总是可用的，蜂蜜。"
+msgstr ""
 
 # game/sakuracan.rpy:1573 #-#-# translate crowdin endcomnata_3a1ae6d6:
 msgid "[_r_] Honey? I like it. See you soon, sweet cheeks, it's time for me to get some sleep. Tomorrow I’ll have to work with Sakura."
@@ -1494,23 +1494,23 @@ msgstr ""
 
 # game/sakuracan.rpy:1578 #-#-# translate crowdin endcomnata_c11b698d:
 msgid "[_hi_] Okay, I won't distract you any longer, call me anytime!"
-msgstr "[_hi_] 好的，我不会再转移你的注意力，随时打电话给我！"
+msgstr ""
 
 # game/sakuracan.rpy:1592 #-#-# translate crowdin endcomnata_4839fa27:
 msgid "[_saku_] Come in!"
-msgstr "[_saku_] 来到！"
+msgstr ""
 
 # game/sakuracan.rpy:1598 #-#-# translate crowdin endcomnata_0a389ad6:
 msgid "[_r_] Morning, boss, I'm ready for a new day."
-msgstr "[_r_] 早晨，老板，我准备好了新的一天。"
+msgstr ""
 
 # game/sakuracan.rpy:1603 #-#-# translate crowdin endcomnata_7c473b2c:
 msgid "[_saku_] Good morning. Glad to hear!"
-msgstr "[_saku_] 早上好。听起来！"
+msgstr ""
 
 # game/sakuracan.rpy:1605 #-#-# translate crowdin endcomnata_d9824d95:
 msgid "[_saku_] I have good news for you!"
-msgstr "[_saku_] 我有好消息给你！"
+msgstr ""
 
 # game/sakuracan.rpy:1610 #-#-# translate crowdin endcomnata_36d56bd9:
 msgid "[_r_] Really? What’s up?"
@@ -1518,7 +1518,7 @@ msgstr ""
 
 # game/sakuracan.rpy:1615 #-#-# translate crowdin endcomnata_78a4ea50:
 msgid "[_saku_] The clients who came to see you yesterday spoke very positively about you, they say that you have some great and strong arms."
-msgstr "[_saku_] 昨天来见到你的客户非常积极地谈到你，他们说你有一些强大的武器。"
+msgstr ""
 
 # game/sakuracan.rpy:1620 #-#-# translate crowdin endcomnata_dc43b61b:
 msgid "[_r_] Oh well, you can't take that away from me, I'm glad everyone likes it so much!"
@@ -1526,7 +1526,7 @@ msgstr ""
 
 # game/sakuracan.rpy:1625 #-#-# translate crowdin endcomnata_d41e3b4e:
 msgid "[_saku_] Keep it up. The main thing is not to relax too much, praise is good, but the main thing is to do your job well, you are showing yourself great in this regard."
-msgstr "[_saku_] 保持不变。 主要的事情是不要放松太多，赞美是好的。 但主要的事情是做得很好。你在这方面表现出自己的伟大。"
+msgstr ""
 
 # game/sakuracan.rpy:1630 #-#-# translate crowdin endcomnata_cfce2e73:
 msgid "[_r_] I'll keep trying! By the way, is something wrong? Or did it just seem to me?"
@@ -1542,27 +1542,27 @@ msgstr ""
 
 # game/sakuracan.rpy:1645 #-#-# translate crowdin endcomnata_3e232d19:
 msgid "[_saku_] Thanks for the offer, but not now, maybe after work I'll take some advantage of your kindness..."
-msgstr "[_saku_] 感谢您的优惠，但现在还不要，也许我会在工作后从您的好友中得到一些好处..."
+msgstr ""
 
 # game/sakuracan.rpy:1650 #-#-# translate crowdin endcomnata_ee3d872b:
 msgid "[_r_] Understood, I'll keep that in mind!"
-msgstr "[_r_] 流利，我会记住这一点！"
+msgstr ""
 
 # game/sakuracan.rpy:1659 #-#-# translate crowdin endcomnata_cd49596d:
 msgid "[_m_] They keep coming and coming. What a crowd. I'm in such high demand today..."
-msgstr "[_m_] 他们不断来到。是什么人群。今天我有那么高的需求..."
+msgstr ""
 
 # game/sakuracan.rpy:1660 #-#-# translate crowdin endcomnata_9026d2e0:
 msgid "[_m_] Either the rumors about a good masseuse spread so quickly, or fate decided to give me a reality check..."
-msgstr "[_m_] 关于优秀财物使用的谣言传播得很快，或者命运决定让我检查现实情况..."
+msgstr ""
 
 # game/sakuracan.rpy:1661 #-#-# translate crowdin endcomnata_55e4fb1d:
 msgid "[_m_] It's okay. Soon I will subdue Sakura and she will work her ass off to satisfy my perverted fantasies."
-msgstr "[_m_] 没问题。很快我就会把Sakura下台，她就会把她用掉来满足我的错误幻想。"
+msgstr ""
 
 # game/sakuracan.rpy:1662 #-#-# translate crowdin endcomnata_35114d11:
 msgid "[_m_] Not only Sakura, I'll have a threesome with both Sakura and Hinata! I'll fuck them one by one until I'm all drained, and out of cum!"
-msgstr "[_m_] 不仅仅是Sakura, 我会有一组与Sakura和Hinata的三人！ 我会把他们一分解开来，直到我都排下来并且没有累积！"
+msgstr ""
 
 # game/sakuracan.rpy:1663 #-#-# translate crowdin endcomnata_d913756a:
 msgid "[_m_] And then I'll make a harem of all the juiciest kunoichi in the world!"
@@ -1570,27 +1570,27 @@ msgstr ""
 
 # game/sakuracan.rpy:1664 #-#-# translate crowdin endcomnata_12435996:
 msgid "[_m_] Ha, dreams, dreams... I still have to work so hard for this..."
-msgstr "[_m_] 哈哈，梦想，梦想……我仍然必须为此而辛勤工作……"
+msgstr ""
 
 # game/sakuracan.rpy:1676 #-#-# translate crowdin endcomnata_484a8fb4:
 msgid "[_r_] Hey boss... I'm done."
-msgstr "[_r_] Hey bos... 我已经完成。"
+msgstr ""
 
 # game/sakuracan.rpy:1680 #-#-# translate crowdin endcomnata_72a91116:
 msgid "[_saku_] Good job, leave the keys on the table."
-msgstr "[_saku_] 干得好，把钥匙留在桌面上。"
+msgstr ""
 
 # game/sakuracan.rpy:1685 #-#-# translate crowdin endcomnata_422d11ba:
 msgid "[_r_] Are you okay?"
-msgstr "[_r_] 您确定吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1690 #-#-# translate crowdin endcomnata_25ec0c2b:
 msgid "[_saku_] Not really... My shoulders hurt a lot... Sedentary work is killing me..."
-msgstr "[_saku_] 不是真的……我的肩膀伤害了很多... 修饰性工作正在杀死我..."
+msgstr ""
 
 # game/sakuracan.rpy:1695 #-#-# translate crowdin endcomnata_7a066b5c:
 msgid "[_r_] Well, my offer still stands."
-msgstr "[_r_] 好吧，我的提议仍然有效。"
+msgstr ""
 
 # game/sakuracan.rpy:1700 #-#-# translate crowdin endcomnata_bfbb7072:
 msgid "[_saku_] Yes, but... I don't want to take advantage of being your boss..."
@@ -1598,43 +1598,43 @@ msgstr ""
 
 # game/sakuracan.rpy:1705 #-#-# translate crowdin endcomnata_2198f996:
 msgid "[_r_] Stop it, I don't mind it myself, I can tell you’re in pain."
-msgstr "[_r_] 停止，我不想自己，我可以告诉你正在疼痛。"
+msgstr ""
 
 # game/sakuracan.rpy:1710 #-#-# translate crowdin endcomnata_8a9580b7:
 msgid "[_saku_] If you say so... Alright, you may try..."
-msgstr "[_saku_] 如果你这样说了... 好吧，你可以尝试..."
+msgstr ""
 
 # game/sakuracan.rpy:1717 #-#-# translate crowdin endcomnata_2fd3fdb2:
 msgid "[_r_] You're really tense, boss, relax, I know what I’m doing."
-msgstr "[_r_] 你真的很紧张，很松懈，很轻松，我知道我在做什么。"
+msgstr ""
 
 # game/sakuracan.rpy:1721 #-#-# translate crowdin endcomnata_276754da:
 msgid "[_saku_] Your hands feel really good... That's just what I needed..."
-msgstr "[_saku_] 你的手感觉很好……这正是我所需要的……"
+msgstr ""
 
 # game/sakuracan.rpy:1722 #-#-# translate crowdin endcomnata_3c8c3db3:
 msgid "[_saku_] Stop calling me boss, you can just call me Sakura."
-msgstr "[_saku_] 停止打电话给我老板，你只能打电话给我Sakura。"
+msgstr ""
 
 # game/sakuracan.rpy:1726 #-#-# translate crowdin endcomnata_03a8fcbe:
 msgid "[_r_] Okay, that's more convenient indeed."
-msgstr "[_r_] 好的，这确实更方便。"
+msgstr ""
 
 # game/sakuracan.rpy:1730 #-#-# translate crowdin endcomnata_59d60ee6:
 msgid "[_saku_] You know, I've never been given a shoulder massage by any of the staff, I guess you're really as good as Hinata says you are."
-msgstr "[_saku_] 你们知道，我从未得到过任何工作人员的按摩。 我猜你真的如希纳塔所说的那样很好。"
+msgstr ""
 
 # game/sakuracan.rpy:1734 #-#-# translate crowdin endcomnata_6553274a:
 msgid "[_r_] What did she say about me?"
-msgstr "[_r_] 她对我说了什么？"
+msgstr ""
 
 # game/sakuracan.rpy:1738 #-#-# translate crowdin endcomnata_4734a16a:
 msgid "[_saku_] So many good things, I was really surprised..."
-msgstr "[_saku_] 这么多好事。我真的感到吃惊……"
+msgstr ""
 
 # game/sakuracan.rpy:1740 #-#-# translate crowdin endcomnata_3cb1cb47:
 msgid "[_m_] Great chance, she's thinking of me at the moment."
-msgstr "[_m_] 好机会，她眼下对我的思考。"
+msgstr ""
 
 # game/sakuracan.rpy:1752 #-#-# translate crowdin mamaninu_2f796bf0:
 msgid "[_saku_] She... Hinata said that you understand people very well..."
@@ -1642,31 +1642,31 @@ msgstr ""
 
 # game/sakuracan.rpy:1753 #-#-# translate crowdin mamaninu_787cc6c0:
 msgid "[_saku_] That there's something about you that attracts people towards you, something very tempting..."
-msgstr "[_saku_] 这个关于你的东西会吸引人到你身上，有些很有吸引力..."
+msgstr ""
 
 # game/sakuracan.rpy:1757 #-#-# translate crowdin mamaninu_7ed8ea2d:
 msgid "[_r_] Very nice to hear that from Hinata."
-msgstr "[_r_] 非常愉快地听到来自Hinata的消息。"
+msgstr ""
 
 # game/sakuracan.rpy:1761 #-#-# translate crowdin mamaninu_167e6e6c:
 msgid "[_saku_] I think I understand what she was talking about..."
-msgstr "[_saku_] 我想我理解她在谈论什么……"
+msgstr ""
 
 # game/sakuracan.rpy:1762 #-#-# translate crowdin mamaninu_fe2e0817:
 msgid "[_saku_] It's so good..."
-msgstr "[_saku_] 很好..."
+msgstr ""
 
 # game/sakuracan.rpy:1763 #-#-# translate crowdin mamaninu_27d52554:
 msgid "[_saku_] Your massage is so relaxing..."
-msgstr "[_saku_] 您的按摩放松了..."
+msgstr ""
 
 # game/sakuracan.rpy:1767 #-#-# translate crowdin mamaninu_31aff728:
 msgid "[_r_] How are you feeling?"
-msgstr "[_r_] 你有什么感觉？"
+msgstr ""
 
 # game/sakuracan.rpy:1771 #-#-# translate crowdin mamaninu_b59fc2c0:
 msgid "[_saku_] I feel much better now..."
-msgstr "[_saku_] 现在我感觉更好..."
+msgstr ""
 
 # game/sakuracan.rpy:1772 #-#-# translate crowdin mamaninu_707525a2:
 msgid "[_saku_] Damn... I... S-sorry... That's enough..."
@@ -1674,11 +1674,11 @@ msgstr ""
 
 # game/sakuracan.rpy:1781 #-#-# translate crowdin mamaninu_86fe6582:
 msgid "[_r_] Is everything okay? Did I hurt you?"
-msgstr "[_r_] 一切都没用？我是否伤害了你？"
+msgstr ""
 
 # game/sakuracan.rpy:1785 #-#-# translate crowdin mamaninu_8840fb04:
 msgid "[_saku_] No, no, you were really good, it's just... I feel a little different than usual..."
-msgstr "[_saku_] 不，你真是好的，只是……我觉得比平常略有不同……"
+msgstr ""
 
 # game/sakuracan.rpy:1786 #-#-# translate crowdin mamaninu_229941a8:
 msgid "[_saku_] Anyway, thank you very much, you've been very helpful, see you tomorrow!"
@@ -1686,23 +1686,23 @@ msgstr ""
 
 # game/sakuracan.rpy:1790 #-#-# translate crowdin mamaninu_f0363194:
 msgid "[_r_] Okay, bye."
-msgstr "[_r_] 好, bye."
+msgstr ""
 
 # game/sakuracan.rpy:1795 #-#-# translate crowdin mamaninu_0809186b:
 msgid "[_m_] I understand what's going on."
-msgstr "[_m_] 我知道正在做什么。"
+msgstr ""
 
 # game/sakuracan.rpy:1796 #-#-# translate crowdin mamaninu_086a36fe:
 msgid "[_m_] You're too aroused, aren’t you?"
-msgstr "[_m_] 你太激动了，你不是吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1797 #-#-# translate crowdin mamaninu_b33d9be3:
 msgid "[_m_] Someone doesn’t pay enough attention to your sweet pussy, poor Sakura."
-msgstr "[_m_] 有人没有足够关注你的甜瓜，贫困的萨库拉。"
+msgstr ""
 
 # game/sakuracan.rpy:1798 #-#-# translate crowdin mamaninu_df6559e1:
 msgid "[_m_] I didn't close the door when I left, now let's see what you're doing in there."
-msgstr "[_m_] 我离开时没有关门，现在让我们看看你在那里做什么。"
+msgstr ""
 
 # game/sakuracan.rpy:1805 #-#-# translate crowdin mamaninu_76fc74db:
 msgid "[_m_] Oh, how brave."
@@ -1710,63 +1710,63 @@ msgstr ""
 
 # game/sakuracan.rpy:1806 #-#-# translate crowdin mamaninu_82e4b44c:
 msgid "[_m_] You’re touching your breasts in the workplace..."
-msgstr "[_m_] 你正在工作场所触摸你的乳房..."
+msgstr ""
 
 # game/sakuracan.rpy:1807 #-#-# translate crowdin mamaninu_8b684ccd:
 msgid "[_m_] You're such a bad girl, Sakura..."
-msgstr "[_m_] 你是一个如此糟糕的女孩，Sakura..."
+msgstr ""
 
 # game/sakuracan.rpy:1808 #-#-# translate crowdin mamaninu_3a5300ca:
 msgid "[_m_] Did some physical affection from a hot new co-worker get you that aroused?"
-msgstr "[_m_] 一位热门的新同事给你带来了一些身体上的爱情吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1809 #-#-# translate crowdin mamaninu_a052936e:
 msgid "[_m_] Don't worry, I'll make sure your pussy and boobs get enough attention soon enough."
-msgstr "[_m_] 不要担心，我会确保您的吸尘器和泡沫能够很快得到足够的注意。"
+msgstr ""
 
 # game/sakuracan.rpy:1821 #-#-# translate crowdin mamaninu_3ccc8cb0:
 msgid "[_m_] It certainly wasn't the easiest day, but I took the first big step towards Sakura."
-msgstr "[_m_] 肯定不是最简单的日子，但是我朝着Sakura迈出了第一个大步。"
+msgstr ""
 
 # game/sakuracan.rpy:1822 #-#-# translate crowdin mamaninu_5ebabc20:
 msgid "[_m_] Perhaps we'll move on to something more interesting soon."
-msgstr "[_m_] 或许我们很快就会转向一些更有趣的东西。"
+msgstr ""
 
 # game/sakuracan.rpy:1823 #-#-# translate crowdin mamaninu_573ce4c9:
 msgid "[_m_] I like to think that soon I will be able to fuck both Hinata and Sakura at the same time."
-msgstr "[_m_] 我想，很快我就能够同时让Hinata和Sakura两人吃掉。"
+msgstr ""
 
 # game/sakuracan.rpy:1829 #-#-# translate crowdin mamaninu_f9d2a2c6:
 msgid "[_m_] Hinata? It's so late."
-msgstr "[_m_] Hinata？太晚了。"
+msgstr ""
 
 # game/sakuracan.rpy:1835 #-#-# translate crowdin mamaninu_32039a85:
 msgid "[_r_] Hey Hina, is something wrong?"
-msgstr "[_r_] 嘿Hina, 有什么错误？"
+msgstr ""
 
 # game/sakuracan.rpy:1837 #-#-# translate crowdin mamaninu_79fdfbca:
 msgid "[_hi_] Hi! Yes, actually. I was texting Sakura just now."
-msgstr "[_hi_] Hi! 是的，实际上我刚刚正在向Sakura发送文本。"
+msgstr ""
 
 # game/sakuracan.rpy:1838 #-#-# translate crowdin mamaninu_413907dd:
 msgid "[_hi_] I can make you happy twice at once."
-msgstr "[_hi_] 我可以让你一次快乐两次。"
+msgstr ""
 
 # game/sakuracan.rpy:1839 #-#-# translate crowdin mamaninu_b6f537b4:
 msgid "[_r_] Intriguing, I hope this is really something good!"
-msgstr "[_r_] 诱惑，我希望这真是好的！"
+msgstr ""
 
 # game/sakuracan.rpy:1840 #-#-# translate crowdin mamaninu_2adbd539:
 msgid "[_hi_] Well, first of all, you have a day off tomorrow, Sakura won’t go to the hospital, so there’s no one to supervise you."
-msgstr "[_hi_] 好吧，您明天有一天休息，Sakura不会去医院，所以没有人来监督您。"
+msgstr ""
 
 # game/sakuracan.rpy:1841 #-#-# translate crowdin mamaninu_2ad0152b:
 msgid "[_r_] Not bad, I could use some rest."
-msgstr "[_r_] 不错，我可以使用一些休息时间。"
+msgstr ""
 
 # game/sakuracan.rpy:1842 #-#-# translate crowdin mamaninu_4e0cbe00:
 msgid "[_r_] But that's not all, is it?"
-msgstr "[_r_] 但这不是全部，是吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1843 #-#-# translate crowdin mamaninu_948fbfbc:
 msgid "[_hi_] Yes! I asked Sakura to come over for tea and mentioned you, Sakura doesn't mind if we come together! She seems to have taken a liking to you!"
@@ -1782,15 +1782,15 @@ msgstr ""
 
 # game/sakuracan.rpy:1846 #-#-# translate crowdin mamaninu_120560e2:
 msgid "[_r_] Great! See you there then."
-msgstr "[_r_] 太棒了！看看你那儿。"
+msgstr ""
 
 # game/sakuracan.rpy:1847 #-#-# translate crowdin mamaninu_debe98c2:
 msgid "[_hi_] Good night!"
-msgstr "[_hi_] 晚上好！"
+msgstr ""
 
 # game/sakuracan.rpy:1853 #-#-# translate crowdin mamaninu_fed5dc58:
 msgid "[_m_] Sudden, but I like where this is going!"
-msgstr "[_m_] 突然发生，但我喜欢这一步的走向！"
+msgstr ""
 
 # game/sakuracan.rpy:1869 #-#-# translate crowdin mamaninu_92f1b6a8:
 msgid "[_saku_] There you are! I've been waiting for you!"
@@ -1798,7 +1798,7 @@ msgstr ""
 
 # game/sakuracan.rpy:1877 #-#-# translate crowdin mamaninu_52d946a3:
 msgid "[_hi_] How are you Sakura? Feeling better already?"
-msgstr "[_hi_] 你是如何萨库拉？已经感觉更好了？"
+msgstr ""
 
 # game/sakuracan.rpy:1882 #-#-# translate crowdin mamaninu_23fb2fd5:
 msgid "[_saku_] Yeahhhh! God, last night was so bad, my head felt like it split in two, but today I'm fine, I feel better than usual!"
@@ -1806,27 +1806,27 @@ msgstr ""
 
 # game/sakuracan.rpy:1887 #-#-# translate crowdin mamaninu_f15a2765:
 msgid "[_r_] How are your shoulders? Did my hands work any miracles?"
-msgstr "[_r_] 你的肩膀如何？我的手有什么奇迹？"
+msgstr ""
 
 # game/sakuracan.rpy:1892 #-#-# translate crowdin mamaninu_554579a9:
 msgid "[_saku_] Of course, it’s a long way from a miracle, but you know, it seems like you got the blood flowing well. I really feel better!"
-msgstr "[_saku_] 当然这是一个奇迹很长的路程，但是你知道，看起来你的血流很好。 我真的感觉更好！"
+msgstr ""
 
 # game/sakuracan.rpy:1897 #-#-# translate crowdin mamaninu_44f85372:
 msgid "[_hi_] I told you he has magic hands! Believe me, I know what I'm talking about, I'm his first and most loyal customer!"
-msgstr "[_hi_] 我告诉你他有魔法手！相信我，我知道我在说什么，我是他的第一位也是最忠诚的顾客！"
+msgstr ""
 
 # game/sakuracan.rpy:1902 #-#-# translate crowdin mamaninu_fd636d00:
 msgid "[_saku_] With recommendations like those, no wonder I hired you so quickly."
-msgstr "[_saku_] 有这样的建议，我不想很快地雇用你。"
+msgstr ""
 
 # game/sakuracan.rpy:1907 #-#-# translate crowdin mamaninu_28000e97:
 msgid "[_r_] I know very well who to thank!"
-msgstr "[_r_] 我非常清楚感谢谁！"
+msgstr ""
 
 # game/sakuracan.rpy:1912 #-#-# translate crowdin mamaninu_48b7a04e:
 msgid "[_hi_] Yes, thank me!"
-msgstr "[_hi_] 是的，谢谢我！"
+msgstr ""
 
 # game/sakuracan.rpy:1917 #-#-# translate crowdin mamaninu_f7504268:
 msgid "[_saku_] Okay guys, let's go to the hall, I bought some delicious pastries and made some tea, let's relax!"
@@ -1834,39 +1834,39 @@ msgstr ""
 
 # game/sakuracan.rpy:1929 #-#-# translate crowdin bibisasterty_daa8004b:
 msgid "[_saku_] Then I told Tsunade that gambling is not for me, but you have no idea how difficult it is to reject a game of cards with her, she is simply obsessed with it!"
-msgstr "[_saku_] 然后我告诉Tsunade说，赌博不是我的。 但你不知道拒绝一场带着她的卡片游戏有多大难度，她只是对它感到迷惑不解！"
+msgstr ""
 
 # game/sakuracan.rpy:1933 #-#-# translate crowdin bibisasterty_f6d9c4ed:
 msgid "[_hi_] Nothing strange! No matter how many times I tried to beat her, it was a lost cause. It’s good that I refused to let her play for money that time."
-msgstr "[_hi_] 没什么奇怪！不管我多少次试图打她，这都是一个失去的事业。 很好的是，我当时拒绝让她玩游戏赚钱。"
+msgstr ""
 
 # game/sakuracan.rpy:1937 #-#-# translate crowdin bibisasterty_1993cf7a:
 msgid "[_saku_] Our new masseur should definitely meet Tsunade, just in case he can be the first one to beat her!"
-msgstr "[_saku_] 我们的新疯子肯定会见Tsunade，只要他能够成为第一个打她的人！"
+msgstr ""
 
 # game/sakuracan.rpy:1941 #-#-# translate crowdin bibisasterty_17e2327c:
 msgid "[_r_] Is she really that good?"
-msgstr "[_r_] 她真的好吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1945 #-#-# translate crowdin bibisasterty_b423a6b0:
 msgid "[_saku_] She's a gambler! It's better not to joke with people like that unless you're ready to leave with empty pockets!"
-msgstr "[_saku_] 她是一个游戏玩家！除非你准备用空口袋离开，否则最好不要与那些人玩笑！"
+msgstr ""
 
 # game/sakuracan.rpy:1949 #-#-# translate crowdin bibisasterty_199a63eb:
 msgid "[_r_] Well, actually, I'm a pretty good player too, maybe I'd try my hand at it."
-msgstr "[_r_] 好吧，实际上我也是个很好的玩家，也许我会试试一下我的手。"
+msgstr ""
 
 # game/sakuracan.rpy:1951 #-#-# translate crowdin bibisasterty_a48e024e:
 msgid "[_m_] Rather, I just want to see Tsunade and her legendary tits."
-msgstr "[_m_] 相反，我只是想看到Tsunade 和她的传奇提示。"
+msgstr ""
 
 # game/sakuracan.rpy:1955 #-#-# translate crowdin bibisasterty_1b8ade50:
 msgid "[_saku_] You know what? I can arrange it. Everyone refuses to play with her, but I see you don't mind losing some money."
-msgstr "[_saku_] 你知道什么？我可以安排它。每个人都拒绝和她一起玩，但我看到你不想失去一些钱。"
+msgstr ""
 
 # game/sakuracan.rpy:1959 #-#-# translate crowdin bibisasterty_0b4b08e7:
 msgid "[_r_] I have to spend my new salary somewhere, right?"
-msgstr "[_r_] 我不得不在某处花费我的新工资，对吗？"
+msgstr ""
 
 # game/sakuracan.rpy:1963 #-#-# translate crowdin bibisasterty_3049c641:
 msgid "[_hi_] She'll definitely like him!"
@@ -1890,19 +1890,19 @@ msgstr ""
 
 # game/sakuracan.rpy:1985 #-#-# translate crowdin bibisasterty_7c028ad1:
 msgid "[_m_] It's cozy in here."
-msgstr "[_m_] 在这儿是疯狂的。"
+msgstr ""
 
 # game/sakuracan.rpy:1986 #-#-# translate crowdin bibisasterty_44baa77f:
 msgid "[_m_] A big family home, just like how I imagined Sakura and Sasuke's nest."
-msgstr "[_m_] 一个大家居，就像我想象的Sakura和Sasuke的巢穴一样。"
+msgstr ""
 
 # game/sakuracan.rpy:1987 #-#-# translate crowdin bibisasterty_1169e150:
 msgid "[_m_] Okay, I need to take a leak quickly."
-msgstr "[_m_] 好的，我需要迅速泄露。"
+msgstr ""
 
 # game/sakuracan.rpy:1995 #-#-# translate crowdin bibisasterty_b2f2a56e:
 msgid "[_r_] Huh? Hinata? You..."
-msgstr "[_r_] Huh？Hinata？您..."
+msgstr ""
 
 # game/sakuracan.rpy:2000 #-#-# translate crowdin bibisasterty_417a55fc:
 msgid "[_hi_] Shh! We don't have much time, come here.."
@@ -1910,35 +1910,35 @@ msgstr ""
 
 # game/sakuracan.rpy:2005 #-#-# translate crowdin bibisasterty_9775dfef:
 msgid "[_hi_] Long time no see!"
-msgstr "[_hi_] 长时间看不见！"
+msgstr ""
 
 # game/sakuracan.rpy:2006 #-#-# translate crowdin bibisasterty_b4e5420f:
 msgid "[_hi_] Come to mommy."
-msgstr "[_hi_] 前来嘲笑。"
+msgstr ""
 
 # game/sakuracan.rpy:2019 #-#-# translate crowdin bibisasterty_87a8d79c:
 msgid "[_r_] Fuck..."
-msgstr "[_r_] Fuck..."
+msgstr ""
 
 # game/sakuracan.rpy:2020 #-#-# translate crowdin bibisasterty_237e90a6:
 msgid "[_r_] Mmmmmm... What a s-surprise..."
-msgstr "[_r_] Mmmmm……什么是惊喜..."
+msgstr ""
 
 # game/sakuracan.rpy:2021 #-#-# translate crowdin bibisasterty_df6dab08:
 msgid "[_r_] But I have nothing to complain about..."
-msgstr "[_r_] 但我没有什么可以抱怨的东西..."
+msgstr ""
 
 # game/sakuracan.rpy:2027 #-#-# translate crowdin bibisasterty_fe59cb80:
 msgid "[_r_] Like this, Hinata..."
-msgstr "[_r_] 喜欢这个，Hinata..."
+msgstr ""
 
 # game/sakuracan.rpy:2028 #-#-# translate crowdin bibisasterty_afd9b7f0:
 msgid "[_r_] Hurry up a little..."
-msgstr "[_r_] 稍微快一点..."
+msgstr ""
 
 # game/sakuracan.rpy:2029 #-#-# translate crowdin bibisasterty_b488354c:
 msgid "[_r_] You can go deeper!"
-msgstr "[_r_] 你可以去深度！"
+msgstr ""
 
 # game/sakuracan.rpy:2039 #-#-# translate crowdin bibisasterty_a77ea757:
 msgid "[_r_] Yes! Like this... Swallow..."
@@ -1950,23 +1950,23 @@ msgstr ""
 
 # game/sakuracan.rpy:2041 #-#-# translate crowdin bibisasterty_f2b81ba9:
 msgid "[_r_] Swallow this..."
-msgstr "[_r_] 互换..."
+msgstr ""
 
 # game/sakuracan.rpy:2055 #-#-# translate crowdin bibisasterty_915060d5:
 msgid "[_r_] Fuck... That was fast..."
-msgstr "[_r_] Fuck... 这很快..."
+msgstr ""
 
 # game/sakuracan.rpy:2059 #-#-# translate crowdin bibisasterty_f71f5670:
 msgid "[_hi_] Thanks for the treat."
-msgstr "[_hi_] 感谢好友。"
+msgstr ""
 
 # game/sakuracan.rpy:2064 #-#-# translate crowdin bibisasterty_cbf499ab:
 msgid "[_r_] What if Sakura notices us?"
-msgstr "[_r_] 如果Sakura注意到我们怎么办？"
+msgstr ""
 
 # game/sakuracan.rpy:2069 #-#-# translate crowdin bibisasterty_999faab5:
 msgid "[_hi_] Stop it, we're just two people who went to separate bathrooms."
-msgstr "[_hi_] 停止，我们只是两个人去隔离浴室。"
+msgstr ""
 
 # game/sakuracan.rpy:2071 #-#-# translate crowdin bibisasterty_cad30f70:
 msgid "[_hi_] Moreover, I couldn’t miss the opportunity to blow you in Sakura’s house, it turns me on!"
@@ -1974,39 +1974,39 @@ msgstr ""
 
 # game/sakuracan.rpy:2076 #-#-# translate crowdin bibisasterty_c518f7b3:
 msgid "[_r_] I adore you so much."
-msgstr "[_r_] 我对你非常赞叹。"
+msgstr ""
 
 # game/sakuracan.rpy:2081 #-#-# translate crowdin bibisasterty_d24d2601:
 msgid "[_hi_] Words like those are precisely why I am ready to blow you anywhere!"
-msgstr "[_hi_] 正是为什么我愿意随时随地打击你！"
+msgstr ""
 
 # game/sakuracan.rpy:2083 #-#-# translate crowdin bibisasterty_6267020a:
 msgid "[_hi_] Now let's go! It's not polite to leave the hostess alone."
-msgstr "[_hi_] 现在让我们开始！不要只是抛弃主机而已。"
+msgstr ""
 
 # game/sakuracan.rpy:2101 #-#-# translate crowdin bibisasterty_65db966f:
 msgid "[_hi_] Have you come up with a program for us today?"
-msgstr "[_hi_] 今天你是否为我们制定了一个程序？"
+msgstr ""
 
 # game/sakuracan.rpy:2106 #-#-# translate crowdin bibisasterty_dc8ae45d:
 msgid "[_r_] Of course, sweetie, now you quickly change your clothes and we’ll have a lot of fun in the room."
-msgstr "[_r_] 当然，现在你很快地更换衣服，我们会在会议室里有很多乐趣。"
+msgstr ""
 
 # game/sakuracan.rpy:2111 #-#-# translate crowdin bibisasterty_e4b8701a:
 msgid "[_hi_] Do what you want! I like to obey..."
-msgstr "[_hi_] 做你想要的事情！我想要继续..."
+msgstr ""
 
 # game/sakuracan.rpy:2113 #-#-# translate crowdin bibisasterty_f8c3cc40:
 msgid "[_hi_] I sound like a slut but... This is too hot..."
-msgstr "[_hi_] 我听起来就像是一只豪言壮语……这太热了..."
+msgstr ""
 
 # game/sakuracan.rpy:2118 #-#-# translate crowdin bibisasterty_a688872c:
 msgid "[_r_] I can’t blame you for your tendency to submit."
-msgstr "[_r_] 我不能为你提交的倾向而指责你。"
+msgstr ""
 
 # game/sakuracan.rpy:2119 #-#-# translate crowdin bibisasterty_96fbab29:
 msgid "[_r_] When you lower your eyes and obediently wait for my instructions, you are the hottest woman in the world."
-msgstr "[_r_] 当你放下眼睛并顺从等待我的指示时，你是世界上最热门的妇女。"
+msgstr ""
 
 # game/sakuracan.rpy:2124 #-#-# translate crowdin bibisasterty_37ccbc7b:
 msgid "[_hi_] God... You are such a tease! Come on faster, I want to play!"
@@ -2014,19 +2014,19 @@ msgstr ""
 
 # game/sakuracan.rpy:2140 #-#-# translate crowdin aferomes_206dd87b:
 msgid "[_r_] Were your expectations met?"
-msgstr "[_r_] 是否达到了您的期望？"
+msgstr ""
 
 # game/sakuracan.rpy:2145 #-#-# translate crowdin aferomes_c2ec8028:
 msgid "[_hi_] Yes... I was wet all day just thinking about how we would end up in the room soon..."
-msgstr "[_hi_] 是……我整天都很湿，我只是想想一下我们将如何很快进入房间……"
+msgstr ""
 
 # game/sakuracan.rpy:2146 #-#-# translate crowdin aferomes_a6cb1f3f:
 msgid "[_hi_] I bet it’s unbeatable, taking such a load off your shoulders..."
-msgstr "[_hi_] 我打赌它是无法承受的，把这么多的负荷拿走掉你的肩上……"
+msgstr ""
 
 # game/sakuracan.rpy:2151 #-#-# translate crowdin aferomes_78122b53:
 msgid "[_r_] You've been so brave lately, I love that about you."
-msgstr "[_r_] 最近你如此勇敢，我很喜欢你。"
+msgstr ""
 
 # game/sakuracan.rpy:2156 #-#-# translate crowdin aferomes_eac8ddaf:
 msgid "[_hi_] Stop it... You're embarrassing me!"
@@ -2034,27 +2034,27 @@ msgstr ""
 
 # game/sakuracan.rpy:2161 #-#-# translate crowdin aferomes_739abb3f:
 msgid "[_r_] Do you want something more extreme?"
-msgstr "[_r_] 你想要一些更极端的东西吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2166 #-#-# translate crowdin aferomes_af3f7eee:
 msgid "[_hi_] Have you come up with something new?"
-msgstr "[_hi_] 你有什么新东西？"
+msgstr ""
 
 # game/sakuracan.rpy:2171 #-#-# translate crowdin aferomes_263d0257:
 msgid "[_r_] Tomorrow I'm working at Sakura’s place, come to my session, I'll fuck you right on the massage table."
-msgstr "[_r_] 明天我在萨库拉的地方工作，来参加我的会议，我会马上在按摩桌旁找你。"
+msgstr ""
 
 # game/sakuracan.rpy:2176 #-#-# translate crowdin aferomes_73b2fe5f:
 msgid "[_hi_] B-but what if Sakura catches us? Or is she not checking the staff at all?"
-msgstr "[_hi_] B-but 如果Sakura 抓到我们怎么办？或者她根本没有检查员？"
+msgstr ""
 
 # game/sakuracan.rpy:2181 #-#-# translate crowdin aferomes_d6303dd9:
 msgid "[_r_] That's the whole point, Sakura often drops by to check how I'm doing..."
-msgstr "[_r_] 这就是整个点，Sakura常常掉落，检查我如何做..."
+msgstr ""
 
 # game/sakuracan.rpy:2182 #-#-# translate crowdin aferomes_8953e889:
 msgid "[_r_] The feeling that we might get caught, isn't that what makes you wet?"
-msgstr "[_r_] 我们可能会被抓获的感觉，难道不是那种使你变得如此？"
+msgstr ""
 
 # game/sakuracan.rpy:2187 #-#-# translate crowdin aferomes_aea5b62c:
 msgid "[_hi_] You... God you're right... I'm down."
@@ -2066,59 +2066,59 @@ msgstr ""
 
 # game/sakuracan.rpy:2212 #-#-# translate crowdin aferomes_b7def8da:
 msgid "[_saku_] [viname]! Good morning, how are you today?"
-msgstr "[_saku_] [viname]！早上好吧，你今天怎么办？"
+msgstr ""
 
 # game/sakuracan.rpy:2217 #-#-# translate crowdin aferomes_8de44d1d:
 msgid "[_r_] Everything is great, Sakura, ready to work! Everything is as usual, right?"
-msgstr "[_r_] 一切都是巨大的，萨库拉，准备好工作！一切都是平常的，对吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2222 #-#-# translate crowdin aferomes_6016f293:
 msgid "[_saku_] Yeah, you know, just a regular preventative massage, just do what you do best."
-msgstr "[_saku_] 是的，你知道，仅仅是一个正常的预防性的按摩，只是做你最好的事情。"
+msgstr ""
 
 # game/sakuracan.rpy:2227 #-#-# translate crowdin aferomes_032eee9c:
 msgid "[_r_] Okay! See you at lunch?"
-msgstr "[_r_] 好吧！在午餐上看看你吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2232 #-#-# translate crowdin aferomes_f27c8e90:
 msgid "[_saku_] Maybe earlier! Sometimes it gets a little boring here."
-msgstr "[_saku_] 也许更早！有时候它在这里会有点困惑。"
+msgstr ""
 
 # game/sakuracan.rpy:2237 #-#-# translate crowdin aferomes_d2371e2c:
 msgid "[_r_] Okay, come over any time, we’ll chat."
-msgstr "[_r_] 好的，来了，我们会聊天。"
+msgstr ""
 
 # game/sakuracan.rpy:2249 #-#-# translate crowdin aferomes_e1c8f1af:
 msgid "[_m_] Okay, this is the last one, Hinata should come now."
-msgstr "[_m_] 好的，这是最后一个，Hinata应该现在就来了。"
+msgstr ""
 
 # game/sakuracan.rpy:2250 #-#-# translate crowdin aferomes_8080b353:
 msgid "[_m_] It's good that she has a freer schedule now."
-msgstr "[_m_] 很好的是，她现在有一个更自由的计划。"
+msgstr ""
 
 # game/sakuracan.rpy:2251 #-#-# translate crowdin aferomes_df7d1794:
 msgid "[_m_] The freer Hinata is, the more time we have for all sorts of perversions!"
-msgstr "[_m_] 更自由的Hinata是我们有更多的时间来处理各种错误！"
+msgstr ""
 
 # game/sakuracan.rpy:2261 #-#-# translate crowdin aferomes_d3cba48b:
 msgid "[_r_] Come in!"
-msgstr "[_r_] 来到！"
+msgstr ""
 
 # game/sakuracan.rpy:2269 #-#-# translate crowdin aferomes_9612c50b:
 msgid "[_hi_] You’ve got a cozy place, huh!"
-msgstr "[_hi_] 你已经有了一个巧妙的地方吧!"
+msgstr ""
 
 # game/sakuracan.rpy:2274 #-#-# translate crowdin aferomes_2f41d23b:
 msgid "[_r_] You came! Sakura didn't see you?"
-msgstr "[_r_] 你蛋糕！Sakura没有看到你吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2279 #-#-# translate crowdin aferomes_54097883:
 msgid "[_hi_] No, we haven't crossed paths, she's probably in her office."
-msgstr "[_hi_] 否，我们没有走过路，她可能在她的办公室里。"
+msgstr ""
 
 # game/sakuracan.rpy:2284 #-#-# translate crowdin aferomes_08034329:
 msgid "[_r_] How are you feeling? Ready to have some fun?"
-msgstr "[_r_] 你有什么感觉？准备好有些乐趣？"
+msgstr ""
 
 # game/sakuracan.rpy:2289 #-#-# translate crowdin aferomes_98889f22:
 msgid "[_hi_] Oh yes! I thought about it all day... I had to warm myself up with my fingers..."
@@ -2126,7 +2126,7 @@ msgstr ""
 
 # game/sakuracan.rpy:2294 #-#-# translate crowdin aferomes_78c7ed9a:
 msgid "[_r_] Do you want to jump on my dick so badly? What a good patient I have today! Aren't you afraid of Sakura's visit?"
-msgstr "[_r_] 你想要在我的口服上跳得太差？今天我有什么好病人！你不怕萨库拉的访问？"
+msgstr ""
 
 # game/sakuracan.rpy:2299 #-#-# translate crowdin aferomes_cc92466e:
 msgid "[_hi_] I'm worried about this, but..."
@@ -2138,27 +2138,27 @@ msgstr ""
 
 # game/sakuracan.rpy:2305 #-#-# translate crowdin aferomes_a6843839:
 msgid "[_r_] That's right. Don't worry, I'll lock the door. Even if Sakura comes, she won't be able to get in."
-msgstr "[_r_] 正确。别担心，我会锁住大门。即使Sakura来了，她也无法进入。"
+msgstr ""
 
 # game/sakuracan.rpy:2310 #-#-# translate crowdin aferomes_bb2e63b7:
 msgid "[_hi_] Okay..."
-msgstr "[_hi_] 好..."
+msgstr ""
 
 # game/sakuracan.rpy:2315 #-#-# translate crowdin aferomes_2208ab2c:
 msgid "[_r_] Damn… I got a boner just from looking at your tits... Come here, let's get down to business!"
-msgstr "[_r_] Damn… 我从看你的技巧中得到了一个好东西……来到这里，让我们开始做生意！"
+msgstr ""
 
 # game/sakuracan.rpy:2326 #-#-# translate crowdin aferomes_dd0c9cfb:
 msgid "[_r_] The feeling that we are going to be caught makes you leak like the a whore!"
-msgstr "[_r_] 我们会被抓住的感觉使你像一只鲸鱼一样泄露！"
+msgstr ""
 
 # game/sakuracan.rpy:2328 #-#-# translate crowdin aferomes_1b9cd322:
 msgid "[_hi_] Mmmm... This is so... Hot..."
-msgstr "[_hi_] Mmmm... 这是热点..."
+msgstr ""
 
 # game/sakuracan.rpy:2330 #-#-# translate crowdin aferomes_50598532:
 msgid "[_r_] Somewhere deep down you want to be seen, right? How I fuck you like my obedient bitch!"
-msgstr "[_r_] 你想要在深处看到的，对吗？我是如何把你喜欢我的听力比特！"
+msgstr ""
 
 # game/sakuracan.rpy:2332 #-#-# translate crowdin aferomes_cba393fb:
 msgid "[_hi_] God yes! I... It sounds so.... M-M-M-M!!"
@@ -2170,7 +2170,7 @@ msgstr ""
 
 # game/sakuracan.rpy:2347 #-#-# translate crowdin aferomes_dd5fdf63:
 msgid "[_saku_] Or do you have a patient?"
-msgstr "[_saku_] 或者您有一个患者吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2351 #-#-# translate crowdin aferomes_e160ff8a:
 msgid "[_r_] Yes! Sakura! I have a very demanding patient, she asked me to close the door!"
@@ -2186,11 +2186,11 @@ msgstr ""
 
 # game/sakuracan.rpy:2363 #-#-# translate crowdin aferomes_dc809d59:
 msgid "[_hi_] Mmmmm... Fuck..."
-msgstr "[_hi_] 毫米... Fuck..."
+msgstr ""
 
 # game/sakuracan.rpy:2371 #-#-# translate crowdin aferomes_d93b1263:
 msgid "[_saku_] Is this true miss? I'm a senior doctor, I won't disturb you!"
-msgstr "[_saku_] 这真是错了吗？我是一位高级医生，我不会打扰你！"
+msgstr ""
 
 # game/sakuracan.rpy:2375 #-#-# translate crowdin aferomes_0cd852c4:
 msgid "[_hi_] Mmmm!"
@@ -2198,11 +2198,11 @@ msgstr ""
 
 # game/sakuracan.rpy:2379 #-#-# translate crowdin aferomes_e815e5b3:
 msgid "[_saku_] Excuse me? I can't make it out..."
-msgstr "[_saku_] Excuse 我？我不能做出它..."
+msgstr ""
 
 # game/sakuracan.rpy:2383 #-#-# translate crowdin aferomes_d7a4c7aa:
 msgid "[_r_] She asked not to distract us from the massage!"
-msgstr "[_r_] 她要求不要分散我们对质量的注意力！"
+msgstr ""
 
 # game/sakuracan.rpy:2393 #-#-# translate crowdin aferomes_068d4c73:
 msgid "[_saku_] Okay! Then come see me after work, maybe even a little early!"
@@ -2214,7 +2214,7 @@ msgstr ""
 
 # game/sakuracan.rpy:2397 #-#-# translate crowdin aferomes_666753cf:
 msgid "[_r_] Definitely!"
-msgstr "[_r_] 绝对！"
+msgstr ""
 
 # game/sakuracan.rpy:2399 #-#-# translate crowdin aferomes_84d6880e:
 msgid "[_r_] I'll try to! FINISH! FASTER!!"
@@ -2226,11 +2226,11 @@ msgstr ""
 
 # game/sakuracan.rpy:2409 #-#-# translate crowdin aferomes_40fbe749:
 msgid "[_hi_] It's just... Fuuuck..."
-msgstr "[_hi_] 只是... Fuuuck..."
+msgstr ""
 
 # game/sakuracan.rpy:2410 #-#-# translate crowdin aferomes_222efe1f:
 msgid "[_hi_] It was cool..."
-msgstr "[_hi_] 很酷..."
+msgstr ""
 
 # game/sakuracan.rpy:2412 #-#-# translate crowdin aferomes_86313694:
 msgid "[_r_] Agreed..."
@@ -2238,39 +2238,39 @@ msgstr ""
 
 # game/sakuracan.rpy:2422 #-#-# translate crowdin aferomes_04c83344:
 msgid "[_saku_] There you are! How is your patient?"
-msgstr "[_saku_] 您在那里！您的患者是多么？"
+msgstr ""
 
 # game/sakuracan.rpy:2427 #-#-# translate crowdin aferomes_4eb19a95:
 msgid "[_r_] It wasn't easy... She's very capricious, but I was able to find an approach."
-msgstr "[_r_] 不是一件容易的事……她很任人摆布，但是我找到了一种办法。"
+msgstr ""
 
 # game/sakuracan.rpy:2432 #-#-# translate crowdin aferomes_07d05bbd:
 msgid "[_saku_] Sometimes you come across such patients, the main thing is to do everything to make them feel comfortable!"
-msgstr "[_saku_] 有时你会遇到这种病人，主要的事情是尽一切努力使他们感到舒适！"
+msgstr ""
 
 # game/sakuracan.rpy:2437 #-#-# translate crowdin aferomes_7ed2ba1d:
 msgid "[_r_] Yes, I immediately thought of that."
-msgstr "[_r_] 是的，我立即想到了这一点。"
+msgstr ""
 
 # game/sakuracan.rpy:2442 #-#-# translate crowdin aferomes_a0300e7f:
 msgid "[_saku_] I didn't have time to tell you! I didn't just stop by for nothing."
-msgstr "[_saku_] 我没有时间告诉你！我没有停顿。"
+msgstr ""
 
 # game/sakuracan.rpy:2443 #-#-# translate crowdin aferomes_ea077570:
 msgid "[_saku_] Come to my place tomorrow after work, let's play cards!"
-msgstr "[_saku_] 明天在工作后来到我的位置，让我们的游戏卡！"
+msgstr ""
 
 # game/sakuracan.rpy:2448 #-#-# translate crowdin aferomes_b8b0e03a:
 msgid "[_r_] With you? You’re not a gambler."
-msgstr "[_r_] 和你一起吗？你不是一个赌博者。"
+msgstr ""
 
 # game/sakuracan.rpy:2453 #-#-# translate crowdin aferomes_6de37115:
 msgid "[_saku_] No, no, I have nothing to do with it, you will play with my teacher."
-msgstr "[_saku_] 否，我与它没有任何关系，你会和我的老师一起玩。"
+msgstr ""
 
 # game/sakuracan.rpy:2454 #-#-# translate crowdin aferomes_b26c909f:
 msgid "[_saku_] As soon as she found out that there was someone in Konoha who was still willing to play against her, she immediately demanded to arrange a gaming meeting for us!"
-msgstr "[_saku_] 一旦发现科诺哈有人仍然愿意对她玩耍。 她立即要求为我们安排一次游戏！"
+msgstr ""
 
 # game/sakuracan.rpy:2459 #-#-# translate crowdin aferomes_601cf837:
 msgid "[_r_] Oh yeah, I remember... I don't mind tomorrow night after work, sounds good?"
@@ -2278,7 +2278,7 @@ msgstr ""
 
 # game/sakuracan.rpy:2464 #-#-# translate crowdin aferomes_95b627e2:
 msgid "[_saku_] Yeah, let's go home together, she'll be waiting for us."
-msgstr "[_saku_] 是的，让我们一起回家，她会等着我们。"
+msgstr ""
 
 # game/sakuracan.rpy:2469 #-#-# translate crowdin aferomes_49527df9:
 msgid "[_r_] Okay!"
@@ -2286,63 +2286,63 @@ msgstr ""
 
 # game/sakuracan.rpy:2481 #-#-# translate crowdin aferomes_20af757f:
 msgid "[_m_] Tsunade, huh..."
-msgstr "[_m_] Tsunade, huh..."
+msgstr ""
 
 # game/sakuracan.rpy:2482 #-#-# translate crowdin aferomes_edd16ec5:
 msgid "[_m_] I'm certainly a good card player, but I don't think I can beat her."
-msgstr "[_m_] 我当然是一个好的卡片玩家，但我认为我不能打她。"
+msgstr ""
 
 # game/sakuracan.rpy:2483 #-#-# translate crowdin aferomes_e05d6d00:
 msgid "[_m_] Who cares though, the main thing is to have fun, it will be interesting to see the legend in the flesh."
-msgstr "[_m_] 虽然主要的事情是有趣的，但看到传说中的意思将是有趣的。"
+msgstr ""
 
 # game/sakuracan.rpy:2484 #-#-# translate crowdin aferomes_885a167c:
 msgid "[_m_] The legendary 106 centimeters... I hope old man Jiraiya didn't exaggerate."
-msgstr "[_m_] 传奇的106厘米……我希望老人Jiraiya不要夸张。"
+msgstr ""
 
 # game/sakuracan.rpy:2496 #-#-# translate crowdin aferomes_87d524a4:
 msgid "[_saku_] Tsunade, have you been waiting for long?"
-msgstr "[_saku_] Tsunade, 您是否等待了很长时间？"
+msgstr ""
 
 # game/sakuracan.rpy:2500 #-#-# translate crowdin aferomes_10a810f5:
 msgid "[_cuna_] It could be less if someone would hurry up."
-msgstr "[_cuna_] 如果有人匆忙，它可能会更少。"
+msgstr ""
 
 # game/sakuracan.rpy:2502 #-#-# translate crowdin aferomes_c3fc758c:
 msgid "[_cuna_] Is this boy the one you were talking about?"
-msgstr "[_cuna_] 这个男孩是你谈论的吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2506 #-#-# translate crowdin aferomes_786848fa:
 msgid "[_saku_] Yes! This is [viname], he expressed a desire to play cards with you."
-msgstr "[_saku_] 是的！这是一个 [viname]，他表示希望和你一起玩卡。"
+msgstr ""
 
 # game/sakuracan.rpy:2508 #-#-# translate crowdin aferomes_0eab9616:
 msgid "[_r_] Hello, everything is as Sakura said."
-msgstr "[_r_] 你好，正如Sakura所说的那样。"
+msgstr ""
 
 # game/sakuracan.rpy:2512 #-#-# translate crowdin aferomes_14d2e48b:
 msgid "[_cuna_] Did you bring some money? I don't play games for fun, playing for fun is more boring than drinking non-alcoholic beer."
-msgstr "[_cuna_] 你带来了一些钱吗？我不玩有趣的游戏，玩乐比喝酒的非酒精啤酒更加愉快。"
+msgstr ""
 
 # game/sakuracan.rpy:2516 #-#-# translate crowdin aferomes_e9c068d4:
 msgid "[_r_] I took some, be gentle with me."
-msgstr "[_r_] 我带了一些东西，与我温和一下。"
+msgstr ""
 
 # game/sakuracan.rpy:2520 #-#-# translate crowdin aferomes_bcc51378:
 msgid "[_cuna_] Be stronger, this is not for me, if you are not ready, just say it."
-msgstr "[_cuna_] 变得更强大，这对我来说不是太大了，如果你还没有准备好了，只要说的话。"
+msgstr ""
 
 # game/sakuracan.rpy:2524 #-#-# translate crowdin aferomes_340cfd2a:
 msgid "[_r_] No, nothing like that, I'm ready to part with this money."
-msgstr "[_r_] 不，我准备好用这笔钱参加进来。"
+msgstr ""
 
 # game/sakuracan.rpy:2528 #-#-# translate crowdin aferomes_1540be9d:
 msgid "[_cuna_] That's the kind of approach I like. Okay, so be it, I'll even share some sake with you, boy."
-msgstr "[_cuna_] 这是我喜欢的方法。好吧，所以我甚至会与你分享一些东西，男孩。"
+msgstr ""
 
 # game/sakuracan.rpy:2532 #-#-# translate crowdin aferomes_c55d9e71:
 msgid "[_r_] T-thank you..."
-msgstr "[_r_] T谢谢您..."
+msgstr ""
 
 # game/sakuracan.rpy:2538 #-#-# translate crowdin aferomes_fd557abb:
 msgid "[_saku_] Have fun! I'll be gone for a while so you won't be interrupted."
@@ -2350,11 +2350,11 @@ msgstr ""
 
 # game/sakuracan.rpy:2542 #-#-# translate crowdin aferomes_9ad92a9d:
 msgid "[_cuna_] Can I stay at your place overnight? This sake is strong."
-msgstr "[_cuna_] 我能够一夜之间呆在你的地方吗？这很强大。"
+msgstr ""
 
 # game/sakuracan.rpy:2546 #-#-# translate crowdin aferomes_490183a8:
 msgid "[_saku_] Of course, don't worry!"
-msgstr "[_saku_] 当然不要担心！"
+msgstr ""
 
 # game/sakuracan.rpy:2550 #-#-# translate crowdin aferomes_286b6881:
 msgid "[_cuna_] Well, boy, are you ready to lose all your hard-earned money?"
@@ -2362,35 +2362,35 @@ msgstr ""
 
 # game/sakuracan.rpy:2554 #-#-# translate crowdin aferomes_76c7b9b8:
 msgid "[_r_] I will resist with all my might!"
-msgstr "[_r_] 我会用我的一切来抵抗！"
+msgstr ""
 
 # game/sakuracan.rpy:2558 #-#-# translate crowdin aferomes_872ed503:
 msgid "[_cuna_] This won't help."
-msgstr "[_cuna_] 这将无济于事。"
+msgstr ""
 
 # game/sakuracan.rpy:2564 #-#-# translate crowdin aferomes_18759def:
 msgid "[_cuna_] Five games won by me, one by you, hasn’t your morale sunk yet?"
-msgstr "[_cuna_] 我赢得了五场游戏，一场是由你赢得的，还没有你的士气？"
+msgstr ""
 
 # game/sakuracan.rpy:2565 #-#-# translate crowdin aferomes_49e419ee:
 msgid "[_cuna_] Although there is still a sparkle in your eyes, as I see."
-msgstr "[_cuna_] 虽然正如我看到的那样，你的眼睛仍然有闪光灯。"
+msgstr ""
 
 # game/sakuracan.rpy:2569 #-#-# translate crowdin aferomes_92c6c00c:
 msgid "[_r_] Nothing like that, I'll get even."
-msgstr "[_r_] 没有这样的东西，我会有点儿。"
+msgstr ""
 
 # game/sakuracan.rpy:2573 #-#-# translate crowdin aferomes_1c61a33a:
 msgid "[_cuna_] We'll see."
-msgstr "[_cuna_] 我们会看到。"
+msgstr ""
 
 # game/sakuracan.rpy:2579 #-#-# translate crowdin aferomes_da4ef439:
 msgid "[_cuna_] Do you still have money left?"
-msgstr "[_cuna_] 您仍然还有钱吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2583 #-#-# translate crowdin aferomes_05a950c2:
 msgid "[_r_] Yes, there’s some more, I'm not done yet."
-msgstr "[_r_] 是的，还有一些，我还没有完成。"
+msgstr ""
 
 # game/sakuracan.rpy:2587 #-#-# translate crowdin aferomes_d9347f8f:
 msgid "[_cuna_] Gambling boy... Oh, these... Mistakes of youth..."
@@ -2402,19 +2402,19 @@ msgstr ""
 
 # game/sakuracan.rpy:2590 #-#-# translate crowdin aferomes_64a14fd8:
 msgid "[_m_] Wow, she's far gone..."
-msgstr "[_m_] 哇，她很快就知道了..."
+msgstr ""
 
 # game/sakuracan.rpy:2594 #-#-# translate crowdin aferomes_a86ba30f:
 msgid "[_cuna_] Huh? Did you say something or..."
-msgstr "[_cuna_] Huh？您是说了点话或..."
+msgstr ""
 
 # game/sakuracan.rpy:2598 #-#-# translate crowdin aferomes_bd35ad34:
 msgid "[_r_] Everything is fine, don't worry, I'm ready to continue playing."
-msgstr "[_r_] 一切都很好，别担心，我准备继续玩。"
+msgstr ""
 
 # game/sakuracan.rpy:2602 #-#-# translate crowdin aferomes_254291ff:
 msgid "[_cuna_] I know this type of people... Damn it."
-msgstr "[_cuna_] 我知道这种类型的人……干掉它。"
+msgstr ""
 
 # game/sakuracan.rpy:2608 #-#-# translate crowdin aferomes_3fc7f0be:
 msgid "[_cuna_] It seems to me that you’re... E-k... Not making any sense…"
@@ -2422,219 +2422,219 @@ msgstr ""
 
 # game/sakuracan.rpy:2609 #-#-# translate crowdin aferomes_0ae89622:
 msgid "[_cuna_] Poor guy... Completely."
-msgstr "[_cuna_] 很差... 完全。"
+msgstr ""
 
 # game/sakuracan.rpy:2613 #-#-# translate crowdin aferomes_1607d0d7:
 msgid "[_m_] She's drunk herself senseless."
-msgstr "[_m_] 她自己的酒精是无意义的。"
+msgstr ""
 
 # game/sakuracan.rpy:2614 #-#-# translate crowdin aferomes_a62a9794:
 msgid "[_m_] How is she even holding on... Sake is so strong that just the smell makes me sick..."
-msgstr "[_m_] 她甚至是怎么做了……萨克太强大，只是气味使我生病了……"
+msgstr ""
 
 # game/sakuracan.rpy:2618 #-#-# translate crowdin aferomes_018bb542:
 msgid "[_cuna_] Okay... Damn it... I..."
-msgstr "[_cuna_] 好吧... 达姆..."
+msgstr ""
 
 # game/sakuracan.rpy:2624 #-#-# translate crowdin aferomes_8fe06319:
 msgid "[_m_] Did she..."
-msgstr "[_m_] 回来了..."
+msgstr ""
 
 # game/sakuracan.rpy:2625 #-#-# translate crowdin aferomes_b11ba389:
 msgid "[_m_] She’s not joking?"
-msgstr "[_m_] 她没有玩笑吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2627 #-#-# translate crowdin aferomes_ad261c67:
 msgid "[_r_] Hey... Is everything okay...?"
-msgstr "[_r_] 你好……一切都好了……?"
+msgstr ""
 
 # game/sakuracan.rpy:2629 #-#-# translate crowdin aferomes_c8156321:
 msgid "[_m_] Doesn't respond."
-msgstr "[_m_] 没有响应。"
+msgstr ""
 
 # game/sakuracan.rpy:2630 #-#-# translate crowdin aferomes_70a5fdc4:
 msgid "[_m_] Definitely passed out."
-msgstr "[_m_] 最终传出。"
+msgstr ""
 
 # game/sakuracan.rpy:2631 #-#-# translate crowdin aferomes_ef7482e0:
 msgid "[_m_] How so, out of the blue... Why does her body behave as if it everything’s okay... Probably years of practice."
-msgstr "[_m_] 怎么办，如何用蓝子……为什么她的身体做好一切……很可能多年的练习。"
+msgstr ""
 
 # game/sakuracan.rpy:2632 #-#-# translate crowdin aferomes_e95f1464:
 msgid "[_m_] A wild idea has arisen... She’s unconscious... Maybe..."
-msgstr "[_m_] 出现了一种野蛮的想法……她失去知觉……也许……"
+msgstr ""
 
 # game/sakuracan.rpy:2633 #-#-# translate crowdin aferomes_82dbfb0e:
 msgid "[_m_] Naah... What if she wakes up..."
-msgstr "[_m_] Naah... 如果她醒来怎么办..."
+msgstr ""
 
 # game/sakuracan.rpy:2634 #-#-# translate crowdin aferomes_b752671c:
 msgid "[_m_] Can she even wake up?"
-msgstr "[_m_] 她甚至能唤醒吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2635 #-#-# translate crowdin aferomes_b9587ca8:
 msgid "[_m_] Fuck... I have to take a chance and see them in all their glory!"
-msgstr "[_m_] 福克……我必须抓住机会并看到他们的光荣！"
+msgstr ""
 
 # game/sakuracan.rpy:2641 #-#-# translate crowdin aferomes_b327d44f:
 msgid "[_m_] Holy shit... Big..."
-msgstr "[_m_] 圣殿... 大..."
+msgstr ""
 
 # game/sakuracan.rpy:2642 #-#-# translate crowdin aferomes_abc5a0fa:
 msgid "[_m_] Granny is probably already over 80... But her breasts are still excellent... And she herself looks like a goddess."
-msgstr "[_m_] Granny可能已经超过80岁……但她的乳房仍然很好……而且她本人看起来就像一位神。"
+msgstr ""
 
 # game/sakuracan.rpy:2643 #-#-# translate crowdin aferomes_791090d7:
 msgid "[_m_] Ah right, stamp on the forehead."
-msgstr "[_m_] 右边，印在前面。"
+msgstr ""
 
 # game/sakuracan.rpy:2644 #-#-# translate crowdin aferomes_b92aa899:
 msgid "[_m_] Beautiful tits... Tsunade, one day you will also join my small harem..."
-msgstr "[_m_] 美丽的技巧... Tsunade，有一天你也会加入我的小头发..."
+msgstr ""
 
 # game/sakuracan.rpy:2645 #-#-# translate crowdin aferomes_14528f2e:
 msgid "[_m_] But not now, now I'm leaving."
-msgstr "[_m_] 但现在我不要离开了。"
+msgstr ""
 
 # game/sakuracan.rpy:2662 #-#-# translate crowdin aferomes_1b0f828c:
 msgid "[_m_] Sakura seems to trust me quite a lot already."
-msgstr "[_m_] Sakura似乎已经非常信任我。"
+msgstr ""
 
 # game/sakuracan.rpy:2663 #-#-# translate crowdin aferomes_84d82940:
 msgid "[_m_] I don't think she’d let any guy into her house."
-msgstr "[_m_] 我认为她不会让任何人来到她家里。"
+msgstr ""
 
 # game/sakuracan.rpy:2664 #-#-# translate crowdin aferomes_da313fab:
 msgid "[_m_] The warm-up and grinding-in phase is over. I must act more decisively."
-msgstr "[_m_] 升温和融入阶段已经结束，我必须采取更果断的行动。"
+msgstr ""
 
 # game/sakuracan.rpy:2665 #-#-# translate crowdin aferomes_062cb644:
 msgid "[_m_] Or... Should I be careful..."
-msgstr "[_m_] 或... 我应该小心..."
+msgstr ""
 
 # game/sakuracan.rpy:2666 #-#-# translate crowdin aferomes_e5269db9:
 msgid "[_m_] The threat of the unknown Uchiha has not disappeared... At least I haven't felt his presence in the last few days..."
-msgstr "[_m_] 未知的Uchiha的威胁尚未消失……至少我在过去几天里还没有感觉到他的存在……"
+msgstr ""
 
 # game/sakuracan.rpy:2667 #-#-# translate crowdin aferomes_a877ed46:
 msgid "[_m_] Could he be watching me? Studying me?"
-msgstr "[_m_] 他能看我吗？研究我吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2668 #-#-# translate crowdin aferomes_991cb597:
 msgid "[_m_] The only thing I understand is his connection with Sakura."
-msgstr "[_m_] 我理解的唯一东西是他与Sakura的联系。"
+msgstr ""
 
 # game/sakuracan.rpy:2669 #-#-# translate crowdin aferomes_675f94c3:
 msgid "[_m_] He appeared for a reason."
-msgstr "[_m_] 他是出于某种原因出现的。"
+msgstr ""
 
 # game/sakuracan.rpy:2670 #-#-# translate crowdin aferomes_24c389b5:
 msgid "[_m_] I should watch Sakura for a while... Maybe I can find something out."
-msgstr "[_m_] 我应该看一下Sakura... 也许我可以找到一些东西。"
+msgstr ""
 
 # game/sakuracan.rpy:2678 #-#-# translate crowdin aferomes_fb1520d2:
 msgid "[_saku_] Hi, how are you? Lost all your money?"
-msgstr "[_saku_] 你好，你怎么办？丢失所有钱？"
+msgstr ""
 
 # game/sakuracan.rpy:2680 #-#-# translate crowdin aferomes_9b730103:
 msgid "[_r_] Hi, yes kinda, your teacher didn’t give me a chance, even after all that sake."
-msgstr "[_r_] 你好，好吧，你的老师没有给我机会，即使在所有这一切之后也是如此。"
+msgstr ""
 
 # game/sakuracan.rpy:2682 #-#-# translate crowdin aferomes_928e8db2:
 msgid "[_saku_] Sorry if she was rude to you, Tsunade likes to drink and do things under the influence."
-msgstr "[_saku_] 很抱歉，如果她对你很粗鲁，Tsunade喜欢喝，在影响下做些事情。"
+msgstr ""
 
 # game/sakuracan.rpy:2684 #-#-# translate crowdin aferomes_17474f67:
 msgid "[_r_] It's okay, she wasn't as rude as you’d think."
-msgstr "[_r_] 没问题，她不像你想象的那样粗鲁。"
+msgstr ""
 
 # game/sakuracan.rpy:2686 #-#-# translate crowdin aferomes_0c9c41a3:
 msgid "[_saku_] Then everything is fine!I began to worry when I came home and saw that she’d passed out after three bottles of sake."
-msgstr "[_saku_] 然后一切都很好！当我回家时，我开始担心她会在三瓶锯子后消失。"
+msgstr ""
 
 # game/sakuracan.rpy:2688 #-#-# translate crowdin aferomes_423567f6:
 msgid "[_r_] By the way, are we working tomorrow?"
-msgstr "[_r_] 顺便说一句，我们明天是否在工作？"
+msgstr ""
 
 # game/sakuracan.rpy:2690 #-#-# translate crowdin aferomes_281c392c:
 msgid "[_saku_] Tomorrow is out day off, our entire wing is resting, so feel free to recharge!"
-msgstr "[_saku_] 明天离去，我们的整个翼都在休息，所以可以随意充电！"
+msgstr ""
 
 # game/sakuracan.rpy:2692 #-#-# translate crowdin aferomes_62e405a0:
 msgid "[_r_] Got it! Thanks Sakura, see you soon!"
-msgstr "[_r_] 知道了！谢谢Sakura, 即将见到你！"
+msgstr ""
 
 # game/sakuracan.rpy:2694 #-#-# translate crowdin aferomes_32108cc2:
 msgid "[_saku_] Good night!"
-msgstr "[_saku_] 晚上好！"
+msgstr ""
 
 # game/sakuracan.rpy:2698 #-#-# translate crowdin aferomes_3b71b46b:
 msgid "[_m_] Day off, great. I'll arrange a day of spying on Sakura."
-msgstr "[_m_] 结束了，很棒。我会安排一天在Sakura上进行间谍活动。"
+msgstr ""
 
 # game/sakuracan.rpy:2699 #-#-# translate crowdin aferomes_459be873:
 msgid "[_m_] You need to get a good night's sleep..."
-msgstr "[_m_] 你需要一个好晚睡觉..."
+msgstr ""
 
 # game/sakuracan.rpy:2738 #-#-# translate crowdin banito_48357e72:
 msgid "[_r_] Why am I blindfolded?"
-msgstr "[_r_] 为什么我被蒙住眼睛？"
+msgstr ""
 
 # game/sakuracan.rpy:2739 #-#-# translate crowdin banito_f869553d:
 msgid "[_tema_] No questions, lie on your back."
-msgstr "[_tema_] 没有问题，在你的背上。"
+msgstr ""
 
 # game/sakuracan.rpy:2740 #-#-# translate crowdin banito_61d4aeb0:
 msgid "[_r_] Do you know what you're doing exactly?"
-msgstr "[_r_] 您是否确切知道您做了些什么？"
+msgstr ""
 
 # game/sakuracan.rpy:2741 #-#-# translate crowdin banito_5f175d6f:
 msgid "[_tema_] Shut up! Now I'm going to put that tongue of yours to work!."
-msgstr "[_tema_] 闭合！现在我会把你的语言变成工作！"
+msgstr ""
 
 # game/sakuracan.rpy:2747 #-#-# translate crowdin banito_b47f3f8f:
 msgid "[_tema_] Come on boy, try harder!"
-msgstr "[_tema_] 来到男孩，请尝试更加艰苦！"
+msgstr ""
 
 # game/sakuracan.rpy:2748 #-#-# translate crowdin banito_29da2000:
 msgid "[_tema_] If you want me to play with your dick, work for it!"
-msgstr "[_tema_] 如果你想让我玩你的口服饰，为它工作！"
+msgstr ""
 
 # game/sakuracan.rpy:2752 #-#-# translate crowdin banito_2c19b3b4:
 msgid "[_tema_] Okay... Good boy."
-msgstr "[_tema_] 好吧... 好的男孩。"
+msgstr ""
 
 # game/sakuracan.rpy:2753 #-#-# translate crowdin banito_9584b855:
 msgid "[_tema_] Mistress will cum on your face now..."
-msgstr "[_tema_] 米快到你的脸上。..."
+msgstr ""
 
 # game/sakuracan.rpy:2757 #-#-# translate crowdin banito_4da2ec3d:
 msgid "[_tema_] Yes... This is what you want, right?"
-msgstr "[_tema_] 是……这是你想要的，对吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2758 #-#-# translate crowdin banito_54919f17:
 msgid "[_tema_] Keep going! MMMMM!"
-msgstr "[_tema_] 继续进行！MMMM！"
+msgstr ""
 
 # game/sakuracan.rpy:2764 #-#-# translate crowdin banito_631ca321:
 msgid "[_tema_] Not bad... This is your full-time job now, boy."
-msgstr "[_tema_] 没坏……这是你的全职工作，男孩。"
+msgstr ""
 
 # game/sakuracan.rpy:2777 #-#-# translate crowdin prosnulsa_ef3bc2f6:
 msgid "[_m_] How could I dream about something like that... Although I wouldn’t rule that scenario out, with any luck it might just happen..."
-msgstr "[_m_] 我怎么能够梦想这样的东西……尽管我不会把场景排除在外，幸运它可能会发生..."
+msgstr ""
 
 # game/sakuracan.rpy:2778 #-#-# translate crowdin prosnulsa_e86645b8:
 msgid "[_m_] Well, it's time to go do my job, I'll activate my disguise and keep an eye on Sakura, I hope it's not useless."
-msgstr "[_m_] 好吧，现在是做我的工作的时候了，我会激活我的伪装并关注萨库拉，我希望这不会毫无用处。"
+msgstr ""
 
 # game/sakuracan.rpy:2779 #-#-# translate crowdin prosnulsa_7631f9b1:
 msgid "[_m_] Even if I don't find any leads on that guy, I'll just find out a little more about Sakura, that should come in handy."
-msgstr "[_m_] 即使我在那个家伙上找不到任何线索，我只会发现更多关于Sakura的信息，那应该很干。"
+msgstr ""
 
 # game/sakuracan.rpy:2801 #-#-# translate crowdin num_b677988e:
 msgid "[_m_] I'm here, I need to check the front door, carefully."
-msgstr "[_m_] 我在这里，我需要仔细检查前门。"
+msgstr ""
 
 # game/sakuracan.rpy:2802 #-#-# translate crowdin num_45f4b086:
 msgid "[_m_] I've already been to her house, so I can get my bearings."
@@ -2642,7 +2642,7 @@ msgstr ""
 
 # game/sakuracan.rpy:2803 #-#-# translate crowdin num_4502f2ae:
 msgid "[_m_] Door’s open! I love Konoha, no one closes the front door!"
-msgstr "[_m_] 门打开！我喜欢Konoha，没有人关闭门前门！"
+msgstr ""
 
 # game/sakuracan.rpy:2810 #-#-# translate crowdin num_8218ffa3:
 msgid "[_m_] Okay. I hope no one heard me close the front door."
@@ -2650,27 +2650,27 @@ msgstr ""
 
 # game/sakuracan.rpy:2811 #-#-# translate crowdin num_1e9da5c0:
 msgid "[_m_] I wonder if Sakura is alone right now? Or is Sarada here too?"
-msgstr "[_m_] 我想知道Sakura现在是否是唯一的？或者Sarada也在这里？"
+msgstr ""
 
 # game/sakuracan.rpy:2812 #-#-# translate crowdin num_72b166c2:
 msgid "[_m_] I think Sakura mentioned that Sarada is on a mission, but I'm not sure..."
-msgstr "[_m_] 我觉得Sakura提到Sarada正在执行任务，但我不肯定……"
+msgstr ""
 
 # game/sakuracan.rpy:2813 #-#-# translate crowdin num_075f119e:
 msgid "[_m_] It's rather quiet on the first floor, I think I hear sounds on the second floor, it sounds like the running water."
-msgstr "[_m_] 在一楼相当安静，我想我听到二楼的声音，听起来像是自来水。"
+msgstr ""
 
 # game/sakuracan.rpy:2814 #-#-# translate crowdin num_104edc84:
 msgid "[_m_] Need to check."
-msgstr "[_m_] 需要检查。"
+msgstr ""
 
 # game/sakuracan.rpy:2818 #-#-# translate crowdin num_c2337811:
 msgid "[_m_] Is this the second bathroom? I think Sakura is in there."
-msgstr "[_m_] 这是第二个浴室吗？我想Sakura就在那里。"
+msgstr ""
 
 # game/sakuracan.rpy:2819 #-#-# translate crowdin num_a23ec329:
 msgid "[_m_] The door is open, you’re brave Sakura, this means that she knows for sure that no one will come to her, which means Sarada is definitely on a mission."
-msgstr "[_m_] 大门打开，你是勇敢的萨库拉， 这意味着她知道谁也不会见她，这意味着Sarada肯定正在执行任务。"
+msgstr ""
 
 # game/sakuracan.rpy:2820 #-#-# translate crowdin num_8bef4103:
 msgid "[_m_] But you're not alone here, you should have been more careful!"
@@ -2678,67 +2678,67 @@ msgstr ""
 
 # game/sakuracan.rpy:2837 #-#-# translate crowdin bizoterias11_9758c96f:
 msgid "[_m_] So, so, so... Have you decided to completely relax on your day off?"
-msgstr "[_m_] 因此，……您是否决定完全放松您的休息日？"
+msgstr ""
 
 # game/sakuracan.rpy:2838 #-#-# translate crowdin bizoterias11_1c0c4e22:
 msgid "[_m_] Hot bath, red wine... I didn't know this side of you, Tsunade seems to be a bad influence on you."
-msgstr "[_m_] 热袋，红色葡萄酒……我不知道你的这边，Tsunade似乎对你有坏的影响。"
+msgstr ""
 
 # game/sakuracan.rpy:2839 #-#-# translate crowdin bizoterias11_c9d2464a:
 msgid "[_m_] I have to give credit to your body, Sakura... You're in great athletic shape, usually moms at your age don't really care about their shape, but you're an exception."
-msgstr "[_m_] 我必须感谢您的身体，Sakura... 你正处于伟大的运动形状，通常在你的时代就不真正关心他们的形状，但是你是个例外。"
+msgstr ""
 
 # game/sakuracan.rpy:2840 #-#-# translate crowdin bizoterias11_bddaec86:
 msgid "[_m_] Do all former shinobi really have such sexy bodies? Perfect Hinata with her curvaceous figure, now you Sakura... Kill me as many times as you like, but this view is worth it."
-msgstr "[_m_] 所有以前的阴影是否真的有这么多的性器官？用她的奇怪人物——现在你是Sakura——来完美的Hinata。 。杀死我的次数尽可能多，但这个视图是值得的。"
+msgstr ""
 
 # game/sakuracan.rpy:2841 #-#-# translate crowdin bizoterias11_e7f648d0:
 msgid "[_m_] Are you leaving already? Apparently I came too late."
-msgstr "[_m_] 你已经离开了吗？看来我来得太晚了。"
+msgstr ""
 
 # game/sakuracan.rpy:2847 #-#-# translate crowdin bizoterias11_3aa380fd:
 msgid "[_m_] Just like that? No robes or towels?"
-msgstr "[_m_] 就像这么？没有抢劫或玩具？"
+msgstr ""
 
 # game/sakuracan.rpy:2848 #-#-# translate crowdin bizoterias11_f01130f7:
 msgid "[_m_] What a teasing view, it’s a pity that I can’t come closer to you yet and grab that delicious ass..."
-msgstr "[_m_] 是什么擦除视图，很抱歉我还没能接近你并抓住这个微妙的帮助..."
+msgstr ""
 
 # game/sakuracan.rpy:2849 #-#-# translate crowdin bizoterias11_40c899c0:
 msgid "[_m_] Are you going to the bedroom already?"
-msgstr "[_m_] 您是否已经去卧室？"
+msgstr ""
 
 # game/sakuracan.rpy:2850 #-#-# translate crowdin bizoterias11_68371a27:
 msgid "[_m_] Don't tell me it's a bath before bed, I didn't come in vain, right?"
-msgstr "[_m_] 不要告诉我床前是一个浴室，我没有白费，对吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2857 #-#-# translate crowdin bizoterias11_c536e31d:
 msgid "[_m_] It's cozy here, I like it."
-msgstr "[_m_] 在这里，我喜欢它。"
+msgstr ""
 
 # game/sakuracan.rpy:2858 #-#-# translate crowdin bizoterias11_23a354b4:
 msgid "[_m_] This is where you and Sasuke made Sarada? For some reason, I don't think Sasuke is particularly skilled in these matters."
-msgstr "[_m_] 这是你和Sasuke 制造Sarada的地方？由于某种原因，我认为Sasuke在这些问题上并不特别熟练。"
+msgstr ""
 
 # game/sakuracan.rpy:2859 #-#-# translate crowdin bizoterias11_900418d7:
 msgid "[_m_] Wow, what did you get out of the closet? A dildo? Every mom has one of those hidden away."
-msgstr "[_m_] 哇，你是怎么走近天堂的人吗？每个小姐都有一个隐藏的人。"
+msgstr ""
 
 # game/sakuracan.rpy:2860 #-#-# translate crowdin bizoterias11_4d73197d:
 msgid "[_m_] Now there's a show."
-msgstr "[_m_] 现在有一个剧集。"
+msgstr ""
 
 # game/sakuracan.rpy:2872 #-#-# translate crowdin bizoterias11_9ae6cbb8:
 msgid "[_m_] Wow, right away?"
-msgstr "[_m_] 哇，距现在吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2873 #-#-# translate crowdin bizoterias11_f3637c29:
 msgid "[_m_] How badly are you craving it?"
-msgstr "[_m_] 你爬行多么糟糕？"
+msgstr ""
 
 # game/sakuracan.rpy:2877 #-#-# translate crowdin bizoterias11_12f521e5:
 msgid "[_m_] My dick is about to rip through my pants..."
-msgstr "[_m_] 我的口服即将穿过我的窗格..."
+msgstr ""
 
 # game/sakuracan.rpy:2878 #-#-# translate crowdin bizoterias11_a396fa1b:
 msgid "[_m_] Sasuke... You're just a criminal... How can you do your marital duty so poorly..."
@@ -2746,27 +2746,27 @@ msgstr ""
 
 # game/sakuracan.rpy:2882 #-#-# translate crowdin bizoterias11_1608765b:
 msgid "[_m_] She sped up."
-msgstr "[_m_] 加速。"
+msgstr ""
 
 # game/sakuracan.rpy:2883 #-#-# translate crowdin bizoterias11_b69ddbd2:
 msgid "[_m_] Are you close already Sakura? You'd probably be ashamed to know that I'm watching you."
-msgstr "[_m_] 你已经关闭了Sakura吗？你可能感到羞耻，知道我在关注你。"
+msgstr ""
 
 # game/sakuracan.rpy:2884 #-#-# translate crowdin bizoterias11_1d50f1a8:
 msgid "[_m_] Don’t worry, very soon I will fuck you on the same bed."
-msgstr "[_m_] 别担心，很快我就会把你绑在同一个床上。"
+msgstr ""
 
 # game/sakuracan.rpy:2896 #-#-# translate crowdin bizoterias11_0ecb5557:
 msgid "[_m_] You won’t have to endure it for longer"
-msgstr "[_m_] 你将不需要忍受更长的时间"
+msgstr ""
 
 # game/sakuracan.rpy:2897 #-#-# translate crowdin bizoterias11_12cc315e:
 msgid "[_m_] Just wait a little."
-msgstr "[_m_] 只需稍等一点。"
+msgstr ""
 
 # game/sakuracan.rpy:2898 #-#-# translate crowdin bizoterias11_a885144d:
 msgid "[_m_] That was hot... Such a performance, and all this for me?"
-msgstr "[_m_] 那是热点……这种表演对我来说都是如此？"
+msgstr ""
 
 # game/sakuracan.rpy:2899 #-#-# translate crowdin bizoterias11_d2b3ac8b:
 msgid "[_m_] Of course, I didn’t count on something like that, it would have been enough for me to just observe the daily routine..."
@@ -2774,91 +2774,91 @@ msgstr ""
 
 # game/sakuracan.rpy:2900 #-#-# translate crowdin bizoterias11_fcf45c38:
 msgid "[_m_] But you surprised me, Sakura."
-msgstr "[_m_] 但你对我，Sakura感到吃惊。"
+msgstr ""
 
 # game/sakuracan.rpy:2901 #-#-# translate crowdin bizoterias11_780d16a6:
 msgid "[_m_] How little Sasuke cares about his wife's desires, it's such a pity..."
-msgstr "[_m_] 萨苏克对他妻子的愿望有多小的关心，这是如此可惜..."
+msgstr ""
 
 # game/sakuracan.rpy:2905 #-#-# translate crowdin bizoterias11_24a31cc4:
 msgid "[_sasu_] Sakura! Are you upstairs?"
-msgstr "[_sasu_] Sakura！你上台了吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2909 #-#-# translate crowdin bizoterias11_bf0d2b9b:
 msgid "[_saku_] S-Sasuke!?"
-msgstr "[_saku_] S-Sasuke!?"
+msgstr ""
 
 # game/sakuracan.rpy:2913 #-#-# translate crowdin bizoterias11_670b2f89:
 msgid "[_sasu_] Please come down, let's talk before I leave."
-msgstr "[_sasu_] 请倒下，让我们在离开之前说话。"
+msgstr ""
 
 # game/sakuracan.rpy:2917 #-#-# translate crowdin bizoterias11_b38fc2d6:
 msgid "[_saku_] Okay... Wait a minute.."
-msgstr "[_saku_] 好吧... 等待一分钟..."
+msgstr ""
 
 # game/sakuracan.rpy:2919 #-#-# translate crowdin bizoterias11_9a3e494b:
 msgid "[_m_] I have a desire to leave but... I’m so curious to eavesdrop on their conversation..."
-msgstr "[_m_] 我想要离开……我很想在他们的对话中吃掉..."
+msgstr ""
 
 # game/sakuracan.rpy:2920 #-#-# translate crowdin bizoterias11_8cd27122:
 msgid "[_m_] Perhaps this is why I came here."
-msgstr "[_m_] 也许这就是为什么我来到这里。"
+msgstr ""
 
 # game/sakuracan.rpy:2926 #-#-# translate crowdin bizoterias11_d217b0e4:
 msgid "[_sasu_] I'm going on a journey, perhaps for a long time."
-msgstr "[_sasu_] 我正在旅行，也许是很长时间。"
+msgstr ""
 
 # game/sakuracan.rpy:2930 #-#-# translate crowdin bizoterias11_b9a293bc:
 msgid "[_saku_] You haven’t said goodbye to Sarada..."
-msgstr "[_saku_] 你还没有说到Sarada..."
+msgstr ""
 
 # game/sakuracan.rpy:2934 #-#-# translate crowdin bizoterias11_92dbcd20:
 msgid "[_sasu_] It doesn't matter. I have important work waiting for me."
-msgstr "[_sasu_] 不重要。我有重要的工作等待我。"
+msgstr ""
 
 # game/sakuracan.rpy:2938 #-#-# translate crowdin bizoterias11_953b3205:
 msgid "[_saku_] Sasuke... Since you're going on a long journey..."
-msgstr "[_saku_] 萨苏克……因为你在长途中……"
+msgstr ""
 
 # game/sakuracan.rpy:2939 #-#-# translate crowdin bizoterias11_99ab36bc:
 msgid "[_saku_] Maybe... You know... Let's do this before you leave..."
-msgstr "[_saku_] 也许……你知道……让我们在离开之前这样做……"
+msgstr ""
 
 # game/sakuracan.rpy:2943 #-#-# translate crowdin bizoterias11_06568753:
 msgid "[_sasu_] Sakura..."
-msgstr "[_sasu_] Sakura..."
+msgstr ""
 
 # game/sakuracan.rpy:2947 #-#-# translate crowdin bizoterias11_c76cd787:
 msgid "[_saku_] Come on... I really want you..."
-msgstr "[_saku_] 来到... 我真的想要你..."
+msgstr ""
 
 # game/sakuracan.rpy:2951 #-#-# translate crowdin bizoterias11_40857b6f:
 msgid "[_sasu_] I... I can't."
-msgstr "[_sasu_] 我……我可以。"
+msgstr ""
 
 # game/sakuracan.rpy:2955 #-#-# translate crowdin bizoterias11_bbb87044:
 msgid "[_saku_] Did I do something wrong?"
-msgstr "[_saku_] 我做了一些错误吗？"
+msgstr ""
 
 # game/sakuracan.rpy:2959 #-#-# translate crowdin bizoterias11_819c5f40:
 msgid "[_sasu_] It's not because of you."
-msgstr "[_sasu_] 不是因为你。"
+msgstr ""
 
 # game/sakuracan.rpy:2963 #-#-# translate crowdin bizoterias11_41f445de:
 msgid "[_saku_] Then what?"
-msgstr "[_saku_] 然后是什么？"
+msgstr ""
 
 # game/sakuracan.rpy:2967 #-#-# translate crowdin bizoterias11_6bc8c157:
 msgid "[_sasu_] I just can't... I constantly have nightmares... This responsibility fell on me with the new Ōtsutsuki... Now I also have this feeling..."
-msgstr "[_sasu_] 我只能……我总是恶梦……这个责任由新的 Ocel-tsuki来承担……现在我也有这种感觉……"
+msgstr ""
 
 # game/sakuracan.rpy:2971 #-#-# translate crowdin bizoterias11_ae6c4306:
 msgid "[_saku_] What feeling?"
-msgstr "[_saku_] 有什么感觉？"
+msgstr ""
 
 # game/sakuracan.rpy:2975 #-#-# translate crowdin bizoterias11_b6e24fb3:
 msgid "[_sasu_] It's like I'm covered in this disgusting chakra... Feels like it's everywhere now... The beast’s chakra I was talking about..."
-msgstr "[_sasu_] 就像我在这个正在散射的链条上所覆盖的……感觉像现在一样……野兽的链条我在谈论……"
+msgstr ""
 
 # game/sakuracan.rpy:2976 #-#-# translate crowdin bizoterias11_a1887a04:
 msgid "[_sasu_] Am I going crazy? Why do I feel it literally everywhere... Even... Even from you..."
@@ -2866,7 +2866,7 @@ msgstr ""
 
 # game/sakuracan.rpy:2980 #-#-# translate crowdin bizoterias11_dfa1a317:
 msgid "[_saku_] What? What do you mean even from me?"
-msgstr "[_saku_] 什么？你甚至从我那里都有什么意思？"
+msgstr ""
 
 # game/sakuracan.rpy:2982 #-#-# translate crowdin bizoterias11_a987e255:
 msgid "[_m_] Oh no... Does he suspect something?"
@@ -2878,79 +2878,79 @@ msgstr ""
 
 # game/sakuracan.rpy:2990 #-#-# translate crowdin bizoterias11_25235d2a:
 msgid "[_sasu_] Is here!"
-msgstr "[_sasu_] 在这里！"
+msgstr ""
 
 # game/sakuracan.rpy:2996 #-#-# translate crowdin bizoterias11_1a3b81d5:
 msgid "[_m_] WHAT THE FUCK! HE..."
-msgstr "[_m_] 是谁！你好..."
+msgstr ""
 
 # game/sakuracan.rpy:2997 #-#-# translate crowdin bizoterias11_efa03be6:
 msgid "[_m_] Right at me..."
-msgstr "[_m_] 右边..."
+msgstr ""
 
 # game/sakuracan.rpy:2999 #-#-# translate crowdin bizoterias11_2d26386a:
 msgid "[_sasu_] What are you!? Why can't I catch you!"
-msgstr "[_sasu_] 你是什么！？为什么我不能抓到你！"
+msgstr ""
 
 # game/sakuracan.rpy:3000 #-#-# translate crowdin bizoterias11_cf1a63f9:
 msgid "[_saku_] Sasuke! Stop it! You haven't fully recovered yet!"
-msgstr "[_saku_] 保存！停止！你还没有完全恢复！"
+msgstr ""
 
 # game/sakuracan.rpy:3001 #-#-# translate crowdin bizoterias11_19b508a4:
 msgid "[_sasu_] I..."
-msgstr "[_sasu_] 我..."
+msgstr ""
 
 # game/sakuracan.rpy:3002 #-#-# translate crowdin bizoterias11_b45dab98:
 msgid "[_sasu_] We are all in danger..."
-msgstr "[_sasu_] 我们都处于危险中..."
+msgstr ""
 
 # game/sakuracan.rpy:3003 #-#-# translate crowdin bizoterias11_8e201e54:
 msgid "[_sasu_] The village may be destroyed again..."
-msgstr "[_sasu_] 村子可能再次被摧毁..."
+msgstr ""
 
 # game/sakuracan.rpy:3004 #-#-# translate crowdin bizoterias11_ddcc9ae8:
 msgid "[_sasu_] I understand how it sounds... But I just know... Somewhere near us there is something destructive to such an extent... That even my eye is not able to detect its chakra."
-msgstr "[_sasu_] 我理解它的声音。但我刚才知道... 在我们附近的某个地方有如此严重的破坏性……即使是我的眼睛也无法检测到它的锁链。"
+msgstr ""
 
 # game/sakuracan.rpy:3005 #-#-# translate crowdin bizoterias11_4edbc0d5:
 msgid "[_m_] I think I've had enough of this... I need to get out of here."
-msgstr "[_m_] 我认为我有足够的东西……我需要离开这里。"
+msgstr ""
 
 # game/sakuracan.rpy:3023 #-#-# translate crowdin bizoterias11_fe21ab14:
 msgid "[_m_] Yeah... Sasuke gave me the creeps..."
-msgstr "[_m_] 是……Sasuke 给了我这只爬行..."
+msgstr ""
 
 # game/sakuracan.rpy:3024 #-#-# translate crowdin bizoterias11_21cc99f3:
 msgid "[_m_] It was scary at the time... But I quickly realized that he wouldn't be able to see me."
-msgstr "[_m_] 当时它是可怕的……但我很快就意识到他无法见到我。"
+msgstr ""
 
 # game/sakuracan.rpy:3025 #-#-# translate crowdin bizoterias11_89cef3ad:
 msgid "[_m_] Kamiko is too careful about this."
-msgstr "[_m_] Kamiko过于谨慎。"
+msgstr ""
 
 # game/sakuracan.rpy:3026 #-#-# translate crowdin bizoterias11_4fb4535b:
 msgid "[_m_] More importantly... Perhaps I should tell her about the incident where I... Died?"
-msgstr "[_m_] 更重要……也许我应该告诉她我……死在哪里？"
+msgstr ""
 
 # game/sakuracan.rpy:3027 #-#-# translate crowdin bizoterias11_c71f1401:
 msgid "[_m_] I think I should..."
-msgstr "[_m_] 我认为我应该..."
+msgstr ""
 
 # game/sakuracan.rpy:3028 #-#-# translate crowdin bizoterias11_bd1c18dd:
 msgid "[_m_] Or shouldn't I? Sasuke said that he feels that Kamiko is truly evil..."
-msgstr "[_m_] 或者我不应该？Sasuke说他觉得Kamiko真正是邪恶的……"
+msgstr ""
 
 # game/sakuracan.rpy:3029 #-#-# translate crowdin bizoterias11_4edd967b:
 msgid "[_m_] If you look at things objectively... She is far from a positive character..."
-msgstr "[_m_] 如果你客观地看待事物……她远非正面性..."
+msgstr ""
 
 # game/sakuracan.rpy:3030 #-#-# translate crowdin bizoterias11_51a8152a:
 msgid "[_m_] If I was in some anime, she could easily pass as a main villain."
-msgstr "[_m_] 如果我在一些动物中，她可以很容易地作为一个主要别墅过境。"
+msgstr ""
 
 # game/sakuracan.rpy:3031 #-#-# translate crowdin bizoterias11_c73e5b42:
 msgid "[_m_] But she cares about me..."
-msgstr "[_m_] 但她关心我..."
+msgstr ""
 
 # game/sakuracan.rpy:3035 #-#-# translate crowdin bizoterias11_cd2f8785:
 msgid "[_m_] I'll have to make that decision soon, but right now I need to deal with the boner in my pants."
@@ -2958,7 +2958,7 @@ msgstr ""
 
 # game/sakuracan.rpy:3036 #-#-# translate crowdin bizoterias11_82fc5cd7:
 msgid "[_m_] Sakura really teased me with her appearance."
-msgstr "[_m_] Sakura真是用她的外观把我撕开了。"
+msgstr ""
 
 # game/sakuracan.rpy:3037 #-#-# translate crowdin bizoterias11_2a815d0c:
 msgid "[_m_] I'll release all my lust with Hinata, she knows how to care for my most primal needs."
@@ -2966,67 +2966,67 @@ msgstr ""
 
 # game/sakuracan.rpy:3048 #-#-# translate crowdin bizoterias11_a2016af4:
 msgid "[_r_] Not busy?"
-msgstr "[_r_] 没有忙？"
+msgstr ""
 
 # game/sakuracan.rpy:3050 #-#-# translate crowdin bizoterias11_e0fc16a2:
 msgid "[_hi_] Himawari is sleeping... Do you want me to come by?"
-msgstr "[_hi_] 喜玛瓦里正在睡觉……你想要我来吗？"
+msgstr ""
 
 # game/sakuracan.rpy:3052 #-#-# translate crowdin bizoterias11_c9eba5fc:
 msgid "[_r_] Do you want it?"
-msgstr "[_r_] 你想要它吗？"
+msgstr ""
 
 # game/sakuracan.rpy:3054 #-#-# translate crowdin bizoterias11_fff83845:
 msgid "[_hi_] You know... I always do..."
-msgstr "[_hi_] 你知道... 我总是这样做..."
+msgstr ""
 
 # game/sakuracan.rpy:3056 #-#-# translate crowdin bizoterias11_6daa8526:
 msgid "[_r_] I'm waiting for you. Get your ass ready, today I want to come in from the back door."
-msgstr "[_r_] 我正在等着你。准备好你的棒，今天我想从后门进入。"
+msgstr ""
 
 # game/sakuracan.rpy:3062 #-#-# translate crowdin bizoterias11_987b3efe:
 msgid "[_m_] Hung up?"
-msgstr "[_m_] 挂起？"
+msgstr ""
 
 # game/sakuracan.rpy:3063 #-#-# translate crowdin bizoterias11_825125d5:
 msgid "[_m_] She either wants to fuck in the ass too much or is not at all happy about such a demand."
-msgstr "[_m_] 她要么打得太多，要么对这种要求根本不满意。"
+msgstr ""
 
 # game/sakuracan.rpy:3067 #-#-# translate crowdin bizoterias11_b9d6c072:
 msgid "[_m_] I'm leaning towards the former."
-msgstr "[_m_] 我倾向于前者。"
+msgstr ""
 
 # game/sakuracan.rpy:3069 #-#-# translate crowdin bizoterias11_7742ac8f:
 msgid "Спустя пол часа"
-msgstr "Спустя пол часа"
+msgstr ""
 
 # game/sakuracan.rpy:3077 #-#-# translate crowdin bizoterias11_88f1f79b:
 msgid "[_r_] Ready to have some fun?"
-msgstr "[_r_] 准备好有一些乐趣？"
+msgstr ""
 
 # game/sakuracan.rpy:3082 #-#-# translate crowdin bizoterias11_6fb3322a:
 msgid "[_hi_] Let's go to the room, I'll change my clothes quickly !"
-msgstr "[_hi_] 让我们去房间，我会很快更换衣服！"
+msgstr ""
 
 # game/sakuracan.rpy:3100 #-#-# translate crowdin positrenas_1a950046:
 msgid "[_r_] Satisfied?"
-msgstr "[_r_] 满意吗？"
+msgstr ""
 
 # game/sakuracan.rpy:3104 #-#-# translate crowdin positrenas_52972649:
 msgid "[_hi_] Yes... But only for today..."
-msgstr "[_hi_] 是……但只是今天……"
+msgstr ""
 
 # game/sakuracan.rpy:3105 #-#-# translate crowdin positrenas_53523e8c:
 msgid "[_hi_] If you want to take care of my hunger, invite me to the training room more often!"
-msgstr "[_hi_] 如果你想要照顾我的饥饿，请我更经常地来到训练室！"
+msgstr ""
 
 # game/sakuracan.rpy:3109 #-#-# translate crowdin positrenas_396d8e8d:
 msgid "[_r_] Next time you should ask to get in the room yourself, I know you're looking forward to it."
-msgstr "[_r_] 下次你要自己来到会议室，我知道你期待着它。"
+msgstr ""
 
 # game/sakuracan.rpy:3113 #-#-# translate crowdin positrenas_a27480b7:
 msgid "[_hi_] You make a girl ask..."
-msgstr "[_hi_] 你让女孩问……"
+msgstr ""
 
 # game/sakuracan.rpy:3114 #-#-# translate crowdin positrenas_3d897c4d:
 msgid "[_hi_] Maybe I will! See you!"
@@ -3034,71 +3034,71 @@ msgstr ""
 
 # game/sakuracan.rpy:3118 #-#-# translate crowdin positrenas_7c9d9337:
 msgid "[_r_] Good night."
-msgstr "[_r_] 晚上好。"
+msgstr ""
 
 # game/sakuracan.rpy:3124 #-#-# translate crowdin positrenas_78e6f09b:
 msgid "[_m_] Hinata left. I need to do something with this new information..."
-msgstr "[_m_] 剩下的黑纳塔。我需要用这个新信息做一些事情..."
+msgstr ""
 
 # game/sakuracan.rpy:3125 #-#-# translate crowdin positrenas_acad18b8:
 msgid "[_m_] Where the hell is Kamiko?"
-msgstr "[_m_] 地狱在哪里？"
+msgstr ""
 
 # game/sakuracan.rpy:3126 #-#-# translate crowdin positrenas_1246dd58:
 msgid "[_m_] She hasn't swung by the apartment for a long time..."
-msgstr "[_m_] 她长时间没有被公寓淹没了..."
+msgstr ""
 
 # game/sakuracan.rpy:3127 #-#-# translate crowdin positrenas_d15bf6d9:
 msgid "[_m_] How can I find her?"
-msgstr "[_m_] 我如何找到她？"
+msgstr ""
 
 # game/sakuracan.rpy:3128 #-#-# translate crowdin positrenas_0da678aa:
 msgid "[_m_] I feel that we are connected more than usual... I noticed this after the coma..."
-msgstr "[_m_] 我觉得我们的连接比平常更多……我在逗号后注意到这一点..."
+msgstr ""
 
 # game/sakuracan.rpy:3129 #-#-# translate crowdin positrenas_6e58da17:
 msgid "[_m_] Perhaps a new ability could help me out?"
-msgstr "[_m_] 或许一种新的技能可以帮助我走出去？"
+msgstr ""
 
 # game/sakuracan.rpy:3145 #-#-# translate crowdin sascixd_3394fc84:
 msgid "[_m_] What is this? Chakra? Traces are everywhere..."
-msgstr "[_m_] 这是什么？Chakra？追踪在任何地方..."
+msgstr ""
 
 # game/sakuracan.rpy:3146 #-#-# translate crowdin sascixd_8e4c1c09:
 msgid "[_m_] I can clearly tell that this is Kamiko's chakra, I can feel it for some reason."
-msgstr "[_m_] 我可以清楚地告诉你这个卡米科的锁链，我可以出于某种原因感觉。"
+msgstr ""
 
 # game/sakuracan.rpy:3147 #-#-# translate crowdin sascixd_e8245bb1:
 msgid "[_m_] I think I got it, this trail will lead me to Kamiko."
-msgstr "[_m_] 我想我得到了它，这条线索将会引导我到卡米科。"
+msgstr ""
 
 # game/sakuracan.rpy:3148 #-#-# translate crowdin sascixd_c11a53b5:
 msgid "[_m_] These eyes are a handy thing, huh."
-msgstr "[_m_] 这些眼睛是一件好事，这是一件好事。"
+msgstr ""
 
 # game/sakuracan.rpy:3162 #-#-# translate crowdin sascixd_cac54518:
 msgid "[_m_] Is that Kamiko there? That's definitely her."
-msgstr "[_m_] 那只Kamiko吗？这肯定是她。"
+msgstr ""
 
 # game/sakuracan.rpy:3163 #-#-# translate crowdin sascixd_58a7ac5b:
 msgid "[_m_] What is she doing there?"
-msgstr "[_m_] 她在那里做什么？"
+msgstr ""
 
 # game/sakuracan.rpy:3171 #-#-# translate crowdin sascixd_2e0a48d1:
 msgid "[_ka_] Sweetie, I see you."
-msgstr "[_ka_] 糖果，我看到你。"
+msgstr ""
 
 # game/sakuracan.rpy:3175 #-#-# translate crowdin sascixd_5cef1859:
 msgid "[_r_] Oh... Hello."
-msgstr "[_r_] Oh... Hello."
+msgstr ""
 
 # game/sakuracan.rpy:3180 #-#-# translate crowdin sascixd_965d0580:
 msgid "[_ka_] What a sudden visit. How did you even find me?"
-msgstr "[_ka_] 突然来了什么，你如何找到我？"
+msgstr ""
 
 # game/sakuracan.rpy:3185 #-#-# translate crowdin sascixd_92c11193:
 msgid "[_r_] New eyes, I saw a trace of your chakra."
-msgstr "[_r_] 新眼，我看到了你的链条的痕迹。"
+msgstr ""
 
 # game/sakuracan.rpy:3190 #-#-# translate crowdin sascixd_287f9455:
 msgid "[_ka_] Oh, so you were able to keep track? Not bad, even Uchiha with his Sharingan failed."
@@ -3106,43 +3106,43 @@ msgstr ""
 
 # game/sakuracan.rpy:3195 #-#-# translate crowdin sascixd_5c072834:
 msgid "[_r_] Am I disturbing you?"
-msgstr "[_r_] 我让你感到不安吗？"
+msgstr ""
 
 # game/sakuracan.rpy:3200 #-#-# translate crowdin sascixd_4793aa32:
 msgid "[_ka_] Not at all, I've already finished the ritual."
-msgstr "[_ka_] 根本没有了，我已经完成了仪式了。"
+msgstr ""
 
 # game/sakuracan.rpy:3205 #-#-# translate crowdin sascixd_ee873055:
 msgid "[_r_] Ritual? What are you talking about?"
-msgstr "[_r_] 仪式？你在谈论什么？"
+msgstr ""
 
 # game/sakuracan.rpy:3210 #-#-# translate crowdin sascixd_18ea5907:
 msgid "[_ka_] Summoning a new pawn, I've already done this with you."
-msgstr "[_ka_] 召唤一个新的宠物，我已经和你一起做了这件事。"
+msgstr ""
 
 # game/sakuracan.rpy:3215 #-#-# translate crowdin sascixd_b107cc5d:
 msgid "[_r_] Are you summoning someone else? Did you succeed?"
-msgstr "[_r_] 你要召唤别人吗？你成功了吗？"
+msgstr ""
 
 # game/sakuracan.rpy:3220 #-#-# translate crowdin sascixd_e9ed558e:
 msgid "[_ka_] Well, how can I put this... You can take a look for yourself."
-msgstr "[_ka_] 好吧，我怎么能这样说……你可以自己寻找。"
+msgstr ""
 
 # game/sakuracan.rpy:3229 #-#-# translate crowdin sascixd_c85c7b6d:
 msgid "[_r_] Fuck... My god... What evenis it!?"
-msgstr "[_r_] Fuck... 我的神……它是什么事件！？"
+msgstr ""
 
 # game/sakuracan.rpy:3231 #-#-# translate crowdin sascixd_3dba32fc:
 msgid "[_ka_] The body, as you can see. She couldn't stand it."
-msgstr "[_ka_] 你可以看到的身体。她无法站起来。"
+msgstr ""
 
 # game/sakuracan.rpy:3233 #-#-# translate crowdin sascixd_49ea6bfc:
 msgid "[_r_] Couldn't stand what? What did you do to her?"
-msgstr "[_r_] 无法站得住脚？你对她做了什么？"
+msgstr ""
 
 # game/sakuracan.rpy:3235 #-#-# translate crowdin sascixd_59a8620b:
 msgid "[_ka_] The transfer. Her body couldn't handle the interdimensional travel."
-msgstr "[_ka_] 传输。她的身体无法处理多维旅行。"
+msgstr ""
 
 # game/sakuracan.rpy:3237 #-#-# translate crowdin sascixd_d4baaf8b:
 msgid "[_r_] I... I could end up like that too?"
@@ -3150,15 +3150,15 @@ msgstr ""
 
 # game/sakuracan.rpy:3239 #-#-# translate crowdin sascixd_6526f2ac:
 msgid "[_ka_] Of course, dear, before you I called about a hundred applicants who could not stand the transfer."
-msgstr "[_ka_] 当然，在你打电话之前，我很想知道有100名申请人无法经得起移交。"
+msgstr ""
 
 # game/sakuracan.rpy:3241 #-#-# translate crowdin sascixd_ffdad8bc:
 msgid "[_r_] This... It’s not sitting in my head right..."
-msgstr "[_r_] 这是……它不是坐在我的头上……"
+msgstr ""
 
 # game/sakuracan.rpy:3243 #-#-# translate crowdin sascixd_d576e389:
 msgid "[_ka_] You are special, I already said it... Special not only because you survived the transfer, you are very useful, I would get rid of useless pawns right away, but this is not about you."
-msgstr "[_ka_] 你是特殊的，我已经说过... 特别不仅因为你在传输中幸存下来，你非常有用。 我会马上把没有用的儿子赶走，但这并不是你们的。"
+msgstr ""
 
 # game/sakuracan.rpy:3245 #-#-# translate crowdin sascixd_3ebea423:
 msgid "[_r_] So... You're going to summon someone else?"
@@ -3170,7 +3170,7 @@ msgstr ""
 
 # game/sakuracan.rpy:3249 #-#-# translate crowdin sascixd_662abe82:
 msgid "[_r_] Which attempt is this? How many people failed?"
-msgstr "[_r_] 这是哪一个尝试？有多少人失败？"
+msgstr ""
 
 # game/sakuracan.rpy:3251 #-#-# translate crowdin sascixd_7142279f:
 msgid "[_ka_] This time it's more difficult... This poor thing was... Hmm... 274."
@@ -3182,11 +3182,11 @@ msgstr ""
 
 # game/sakuracan.rpy:3254 #-#-# translate crowdin sascixd_da1eb514:
 msgid "[_m_] I don't know what to think..."
-msgstr "[_m_] 我不知道怎么想..."
+msgstr ""
 
 # game/sakuracan.rpy:3255 #-#-# translate crowdin sascixd_2f13a6a8:
 msgid "[_m_] I have only one goal here, I have to tell her... that I..."
-msgstr "[_m_] 我在这里只有一个目标，我必须告诉她……我……"
+msgstr ""
 
 # game/sakuracan.rpy:3267 #-#-# translate crowdin razkazatey_e3904bb5:
 msgid "[_m_] I'll do it... It's too dangerous... I have no choice."
@@ -3194,37 +3194,37 @@ msgstr ""
 
 # game/sakuracan.rpy:3271 #-#-# translate crowdin nerazkazal_8237d0c5:
 msgid "[_m_] No... After what I saw... I have to do everything on my own..."
-msgstr "[_m_] 否……在我看到之后……我必须自己做一切……"
+msgstr ""
 
 # §translate crowdin strings: #|#|# # game/sakuracan.rpy:199
 msgid "I think I'm pretty good at medicine, although I have no formal education."
-msgstr "我认为医学上我很好，尽管我没有受过正规教育。"
+msgstr ""
 
 # game/sakuracan.rpy:199
 msgid "To be honest, I'm still an amateur, but I like to help people."
-msgstr "坦率地说，我仍然是业余爱好者，但我想帮助人们。"
+msgstr ""
 
 # game/sakuracan.rpy:239
 msgid "I'm a great talker, sometimes a good conversation heals better than medicine."
-msgstr "我是一个很好的谈话者，有时是一个好的谈话，治疗好于医学。"
+msgstr ""
 
 # game/sakuracan.rpy:239
 msgid "I prefer to be silent, it helps me concentrate on work."
-msgstr "我宁愿沉默，这有助于我集中精力开展工作。"
+msgstr ""
 
 # game/sakuracan.rpy:1042
 msgid "Follow him, I should know."
-msgstr "跟随他，我应该知道了。"
+msgstr ""
 
 # game/sakuracan.rpy:1042
 msgid "I’m leaving, it’s getting too scary."
-msgstr "我正在离开，它太稀少。"
+msgstr ""
 
 # game/sakuracan.rpy:3257
 msgid "Tell her about the murderer and rebirth."
-msgstr "告诉她凶手和生儿育女。"
+msgstr ""
 
 # game/sakuracan.rpy:3257
 msgid "Don’t tell her, figure it out yourself."
-msgstr "不要告诉她，自己就知道了。"
+msgstr ""
 
