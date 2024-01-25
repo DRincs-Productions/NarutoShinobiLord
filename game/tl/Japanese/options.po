@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2024-01-24 14:31\n"
+"PO-Revision-Date: 2024-01-25 21:47\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # §translate crowdin strings: #|#|# # game/options.rpy:15
 msgid "Naruto: Shinobi Lord"
-msgstr "鳴門忍殿"
+msgstr ""
 
 # game/options.rpy:70
 msgid "Autor - Cats-creators.\n\n"
