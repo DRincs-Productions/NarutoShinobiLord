@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 17:51\n"
+"PO-Revision-Date: 2024-02-12 19:04\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/locamet.rpy:6 #-#-# translate crowdin kat1_dc17cd33:
 msgid "[_ka_] Be braver, boy."
@@ -626,7 +626,7 @@ msgstr "[_gg_] Ugh... Ralentissez la baise vers le bas ! Parce que je vais venir
 
 # game/locamet.rpy:449 #-#-# translate crowdin kat7_357ace9b:
 msgid "[_ay_] Khm... Mmph... Cum..."
-msgstr "[_ay_] Khm... Mmph... Cum..."
+msgstr "[_ay_] Khm... Mmph... jouir..."
 
 # game/locamet.rpy:451 #-#-# translate crowdin kat7_88d9b199:
 msgid "[_gg_] Nope, touch your toes now!"
@@ -974,7 +974,7 @@ msgstr "[_hi_] M....Mmmm.....Mmmm,.......MMMMMMM....."
 
 # game/locamet.rpy:759 #-#-# translate crowdin kat10_ea6e2302:
 msgid "[_m_] Wow, she's cumming..."
-msgstr "[_m_] Wow, elle cumpe..."
+msgstr "[_m_] Wow, elle jouirpe..."
 
 # game/locamet.rpy:761 #-#-# translate crowdin kat10_5954a83f:
 msgid "[_m_] It's done ... It was nice to look at it, but to abstain - sheer torture."
@@ -1086,7 +1086,7 @@ msgstr "[_mira_] Fait ça plus dur ! HARDER !"
 
 # game/locamet.rpy:837 #-#-# translate crowdin kat11_3acbc91d:
 msgid "[_gg_] I'LL CUM RIGHT INSIDE YOU!"
-msgstr "[_gg_] I'LL CUM DROIT DANS VOUS !"
+msgstr "[_gg_] I'LL jouir DROIT DANS VOUS !"
 
 # game/locamet.rpy:839 #-#-# translate crowdin kat11_7e9a67aa:
 msgid "[_mira_] I'M!.."
@@ -1142,11 +1142,11 @@ msgstr "[_mira_] Oui ! Oui ! Oui ! Oui ! Oui !!!"
 
 # game/locamet.rpy:890 #-#-# translate crowdin asdvcrrb124_c17e0389:
 msgid "[_gg_] I'm cumming!"
-msgstr "[_gg_] Je cumpe !"
+msgstr "[_gg_] Je jouirpe !"
 
 # game/locamet.rpy:892 #-#-# translate crowdin asdvcrrb124_85f732f2:
 msgid "[_mira_] Cum inside me again!"
-msgstr "[_mira_] Cum en moi à nouveau !"
+msgstr "[_mira_] jouir en moi à nouveau !"
 
 # game/locamet.rpy:894 #-#-# translate crowdin asdvcrrb124_9dab8578:
 msgid "[_mira_] Mmhm... Mhn..."
@@ -1186,7 +1186,7 @@ msgstr "[_m_] Elle me déteste !"
 
 # game/locamet.rpy:934 #-#-# translate crowdin kat12_7fcf557a:
 msgid "[_m_] Or loves me?"
-msgstr "[_m_] Ou m'aime ?"
+msgstr "[_m_] Ou elle m'aime ?"
 
 # game/locamet.rpy:936 #-#-# translate crowdin kat12_d89bd2d7:
 msgid "[_m_] I'm confused, holy shit..."
@@ -1390,7 +1390,7 @@ msgstr "[_hi_] OUI ! COMMENT BON !"
 
 # game/locamet.rpy:1090 #-#-# translate crowdin kat14_93f6b888:
 msgid "[_gg_] Don't hold it, cum when you want to!"
-msgstr "[_gg_] Ne le tenez pas, cum quand vous le voulez !"
+msgstr "[_gg_] Ne le tenez pas, jouir quand vous le voulez !"
 
 # game/locamet.rpy:1092 #-#-# translate crowdin kat14_513979bf:
 msgid "[_hi_] I'VE ALMOST!!"
@@ -1458,7 +1458,7 @@ msgstr "[_ka_] Comment tu aimais sa chatte ?"
 
 # game/locamet.rpy:1152 #-#-# translate crowdin kat16_801b6c37:
 msgid "[_gg_] Wet and narrow, as I like it."
-msgstr "[_gg_] Wet et étroit, comme je l'aime."
+msgstr "[_gg_] Humide et étroit, comme je l'aime."
 
 # game/locamet.rpy:1154 #-#-# translate crowdin kat16_188d8613:
 msgid "[_gg_] But that's something else, I think you should try her anal, that's another conversation."
@@ -1634,7 +1634,7 @@ msgstr "[_hi_] Heu... Y-oui... Vous avez raison. Mmm... Merde, c'est bien... Enc
 
 # game/locamet.rpy:1308 #-#-# translate crowdin kat18_18621cc3:
 msgid "[_gg_] A little more and I'll cum, Hinata."
-msgstr "[_gg_] Un peu plus et je vais cum, Hinata."
+msgstr "[_gg_] Un peu plus et je vais jouir, Hinata."
 
 # game/locamet.rpy:1310 #-#-# translate crowdin kat18_0e9aee70:
 msgid "[_hi_] I-I'm almost..."
@@ -2182,7 +2182,7 @@ msgstr "[_gg_] Je suis épilé ! Je vais éjaculer dans ma chatte !"
 
 # game/locamet.rpy:1850 #-#-# translate crowdin sansasss_4f9de576:
 msgid "[_kure_] Come on! Don't worry about it! Cum!"
-msgstr "[_kure_] Venez ! Ne vous inquiétez pas ! Cum !"
+msgstr "[_kure_] Venez ! Ne vous inquiétez pas ! jouir !"
 
 # game/locamet.rpy:1858 #-#-# translate crowdin sansasss_c9b8d282:
 msgid "[_gg_] Shit... That was... Very hot..."
@@ -2350,7 +2350,7 @@ msgstr "[_hi_] Mais maintenant je n'ai pas honte de ces pensées ... Je veux que
 
 # game/locamet.rpy:2016 #-#-# translate crowdin kat26_7b773ff8:
 msgid "[_hi_] Yes! YES! I'm cumming! MMMMMMMMMMMMMM!!!!"
-msgstr "[_hi_] Oui ! Oui ! Je suis cumming ! MMMMMMMMMMMMMM !"
+msgstr "[_hi_] Oui ! Oui ! Je suis jouirming ! MMMMMMMMMMMMMM !"
 
 # game/locamet.rpy:2018 #-#-# translate crowdin kat26_9f00dec9:
 msgid "[_hi_] What a relief..."
@@ -2554,7 +2554,7 @@ msgstr "[_gg_] Un peu plus Hinata !"
 
 # game/locamet.rpy:2170 #-#-# translate crowdin kat28_80fececb:
 msgid "[_hi_] Cum inside me, don't be afraid ~"
-msgstr "[_hi_] Cum en moi, n'ayez pas peur"
+msgstr "[_hi_] jouir en moi, n'ayez pas peur"
 
 # game/locamet.rpy:2180 #-#-# translate crowdin roisayyt_045e9e58:
 msgid "[_hi_] I... I want to be on top! I want to make you feel even better!"
@@ -2590,11 +2590,11 @@ msgstr "[_gg_] Encore un peu plus longtemps !"
 
 # game/locamet.rpy:2203 #-#-# translate crowdin roisayyt_74a2bd2a:
 msgid "[_hi_] MMM! YES! CUM!"
-msgstr "[_hi_] MMM ! OUI ! CUM !"
+msgstr "[_hi_] MMM ! OUI ! jouir !"
 
 # game/locamet.rpy:2205 #-#-# translate crowdin roisayyt_be94b1cc:
 msgid "[_gg_] I... I... Cum!"
-msgstr "[_gg_] I... I... Cum !"
+msgstr "[_gg_] I... I... jouir !"
 
 # game/locamet.rpy:2226 #-#-# translate crowdin kikikasse_cc2069a8:
 msgid "[_gg_] That was beautiful... Hinata..."
@@ -2602,7 +2602,7 @@ msgstr "[_gg_] C'était magnifique... Hinata..."
 
 # game/locamet.rpy:2228 #-#-# translate crowdin kikikasse_0338f09c:
 msgid "[_hi_] I really liked it too... I haven't cum in a long time..."
-msgstr "[_hi_] J'ai vraiment aimé ça aussi... Je n'ai pas de cum depuis longtemps..."
+msgstr "[_hi_] J'ai vraiment aimé ça aussi... Je n'ai pas de jouir depuis longtemps..."
 
 # game/locamet.rpy:2230 #-#-# translate crowdin kikikasse_fe55ef14:
 msgid "[_hi_] Already forgot what it's like to cum from a cock..."
@@ -2670,7 +2670,7 @@ msgstr "[_hi_] C'est bon, j'ai pris mes pilules, ne raccrochez pas !"
 
 # game/locamet.rpy:2287 #-#-# translate crowdin piskoy1_7d7b14d7:
 msgid "[_gg_] Like this! Come on! I'm cumming!"
-msgstr "[_gg_] Comme ça ! Allez ! Je cumpe !"
+msgstr "[_gg_] Comme ça ! Allez ! Je jouirpe !"
 
 # game/locamet.rpy:2302 #-#-# translate crowdin rotikomsaw1_70f2729a:
 msgid "[_gg_] Yeah... Like this... Keep that pace..."
@@ -2730,7 +2730,7 @@ msgstr "[_gg_] Juste un peu plus et je vais foutre..."
 
 # game/locamet.rpy:2352 #-#-# translate crowdin kat30_31adce30:
 msgid "[_gg_] Cumming! I'm cumming!"
-msgstr "[_gg_] Cumming ! Je cumure !"
+msgstr "[_gg_] jouirming ! Je jouirure !"
 
 # game/locamet.rpy:2362 #-#-# translate crowdin kat30_9ad0f7a6:
 msgid "[_gg_] Swallow it all... I know you love the taste."
@@ -2834,7 +2834,7 @@ msgstr "[_gg_] Je suis sur le point de foutre ! Allez-y !"
 
 # game/locamet.rpy:2471 #-#-# translate crowdin zaberva3334_4874a0e4:
 msgid "[_kure_] No! It's okay, cum inside me, it's safe... Just cum! I'm ready too!"
-msgstr "[_kure_] Non ! Ça va bien, foutre en moi, c'est sûr... Cum ! Je suis prêt aussi !"
+msgstr "[_kure_] Non ! Ça va bien, foutre en moi, c'est sûr... jouir ! Je suis prêt aussi !"
 
 # game/locamet.rpy:2479 #-#-# translate crowdin zaberva3334_edecf5d8:
 msgid "[_kure_] So pleasant... Your cum is inside me..."
@@ -2914,7 +2914,7 @@ msgstr "[_gg_] Je me sens si bien !"
 
 # game/locamet.rpy:2553 #-#-# translate crowdin kat31_7994c0e8:
 msgid "[_mira_] Cum! Come on! Let's do it together!"
-msgstr "[_mira_] Cum ! Allons-y ! Faisons-le ensemble !"
+msgstr "[_mira_] jouir ! Allons-y ! Faisons-le ensemble !"
 
 # game/locamet.rpy:2555 #-#-# translate crowdin kat31_f88516a8:
 msgid "[_gg_] I'm cumming now!!"
