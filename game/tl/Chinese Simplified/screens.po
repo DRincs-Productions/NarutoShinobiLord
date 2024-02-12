@@ -10,83 +10,83 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-01-25 21:47\n"
+"PO-Revision-Date: 2024-02-12 17:51\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:903
 msgid "Back"
-msgstr ""
+msgstr "返回"
 
 # game/screens.rpy:904
 msgid "History"
-msgstr ""
+msgstr "历史"
 
 # game/screens.rpy:905
 msgid "Skip"
-msgstr ""
+msgstr "跳过"
 
 # game/screens.rpy:906
 msgid "Auto"
-msgstr ""
+msgstr "自动"
 
 # game/screens.rpy:907
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 # game/screens.rpy:908
 msgid "Q.Save"
-msgstr ""
+msgstr "快速保存"
 
 # game/screens.rpy:909
 msgid "Q.Load"
-msgstr ""
+msgstr "快速读取"
 
 # game/screens.rpy:910
 msgid "Prefs"
-msgstr ""
+msgstr "偏好"
 
 # game/screens.rpy:911
 msgid "Hide"
-msgstr ""
+msgstr "隐藏"
 
 # game/screens.rpy:956
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 # game/screens.rpy:964
 msgid "Load"
-msgstr ""
+msgstr "读取"
 
 # game/screens.rpy:966
 msgid "Galery"
-msgstr ""
+msgstr "画廊"
 
 # game/screens.rpy:968
 msgid "Preferences"
-msgstr ""
+msgstr "偏好"
 
 # game/screens.rpy:972
 msgid "End Replay"
-msgstr ""
+msgstr "结束回放"
 
 # game/screens.rpy:976
 msgid "Main Menu"
-msgstr ""
+msgstr "主菜单"
 
 # game/screens.rpy:978
 msgid "About"
-msgstr ""
+msgstr "关于"
 
 # game/screens.rpy:983
 msgid "Help"
-msgstr ""
+msgstr "帮助"
 
 # game/screens.rpy:989
 msgid "Quit"
-msgstr ""
+msgstr "离开"
 
 # game/screens.rpy:1479
 msgid "Return"
-msgstr ""
+msgstr "返回"
 
 # game/screens.rpy:1564
 msgid "Version [config.version!t]\n"
