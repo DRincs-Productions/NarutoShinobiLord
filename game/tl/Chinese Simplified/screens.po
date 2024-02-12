@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-12 17:51\n"
+"PO-Revision-Date: 2024-02-12 19:04\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:903
 msgid "Back"
@@ -90,7 +90,7 @@ msgstr "返回"
 
 # game/screens.rpy:1564
 msgid "Version [config.version!t]\n"
-msgstr ""
+msgstr "版本 [config.version!t]\n"
 
 # game/screens.rpy:1570
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
