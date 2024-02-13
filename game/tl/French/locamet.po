@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 19:04\n"
+"PO-Revision-Date: 2024-02-13 13:50\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/locamet.rpy:6 #-#-# translate crowdin kat1_dc17cd33:
 msgid "[_ka_] Be braver, boy."
@@ -1162,7 +1162,7 @@ msgstr "[_ka_] Dhomth...ces frais ? ( ne voyez-vous pas ? )"
 
 # game/locamet.rpy:916 #-#-# translate crowdin kat12_1c85056b:
 msgid "[_gg_] Fuck... How good..."
-msgstr "[_gg_] Fuck ... Quel bon..."
+msgstr "[_gg_] Merde ... Quel bon..."
 
 # game/locamet.rpy:920 #-#-# translate crowdin kat12_52fd3cef:
 msgid "[_gg_] Whatever you’re thinking, don’t stop..."
@@ -1198,7 +1198,7 @@ msgstr "[_gg_] Je vais le faire ! Je vais !"
 
 # game/locamet.rpy:950 #-#-# translate crowdin kat12_9ec1ab50:
 msgid "[_gg_] Fuck... It's... What the..."
-msgstr "[_gg_] Fuck ... C'est... C'est quoi..."
+msgstr "[_gg_] Merde ... C'est... C'est quoi..."
 
 # game/locamet.rpy:954 #-#-# translate crowdin kat12_47ae13e7:
 msgid "[_ka_] Wow, so liquid, I can see he came a lot today."
@@ -1494,7 +1494,7 @@ msgstr "[_ka_] MMMM ! Vous auriez dû amener cette fille plus tôt..."
 
 # game/locamet.rpy:1178 #-#-# translate crowdin kat16_a699ce04:
 msgid "[_gg_] You really... Fuck... At this rate, I'm about to end up in her!"
-msgstr "[_gg_] Vous êtes vraiment... Fuck ... À ce rythme, je suis sur le point de finir dans elle !"
+msgstr "[_gg_] Vous êtes vraiment... Merde ... À ce rythme, je suis sur le point de finir dans elle !"
 
 # game/locamet.rpy:1180 #-#-# translate crowdin kat16_31be313a:
 msgid "[_mira_] AH! AH! AH! FASTER! Don't STOP!"
@@ -1698,7 +1698,7 @@ msgstr "[_an_] Do u enchoy the few ... ?"
 
 # game/locamet.rpy:1378 #-#-# translate crowdin kat20_a72bccd5:
 msgid "[_gg_] Oh, I'm enjoying it so much... Fuck..."
-msgstr "[_gg_] Oh, je l'aime tellement ... Fuck ..."
+msgstr "[_gg_] Oh, je l'aime tellement ... Merde ..."
 
 # game/locamet.rpy:1380 #-#-# translate crowdin kat20_5dec23ce:
 msgid "[_gg_] How many cocks have you sucked to work so well with your mouth..."
@@ -1710,7 +1710,7 @@ msgstr "[_an_] Il..."
 
 # game/locamet.rpy:1384 #-#-# translate crowdin kat20_eb191553:
 msgid "[_gg_] Fuck... Yeah... keep it up..."
-msgstr "[_gg_] Fuck ... Oui... continuez comme ça ..."
+msgstr "[_gg_] Merde ... Oui... continuez comme ça ..."
 
 # game/locamet.rpy:1386 #-#-# translate crowdin kat20_42d3a88f:
 msgid "[_gg_] That's fucking awesome!"
@@ -1746,7 +1746,7 @@ msgstr "[_an_] J'adore le sexe hard ! Fuck like that every day !"
 
 # game/locamet.rpy:1442 #-#-# translate crowdin rdgmnyh64_ad962064:
 msgid "[_gg_] Fuck... How do you have so much energy..."
-msgstr "[_gg_] Fuck ... Comment avez-vous autant d'énergie..."
+msgstr "[_gg_] Merde ... Comment avez-vous autant d'énergie..."
 
 # game/locamet.rpy:1444 #-#-# translate crowdin rdgmnyh64_228d19b3:
 msgid "[_m_] It feels like I’m being raped, but it’s fucking amazing!"
@@ -1826,7 +1826,7 @@ msgstr "[_gg_] Je comprends tout. Tu fais super, très super."
 
 # game/locamet.rpy:1502 #-#-# translate crowdin kat21_7311e7ff:
 msgid "[_hi_] I like that you compliment me on not being very good at... It's encouraging..."
-msgstr "[_hi_] J'aime que vous me complimez pour ne pas être très bon à ... C'est encourageant ..."
+msgstr "[_hi_] J'aime que vous me complimentiez sur le fait que je ne suis pas très doué... C'est encourageant..."
 
 # game/locamet.rpy:1504 #-#-# translate crowdin kat21_5ae29019:
 msgid "[_gg_] You are doing your best... I'm very pleased about it now!"
@@ -1886,11 +1886,11 @@ msgstr "[_hi_] C'est probablement bizarre, mais pour une raison quelconque, j'ai
 
 # game/locamet.rpy:1576 #-#-# translate crowdin kat22_19401632:
 msgid "[_m_] Fucking hell... I can see everything!"
-msgstr "[_m_] Fucking hell... Je vois tout !"
+msgstr "[_m_] Putain de merde... Je vois tout !"
 
 # game/locamet.rpy:1578 #-#-# translate crowdin kat22_7546d4b5:
 msgid "[_m_] Fucking perv who made this hole, I thank you!"
-msgstr "[_m_] Fucking perv qui a fait ce trou, je vous remercie !"
+msgstr "[_m_] Putain de pervers qui a fait ce trou, je vous remercie !"
 
 # game/locamet.rpy:1580 #-#-# translate crowdin kat22_feea3fc5:
 msgid "[_m_] You can even hear what they're saying from here..."
@@ -2050,7 +2050,7 @@ msgstr "[_gg_] Bien joué, obtenez maintenant votre récompense !"
 
 # game/locamet.rpy:1740 #-#-# translate crowdin kat22_e4564978:
 msgid "[_mira_] Y-yes! Fuck....! MMMMMMM!"
-msgstr "[_mira_] Y-oui ! Fuck .... ! MMMMM !"
+msgstr "[_mira_] Y-oui ! Merde .... ! MMMMM !"
 
 # game/locamet.rpy:1742 #-#-# translate crowdin kat22_141db102:
 msgid "[_gg_] Keep it down girl! Don't forget they can hear us!"
@@ -2206,7 +2206,7 @@ msgstr "[_gg_] Bon travail... Il suffit de donner à mes couilles une bonne suce
 
 # game/locamet.rpy:1884 #-#-# translate crowdin sansa1sss_e0fca452:
 msgid "[_gg_] Mmmm... Fuck... I love that view. It's so exciting."
-msgstr "[_gg_] Mmmm... Fuck ... J'adore cette vue. C'est tellement excitant."
+msgstr "[_gg_] Mmmm... Merde ... J'adore cette vue. C'est tellement excitant."
 
 # game/locamet.rpy:1886 #-#-# translate crowdin sansa1sss_911af1fe:
 msgid "[_gg_] It's exciting to watch a juicy mommy take care of my balls..."
@@ -2662,7 +2662,7 @@ msgstr "[_m_] Peu importe, j'adore les résultats !"
 
 # game/locamet.rpy:2283 #-#-# translate crowdin piskoy1_f3cec040:
 msgid "[_gg_] Fuck... I feel like I’m about to..."
-msgstr "[_gg_] Fuck ... J'ai l'impression que je m'apprête à..."
+msgstr "[_gg_] Merde ... J'ai l'impression que je m'apprête à..."
 
 # game/locamet.rpy:2285 #-#-# translate crowdin piskoy1_03fc4c95:
 msgid "[_hi_] It's okay, I took my pills, don't hold back!"
@@ -2890,7 +2890,7 @@ msgstr "[_mira_] Mais c'est si gentil ..."
 
 # game/locamet.rpy:2534 #-#-# translate crowdin kat31_6f27ba7a:
 msgid "[_mira_] Fuck... Yes... I love this dick so much..."
-msgstr "[_mira_] Fuck ... Oui... J'adore cette bite tellement ..."
+msgstr "[_mira_] Merde ... Oui... J'adore cette bite tellement ..."
 
 # game/locamet.rpy:2536 #-#-# translate crowdin kat31_b0346559:
 msgid "[_gg_] More than your old worn out rubber ones?"
@@ -2906,7 +2906,7 @@ msgstr "[_mira_] Maintenant ..."
 
 # game/locamet.rpy:2547 #-#-# translate crowdin kat31_23a182ee:
 msgid "[_gg_] Fuck... Mirai... If you keep doing this..."
-msgstr "[_gg_] Fuck ... Mirai... Si vous continuez à le faire..."
+msgstr "[_gg_] Merde ... Mirai... Si vous continuez à le faire..."
 
 # game/locamet.rpy:2551 #-#-# translate crowdin kat31_3adebd74:
 msgid "[_gg_] Feels so good!"
