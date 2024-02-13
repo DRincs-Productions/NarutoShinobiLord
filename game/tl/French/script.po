@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 15:43\n"
+"PO-Revision-Date: 2024-02-13 16:59\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -15590,7 +15590,7 @@ msgstr "[_hi_] Désolé pour l'invasion de votre espace"
 
 # game/script.rpy:19597 #-#-# translate crowdin doroaos_5d5030d8:
 msgid "[_m_] H-hinata what are you..."
-msgstr "[H-hinata, qu'est-ce que tu..."
+msgstr "[_m_] H-hinata, qu'est-ce que tu..."
 
 # game/script.rpy:19606 #-#-# translate crowdin doroaos_ea779ab4:
 msgid "[_hi_] Mmmm..."
