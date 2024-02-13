@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 15:43\n"
+"PO-Revision-Date: 2024-02-13 21:58\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/sakuracan.rpy:16 #-#-# translate crowdin sakuracan_62efc2f4:
 msgid "[_k_] Come back again."
@@ -514,7 +514,7 @@ msgstr "[_r_] Voyons lentement tout ce que nous pouvons ..."
 
 # game/sakuracan.rpy:566 #-#-# translate crowdin omegaxui_def6ee62:
 msgid "[_hi_] Y-yes..."
-msgstr "[_hi_] Y-oui..."
+msgstr "[_hi_] O-oui..."
 
 # game/sakuracan.rpy:567 #-#-# translate crowdin omegaxui_6a1ce48e:
 msgid "[_hi_] I'm ready..."
@@ -2186,7 +2186,7 @@ msgstr "[_r_] Désolé ! Le client ne veut vraiment pas laisser entrer personne 
 
 # game/sakuracan.rpy:2363 #-#-# translate crowdin aferomes_dc809d59:
 msgid "[_hi_] Mmmmm... Fuck..."
-msgstr "[_hi_] Mmm... Vidéo porno et blondes hard !"
+msgstr "[_hi_] Mmmmm ... Putain ..."
 
 # game/sakuracan.rpy:2371 #-#-# translate crowdin aferomes_d93b1263:
 msgid "[_saku_] Is this true miss? I'm a senior doctor, I won't disturb you!"
