@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 21:58\n"
+"PO-Revision-Date: 2024-02-13 23:20\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/locamet.rpy:6 #-#-# translate crowdin kat1_dc17cd33:
 msgid "[_ka_] Be braver, boy."
@@ -522,7 +522,7 @@ msgstr "[_ay_] Attendre... Arrêtez..."
 
 # game/locamet.rpy:365 #-#-# translate crowdin kat6_0bcf5f5b:
 msgid "[_m_] Ayame’s body is twitching from orgasms..."
-msgstr "[_m_] Le corps d'Ayame twitte depuis des orgasmes..."
+msgstr "[_m_] Le corps d'Ayame est secoué par les orgasmes..."
 
 # game/locamet.rpy:367 #-#-# translate crowdin kat6_8e7f4a4e:
 msgid "[_gg_] I still haven’t come..."
@@ -594,7 +594,7 @@ msgstr "[_m_] J'adore ça... Je vais me retrouver dans la gorge !"
 
 # game/locamet.rpy:423 #-#-# translate crowdin kat6_138aa564:
 msgid "[_m_] FUCK! THERE IT IS!"
-msgstr "[_m_] FRAIS ! LON EST !"
+msgstr "[_m_] MERDE ! C'EST LÀ !"
 
 # game/locamet.rpy:425 #-#-# translate crowdin kat6_b2c04aa2:
 msgid "[_ay_] GHMM... MH! MMPH!"
