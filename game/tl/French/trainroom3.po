@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 15:43\n"
+"PO-Revision-Date: 2024-02-13 21:59\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/trainroom3.rpy:119 #-#-# translate crowdin roomhand1s2_20e36cd1:
 msgid "[_r_] That's it Hinata, don't rush, just get a feel of my cock with your hands."
@@ -62,7 +62,7 @@ msgstr "[_r_] Aimes-tu ça, Maître  ? Dites le plus respectueusement."
 
 # game/trainroom3.rpy:144 #-#-# translate crowdin roomhand1s2_e9c8b579:
 msgid "[_hi_] Do you like it, master...?"
-msgstr "[_hi_] Vous aimez ça, maître...  ?"
+msgstr "[_hi_] Vous aimez ça, maître...?"
 
 # game/trainroom3.rpy:146 #-#-# translate crowdin roomhand1s2_932b448f:
 msgid "[_r_] Yeah... Don't stop, I'll cum all over your lustful face!"
