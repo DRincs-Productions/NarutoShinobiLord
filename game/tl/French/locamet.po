@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 15:43\n"
+"PO-Revision-Date: 2024-02-13 21:58\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/locamet.rpy:6 #-#-# translate crowdin kat1_dc17cd33:
 msgid "[_ka_] Be braver, boy."
@@ -1834,7 +1834,7 @@ msgstr "[_gg_] Vous faites de votre mieux ... Je suis très content de cela main
 
 # game/locamet.rpy:1506 #-#-# translate crowdin kat21_4168cc4e:
 msgid "[_hi_] Y-you soon?"
-msgstr "[_hi_] Y-vous bientôt ?"
+msgstr "[_hi_] V-vous bientôt ?"
 
 # game/locamet.rpy:1508 #-#-# translate crowdin kat21_43eb54a2:
 msgid "[_gg_] Yes, the pace is just gorgeous, I'm now..."
@@ -2518,7 +2518,7 @@ msgstr "[_gg_] Lie sur ton dos, Hinata."
 
 # game/locamet.rpy:2145 #-#-# translate crowdin kat28_def6ee62:
 msgid "[_hi_] Y-yes..."
-msgstr "[_hi_] Y-oui..."
+msgstr "[_hi_] O-oui..."
 
 # game/locamet.rpy:2154 #-#-# translate crowdin kat28_c4da147b:
 msgid "[_gg_] Aren't you in pain?"
@@ -2554,7 +2554,7 @@ msgstr "[_gg_] Un peu plus Hinata !"
 
 # game/locamet.rpy:2170 #-#-# translate crowdin kat28_80fececb:
 msgid "[_hi_] Cum inside me, don't be afraid ~"
-msgstr "[_hi_] jouir en moi, n'ayez pas peur"
+msgstr "[_hi_] jouis en moi, n'aie pas peur"
 
 # game/locamet.rpy:2180 #-#-# translate crowdin roisayyt_045e9e58:
 msgid "[_hi_] I... I want to be on top! I want to make you feel even better!"
