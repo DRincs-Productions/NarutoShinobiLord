@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-12 16:49\n"
+"PO-Revision-Date: 2024-02-13 15:43\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/kuremiraywayo.rpy:6 #-#-# translate crowdin kuremiraywayo_2c661c9f:
 msgid "[_m_] I'm not sure I can get both mother and daughter at the same time."
@@ -270,7 +270,7 @@ msgstr "[_mira_] Je ne peux pas croire mes oreilles ..."
 
 # game/kuremiraywayo.rpy:315 #-#-# translate crowdin biberbist_13cc56a5:
 msgid "[_mira_] That... Freak! He did all those dirty things to my mom!?"
-msgstr "[_mira_] C'est... Freak ! Il a fait toutes ces sales choses à ma mère ! ?"
+msgstr "[_mira_] C'est... Freak ! Il a fait toutes ces sales choses à ma mère !?"
 
 # game/kuremiraywayo.rpy:316 #-#-# translate crowdin biberbist_8ddc44cf:
 msgid "[_mira_] I thought so, this guy can't be trusted..."
@@ -282,7 +282,7 @@ msgstr "[_mira_] C'est si dur de le rattraper ... Ces derniers mois, il m'a mira
 
 # game/kuremiraywayo.rpy:324 #-#-# translate crowdin biberbist_7cad11c2:
 msgid "[_mira_] What a freak! I hate it!!"
-msgstr "[_mira_] Qu'est-ce qu'un freak ! Je déteste ça ! !"
+msgstr "[_mira_] Qu'est-ce qu'un freak ! Je déteste ça !!"
 
 # game/kuremiraywayo.rpy:325 #-#-# translate crowdin biberbist_99beb635:
 msgid "[_mira_] What did he do to my mom? I need to know more! And when I find out..."
@@ -346,7 +346,7 @@ msgstr "[_kure_] Probablement parce que dans le passé j'étais une bonne shinob
 
 # game/kuremiraywayo.rpy:396 #-#-# translate crowdin biberbist_b34eeb5a:
 msgid "[_r_] Not just that, with such a tight ass like yours, it's a sin not to enjoy young cocks. I don't know why you never had fans before me."
-msgstr "[_r_] Pas seulement que, avec un tel cul si serré comme le vôtre, c'est un péché de ne pas aimer les jeunes cocks. Je ne sais pas pourquoi vous n'avez jamais eu de fans avant moi."
+msgstr "[_r_] Pas seulement que, avec un tel cul si serré comme le vôtre, c'est un péché de ne pas aimer les jeunes bites. Je ne sais pas pourquoi vous n'avez jamais eu de fans avant moi."
 
 # game/kuremiraywayo.rpy:400 #-#-# translate crowdin biberbist_cf0c998f:
 msgid "[_kure_] I'm a modest woman, only you managed to dig out of me the enthusiasm that I have long had hidden within."
@@ -366,7 +366,7 @@ msgstr "[_r_] Êtes-vous assez détendu ? Comment pouvons-nous commencer à util
 
 # game/kuremiraywayo.rpy:418 #-#-# translate crowdin biberbist_27d6dc6c:
 msgid "[_kure_] Sit down sweetie, bring your delicious cock over here, mommy will make sure everything is clean and slippery."
-msgstr "[_kure_] Sit down sweetie, apporte ton délicieux coq ici, maman va s'assurer que tout est propre et glissant."
+msgstr "[_kure_] Sit down Chéri, apporte ton délicieux coq ici, maman va s'assurer que tout est propre et glissant."
 
 # game/kuremiraywayo.rpy:428 #-#-# translate crowdin biberbist_098ed186:
 msgid "[_r_] You know exactly what I need, Kurenai..."
@@ -386,7 +386,7 @@ msgstr "[_r_] Viens sur Kurenai, je sais que tu peux l'approfondir !"
 
 # game/kuremiraywayo.rpy:442 #-#-# translate crowdin biberbist_02da12da:
 msgid "[_mira_] What the fuck is going on!?"
-msgstr "[_mira_] Que se passe la baise ! ?"
+msgstr "[_mira_] Que se passe la baise !?"
 
 # game/kuremiraywayo.rpy:443 #-#-# translate crowdin biberbist_13af7ae3:
 msgid "[_mira_] She... She’s sucking his cock like that..."
@@ -430,7 +430,7 @@ msgstr "[_kure_] Êtes-vous à l'aise ? Je vais commencer maintenant."
 
 # game/kuremiraywayo.rpy:480 #-#-# translate crowdin biberbist_c73ab6a7:
 msgid "[_r_] Yes, don’t worry, just ride me however you want."
-msgstr "[_r_] Oui, ne vous inquiéez pas, n'est-ce pas que vous voulez."
+msgstr "[_r_] Oui, ne vous inquiétez pas, n'est-ce pas que vous voulez."
 
 # game/kuremiraywayo.rpy:490 #-#-# translate crowdin biberbist_5866158b:
 msgid "[_r_] Like this, good job... Don’t rush, feel it inside you..."
@@ -514,7 +514,7 @@ msgstr "[_r_] Je suis sur le point de foutre ! Allez-y !"
 
 # game/kuremiraywayo.rpy:576 #-#-# translate crowdin zaberva_4874a0e4:
 msgid "[_kure_] No! It's okay, cum inside me, it's safe... Just cum! I'm ready too!"
-msgstr "[_kure_] Non ! Ça va bien, foutre en moi, c'est sûr... Cum ! Je suis prêt aussi !"
+msgstr "[_kure_] Non ! Ça va bien, foutre en moi, c'est sûr... jouir ! Je suis prêt aussi !"
 
 # game/kuremiraywayo.rpy:584 #-#-# translate crowdin zaberva_edecf5d8:
 msgid "[_kure_] So pleasant... Your cum is inside me..."
@@ -530,7 +530,7 @@ msgstr "[_r_] Êtes-vous sûr que c'est sécuritaire ? Vous savez, éjaculant en
 
 # game/kuremiraywayo.rpy:597 #-#-# translate crowdin zaberva_497a83a0:
 msgid "[_kure_] Of course, don't worry, it's not easy to knock me up at this age."
-msgstr "[_kure_] Bien sûr, ne vous inquiéez pas, il n'est pas facile de me frapper à cet âge."
+msgstr "[_kure_] Bien sûr, ne vous inquiétez pas, il n'est pas facile de me frapper à cet âge."
 
 # game/kuremiraywayo.rpy:601 #-#-# translate crowdin zaberva_80084b5b:
 msgid "[_r_] Well, I’ll take your word for it then."
@@ -570,7 +570,7 @@ msgstr "[_kure_] Merci, chérie."
 
 # game/kuremiraywayo.rpy:644 #-#-# translate crowdin zaberva_d05b5c44:
 msgid "[_mira_] Bastard! Bitch! Just one reason! GIVE ME ONE REASON!!"
-msgstr "[_mira_] Bastard ! Bitch ! Juste une raison ! DONNEZ-MOI UNE RAISON ! !"
+msgstr "[_mira_] Bastard ! Bitch ! Juste une raison ! DONNEZ-MOI UNE RAISON !!"
 
 # game/kuremiraywayo.rpy:648 #-#-# translate crowdin zaberva_8656e7ed:
 msgid "[_r_] Mirai? Fuck, wait, what are you... Are you going to stab me with a kunai? Calm down, let me..."
@@ -586,7 +586,7 @@ msgstr "[_r_] Je suppose que c'est... Vous savez... Ce n'est pas légal..."
 
 # game/kuremiraywayo.rpy:660 #-#-# translate crowdin zaberva_c461a9e6:
 msgid "[_mira_] Is it legal to fuck other people's mothers? You son of a bitch, I hate you!!"
-msgstr "[_mira_] Est-il légal de baise les mères d'autres personnes ? Vous fils d'une chienne, je vous déteste ! !"
+msgstr "[_mira_] Est-il légal de baise les mères d'autres personnes ? Vous fils d'une chienne, je vous déteste !!"
 
 # game/kuremiraywayo.rpy:664 #-#-# translate crowdin zaberva_bc34d253:
 msgid "[_r_] So you saw..."
@@ -602,7 +602,7 @@ msgstr "[_r_] Tu sais, Mirai ... Tu n'as pas le choix."
 
 # game/kuremiraywayo.rpy:674 #-#-# translate crowdin zaberva_c06a6ecc:
 msgid "[_mira_] What are you!?"
-msgstr "[_mira_] Qu'est-ce que vous ! ?"
+msgstr "[_mira_] Qu'est-ce que vous !?"
 
 # game/kuremiraywayo.rpy:688 #-#-# translate crowdin cszzxfdaol_3668c878:
 msgid "[_mira_] So you were saying..."
@@ -906,7 +906,7 @@ msgstr "[_mira_] Hé, pourquoi êtes-vous si distant ? Vous êtes assis ici en s
 
 # game/kuremiraywayo.rpy:997 #-#-# translate crowdin mesacespesre_aa3e5059:
 msgid "[_r_] Huh? Did you say something?"
-msgstr "[_r_] Huh ? Avez-vous dit quelque chose ?"
+msgstr "[_r_] Hum ? Avez-vous dit quelque chose ?"
 
 # game/kuremiraywayo.rpy:1001 #-#-# translate crowdin mesacespesre_85fdb658:
 msgid "[_mira_] I'm telling you, you're too out of it, doesn’t seem like you at all."
@@ -1026,7 +1026,7 @@ msgstr "[_r_] Oui ... Prenez votre temps ... Va l'utiliser complètement ..."
 
 # game/kuremiraywayo.rpy:1113 #-#-# translate crowdin mesacespesre_f0916b57:
 msgid "[_mira_] Damn... A little... Big..."
-msgstr "[_mira_] Damn... Un peu... Grand..."
+msgstr "[_mira_] Merde... Un peu... Grand..."
 
 # game/kuremiraywayo.rpy:1114 #-#-# translate crowdin mesacespesre_b7b6d0e8:
 msgid "[_mira_] But it feels so nice..."
@@ -1034,7 +1034,7 @@ msgstr "[_mira_] Mais c'est si gentil ..."
 
 # game/kuremiraywayo.rpy:1120 #-#-# translate crowdin mesacespesre_6f27ba7a:
 msgid "[_mira_] Fuck... Yes... I love this dick so much..."
-msgstr "[_mira_] Fuck ... Oui... J'adore cette bite tellement ..."
+msgstr "[_mira_] Merde ... Oui... J'adore cette bite tellement ..."
 
 # game/kuremiraywayo.rpy:1122 #-#-# translate crowdin mesacespesre_1372fcaa:
 msgid "[_r_] More than your old worn out rubber ones?"
@@ -1050,7 +1050,7 @@ msgstr "[_mira_] Maintenant ..."
 
 # game/kuremiraywayo.rpy:1133 #-#-# translate crowdin mesacespesre_b4e938bf:
 msgid "[_r_] Fuck... Mirai... If you keep doing this..."
-msgstr "[_r_] Fuck ... Mirai... Si vous continuez à le faire..."
+msgstr "[_r_] Merde ... Mirai... Si vous continuez à le faire..."
 
 # game/kuremiraywayo.rpy:1137 #-#-# translate crowdin mesacespesre_1606efba:
 msgid "[_r_] Feels so good!"
@@ -1058,11 +1058,11 @@ msgstr "[_r_] Je me sens si bien !"
 
 # game/kuremiraywayo.rpy:1139 #-#-# translate crowdin mesacespesre_7994c0e8:
 msgid "[_mira_] Cum! Come on! Let's do it together!"
-msgstr "[_mira_] Cum ! Allons-y ! Faisons-le ensemble !"
+msgstr "[_mira_] jouir ! Allons-y ! Faisons-le ensemble !"
 
 # game/kuremiraywayo.rpy:1141 #-#-# translate crowdin mesacespesre_b7158176:
 msgid "[_r_] I'm cumming now!!"
-msgstr "[_r_] Je suis en train de foutre ! !"
+msgstr "[_r_] Je suis en train de foutre !!"
 
 # game/kuremiraywayo.rpy:1149 #-#-# translate crowdin mesacespesre_5c13e86c:
 msgid "[_r_] You did such a good job, both of your holes are amazing..."
@@ -1234,7 +1234,7 @@ msgstr "[_ka_] Ici vous êtes, bon."
 
 # game/kuremiraywayo.rpy:1338 #-#-# translate crowdin swistun_5c35436c:
 msgid "[_r_] K-kamiko... You're covered in blood! Is it safe in here!?"
-msgstr "[_r_] K-kamiko... Vous êtes couvert de sang ! Est-il sécuritaire ici ! ?"
+msgstr "[_r_] K-kamiko... Vous êtes couvert de sang ! Est-il sécuritaire ici !?"
 
 # game/kuremiraywayo.rpy:1343 #-#-# translate crowdin swistun_acd064f7:
 msgid "[_ka_] Don't be nervous, I wouldn't risk such a precious pawn like you."
