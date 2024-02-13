@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 18:15\n"
+"PO-Revision-Date: 2024-02-13 21:59\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/trainroom4.rpy:126 #-#-# translate crowdin roomhand1s22_20e36cd1:
 msgid "[_r_] That's it Hinata, don't rush, just get a feel of my cock with your hands."
@@ -338,7 +338,7 @@ msgstr "[_r_] Pour obtenir ma bite, tu dois m'écouter."
 
 # game/trainroom4.rpy:686 #-#-# translate crowdin vaginapoli22_c1884cde:
 msgid "[_hi_] Ah! Yes! I obey!"
-msgstr "[_hi_] Ah ! Oui ! Je obéis !"
+msgstr "[_hi_] Ah ! oui ! J'obéis !"
 
 # game/trainroom4.rpy:687 #-#-# translate crowdin vaginapoli22_92a72b6f:
 msgid "[_hi_] Okay...Okay..."
@@ -354,7 +354,7 @@ msgstr "[_hi_] OUI ! Baise-moi comme ça !"
 
 # game/trainroom4.rpy:697 #-#-# translate crowdin vaginapoli22_24fdfd05:
 msgid "[_hi_] I'm cumming! Now!"
-msgstr "[_hi_] Je jouirm ! Maintenant !"
+msgstr "[_hi_] Je jouis ! Maintenant !"
 
 # game/trainroom4.rpy:698 #-#-# translate crowdin vaginapoli22_74226814:
 msgid "[_r_] Take it all!"
