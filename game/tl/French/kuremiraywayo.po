@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 15:43\n"
+"PO-Revision-Date: 2024-02-13 21:58\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/kuremiraywayo.rpy:6 #-#-# translate crowdin kuremiraywayo_2c661c9f:
 msgid "[_m_] I'm not sure I can get both mother and daughter at the same time."
@@ -102,7 +102,7 @@ msgstr "[_r_] Gotcha, puis vous revoir bientôt, je vais essayer de trouver quel
 
 # game/kuremiraywayo.rpy:120 #-#-# translate crowdin kuremiraywayo_34e1fcf2:
 msgid "[_ka_] Have fun."
-msgstr "[_ka_] Amusea."
+msgstr "[_ka_] Amuse-toi bien."
 
 # game/kuremiraywayo.rpy:137 #-#-# translate crowdin kuremiraywayo_21c715a7:
 msgid "[_kure_] Give me a second."
