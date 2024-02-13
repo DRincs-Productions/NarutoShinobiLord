@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 21:58\n"
+"PO-Revision-Date: 2024-02-13 23:20\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/sakuracan.rpy:16 #-#-# translate crowdin sakuracan_62efc2f4:
 msgid "[_k_] Come back again."
@@ -854,7 +854,7 @@ msgstr "[_r_] D'accord, merci."
 
 # game/sakuracan.rpy:928 #-#-# translate crowdin uououosas_ebb8fd20:
 msgid "[_m_] Fuck.... FUCK!"
-msgstr "[_m_] Merde .... FRAIS !"
+msgstr "[_m_] Merde .... PUTAIN !"
 
 # game/sakuracan.rpy:929 #-#-# translate crowdin uououosas_2cf5ac1f:
 msgid "[_m_] What was it? The day repeated itself exactly to the smallest detail..."
@@ -1410,7 +1410,7 @@ msgstr "[_m_] Allez, allons ..."
 
 # game/sakuracan.rpy:1413 #-#-# translate crowdin rilnemertv_c6f9f0b7:
 msgid "[_m_] Gotcha!"
-msgstr "[_m_] Gotcha !"
+msgstr "[_m_] Je t'ai eu !"
 
 # game/sakuracan.rpy:1429 #-#-# translate crowdin ziopoew_0692ba92:
 msgid "[_saku_] S-see you later..."
@@ -3042,7 +3042,7 @@ msgstr "[_m_] Hinata gauche. J'ai besoin de faire quelque chose avec cette nouve
 
 # game/sakuracan.rpy:3125 #-#-# translate crowdin positrenas_acad18b8:
 msgid "[_m_] Where the hell is Kamiko?"
-msgstr "Où diable est Kamiko ?"
+msgstr "[_m_] Où diable est Kamiko ?"
 
 # game/sakuracan.rpy:3126 #-#-# translate crowdin positrenas_1246dd58:
 msgid "[_m_] She hasn't swung by the apartment for a long time..."
