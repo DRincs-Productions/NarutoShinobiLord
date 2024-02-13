@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 15:43\n"
+"PO-Revision-Date: 2024-02-13 18:15\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/trainroom4.rpy:126 #-#-# translate crowdin roomhand1s22_20e36cd1:
 msgid "[_r_] That's it Hinata, don't rush, just get a feel of my cock with your hands."
@@ -350,7 +350,7 @@ msgstr "[_r_] Tu aimes ça dur, hein  ? Tu es trempé comme une chienne !"
 
 # game/trainroom4.rpy:696 #-#-# translate crowdin vaginapoli22_996dc8fc:
 msgid "[_hi_] YES! Fuck me like this!"
-msgstr "[_hi_] OUI ! Baise moi  voir comme ça !"
+msgstr "[_hi_] OUI ! Baise-moi comme ça !"
 
 # game/trainroom4.rpy:697 #-#-# translate crowdin vaginapoli22_24fdfd05:
 msgid "[_hi_] I'm cumming! Now!"
@@ -454,7 +454,7 @@ msgstr "[_hi_] Viens avec confiance ... Je suis prêt !"
 
 # game/trainroom4.rpy:835 #-#-# translate crowdin analenok_9f234244:
 msgid "[_r_] Fuck... You are squeezing so much!"
-msgstr "[Putain... Tu serres tellement !"
+msgstr "[_r_] Putain... Tu serres tellement !"
 
 # game/trainroom4.rpy:836 #-#-# translate crowdin analenok_2f270abd:
 msgid "[_r_] Are you feeling good?"
