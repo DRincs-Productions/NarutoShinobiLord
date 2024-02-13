@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 16:59\n"
+"PO-Revision-Date: 2024-02-13 18:15\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -562,7 +562,7 @@ msgstr "« Quelle pute paresseuse... »"
 
 # game/script.rpy:631 #-#-# translate crowdin buni1_ed7c1569:
 msgid "[_ka_] GET THE FUCK UP OR I WILL KILL YOU!"
-msgstr "[Foutez-moi la paix ou je vous tue !"
+msgstr "[_ka_] Foutez-moi la paix ou je vous tue !"
 
 # game/script.rpy:636 #-#-# translate crowdin buni1_77bc7dc2:
 msgid "[_r_] What's going on? Why are you screaming..."
@@ -1382,7 +1382,7 @@ msgstr "[_r_] Ok, ne t'inquiète pas."
 
 # game/script.rpy:1846 #-#-# translate crowdin drug2_94504f20:
 msgid "[_hima_] Really?!"
-msgstr "[_hima_] Vraiment ? !"
+msgstr "[_hima_] Vraiment ?!"
 
 # game/script.rpy:1850 #-#-# translate crowdin drug2_4166b9e1:
 msgid "[_r_] Of course, I don't mind."
@@ -7658,7 +7658,7 @@ msgstr "[_naru_] Dans tous les cas, une conversation dans une telle atmosphère 
 
 # game/script.rpy:9998 #-#-# translate crowdin nedelaemdelo_2c4b2a6a:
 msgid "[_naru_] I will have a conversation with my wife, if you do not mind without your participation."
-msgstr "[Je vais avoir une conversation avec ma femme, si cela ne vous dérange pas de ne pas y participer."
+msgstr "[_naru_] Je vais avoir une conversation avec ma femme, si cela ne vous dérange pas de ne pas y participer."
 
 # game/script.rpy:10002 #-#-# translate crowdin nedelaemdelo_1895187e:
 msgid "[_r_] Yes, it was nice to finally meet you."
@@ -8082,7 +8082,7 @@ msgstr "[_m_] J'ai l'impression d'être violée, mais c'est incroyable !"
 
 # game/script.rpy:10641 #-#-# translate crowdin traxaimena_4f59501a:
 msgid "[_an_] YES! YES! YES! BITCH! WHAT A NICE COCK!"
-msgstr "[_an_] OUI ! OUI ! OUI ! BITCH ! QU'UN COCK !"
+msgstr "[_an_] OUI ! OUI ! OUI ! CHIENNE ! QUELLE BELLE BITE !"
 
 # game/script.rpy:10643 #-#-# translate crowdin traxaimena_1fe8d89b:
 msgid "[_an_] AAAH! MMM! YE-A-AH."
@@ -8094,7 +8094,7 @@ msgstr "[_r_] Je vais bientôt foutre ! Pas si vite !"
 
 # game/script.rpy:10647 #-#-# translate crowdin traxaimena_efdeef5e:
 msgid "[_an_] SHUT THE FUCK UP!"
-msgstr "[_an_] SHUT LE FUCK HAUT !"
+msgstr "[_an_] FERME LA, LA FERME !"
 
 # game/script.rpy:10649 #-#-# translate crowdin traxaimena_9bdeb97e:
 msgid "[_r_] I'm CUMMING!"
@@ -9602,7 +9602,7 @@ msgstr "[_ka_] Comment aimez-vous notre formation ? Je vois combien tu es fatigu
 
 # game/script.rpy:12499 #-#-# translate crowdin osnovo_42c25cd0:
 msgid "[_r_] Fucking you is a real cardio exercise..."
-msgstr "[Te baiser est un véritable exercice de cardio..."
+msgstr "[_r_] Te baiser est un véritable exercice de cardio..."
 
 # game/script.rpy:12504 #-#-# translate crowdin osnovo_2c19dc7e:
 msgid "[_ka_] I could fuck you a lot more times, but I don’t think you’re going through the same ordeal..."
@@ -9746,7 +9746,7 @@ msgstr "[_hi_] Papa a proposé de ramasser Himawari cette semaine, Himawari veut
 
 # game/script.rpy:12768 #-#-# translate crowdin nerobla_933f6229:
 msgid "[_naru_] I think this is a good idea, Himawari will not hurt to spend more time with grandfather and Hanabi."
-msgstr "[_naru_] Je pense que c'est une bonne idée, Himawari ne fera pas de mal à passer plus de temps avec le grand-père et Hanabi."
+msgstr "[_sasu_] Je pense que c'est une bonne idée, Himawari ne souffrira pas de passer plus de temps avec son grand-père et Hanabi."
 
 # game/script.rpy:12773 #-#-# translate crowdin nerobla_2afc7f82:
 msgid "[_hima_] Awesome! I'll take a lot of paints, we'll paint with Aunt Hanabi again!"
@@ -9770,7 +9770,7 @@ msgstr "[_hi_] Himawari, chère, attendez moi dans le couloir, je serai de retou
 
 # game/script.rpy:12798 #-#-# translate crowdin nerobla_756fc646:
 msgid "[_hima_] Okay Mom! Bye, Dad!"
-msgstr "[_hima_] Ok Mom ! Au revoir ! Papa !"
+msgstr "[_hima_] Ok maman ! Au revoir, papa !"
 
 # game/script.rpy:12803 #-#-# translate crowdin nerobla_bf341cc0:
 msgid "[_naru_] Bye Hima!"
@@ -11550,7 +11550,7 @@ msgstr "[_naru_] Veux-tu rentrer à la maison ? Sakura ne t'a pas vu depuis un m
 
 # game/script.rpy:14830 #-#-# translate crowdin jijiki_418c869d:
 msgid "[_sasu_] No. I have a job outside the Fire county."
-msgstr "[_sasu_] Non. J'ai un boulot à l'extérieur du comté de Fire."
+msgstr "[_sasu_] Non. J'ai un travail en dehors du comté des pompiers."
 
 # game/script.rpy:14834 #-#-# translate crowdin jijiki_4f504ab1:
 msgid "[_naru_] I understand."
@@ -12710,7 +12710,7 @@ msgstr "[_naru_] J'avais l'habitude de penser que la famille était la chose la 
 
 # game/script.rpy:16261 #-#-# translate crowdin sikikiks_dd91cf41:
 msgid "[_naru_] My dream of becoming Hokage, it was all a mistake."
-msgstr "[_naru_] Mon rêve de devenir Hokage, c'était une erreur."
+msgstr "[_sasu_] Mon rêve de devenir Hokage, c'était une erreur."
 
 # game/script.rpy:16265 #-#-# translate crowdin sikikiks_66631951:
 msgid "[_naru_] I chased a stupid dream, settled down in a damn village, put down roots fully..."
@@ -12946,7 +12946,7 @@ msgstr "[_kure_] Bonjour ! Vous êtes [viname], le tuteur que nous avons rencont
 
 # game/script.rpy:16523 #-#-# translate crowdin nyeys_fd7f7a00:
 msgid "[_kure_] What brings you to our house? We weren't expecting visitors."
-msgstr "Qu'est-ce qui vous amène chez nous ? Nous n'attendions pas de visiteurs."
+msgstr "[_kure_] Qu'est-ce qui vous amène chez nous ? Nous n'attendions pas de visiteurs."
 
 # game/script.rpy:16528 #-#-# translate crowdin nyeys_a4b6ba55:
 msgid "[_r_] Hello, Kurenai, in fact your daughter and I have known each other for some time, our communication is going well, so I thought I'd drop by for a visit."
@@ -13074,7 +13074,7 @@ msgstr "[_r_] Avec une femme aussi sage et belle que toi, j'ai des pensées diff
 
 # game/script.rpy:16730 #-#-# translate crowdin svsrs_8a6c6593:
 msgid "[_kure_] T-that's how... And what are your thoughts, boy?"
-msgstr "[_kure_] T-that's how ... Et quelles sont tes pensées, mon garçon ?"
+msgstr "[_kure_] C'est comme ça... Et qu'en penses-tu, mon garçon ?"
 
 # game/script.rpy:16735 #-#-# translate crowdin svsrs_f0dfc468:
 msgid "[_r_] Can we show me better?"
@@ -13142,7 +13142,7 @@ msgstr "[_r_] Votre chatte est génial ! J'adore les mamans juteux !"
 
 # game/script.rpy:16789 #-#-# translate crowdin svsrs_28e11ad2:
 msgid "[_kure_] God yes... Fuck me harder..."
-msgstr "[_kure_] Mon dieu oui... Baise moi  plus dur..."
+msgstr "[_kure_] Mon dieu oui... Baise moi plus dur..."
 
 # game/script.rpy:16793 #-#-# translate crowdin svsrs_54e577d7:
 msgid "[_kure_] MMMMMMM! Good boy! That's it!"
@@ -13366,7 +13366,7 @@ msgstr "[_m_] Nous avons fini de regarder un autre épisode, et je suis rentré 
 
 # game/script.rpy:17061 #-#-# translate crowdin ioiws_bc580dfc:
 msgid "[_m_] Hinata hugged me goodbye as usual, very nice of her."
-msgstr "[_m_] Hinata m'a embrassé au revoir comme d'habitude, très agréable de elle."
+msgstr "[_m_] Hinata m'a serré dans ses bras pour me dire au revoir, comme d'habitude, c'est très gentil de sa part."
 
 # game/script.rpy:17063 #-#-# translate crowdin ioiws_a61377b7:
 msgid "[_m_] I hope I don't have another hard conversation with Kamiko at home..."
