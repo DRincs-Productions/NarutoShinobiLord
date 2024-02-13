@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 21:58\n"
+"PO-Revision-Date: 2024-02-13 23:20\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -3494,7 +3494,7 @@ msgstr "[_r_] Vous avez un grand corps, Ayame !"
 
 # game/script.rpy:4724 #-#-# translate crowdin bon5_09d710e4:
 msgid "[_m_] Fuck, this is really nice..."
-msgstr "[_m_] Vidéo porno et blondes hard !"
+msgstr "[_m_] Putain, c'est vraiment sympa..."
 
 # game/script.rpy:4726 #-#-# translate crowdin bon5_de9a1f44:
 msgid "[_ay_] Th-thanks..."
@@ -3610,7 +3610,7 @@ msgstr "[_m_] J'adore ça... Je vais me retrouver dans la gorge !"
 
 # game/script.rpy:4816 #-#-# translate crowdin bon5_138aa564:
 msgid "[_m_] FUCK! THERE IT IS!"
-msgstr "[_m_] FRAIS ! LON EST !"
+msgstr "[_m_] MERDE ! C'EST LÀ !"
 
 # game/script.rpy:4818 #-#-# translate crowdin bon5_b2c04aa2:
 msgid "[_ay_] GHMM... MH! MMPH!"
@@ -4514,7 +4514,7 @@ msgstr "[_m_] C'est ça ..."
 
 # game/script.rpy:6082 #-#-# translate crowdin neromans_a3523acc:
 msgid "[_m_] More."
-msgstr "[_m_] Plus"
+msgstr "[_m_] Plus."
 
 # game/script.rpy:6090 #-#-# translate crowdin neromans_bd6a7980:
 msgid "[_m_] More, more, more!"
@@ -4718,7 +4718,7 @@ msgstr "[_r_] Développer ? Comment faire ça ?"
 
 # game/script.rpy:6400 #-#-# translate crowdin razvrat2_1cf5b889:
 msgid "[_ka_] Of course, having sex! Thanks to this act, you absorb different amounts of chakras, different types, all depends on the partner."
-msgstr "[_ka_] Bien sûr, avoir des relations sexuelles ! Grâce à cet acte, vous absorpez différentes quantités de chakras, différents types, tous dépendent du partenaire."
+msgstr "[_ka_] Bien sûr, faire l'amour ! Grâce à cet acte, tu absorbes différentes quantités de chakras, différents types, tout dépend du partenaire."
 
 # game/script.rpy:6405 #-#-# translate crowdin razvrat2_b0da0d03:
 msgid "[_r_] So the more I fuck, the stronger I get?"
@@ -5462,7 +5462,7 @@ msgstr "[_hi_] M....Mmmm.....Mmmm,.......MMMMMMM....."
 
 # game/script.rpy:7412 #-#-# translate crowdin bon9_ea6e2302:
 msgid "[_m_] Wow, she's cumming..."
-msgstr "[_m_] Wow, elle jouirpe..."
+msgstr "[_m_] Wow, elle jouit..."
 
 # game/script.rpy:7414 #-#-# translate crowdin bon9_5954a83f:
 msgid "[_m_] It's done ... It was nice to look at it, but to abstain - sheer torture."
@@ -6306,7 +6306,7 @@ msgstr "[_m_] DEVRAIS ! JE SUIS HORAIS ICI, JE JE SUIS UN CHANCE !"
 
 # game/script.rpy:8383 #-#-# translate crowdin bezat_bc9c1fc4:
 msgid "[_m_] W-what the..."
-msgstr "[_m_] W-ce que..."
+msgstr "[_m_] Qu'est-ce que..."
 
 # game/script.rpy:8387 #-#-# translate crowdin bezat_f2c65b27:
 msgid "[_kur_] It's him!"
@@ -7198,7 +7198,7 @@ msgstr "[_r_] Vos jambes tremblent un peu. Je vois que vous avez apprécié la p
 
 # game/script.rpy:9456 #-#-# translate crowdin bon12_21b51648:
 msgid "[_m_] Until you answer, I will decide for you."
-msgstr "[_m_] Jusqu'à ce que vous réponmiez, je vais vous décider."
+msgstr "[_m_] Jusqu'à ce que vous répondiez, je déciderai pour vous."
 
 # game/script.rpy:9470 #-#-# translate crowdin rimerm_ef4957c8:
 msgid "[_hi_] Mmm... I'm... Yes... Yesterday was very good... You really know a woman's body..."
@@ -8498,7 +8498,7 @@ msgstr "[_ka_] En fait, je voulais vous féliciter pour vos très bons résultat
 
 # game/script.rpy:11131 #-#-# translate crowdin nukonecziro_187e697d:
 msgid "[_ka_] I can feel Hinata's chakra becoming more and more vulnerable, to your abilities!"
-msgstr "[_ka_] Je peux sentir que les chakra de Hinata deviennent de plus en plus vulnérables, à vos capacités !"
+msgstr "[_ka_] Je sens que le chakra d'Hinata devient de plus en plus vulnérable à tes capacités !"
 
 # game/script.rpy:11136 #-#-# translate crowdin nukonecziro_be2cc97b:
 msgid "[_r_] Oh, thanks, you know... I'm just doing what you tell me to do."
@@ -9022,7 +9022,7 @@ msgstr "[_r_] Vous m'avez appelé si soudainement ..."
 
 # game/script.rpy:11903 #-#-# translate crowdin mjkhf_b1e09062:
 msgid "[_m_] Huh!? Why is she coming at me with such passionate kisses?"
-msgstr "[_m_] Huh !? Pourquoi me vient-elle avec des baisers aussi passionnés ?"
+msgstr "[_m_] Hein ? Pourquoi me donne-t-elle des baisers si passionnés ?"
 
 # game/script.rpy:11905 #-#-# translate crowdin mjkhf_fe6c534c:
 msgid "[_m_] Maybe she wants to fuck?"
@@ -9586,7 +9586,7 @@ msgstr "[_m_] Je baise cette folle femme dans le cul de toute ma force, mais ça
 
 # game/script.rpy:12472 #-#-# translate crowdin analka_4c91aa1f:
 msgid "[_ka_] YESYESYESYESYESYESYESYES!"
-msgstr "[_ka_] YESYESYESYESYESYESYESYES !"
+msgstr "[_ka_] OUOUIOUIOUIOUIOUIOUIOUI !"
 
 # game/script.rpy:12474 #-#-# translate crowdin analka_0b3f0444:
 msgid "[_m_] She began to wave her thighs! Fuck! I won’t last that long!"
@@ -9930,7 +9930,7 @@ msgstr "[_m_] À première vue, un kunoichi aussi diligent, et ici de tels squel
 
 # game/script.rpy:12959 #-#-# translate crowdin nerobla_4b0ef7b4:
 msgid "[_m_] She is enjoying the process so much, apparently anal is her weakest point."
-msgstr "[_m_] She is enjoying the process so much, apparently anal vicieux is her weakest point."
+msgstr "[_m_] Elle apprécie tellement le processus, apparemment l'analité est son point faible."
 
 # game/script.rpy:12961 #-#-# translate crowdin nerobla_d10214af:
 msgid "[_m_] I won't interrupt her, I want to see how she ends."
@@ -12026,7 +12026,7 @@ msgstr "[_m_] C'est dommage pour Hinata, son cauchemar est assez terrible..."
 
 # game/script.rpy:15403 #-#-# translate crowdin nunup_5a07c8b7:
 msgid "[_m_] I’ll write to her, maybe I’ll distract her somehow, I ask how things are."
-msgstr "[_m_] Je lui écrirai, peut-être que je la distraire d'une façon ou d'une autre, je demande comment les choses sont."
+msgstr "[_m_] Je lui écrirai, je la distrairai peut-être d'une manière ou d'une autre, je lui demanderai comment vont les choses."
 
 # game/script.rpy:15442 #-#-# translate crowdin nunup_889261a9:
 msgid "[_m_] She's busy tomorrow... Alright, then I'll visit her again next night."
@@ -12666,7 +12666,7 @@ msgstr "[_m_] Super, elle dort."
 
 # game/script.rpy:16179 #-#-# translate crowdin murer_75c06eca:
 msgid "[_m_] This time, I'll completely build her dream, from scratch."
-msgstr "[_m_] Cette fois, je construirac complètement son rêve, de zéro."
+msgstr "[_m_] Cette fois, je construirai entièrement son rêve, à partir de zéro."
 
 # game/script.rpy:16181 #-#-# translate crowdin murer_cb0df8c0:
 msgid "[_m_] Let's see what happens."
@@ -13486,7 +13486,7 @@ msgstr "[_m_] Je dois reproduire un moment parfaitement confortable pour la conv
 
 # game/script.rpy:17226 #-#-# translate crowdin rurur_07aaa586:
 msgid "[_m_] What's there to think about... Tonight's show is perfect!"
-msgstr "[_m_] Qu'y a-il à penser ... Le spectacle de ce soir est parfait !"
+msgstr "[_m_] Qu'est-ce qu'il y a à penser... Le spectacle de ce soir est parfait !"
 
 # game/script.rpy:17228 #-#-# translate crowdin rurur_550e4fda:
 msgid "[_m_] Okay, time to get started."
@@ -14062,7 +14062,7 @@ msgstr "[_m_] Courir... Courir ! Je dois PARTAGER DE ICI !"
 
 # game/script.rpy:17908 #-#-# translate crowdin uramizdohli_2cb78bf5:
 msgid "[_m_] Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh!"
-msgstr "[_m_] Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh !"
+msgstr "[_m_] Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh !"
 
 # game/script.rpy:17922 #-#-# translate crowdin uramizdohli_3d19fa2d:
 msgid "[_rkl_] Hey... Can I help you?"
@@ -14678,7 +14678,7 @@ msgstr "[_m_] ces gars ici ..."
 
 # game/script.rpy:18681 #-#-# translate crowdin tikitikis_3a5a9e04:
 msgid "[_m_] what the fuck is anbu leaf doing here?"
-msgstr "[_m_] Qu'est-ce que la baise est une feuille anbu faire ici ?"
+msgstr "[_m_] Qu'est-ce que la feuille d'anbu fait ici ?"
 
 # game/script.rpy:18683 #-#-# translate crowdin tikitikis_69f60c3f:
 msgid "[_m_] creepy guys..."
@@ -15538,7 +15538,7 @@ msgstr "[_m_] C'est Hinata !  ? Wow, elle a changé... Elle a beaucoup changé..
 
 # game/script.rpy:19538 #-#-# translate crowdin doroaos_8c554b91:
 msgid "[_m_] Is this Kamiko’s doing?"
-msgstr "[_m_] Est-ce que ce Kamiko fait  ?"
+msgstr "[_m_] Est-ce que ce Kamiko fait ?"
 
 # game/script.rpy:19540 #-#-# translate crowdin doroaos_13c569ee:
 msgid "[_m_] She's really hot now!"
@@ -16138,7 +16138,7 @@ msgstr "[_m_] Donc je vais faire foutre Hinata ici, je ne peux pas dire grand-mo
 
 # game/script.rpy:20210 #-#-# translate crowdin tepernewskil_bb5f2306:
 msgid "[_m_] Damn, I should focus on more pressing matters..."
-msgstr "[_m_] Damn, je devrais me concentrer sur des questions plus urgentes ..."
+msgstr "[_m_] Bon sang, je devrais me concentrer sur des questions plus urgentes..."
 
 # game/script.rpy:20217 #-#-# translate crowdin tepernewskil_094ed577:
 msgid "[_m_] Sakura is really pretty... But as a true fan of the series, I know her personality."
