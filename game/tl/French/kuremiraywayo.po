@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 21:58\n"
+"PO-Revision-Date: 2024-02-13 23:20\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/kuremiraywayo.rpy:6 #-#-# translate crowdin kuremiraywayo_2c661c9f:
 msgid "[_m_] I'm not sure I can get both mother and daughter at the same time."
@@ -1070,7 +1070,7 @@ msgstr "[_r_] Vous avez fait un bon travail, les deux trous sont incroyables ...
 
 # game/kuremiraywayo.rpy:1151 #-#-# translate crowdin mesacespesre_4a88e662:
 msgid "[_m_] Should I offer her personal favorite?.."
-msgstr "[_m_] Dois-je offrir son préféré ? .."
+msgstr "[_m_] Dois-je offrir son préféré ?.."
 
 # game/kuremiraywayo.rpy:1162 #-#-# translate crowdin ladnogoanali_cac0eb0c:
 msgid "[_r_] It seems to me that one of your holes didn’t get enough attention..."
