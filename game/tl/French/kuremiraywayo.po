@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 23:20\n"
+"PO-Revision-Date: 2024-02-14 09:27\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/kuremiraywayo.rpy:6 #-#-# translate crowdin kuremiraywayo_2c661c9f:
 msgid "[_m_] I'm not sure I can get both mother and daughter at the same time."
@@ -378,7 +378,7 @@ msgstr "[_r_] Votre chablis est le rêve d'un homme ..."
 
 # game/kuremiraywayo.rpy:435 #-#-# translate crowdin biberbist_287fea61:
 msgid "[_r_] Fuck yes... Like this..."
-msgstr "[_r_] Fuck y... Comme ceci..."
+msgstr "[_r_] Putain oui... Comme ça..."
 
 # game/kuremiraywayo.rpy:436 #-#-# translate crowdin biberbist_09e0132c:
 msgid "[_r_] Come on Kurenai, I know you can take it deeper!"
@@ -1294,7 +1294,7 @@ msgstr "[_ka_] Mais son chakra... Alors... Délicieux... Un excellent cadeau pou
 
 # game/kuremiraywayo.rpy:1386 #-#-# translate crowdin swistun_646c34c2:
 msgid "[_r_] O-Okay... I understand. What's next? Do I need to do something...?"
-msgstr "[_r_] O-Okay... Je comprends. Et ensuite ? Dois-je faire quelque chose... ?"
+msgstr "[_r_] O-Okay... Je comprends. Et ensuite ? Dois-je faire quelque chose...?"
 
 # game/kuremiraywayo.rpy:1390 #-#-# translate crowdin swistun_09c1bc54:
 msgid "[_ka_] Yes. Everything’s very simple."
