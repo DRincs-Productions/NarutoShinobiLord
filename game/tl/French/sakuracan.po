@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 23:20\n"
+"PO-Revision-Date: 2024-02-14 09:27\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/sakuracan.rpy:16 #-#-# translate crowdin sakuracan_62efc2f4:
 msgid "[_k_] Come back again."
@@ -2446,7 +2446,7 @@ msgstr "[_m_] Elle ne plaisante pas ?"
 
 # game/sakuracan.rpy:2627 #-#-# translate crowdin aferomes_ad261c67:
 msgid "[_r_] Hey... Is everything okay...?"
-msgstr "[_r_] Hé ... Tout va bien... ?"
+msgstr "[_r_] Hé ... Tout va bien...?"
 
 # game/sakuracan.rpy:2629 #-#-# translate crowdin aferomes_c8156321:
 msgid "[_m_] Doesn't respond."
@@ -2538,7 +2538,7 @@ msgstr "[_saku_] Bonjour, comment êtes-vous ? Perdu tout votre argent ?"
 
 # game/sakuracan.rpy:2680 #-#-# translate crowdin aferomes_9b730103:
 msgid "[_r_] Hi, yes kinda, your teacher didn’t give me a chance, even after all that sake."
-msgstr "[_r_] Salut, oui kinda, ton professeur ne m'a pas donné une chance, même après tout ce saké."
+msgstr "[_r_] Oui kinda, ton professeur ne m'a pas donné une chance, même après tout ce saké."
 
 # game/sakuracan.rpy:2682 #-#-# translate crowdin aferomes_928e8db2:
 msgid "[_saku_] Sorry if she was rude to you, Tsunade likes to drink and do things under the influence."
