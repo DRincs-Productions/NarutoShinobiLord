@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 21:59\n"
+"PO-Revision-Date: 2024-02-14 09:27\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/trainroom4.rpy:126 #-#-# translate crowdin roomhand1s22_20e36cd1:
 msgid "[_r_] That's it Hinata, don't rush, just get a feel of my cock with your hands."
@@ -26,7 +26,7 @@ msgstr "[_hi_] Ça a l'air ainsi... Goûte... Ça me donne envie de sauter dessu
 
 # game/trainroom4.rpy:131 #-#-# translate crowdin roomhand1s22_5885b5c5:
 msgid "[_r_] Your desires in this room are unimportant. You must become an obedient girl who does what her master tells her to."
-msgstr "[_r_] Vos envies dans cette pièce sont inimportantes. Tu dois devenir une fille obéissante qui fait ce que son maître lui dit."
+msgstr "[_r_] Vos désirs dans cette pièce sont sans importance. Tu dois devenir une fille obéissante qui fait ce que son maître lui dit de faire."
 
 # game/trainroom4.rpy:132 #-#-# translate crowdin roomhand1s22_13f8c764:
 msgid "[_r_] Think of all the things you'd like to do to me now..."
@@ -158,7 +158,7 @@ msgstr "[_r_] Soyez patient ! Juste un peu plus et je vais vous foutre la gorge 
 
 # game/trainroom4.rpy:294 #-#-# translate crowdin cumminore2v_f06fbd4a:
 msgid "[_r_] FUCK YES! W-wait... Don't take it out... Swallow it all."
-msgstr "[_r_] FUCTUREZ OUI ! Attendez... Ne le prenez pas... Tout avaler."
+msgstr "[_r_] MERDE OUI ! Attendez... Ne le prenez pas... Tout avaler."
 
 # game/trainroom4.rpy:295 #-#-# translate crowdin cumminore2v_d18960db:
 msgid "[_r_] Good girl..."
@@ -346,7 +346,7 @@ msgstr "[_hi_] Ok...Okay... Ok..."
 
 # game/trainroom4.rpy:695 #-#-# translate crowdin vaginapoli22_d88242ea:
 msgid "[_r_] You like it hard, huh? You’re soaked like a bitch!"
-msgstr "[_r_] Tu aimes ça dur, hein  ? Tu es trempé comme une chienne !"
+msgstr "[_r_] Tu aimes ça dur, hein ? Tu es trempé comme une chienne !"
 
 # game/trainroom4.rpy:696 #-#-# translate crowdin vaginapoli22_996dc8fc:
 msgid "[_hi_] YES! Fuck me like this!"
