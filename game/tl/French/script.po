@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 23:20\n"
+"PO-Revision-Date: 2024-02-14 09:27\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -582,7 +582,7 @@ msgstr "[_ka_] Votre chemin de séduction kunoichi commence aujourd'hui !"
 
 # game/script.rpy:656 #-#-# translate crowdin buni1_4a5fe234:
 msgid "[_r_] Erm..."
-msgstr "[_r_] Erreur..."
+msgstr "[_r_] Erm..."
 
 # game/script.rpy:661 #-#-# translate crowdin buni1_3cb92353:
 msgid "[_ka_] Where's your happiness, dumbass?"
@@ -914,7 +914,7 @@ msgstr "[_ka_] Hinata appelé sur le travail."
 
 # game/script.rpy:1141 #-#-# translate crowdin smert_9ce9c572:
 msgid "[_r_] And what did she say? Am I hired?!"
-msgstr "[_r_] Et qu'a-t-elle dit ? Suis-je engagé ? !"
+msgstr "[_r_] Et qu'a-t-elle dit ? Suis-je engagé ?!"
 
 # game/script.rpy:1146 #-#-# translate crowdin smert_2810e5ac:
 msgid "[_ka_] I'd like to believe so... But unfortunately no. She refused."
@@ -2094,7 +2094,7 @@ msgstr "[_ka_] Ecoutez attentivement. La nuit d'aujourd'hui, tu viendras à leur
 
 # game/script.rpy:3060 #-#-# translate crowdin konoss_887b27ee:
 msgid "[_r_] But what if they see me?!"
-msgstr "[_r_] Mais que se passe-t-il s'ils me voient ? !"
+msgstr "[_r_] Mais que se passe-t-il s'ils me voient ?!"
 
 # game/script.rpy:3065 #-#-# translate crowdin konoss_57aaa32f:
 msgid "[_ka_] It'd be possible if you've been an ordinary man or shinobi, but you own a part of my chakra!"
@@ -2674,7 +2674,7 @@ msgstr "[_zd_] Laissez-moi partir ! Ça fait mal !"
 
 # game/script.rpy:3766 #-#-# translate crowdin pizda_92919ed1:
 msgid "[_r_] Have you ever seen a broken hand? I'm gonna show it to you right now, you little bastard."
-msgstr "[_r_] Avez-vous déjà vu une main cassée ? Je vais vous la montrer maintenant, vous petit bâtard ?"
+msgstr "[_r_] Avez-vous déjà vu une main cassée ? Je vais vous la montrer maintenant, vous petit bâtard."
 
 # game/script.rpy:3770 #-#-# translate crowdin pizda_7612c313:
 msgid "[_zd_] AAAAAAGH! Help me! IT HURTS! HUUUURTS!"
@@ -3686,7 +3686,7 @@ msgstr "[_ka_] Alors qu'avez-vous décidé ?"
 
 # game/script.rpy:4944 #-#-# translate crowdin baba1_75292805:
 msgid "[_r_] I decided to stick to the master plan, follow Hinata, accumulate more memories."
-msgstr "[_r_] J'ai décidé de m'en tenir au plan directeur, suivre Hinata, acjouiruler plus de souvenirs."
+msgstr "[_r_] J'ai décidé de m'en tenir au plan d'ensemble, de suivre Hinata, d'accumuler plus de souvenirs."
 
 # game/script.rpy:4949 #-#-# translate crowdin baba1_dfe40147:
 msgid "[_ka_] Good work! It will positively affect the result, be sure."
@@ -4610,7 +4610,7 @@ msgstr "[_hi_] N-non... Je... Je veux ce pique-nique..."
 
 # game/script.rpy:6240 #-#-# translate crowdin razvrat1_91531cb9:
 msgid "[_r_] Well, if you’re sure, I won’t contradict you."
-msgstr "[_r_] Eh bien, si vous êtes sûr, je ne vous contredirait pas."
+msgstr "[_r_] Si vous êtes sûr, je ne vous contredirai pas."
 
 # game/script.rpy:6245 #-#-# translate crowdin razvrat1_2e48764b:
 msgid "[_hi_] Let me clean the vegetables... we’ll have to be careful from now on..."
@@ -5122,7 +5122,7 @@ msgstr "[_mo_] M. Seven travaille pour nous tous, donc il y a beaucoup de touris
 
 # game/script.rpy:6972 #-#-# translate crowdin moe_08df42dd:
 msgid "[_r_] Seventh... He's something of a legend... I've heard a lot of stories about him..."
-msgstr "[_r_] Seventh... Il est quelque peu légendaire... J'ai entendu beaucoup d'histoires à son sujet..."
+msgstr "[_r_] Septième... C'est une sorte de légende... J'ai entendu beaucoup d'histoires à son sujet..."
 
 # game/script.rpy:6977 #-#-# translate crowdin moe_f944ab74:
 msgid "[_mo_] I assure you, all these stories are true! The seventh incredible ninja, and a great person, I've known him since childhood!"
@@ -5674,7 +5674,7 @@ msgstr "[_m_] Puis-je lui offrir un massage ? Ou c'est trop dur ?"
 
 # game/script.rpy:7656 #-#-# translate crowdin lutoborz_f37ec47a:
 msgid "[_r_] Actually, if you don't mind, I could give you a back massage."
-msgstr "[_r_] En fait, si ça ne vous dérait pas, je pourrais vous donner un massage."
+msgstr "[_r_] En fait, si cela ne vous dérange pas, je pourrais vous faire un massage du dos."
 
 # game/script.rpy:7658 #-#-# translate crowdin lutoborz_df00f295:
 msgid "[_r_] Probably a bit of a surprise, but I have experience in this field."
@@ -6414,7 +6414,7 @@ msgstr "[_ka_] Mon gentil garçon ... Notre tâche est dangereuse ... Mais nous 
 
 # game/script.rpy:8494 #-#-# translate crowdin stoyat_ba21ae82:
 msgid "[_r_] I... I know..."
-msgstr "[_r_] I... Je sais..."
+msgstr "[_r_] Je... Je sais..."
 
 # game/script.rpy:8496 #-#-# translate crowdin stoyat_24c9fffd:
 msgid "[_ka_] Thanks to our efforts, nothing will soon be impossible for us... I promise."
@@ -6518,7 +6518,7 @@ msgstr "[_hi_] sons... Intéressant..."
 
 # game/script.rpy:8651 #-#-# translate crowdin supskak_f1dbb118:
 msgid "[_r_] Some regular customers, quite often complained of severe stress.."
-msgstr "[_r_] Certains clients réguliers se plaignont assez souvent d'un stress sévère."
+msgstr "[_r_] Certains clients réguliers se sont souvent plaints d'un stress important.."
 
 # game/script.rpy:8653 #-#-# translate crowdin supskak_a4c27259:
 msgid "[_r_] They spoke of weight in the body, weakness in the legs and severe fatigue."
@@ -7262,7 +7262,7 @@ msgstr "[_hi_] Service Bonus... ? Quel service bonus..."
 
 # game/script.rpy:9516 #-#-# translate crowdin rimerm_5de83373:
 msgid "[_r_] Girls who enjoy such a massage, which are given into the hands of a massage therapist, sometimes want more than just a massage."
-msgstr "[_r_] Les filles qui aiment un tel massage, qui sont données entre les mains d'un massothérapeute, veulent parfois plus qu'un massage."
+msgstr "[_r_] Les filles qui bénéficient d'un tel massage, et qui sont confiées aux mains d'un massothérapeute, veulent parfois plus qu'un simple massage."
 
 # game/script.rpy:9518 #-#-# translate crowdin rimerm_42cc4d18:
 msgid "[_r_] They think about how to touch the masseur, how to hold, touch, feel this big meaty thing in his pants."
@@ -7834,7 +7834,7 @@ msgstr "[_ka_] Pourquoi demandez-vous ? Viens juste ici !"
 
 # game/script.rpy:10281 #-#-# translate crowdin hinasorian_5deb34ca:
 msgid "[_r_] There is a woman named Anko. She's a teacher at the academy. Can you feel her chakra?"
-msgstr "[_r_] Il y a une femme nommée Anko. Elle est professeur à l'académie. Peux-tu sentir son chakra ?"
+msgstr "[_r_] Il y a une femme qui s'appelle Anko. Elle enseigne à l'académie. Peux-tu sentir son chakra ?"
 
 # game/script.rpy:10286 #-#-# translate crowdin hinasorian_c1fceacb:
 msgid "[_ka_] Of course. Ah... I understand..."
@@ -8322,7 +8322,7 @@ msgstr "[_r_] J'ai en fait une meilleure idée."
 
 # game/script.rpy:10952 #-#-# translate crowdin boyagus_051d751a:
 msgid "[_r_] You will take care of your own breast while thanking me for my care."
-msgstr "[_r_] Vous prèmirez votre propre poitrine tout en vous remerciant pour mes soins."
+msgstr "[_r_] Vous prendrez soin de votre propre poitrine tout en me remerciant de mes soins."
 
 # game/script.rpy:10954 #-#-# translate crowdin boyagus_a0c16694:
 msgid "[_hi_] H-how?"
@@ -8802,11 +8802,11 @@ msgstr "[_naru_] Comment vous sentez-vous ?"
 
 # game/script.rpy:11566 #-#-# translate crowdin poymali_d9a892a5:
 msgid "[_r_] Where am I..."
-msgstr "[_r_] Où sup ..."
+msgstr "[_r_] Où suis-je..."
 
 # game/script.rpy:11568 #-#-# translate crowdin poymali_790da005:
 msgid "[_r_] What am I doing here...?"
-msgstr "[_r_] Qu'est-ce que je fais ici ... ?"
+msgstr "[_r_] Qu'est-ce que je fais ici ...?"
 
 # game/script.rpy:11573 #-#-# translate crowdin poymali_08de518e:
 msgid "[_naru_] Can't you see? You're in Konoha Prison."
@@ -8870,7 +8870,7 @@ msgstr "[_naru_] Je suis à l'écoute."
 
 # game/script.rpy:11662 #-#-# translate crowdin zalos_53e7dae5:
 msgid "[_r_] Her name is Kamiko! She is a woman of the Ootsutsuki clan. She has some kind of crazy power! All she did was make me obey her, I followed her orders!"
-msgstr "[_r_] Son nom est Kamiko ! Elle est une femme du clan Ootsutsuki. « Elle a une sorte de puissance folle ! Tout ce qu'elle a fait, c'est de lui faire obéir, j'ai suivi ses ordres ! »"
+msgstr "[_r_] Son nom est Kamiko ! Elle est une femme du clan Ootsutsuki. Elle a une sorte de puissance folle ! Tout ce qu'elle a fait, c'est de lui faire obéir, j'ai suivi ses ordres !"
 
 # game/script.rpy:11664 #-#-# translate crowdin zalos_2c100bf7:
 msgid "[_r_] I had no other choice! I really didn't mean any harm! It was all her!"
@@ -9450,7 +9450,7 @@ msgstr "[_ka_] Aimez-vous la vue ?"
 
 # game/script.rpy:12343 #-#-# translate crowdin bon7_4d2c5571:
 msgid "[_r_] What a pervert you are... I love this..."
-msgstr "[_r_] Quel pervert vous êtes ... J'adore ça ..."
+msgstr "[_r_] Quel pervers vous êtes... J'adore ça..."
 
 # game/script.rpy:12345 #-#-# translate crowdin bon7_dfa54b27:
 msgid "[_ka_] What’s up? Do I need a special invitation? You’re not going to watch all day, are you?"
@@ -9594,7 +9594,7 @@ msgstr "[_m_] Elle a commencé à agiter ses cuisses ! Vidéo porno et blondes h
 
 # game/script.rpy:12480 #-#-# translate crowdin analka_dbe8accb:
 msgid "[_r_] I'M CUMMING!"
-msgstr "[_r_] JE SUITE !"
+msgstr "[_r_] JE JOUIIISS !"
 
 # game/script.rpy:12494 #-#-# translate crowdin osnovo_e56abf03:
 msgid "[_ka_] How do you like our training? I see how tired you are!"
@@ -10250,7 +10250,7 @@ msgstr "[_mira_] Mon dieu... OUI ! COMMENT BON !"
 
 # game/script.rpy:13291 #-#-# translate crowdin renal_4f712559:
 msgid "[_r_] You're leaking like the last bitch Mirai!"
-msgstr "[_r_] Vous furez comme la dernière salope de Mirai !"
+msgstr "[_r_] Tu fuis comme la dernière salope Mirai !"
 
 # game/script.rpy:13293 #-#-# translate crowdin renal_88382708:
 msgid "[_r_] When I’m gone, you’ll have to wash the floor with your tongue so mother won’t suspect anything!"
@@ -10618,7 +10618,7 @@ msgstr "[_ka_] Bien sûr ! Je dois prendre soin de ma création !"
 
 # game/script.rpy:13737 #-#-# translate crowdin bon11_668201e8:
 msgid "[_r_] Now it is clear... I feel so refreshed... Thank you.."
-msgstr "[_r_] Maintenant il est clair ... Je me sens tellement rafraîchie ... Je vous remercie."
+msgstr "[_r_] Maintenant c'est clair... Je me sens si bien... Je vous remercie.."
 
 # game/script.rpy:13742 #-#-# translate crowdin bon11_0cff0bc8:
 msgid "[_ka_] You're welcome, sweetie!"
@@ -11394,7 +11394,7 @@ msgstr "[_ka_] Oui, qu'est-ce que c'est ?"
 
 # game/script.rpy:14672 #-#-# translate crowdin jijiki_95a38c46:
 msgid "[_r_] Well... I wanted to go to bed and everything.."
-msgstr "[_r_] Eh bien... Je voulais aller au lit et tout..."
+msgstr "[_r_] Eh bien... Je voulais aller me coucher et tout.."
 
 # game/script.rpy:14677 #-#-# translate crowdin jijiki_61a998f2:
 msgid "[_ka_] You'll have enough time to sleep when you die, it's a very serious matter."
@@ -12210,7 +12210,7 @@ msgstr "[_r_] Rien, vous savez, juste une promenade dans un parc comme celui-ci,
 
 # game/script.rpy:15686 #-#-# translate crowdin asuzdayou_2159c7ae:
 msgid "[_r_] The truth is I was awfully boring and uncooperative at the time."
-msgstr "[_r_] La vérité est que j'étais terrieusement ennuyeuse et peu coopérative à l'époque."
+msgstr "[_r_] La vérité, c'est que j'étais terriblement ennuyeux et peu coopératif à l'époque."
 
 # game/script.rpy:15690 #-#-# translate crowdin asuzdayou_6153c434:
 msgid "[_hi_] Not like you... Apparently the years really do amazing things to people..."
@@ -12970,7 +12970,7 @@ msgstr "[_kure_] Oui... Désolé, j'ai un peu de vertige, nous serons heureux de
 
 # game/script.rpy:16562 #-#-# translate crowdin nuiuis_d8fcdc54:
 msgid "[_r_] See you later!"
-msgstr "[_r_] A vous revoir plus tard !"
+msgstr "[_r_] À plus tard !"
 
 # game/script.rpy:16578 #-#-# translate crowdin nuiuis_3c715d32:
 msgid "[_m_] Kurenai Yuhi..."
@@ -13502,7 +13502,7 @@ msgstr "[_hi_] Oui ?"
 
 # game/script.rpy:17285 #-#-# translate crowdin lubovnost_ad84701c:
 msgid "[_r_] Do you feel good with me? Right now..."
-msgstr "[_r_] Tu te sens bien avec moi  ? En ce moment ..."
+msgstr "[_r_] Tu te sens bien avec moi ? En ce moment ..."
 
 # game/script.rpy:17289 #-#-# translate crowdin lubovnost_7fbde585:
 msgid "[_hi_] Of course I like watching the show with you, why do you ask?"
@@ -13978,7 +13978,7 @@ msgstr "[_hi_] Je... J'ai besoin de penser... S'il vous plaît, laissez-moi êtr
 
 # game/script.rpy:17813 #-#-# translate crowdin uramizdohli_33b63d4a:
 msgid "[_r_] Y-yes, of course, whatever you say."
-msgstr "[_r_] Y-oui, bien sûr, quoi que vous disiez."
+msgstr "[_r_] O-oui, bien sûr, quoi que vous disiez."
 
 # game/script.rpy:17834 #-#-# translate crowdin uramizdohli_6b075ba4:
 msgid "[_m_] So... It's been about eight hours now..."
@@ -14590,7 +14590,7 @@ msgstr "[_r_] Quelque chose de mal peut-il se produire  ? Nous sommes des gens p
 
 # game/script.rpy:18579 #-#-# translate crowdin nnd3_1b689247:
 msgid "[_r_] Or are we?"
-msgstr "[_r_] Ou sommes-nous  ?"
+msgstr "[_r_] Ou sommes-nous ?"
 
 # game/script.rpy:18584 #-#-# translate crowdin nnd3_cd82cf5f:
 msgid "[_ka_] No, it's pretty harmless. But the danger is there. Did you know we're being followed right now?"
@@ -15390,7 +15390,7 @@ msgstr "[_r_] Qu'est-il arrivé au…  ? C'est ... C'est juste un rêve ..."
 
 # game/script.rpy:19403 #-#-# translate crowdin doroaos_f7744c18:
 msgid "[_r_] Fuck... It was very scary..."
-msgstr "[_r_] Fuck... C'était très effrayant..."
+msgstr "[_r_] Putain... C'était très effrayant..."
 
 # game/script.rpy:19407 #-#-# translate crowdin doroaos_fb925622:
 msgid "[_ka_] Dream? What kind of dream? Are you tormented by nightmares?"
@@ -15858,7 +15858,7 @@ msgstr "[_ka_] Hinata a des contacts avec Sakura, j'ai déjà abordé ce sujet l
 
 # game/script.rpy:19869 #-#-# translate crowdin klaspoebalis_8852227e:
 msgid "[_r_] And I don't even need a medical degree at all? She might suspect something..."
-msgstr "[_r_] Et je n'ai même pas besoin d'un diplôme de médecine  ? Elle pourrait soupçonnent quelque chose ..."
+msgstr "[_r_] Et je n'ai même pas besoin d'un diplôme de médecine ? Elle pourrait soupçonnent quelque chose ..."
 
 # game/script.rpy:19874 #-#-# translate crowdin klaspoebalis_820ef5dd:
 msgid "[_ka_] You underestimate the influence of the Hokage family nowadays, one recommendation from Hinata will be enough for you to start practicing."
