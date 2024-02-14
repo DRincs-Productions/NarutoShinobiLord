@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 09:27\n"
+"PO-Revision-Date: 2024-02-14 11:40\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/sakuracan.rpy:16 #-#-# translate crowdin sakuracan_62efc2f4:
 msgid "[_k_] Come back again."
@@ -1626,7 +1626,7 @@ msgstr "[_saku_] Tu sais, je n'ai jamais eu droit à un massage des épaules de 
 
 # game/sakuracan.rpy:1734 #-#-# translate crowdin endcomnata_6553274a:
 msgid "[_r_] What did she say about me?"
-msgstr "Qu'a-t-elle dit sur moi ?"
+msgstr "[_r_] Qu'a-t-elle dit sur moi ?"
 
 # game/sakuracan.rpy:1738 #-#-# translate crowdin endcomnata_4734a16a:
 msgid "[_saku_] So many good things, I was really surprised..."
