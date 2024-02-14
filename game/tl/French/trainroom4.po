@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 09:27\n"
+"PO-Revision-Date: 2024-02-14 11:40\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/trainroom4.rpy:126 #-#-# translate crowdin roomhand1s22_20e36cd1:
 msgid "[_r_] That's it Hinata, don't rush, just get a feel of my cock with your hands."
@@ -478,7 +478,7 @@ msgstr "[_r_] Prends ça !"
 
 # game/trainroom4.rpy:855 #-#-# translate crowdin conskila_f1a938c5:
 msgid "[_r_] Fuck... This is something new..."
-msgstr "[_r_] Fuck... C'est quelque chose de nouveau..."
+msgstr "[_r_] Putain... C'est quelque chose de nouveau..."
 
 # game/trainroom4.rpy:856 #-#-# translate crowdin conskila_98d29628:
 msgid "[_r_] I’ll fuck that ass of yours more often from now on."
