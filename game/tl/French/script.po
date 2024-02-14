@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 09:27\n"
+"PO-Revision-Date: 2024-02-14 11:40\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -3658,7 +3658,7 @@ msgstr "[_ay_] Eh bien, vous devriez revenir..."
 
 # game/script.rpy:4875 #-#-# translate crowdin bon5_789bb03b:
 msgid "[_r_] Will you cook me some ramen?"
-msgstr "[_r_] Tu me prépares un ramen ?"
+msgstr "[_r_] Voulez-vous me préparer des ramen ?"
 
 # game/script.rpy:4880 #-#-# translate crowdin bon5_44e9b4c1:
 msgid "[_ay_] Yeah, well... and not only..."
@@ -4266,7 +4266,7 @@ msgstr "[_r_] Bien sûr..."
 
 # game/script.rpy:5701 #-#-# translate crowdin bun6_261c7663:
 msgid "[_r_] My name is [viname], and I know Ayame."
-msgstr "[_r_] Mon nom est [ viname ], et je connais Ayame."
+msgstr "[_r_] Je m'appelle [viname], et je connais Ayame."
 
 # game/script.rpy:5706 #-#-# translate crowdin bun6_705b0fa9:
 msgid "[_ay_] [viname]... A-alright..."
@@ -6114,7 +6114,7 @@ msgstr "[_ka_] Important et... dangereux."
 
 # game/script.rpy:8182 #-#-# translate crowdin rasslabon_8902c8d5:
 msgid "[_r_] Spit it out, Kamiko."
-msgstr "[_r_] Spit it out, Kamiko."
+msgstr "[_r_] Crache le morceau, Kamiko."
 
 # game/script.rpy:8187 #-#-# translate crowdin rasslabon_5c756348:
 msgid "[_ka_] This is about Naruto."
@@ -6378,7 +6378,7 @@ msgstr "[_ka_] [viname] ? Pourquoi un tel visage ?"
 
 # game/script.rpy:8472 #-#-# translate crowdin stoyat_a9992284:
 msgid "[_r_] I... I just..."
-msgstr "[_r_] I... Je juste..."
+msgstr "[_r_] Je... J'ai juste..."
 
 # game/script.rpy:8474 #-#-# translate crowdin stoyat_d505a882:
 msgid "[_r_] I almost died..."
@@ -9630,7 +9630,7 @@ msgstr "[_ka_] Wow, aujourd'hui, vous n'avez même pas besoin de vous réveiller
 
 # game/script.rpy:12547 #-#-# translate crowdin osnovo_a6482ebd:
 msgid "[_r_] You can say so, I want to see Hinata, we parted somehow incomprehensible."
-msgstr "[_r_] Vous pouvez le dire, je veux voir Hinata, nous parted d'une manière ou d'une autre incompréhensible."
+msgstr "[_r_] Tu peux le dire, je veux voir Hinata, nous nous sommes quittés de manière incompréhensible."
 
 # game/script.rpy:12552 #-#-# translate crowdin osnovo_2bfc1ff5:
 msgid "[_ka_] Don't worry, she's on the hook, sooner or later you'll be fine, but..."
@@ -10274,7 +10274,7 @@ msgstr "[_mira_] Oui ! Oui ! Oui ! Oui ! Oui !!!"
 
 # game/script.rpy:13305 #-#-# translate crowdin renal_506fb446:
 msgid "[_r_] I'm cumming!"
-msgstr "[_r_] Je jouirpe !"
+msgstr "[_r_] Je jouis !"
 
 # game/script.rpy:13307 #-#-# translate crowdin renal_85f732f2:
 msgid "[_mira_] Cum inside me again!"
