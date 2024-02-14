@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 21:59\n"
+"PO-Revision-Date: 2024-02-14 09:27\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/trainroom1.rpy:115 #-#-# translate crowdin roomhand1s_20e36cd1:
 msgid "[_r_] That's it Hinata, don't rush, just get a feel of my cock with your hands."
@@ -58,7 +58,7 @@ msgstr "[_hi_] V-Vous aimez cela...?"
 
 # game/trainroom1.rpy:136 #-#-# translate crowdin roomhand1s_d412c5a1:
 msgid "[_r_] Do you like it, Master?. Say it more respectfully."
-msgstr "[_r_] Aimes-tu ça, Maître  ? Dites le plus respectueusement."
+msgstr "[_r_] Aimes-tu ça, Maître ? Dites le plus respectueusement."
 
 # game/trainroom1.rpy:140 #-#-# translate crowdin roomhand1s_e9c8b579:
 msgid "[_hi_] Do you like it, master...?"
@@ -158,7 +158,7 @@ msgstr "[_r_] Soyez patient ! Juste un peu plus et je vais vous foutre la gorge 
 
 # game/trainroom1.rpy:283 #-#-# translate crowdin cumminore_f06fbd4a:
 msgid "[_r_] FUCK YES! W-wait... Don't take it out... Swallow it all."
-msgstr "[_r_] FUCTUREZ OUI ! Attendez... Ne le prenez pas... Tout avaler."
+msgstr "[_r_] MERDE OUI ! Attendez... Ne le prenez pas... Tout avaler."
 
 # game/trainroom1.rpy:284 #-#-# translate crowdin cumminore_d18960db:
 msgid "[_r_] Good girl..."
