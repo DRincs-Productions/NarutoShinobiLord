@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 23:20\n"
+"PO-Revision-Date: 2024-02-14 11:40\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/locamet.rpy:6 #-#-# translate crowdin kat1_dc17cd33:
 msgid "[_ka_] Be braver, boy."
@@ -462,11 +462,11 @@ msgstr "[_m_] Ayame m'a embrassé du devant et s'est assis gentiment sur ma bite
 
 # game/locamet.rpy:319 #-#-# translate crowdin kat6_7ef67a63:
 msgid "[_m_] Her pussy is literally oozing..."
-msgstr "[_m_] Sa chatte est littéralement enlisante..."
+msgstr "[_m_] Sa chatte suinte littéralement..."
 
 # game/locamet.rpy:321 #-#-# translate crowdin kat6_cf3f9328:
 msgid "[_m_] Time to fuck that hot milf!"
-msgstr "[_m_] Il est temps de baiser ce milf chaud !"
+msgstr "[_m_] Il est temps de baiser cette milf chaude !"
 
 # game/locamet.rpy:329 #-#-# translate crowdin kat6_31aa6057:
 msgid "[_ay_] Oh my God! That’s good... That’s it... take your time..."
