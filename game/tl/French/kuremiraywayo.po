@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-14 09:27\n"
+"PO-Revision-Date: 2024-02-14 11:39\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/kuremiraywayo.rpy:6 #-#-# translate crowdin kuremiraywayo_2c661c9f:
 msgid "[_m_] I'm not sure I can get both mother and daughter at the same time."
@@ -654,7 +654,7 @@ msgstr "[_m_] Je le pensais."
 
 # game/kuremiraywayo.rpy:732 #-#-# translate crowdin cszzxfdaol_b4b04bd8:
 msgid "[_mira_] You kissed me... Why..?"
-msgstr "[_mira_] Tu m'embrassais ... Pourquoi ?"
+msgstr "[_mira_] Tu m'embrassais ... Pourquoi..?"
 
 # game/kuremiraywayo.rpy:737 #-#-# translate crowdin cszzxfdaol_b4f0c41b:
 msgid "[_r_] You don’t mind, do you? It seemed to me that you wanted this no less than me."
@@ -1078,7 +1078,7 @@ msgstr "[_r_] Il me semble que l'un de vos trous n'a pas reçu assez d'attention
 
 # game/kuremiraywayo.rpy:1164 #-#-# translate crowdin ladnogoanali_aa82459d:
 msgid "[_mira_] Do you want to get in there too...?"
-msgstr "[_mira_] Voulez-vous y entrer aussi... ?"
+msgstr "[_mira_] Voulez-vous y entrer aussi...?"
 
 # game/kuremiraywayo.rpy:1166 #-#-# translate crowdin ladnogoanali_d79d88b9:
 msgid "[_r_] Are you against it?"
