@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
-"PO-Revision-Date: 2024-02-13 15:43\n"
+"PO-Revision-Date: 2024-02-14 11:40\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/locametdreem.rpy:8 #-#-# translate crowdin sisi1_d37e6817:
 msgid "[_m_] It's nice to finally take a break from all this business..."
@@ -326,7 +326,7 @@ msgstr "[_hi_] Donnez-nous le visage !"
 
 # game/locametdreem.rpy:280 #-#-# translate crowdin sisi1_9b662d32:
 msgid "[_gg_] FUCK! YES!!! Take it all!"
-msgstr "[_gg_] FRAIS ! OUI !!! Prends tout !"
+msgstr "[_gg_] MERDE ! OUI !!! Prends tout !"
 
 # game/locametdreem.rpy:282 #-#-# translate crowdin sisi1_2df2d112:
 msgid "[_gg_] Now you look like real whores."
