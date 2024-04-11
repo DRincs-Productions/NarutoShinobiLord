@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-02-12 19:04\n"
+"PO-Revision-Date: 2024-04-11 08:28\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:903
 msgid "Back"
@@ -95,276 +95,280 @@ msgstr "版本 [config.version!t]\n"
 # game/screens.rpy:1570
 msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
 "[renpy.license!t]"
-msgstr ""
+msgstr "由 {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only]制作。\n\n"
+"[renpy.license!t]"
 
 # game/screens.rpy:1606
 msgid "Page {}"
-msgstr ""
+msgstr "页面 {}"
 
 # game/screens.rpy:1606
 msgid "Automatic saves"
-msgstr ""
+msgstr "自动存档"
 
 # game/screens.rpy:1606
 msgid "Quick saves"
-msgstr ""
+msgstr "快速存档"
 
 # game/screens.rpy:1649
 msgid "{#file_time}%A, %B %d %Y, %H:%M"
-msgstr ""
+msgstr "{#file_time}%A, %B %d %Y, %H:%M"
 
 # game/screens.rpy:1649
 msgid "empty slot"
-msgstr ""
+msgstr "空存档"
 
 # game/screens.rpy:1666
 msgid "<"
-msgstr ""
+msgstr "<"
 
 # game/screens.rpy:1669
 msgid "{#auto_page}A"
-msgstr ""
+msgstr "{#auto_page}自动"
 
 # game/screens.rpy:1672
 msgid "{#quick_page}Q"
-msgstr ""
+msgstr "{#quick_page}快速"
 
 # game/screens.rpy:1678
 msgid ">"
-msgstr ""
+msgstr ">"
 
 # game/screens.rpy:1735
 msgid "Display"
-msgstr ""
+msgstr "显示"
 
 # game/screens.rpy:1736
 msgid "Window"
-msgstr ""
+msgstr "窗口"
 
 # game/screens.rpy:1737
 msgid "Fullscreen"
-msgstr ""
+msgstr "全屏"
 
 # game/screens.rpy:1741
 msgid "Rollback Side"
-msgstr ""
+msgstr "回滚一侧"
 
 # game/screens.rpy:1742
 msgid "Disable"
-msgstr ""
+msgstr "禁用"
 
 # game/screens.rpy:1743
 msgid "Left"
-msgstr ""
+msgstr "左侧"
 
 # game/screens.rpy:1744
 msgid "Right"
-msgstr ""
+msgstr "右侧"
 
 # game/screens.rpy:1749
 msgid "Unseen Text"
-msgstr ""
+msgstr "未读文本"
 
 # game/screens.rpy:1750
 msgid "After Choices"
-msgstr ""
+msgstr "之后的选项"
 
 # game/screens.rpy:1751
 msgid "Transitions"
-msgstr ""
+msgstr "转场"
 
 # game/screens.rpy:1764
 msgid "Text Speed"
-msgstr ""
+msgstr "文本速度"
 
 # game/screens.rpy:1768
 msgid "Auto-Forward Time"
-msgstr ""
+msgstr "自动推进时间"
 
 # game/screens.rpy:1775
 msgid "Music Volume"
-msgstr ""
+msgstr "音乐音量"
 
 # game/screens.rpy:1782
 msgid "Sound Volume"
-msgstr ""
+msgstr "音效音量"
 
 # game/screens.rpy:1788
 msgid "Test"
-msgstr ""
+msgstr "测试"
 
 # game/screens.rpy:1792
 msgid "Voice Volume"
-msgstr ""
+msgstr "语音音量"
 
 # game/screens.rpy:1803
 msgid "Mute All"
-msgstr ""
+msgstr "全部静音"
 
 # game/screens.rpy:1809
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 # game/screens.rpy:1927
 msgid "The dialogue history is empty."
-msgstr ""
+msgstr "对话历史记录为空。"
 
 # game/screens.rpy:1997
 msgid "Keyboard"
-msgstr ""
+msgstr "键盘"
 
 # game/screens.rpy:1998
 msgid "Mouse"
-msgstr ""
+msgstr "鼠标"
 
 # game/screens.rpy:2001
 msgid "Gamepad"
-msgstr ""
+msgstr "手柄"
 
 # game/screens.rpy:2014
 msgid "Enter"
-msgstr ""
+msgstr "回车"
 
 # game/screens.rpy:2015
 msgid "Advances dialogue and activates the interface."
-msgstr ""
+msgstr "推进对话和打开界面。"
 
 # game/screens.rpy:2018
 msgid "Space"
-msgstr ""
+msgstr "空格"
 
 # game/screens.rpy:2019
 msgid "Advances dialogue without selecting choices."
-msgstr ""
+msgstr "在不选择选项的情况下推进对话。"
 
 # game/screens.rpy:2022
 msgid "Arrow Keys"
-msgstr ""
+msgstr "方向键"
 
 # game/screens.rpy:2023
 msgid "Navigate the interface."
-msgstr ""
+msgstr "导航界面。"
 
 # game/screens.rpy:2026
 msgid "Escape"
-msgstr ""
+msgstr "Esc键"
 
 # game/screens.rpy:2027
 msgid "Accesses the game menu."
-msgstr ""
+msgstr "打开游戏菜单。"
 
 # game/screens.rpy:2030
 msgid "Ctrl"
-msgstr ""
+msgstr "Ctrl"
 
 # game/screens.rpy:2031
 msgid "Skips dialogue while held down."
-msgstr ""
+msgstr "摁住此键时跳过对话。"
 
 # game/screens.rpy:2034
 msgid "Tab"
-msgstr ""
+msgstr "Tab"
 
 # game/screens.rpy:2035
 msgid "Toggles dialogue skipping."
-msgstr ""
+msgstr "按住Tab切换键可跳过对话。"
 
 # game/screens.rpy:2038
 msgid "Page Up"
-msgstr ""
+msgstr "向上翻页"
 
 # game/screens.rpy:2039
 msgid "Rolls back to earlier dialogue."
-msgstr ""
+msgstr "回滚到之前的对话。"
 
 # game/screens.rpy:2042
 msgid "Page Down"
-msgstr ""
+msgstr "向下翻页"
 
 # game/screens.rpy:2043
 msgid "Rolls forward to later dialogue."
-msgstr ""
+msgstr "回滚到之后的对话。"
 
 # game/screens.rpy:2047
 msgid "Hides the user interface."
-msgstr ""
+msgstr "隐藏用户界面。"
 
 # game/screens.rpy:2051
 msgid "Takes a screenshot."
-msgstr ""
+msgstr "截屏。"
 
 # game/screens.rpy:2055
 msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
-msgstr ""
+msgstr "切换无障碍{a=https://www.renpy.org/l/voicing}自动语音{/a}。"
 
 # game/screens.rpy:2059
 msgid "Opens the accessibility menu."
-msgstr ""
+msgstr "打开无障碍菜单。"
 
 # game/screens.rpy:2065
 msgid "Left Click"
-msgstr ""
+msgstr "鼠标左键"
 
 # game/screens.rpy:2069
 msgid "Middle Click"
-msgstr ""
+msgstr "鼠标中键"
 
 # game/screens.rpy:2073
 msgid "Right Click"
-msgstr ""
+msgstr "鼠标右键"
 
 # game/screens.rpy:2077
 msgid "Mouse Wheel Up\n"
 "Click Rollback Side"
-msgstr ""
+msgstr "鼠标滚轮向上滚动\n"
+"在回滚那侧点击"
 
 # game/screens.rpy:2081
 msgid "Mouse Wheel Down"
-msgstr ""
+msgstr "鼠标滚轮向下滚动"
 
 # game/screens.rpy:2088
 msgid "Right Trigger\n"
 "A/Bottom Button"
-msgstr ""
+msgstr "右扳机键\n"
+"A/底部按键"
 
 # game/screens.rpy:2092
 msgid "Left Trigger\n"
 "Left Shoulder"
-msgstr ""
+msgstr "左扳机键\n"
+"左肩键"
 
 # game/screens.rpy:2096
 msgid "Right Shoulder"
-msgstr ""
+msgstr "右肩键"
 
 # game/screens.rpy:2101
 msgid "D-Pad, Sticks"
-msgstr ""
+msgstr "十字方向键，摇杆"
 
 # game/screens.rpy:2105
 msgid "Start, Guide"
-msgstr ""
+msgstr "开始，导航键"
 
 # game/screens.rpy:2109
 msgid "Y/Top Button"
-msgstr ""
+msgstr "Y/顶部按键"
 
 # game/screens.rpy:2112
 msgid "Calibrate"
-msgstr ""
+msgstr "校准"
 
 # game/screens.rpy:2177
 msgid "Yes"
-msgstr ""
+msgstr "是的"
 
 # game/screens.rpy:2178
 msgid "No"
-msgstr ""
+msgstr "不是"
 
 # game/screens.rpy:2224
 msgid "Skipping"
-msgstr ""
+msgstr "跳过中"
 
 # game/screens.rpy:2447
 msgid "Menu"
-msgstr ""
+msgstr "菜单"
 
