@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-11 08:28\n"
+"PO-Revision-Date: 2024-04-11 11:22\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -18,99 +18,99 @@ msgstr "[_e_] 我常常在想，如果我做出不同的决定，那我的人生
 
 # game/script.rpy:62 #-#-# translate crowdin start_709f1daa:
 msgid "[_e_] If I decided to finish my university instead of quitting on the first year?"
-msgstr ""
+msgstr "[_e_] 如果我决定要完成我的大学学业，而不是在大一的时候就退学？"
 
 # game/script.rpy:64 #-#-# translate crowdin start_2ad24da8:
 msgid "[_e_] If I wasn't so rude to my boss that time, maybe I wouldn't have been fired. Maybe I could achieve something better?"
-msgstr ""
+msgstr "[_e_] 如果我那次对我的老板不那么无礼，也许我就不会被解雇。也许我可以在事业上有所小成？"
 
 # game/script.rpy:66 #-#-# translate crowdin start_bac1f8d0:
 msgid "[_e_] And school? What if I didn't spend my time in computer clubs? Maybe education could get me out of this shit?"
-msgstr ""
+msgstr "[_e_] 还有在学校时呢？如果我不把时间都花在电脑俱乐部上？也许教育能让我摆脱这种窘境？"
 
 # game/script.rpy:68 #-#-# translate crowdin start_cdeee68f:
 msgid "[_e_] Well, maybe there's no point looking into the past."
-msgstr ""
+msgstr "[_e_] 好吧，也许审视自己的过去没有意义可言。"
 
 # game/script.rpy:70 #-#-# translate crowdin start_ecc458c3:
 msgid "[_e_] I'm only driving myself deeper into depression."
-msgstr ""
+msgstr "[_e_] 这样做只会让自己的心情更加的沮丧。"
 
 # game/script.rpy:72 #-#-# translate crowdin start_51e700f1:
 msgid "[_e_] I'm 32 now, work as a deliveryman and I just love spending nights in computer despite it's harmful."
-msgstr ""
+msgstr "[_e_] 我今年32岁，是一名送货员，喜欢在电脑前通宵熬夜，尽管说这样对个人的健康很不好。"
 
 # game/script.rpy:74 #-#-# translate crowdin start_bea941b0:
 msgid "[_e_] I moved out from my parents when I was 30. A bit late of course but it was so comfortable in parent's place. Until my mum had started to bother me."
-msgstr ""
+msgstr "[_e_] 我30岁时从我父母家里搬出来住。当然这个年龄才搬出来是有点晚了，不过住在父母家里是很爽的。直到我妈妈开始厌烦我。"
 
 # game/script.rpy:76 #-#-# translate crowdin start_03e21cee:
 msgid "[_e_] Find yourself a girlfriend! You're already 30! Others already have children at this age!"
-msgstr ""
+msgstr "[_e_] 去找个女朋友吧！你已经30岁了！有些同龄人的孩子都可以打酱油了！"
 
 # game/script.rpy:78 #-#-# translate crowdin start_e76f0515:
 msgid "[_e_] That was the time when it pissed me off. I took my laptop and found the cheapest flat in the poorest neighborhood."
-msgstr ""
+msgstr "[_e_] 那时的那句话惹毛了我。于是我拿上我的笔记本电脑，在最贫穷的社区里找到了最廉价的公寓。"
 
 # game/script.rpy:80 #-#-# translate crowdin start_a13eb1c8:
 msgid "[_e_] Personal life? Just sucks. I've gone to some anonymous dates but it was just a waste of time."
-msgstr ""
+msgstr "[_e_] 私人生活？只能说是一团糟。我参加过几次匿名约会，但那只能说是在浪费时间。"
 
 # game/script.rpy:82 #-#-# translate crowdin start_75c3eebf:
 msgid "[_e_] Girls in my age aren't into anime or comics and I just have nothing else to talk about."
-msgstr ""
+msgstr "[_e_] 我这个年龄的女生对动画和漫画都不感兴趣，于是我们便没有什么好聊的话题了。"
 
 # game/script.rpy:84 #-#-# translate crowdin start_116d74fe:
 msgid "[_e_] I'd continue watching anime all night if not that strange picture that changed everything."
-msgstr ""
+msgstr "[_e_] 如果不是那张改变了一切的奇怪照片，我现在应该还在熬夜看动画。"
 
 # game/script.rpy:89 #-#-# translate crowdin start_a7b2abe2:
 msgid "[_e_] Time to jerk off..."
-msgstr ""
+msgstr "[_e_] 是时候开冲了..."
 
 # game/script.rpy:91 #-#-# translate crowdin start_2a6f3ec2:
 msgid "[_e_] Yes, I'm that one guy who jerks off on anime porn after work."
-msgstr ""
+msgstr "[_e_] 没错，我就是那个会在工作后对着里番打飞机的死宅。"
 
 # game/script.rpy:93 #-#-# translate crowdin start_c6ed4e1f:
 msgid "[_e_] Nothing to be proud about, but who cares?"
-msgstr ""
+msgstr "[_e_] 这没什么可自豪的，但有谁在乎呢？"
 
 # game/script.rpy:95 #-#-# translate crowdin start_f5671329:
 msgid "[_e_] My dick-my rules."
-msgstr ""
+msgstr "[_e_] 我的老二-我说了算。"
 
 # game/script.rpy:99 #-#-# translate crowdin start_66bf321f:
 msgid "[_e_] Who's that character? Reminds me Kaguya."
-msgstr ""
+msgstr "[_e_] 这个角色是谁？她让我想起了辉夜。"
 
 # game/script.rpy:106 #-#-# translate crowdin start_1cb52dae:
 msgid "[_e_] She's a pretty one. Wanna see her tits."
-msgstr ""
+msgstr "[_e_] 她长得挺漂亮的。我想看看她的奶子。"
 
 # game/script.rpy:109 #-#-# translate crowdin start_36e2d5cf:
 msgid "[_e_] Extending her arm... Well, I think everyone had tried this."
-msgstr ""
+msgstr "[_e_] 她伸出了手臂... 嗯，我想大家都有试过这个动作吧。"
 
 # game/script.rpy:117 #-#-# translate crowdin start_7e5be565:
 msgid "[_e_] What?"
-msgstr ""
+msgstr "[_e_] 什么？"
 
 # game/script.rpy:120 #-#-# translate crowdin start_1347e8b8:
 msgid "[_e_] WHAT THE FUCK!?"
-msgstr ""
+msgstr "[_e_] 这什么鬼？！"
 
 # game/script.rpy:130 #-#-# translate crowdin start_3a1e0ab2:
 msgid "[_m_] Shit... I'm gonna vomit..."
-msgstr ""
+msgstr "[_m_] 该死... 我要吐了..."
 
 # game/script.rpy:132 #-#-# translate crowdin start_2e0fe0e8:
 msgid "[_m_] It's dark... And cold... I don't understand what's going on... "
-msgstr ""
+msgstr "[_m_] 天好黑... 也好冷... 我不明白这是怎么了... "
 
 # game/script.rpy:136 #-#-# translate crowdin start_d73ee050:
 msgid "[_m_] Grass?"
-msgstr ""
+msgstr "[_m_] 草地？"
 
 # game/script.rpy:138 #-#-# translate crowdin start_e21d9af6:
 msgid "[_m_] It smells like grass?"
