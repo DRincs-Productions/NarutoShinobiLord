@@ -10,11 +10,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-01-25 21:47\n"
+"PO-Revision-Date: 2024-04-11 08:28\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
-msgstr ""
+msgstr "[_e_] 我常常在想，如果我做出不同的决定，那我的人生会是什么样子的..."
 
 # game/script.rpy:62 #-#-# translate crowdin start_709f1daa:
 msgid "[_e_] If I decided to finish my university instead of quitting on the first year?"
