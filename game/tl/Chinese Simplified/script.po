@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-12 09:01\n"
+"PO-Revision-Date: 2024-04-12 10:41\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -130,39 +130,39 @@ msgstr "[_m_] 森林？这里绝对是森林..."
 
 # game/script.rpy:152 #-#-# translate crowdin start_49ee141e:
 msgid "[_k_] Someone really got caught? Hey, you're still alive?"
-msgstr ""
+msgstr "[_k_] 真有人被传送过来了？嘿，你还活着吗？"
 
 # game/script.rpy:158 #-#-# translate crowdin start_49585e29:
 msgid "[_m_] Holy shit, who the hell is she?"
-msgstr ""
+msgstr "[_m_] 见鬼，她又是谁啊？"
 
 # game/script.rpy:164 #-#-# translate crowdin start_0cabbce4:
 msgid "[_k_] Did you hit your head or something? Why don't you say anything? Just answer, I won't bite."
-msgstr ""
+msgstr "[_k_] 你是脑子被撞坏了吗？为什么你一言不发的？快回答我的问题，我又不会咬你。"
 
 # game/script.rpy:166 #-#-# translate crowdin start_ed03f7e2:
 msgid "[_e_] Egh... What's going on here? Who are you?"
-msgstr ""
+msgstr "[_e_] 呃... 这是怎么回事？你是谁？"
 
 # game/script.rpy:172 #-#-# translate crowdin start_54cd0965:
 msgid "[_k_] Oh, luckily you can speak! Not so retarded. Name yourself, and then it'll be my turn."
-msgstr ""
+msgstr "[_k_] 哦，幸好你会说话！不是个话都不会说的弱智。你先说下你的名字，然后轮到我说我的名字。"
 
 # game/script.rpy:183 #-#-# translate crowdin start_634d6bcf:
 msgid "[_r_] Name's [viname], maybe you'll answer my question?"
-msgstr ""
+msgstr "[_r_] 我叫[viname]，也许你能解答我的疑惑？"
 
 # game/script.rpy:189 #-#-# translate crowdin start_b55c77c0:
 msgid "[_k_] Don't want to know my name, do you?"
-msgstr ""
+msgstr "[_k_] 你是不想知道我的名字吗？"
 
 # game/script.rpy:195 #-#-# translate crowdin start_bfca02ca:
 msgid "[_r_] Not really, I just want to figure out what happened..."
-msgstr ""
+msgstr "[_r_] 也不是不想，只是我想先弄清楚到底发生什么事了..."
 
 # game/script.rpy:201 #-#-# translate crowdin start_576ccc39:
 msgid "[_k_] So rude... You're lucky that I have some plans on you."
-msgstr ""
+msgstr "[_k_] 太无礼了... 你真该庆幸我对你还留有他用。"
 
 # game/script.rpy:207 #-#-# translate crowdin start_153d4c2f:
 msgid "[_ka_] Let me introduce myself, my name is Kamiko and you're going to obey me!"
