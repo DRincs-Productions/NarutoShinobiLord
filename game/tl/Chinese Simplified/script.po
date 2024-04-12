@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
-"PO-Revision-Date: 2024-04-11 11:22\n"
+"PO-Revision-Date: 2024-04-12 09:01\n"
 
 # TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -114,19 +114,19 @@ msgstr "[_m_] 草地？"
 
 # game/script.rpy:138 #-#-# translate crowdin start_e21d9af6:
 msgid "[_m_] It smells like grass?"
-msgstr ""
+msgstr "[_m_] 味道闻起来像是草地？"
 
 # game/script.rpy:140 #-#-# translate crowdin start_f58155be:
 msgid "[_m_] I feel it..."
-msgstr ""
+msgstr "[_m_] 我感觉这..."
 
 # game/script.rpy:144 #-#-# translate crowdin start_29ff14f8:
 msgid "[_m_] It's all so green..."
-msgstr ""
+msgstr "[_m_] 这哪哪都是绿色..."
 
 # game/script.rpy:146 #-#-# translate crowdin start_b7e64731:
 msgid "[_m_] Forest? It's definitely a forest..."
-msgstr ""
+msgstr "[_m_] 森林？这里绝对是森林..."
 
 # game/script.rpy:152 #-#-# translate crowdin start_49ee141e:
 msgid "[_k_] Someone really got caught? Hey, you're still alive?"
