@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-07-17 09:23\n"
+"PO-Revision-Date: 2024-07-17 11:25\n"
 
 # TODO: Translation updated at 2024-07-17 11:01 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
@@ -16490,7 +16490,7 @@ msgstr "Chiedi se ha bisogno di aiuto con qualcos'altro?"
 
 # game/script.rpy:13273
 msgid " Give me a glass of water and let's go... (Patrons only)"
-msgstr ""
+msgstr " Dammi un bicchiere di acqua e andiamo... (solo a bordo)"
 
 # game/script.rpy:13273
 msgid "You'll get more only when I say so, not now."
@@ -16558,7 +16558,7 @@ msgstr "Sperma nella mia figa."
 
 # game/script.rpy:16797
 msgid " Let him suck my balls (only for patrons)"
-msgstr ""
+msgstr " Lascia che succhii le mie palle (solo per i patroni)"
 
 # game/script.rpy:16971
 msgid "It wouldn't be easy for me to accept."
@@ -16590,7 +16590,7 @@ msgstr "Cum in Hinata."
 
 # game/script.rpy:18089
 msgid " Let her take the initiative (Patrons only)"
-msgstr ""
+msgstr " Lasciate che prenda l'iniziativa (Patrons solo)"
 
 # game/script.rpy:18847
 msgid "Okay, I'll go with you."
@@ -16634,5 +16634,5 @@ msgstr "Non fermarmi, sto per cum!"
 
 # game/script.rpy:19653
 msgid " Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
-msgstr ""
+msgstr " Metti la bocca da usare per un po ', voglio sborrare dritto giù la gola (per i Patroni)"
 
