@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-01-24 14:31\n"
+"PO-Revision-Date: 2024-07-17 09:24\n"
 
-# TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/sakuracan.rpy:16 #-#-# translate crowdin sakuracan_62efc2f4:
+# TODO: Translation updated at 2024-07-17 11:01 #|#|# # game/sakuracan.rpy:16 #-#-# translate crowdin sakuracan_62efc2f4:
 msgid "[_k_] Come back again."
 msgstr ""
 
@@ -2576,624 +2576,4052 @@ msgstr ""
 msgid "[_m_] You need to get a good night's sleep..."
 msgstr ""
 
-# game/sakuracan.rpy:2738 #-#-# translate crowdin banito_48357e72:
-msgid "[_r_] Why am I blindfolded?"
-msgstr ""
-
-# game/sakuracan.rpy:2739 #-#-# translate crowdin banito_f869553d:
-msgid "[_tema_] No questions, lie on your back."
-msgstr ""
-
-# game/sakuracan.rpy:2740 #-#-# translate crowdin banito_61d4aeb0:
-msgid "[_r_] Do you know what you're doing exactly?"
-msgstr ""
-
-# game/sakuracan.rpy:2741 #-#-# translate crowdin banito_5f175d6f:
-msgid "[_tema_] Shut up! Now I'm going to put that tongue of yours to work!."
-msgstr ""
-
-# game/sakuracan.rpy:2747 #-#-# translate crowdin banito_b47f3f8f:
-msgid "[_tema_] Come on boy, try harder!"
-msgstr ""
-
-# game/sakuracan.rpy:2748 #-#-# translate crowdin banito_29da2000:
-msgid "[_tema_] If you want me to play with your dick, work for it!"
-msgstr ""
-
-# game/sakuracan.rpy:2752 #-#-# translate crowdin banito_2c19b3b4:
-msgid "[_tema_] Okay... Good boy."
-msgstr ""
-
-# game/sakuracan.rpy:2753 #-#-# translate crowdin banito_9584b855:
-msgid "[_tema_] Mistress will cum on your face now..."
-msgstr ""
-
-# game/sakuracan.rpy:2757 #-#-# translate crowdin banito_4da2ec3d:
-msgid "[_tema_] Yes... This is what you want, right?"
-msgstr ""
-
-# game/sakuracan.rpy:2758 #-#-# translate crowdin banito_54919f17:
-msgid "[_tema_] Keep going! MMMMM!"
-msgstr ""
-
-# game/sakuracan.rpy:2764 #-#-# translate crowdin banito_631ca321:
-msgid "[_tema_] Not bad... This is your full-time job now, boy."
-msgstr ""
-
-# game/sakuracan.rpy:2777 #-#-# translate crowdin prosnulsa_ef3bc2f6:
+# game/sakuracan.rpy:2744 #-#-# translate crowdin prosnulsa_ef3bc2f6:
 msgid "[_m_] How could I dream about something like that... Although I wouldn’t rule that scenario out, with any luck it might just happen..."
 msgstr ""
 
-# game/sakuracan.rpy:2778 #-#-# translate crowdin prosnulsa_e86645b8:
+# game/sakuracan.rpy:2745 #-#-# translate crowdin prosnulsa_e86645b8:
 msgid "[_m_] Well, it's time to go do my job, I'll activate my disguise and keep an eye on Sakura, I hope it's not useless."
 msgstr ""
 
-# game/sakuracan.rpy:2779 #-#-# translate crowdin prosnulsa_7631f9b1:
+# game/sakuracan.rpy:2746 #-#-# translate crowdin prosnulsa_7631f9b1:
 msgid "[_m_] Even if I don't find any leads on that guy, I'll just find out a little more about Sakura, that should come in handy."
 msgstr ""
 
-# game/sakuracan.rpy:2801 #-#-# translate crowdin num_b677988e:
+# game/sakuracan.rpy:2768 #-#-# translate crowdin num_b677988e:
 msgid "[_m_] I'm here, I need to check the front door, carefully."
 msgstr ""
 
-# game/sakuracan.rpy:2802 #-#-# translate crowdin num_45f4b086:
+# game/sakuracan.rpy:2769 #-#-# translate crowdin num_45f4b086:
 msgid "[_m_] I've already been to her house, so I can get my bearings."
 msgstr ""
 
-# game/sakuracan.rpy:2803 #-#-# translate crowdin num_4502f2ae:
+# game/sakuracan.rpy:2770 #-#-# translate crowdin num_4502f2ae:
 msgid "[_m_] Door’s open! I love Konoha, no one closes the front door!"
 msgstr ""
 
-# game/sakuracan.rpy:2810 #-#-# translate crowdin num_8218ffa3:
+# game/sakuracan.rpy:2777 #-#-# translate crowdin num_8218ffa3:
 msgid "[_m_] Okay. I hope no one heard me close the front door."
 msgstr ""
 
-# game/sakuracan.rpy:2811 #-#-# translate crowdin num_1e9da5c0:
+# game/sakuracan.rpy:2778 #-#-# translate crowdin num_1e9da5c0:
 msgid "[_m_] I wonder if Sakura is alone right now? Or is Sarada here too?"
 msgstr ""
 
-# game/sakuracan.rpy:2812 #-#-# translate crowdin num_72b166c2:
+# game/sakuracan.rpy:2779 #-#-# translate crowdin num_72b166c2:
 msgid "[_m_] I think Sakura mentioned that Sarada is on a mission, but I'm not sure..."
 msgstr ""
 
-# game/sakuracan.rpy:2813 #-#-# translate crowdin num_075f119e:
+# game/sakuracan.rpy:2780 #-#-# translate crowdin num_075f119e:
 msgid "[_m_] It's rather quiet on the first floor, I think I hear sounds on the second floor, it sounds like the running water."
 msgstr ""
 
-# game/sakuracan.rpy:2814 #-#-# translate crowdin num_104edc84:
+# game/sakuracan.rpy:2781 #-#-# translate crowdin num_104edc84:
 msgid "[_m_] Need to check."
 msgstr ""
 
-# game/sakuracan.rpy:2818 #-#-# translate crowdin num_c2337811:
+# game/sakuracan.rpy:2785 #-#-# translate crowdin num_c2337811:
 msgid "[_m_] Is this the second bathroom? I think Sakura is in there."
 msgstr ""
 
-# game/sakuracan.rpy:2819 #-#-# translate crowdin num_a23ec329:
+# game/sakuracan.rpy:2786 #-#-# translate crowdin num_a23ec329:
 msgid "[_m_] The door is open, you’re brave Sakura, this means that she knows for sure that no one will come to her, which means Sarada is definitely on a mission."
 msgstr ""
 
-# game/sakuracan.rpy:2820 #-#-# translate crowdin num_8bef4103:
+# game/sakuracan.rpy:2787 #-#-# translate crowdin num_8bef4103:
 msgid "[_m_] But you're not alone here, you should have been more careful!"
 msgstr ""
 
-# game/sakuracan.rpy:2837 #-#-# translate crowdin bizoterias11_9758c96f:
+# game/sakuracan.rpy:2804 #-#-# translate crowdin bizoterias11_9758c96f:
 msgid "[_m_] So, so, so... Have you decided to completely relax on your day off?"
 msgstr ""
 
-# game/sakuracan.rpy:2838 #-#-# translate crowdin bizoterias11_1c0c4e22:
+# game/sakuracan.rpy:2805 #-#-# translate crowdin bizoterias11_1c0c4e22:
 msgid "[_m_] Hot bath, red wine... I didn't know this side of you, Tsunade seems to be a bad influence on you."
 msgstr ""
 
-# game/sakuracan.rpy:2839 #-#-# translate crowdin bizoterias11_c9d2464a:
+# game/sakuracan.rpy:2806 #-#-# translate crowdin bizoterias11_c9d2464a:
 msgid "[_m_] I have to give credit to your body, Sakura... You're in great athletic shape, usually moms at your age don't really care about their shape, but you're an exception."
 msgstr ""
 
-# game/sakuracan.rpy:2840 #-#-# translate crowdin bizoterias11_bddaec86:
+# game/sakuracan.rpy:2807 #-#-# translate crowdin bizoterias11_bddaec86:
 msgid "[_m_] Do all former shinobi really have such sexy bodies? Perfect Hinata with her curvaceous figure, now you Sakura... Kill me as many times as you like, but this view is worth it."
 msgstr ""
 
-# game/sakuracan.rpy:2841 #-#-# translate crowdin bizoterias11_e7f648d0:
+# game/sakuracan.rpy:2808 #-#-# translate crowdin bizoterias11_e7f648d0:
 msgid "[_m_] Are you leaving already? Apparently I came too late."
 msgstr ""
 
-# game/sakuracan.rpy:2847 #-#-# translate crowdin bizoterias11_3aa380fd:
+# game/sakuracan.rpy:2814 #-#-# translate crowdin bizoterias11_3aa380fd:
 msgid "[_m_] Just like that? No robes or towels?"
 msgstr ""
 
-# game/sakuracan.rpy:2848 #-#-# translate crowdin bizoterias11_f01130f7:
+# game/sakuracan.rpy:2815 #-#-# translate crowdin bizoterias11_f01130f7:
 msgid "[_m_] What a teasing view, it’s a pity that I can’t come closer to you yet and grab that delicious ass..."
 msgstr ""
 
-# game/sakuracan.rpy:2849 #-#-# translate crowdin bizoterias11_40c899c0:
+# game/sakuracan.rpy:2816 #-#-# translate crowdin bizoterias11_40c899c0:
 msgid "[_m_] Are you going to the bedroom already?"
 msgstr ""
 
-# game/sakuracan.rpy:2850 #-#-# translate crowdin bizoterias11_68371a27:
+# game/sakuracan.rpy:2817 #-#-# translate crowdin bizoterias11_68371a27:
 msgid "[_m_] Don't tell me it's a bath before bed, I didn't come in vain, right?"
 msgstr ""
 
-# game/sakuracan.rpy:2857 #-#-# translate crowdin bizoterias11_c536e31d:
+# game/sakuracan.rpy:2824 #-#-# translate crowdin bizoterias11_c536e31d:
 msgid "[_m_] It's cozy here, I like it."
 msgstr ""
 
-# game/sakuracan.rpy:2858 #-#-# translate crowdin bizoterias11_23a354b4:
+# game/sakuracan.rpy:2825 #-#-# translate crowdin bizoterias11_23a354b4:
 msgid "[_m_] This is where you and Sasuke made Sarada? For some reason, I don't think Sasuke is particularly skilled in these matters."
 msgstr ""
 
-# game/sakuracan.rpy:2859 #-#-# translate crowdin bizoterias11_900418d7:
+# game/sakuracan.rpy:2826 #-#-# translate crowdin bizoterias11_900418d7:
 msgid "[_m_] Wow, what did you get out of the closet? A dildo? Every mom has one of those hidden away."
 msgstr ""
 
-# game/sakuracan.rpy:2860 #-#-# translate crowdin bizoterias11_4d73197d:
+# game/sakuracan.rpy:2827 #-#-# translate crowdin bizoterias11_4d73197d:
 msgid "[_m_] Now there's a show."
 msgstr ""
 
-# game/sakuracan.rpy:2872 #-#-# translate crowdin bizoterias11_9ae6cbb8:
+# game/sakuracan.rpy:2839 #-#-# translate crowdin bizoterias11_9ae6cbb8:
 msgid "[_m_] Wow, right away?"
 msgstr ""
 
-# game/sakuracan.rpy:2873 #-#-# translate crowdin bizoterias11_f3637c29:
+# game/sakuracan.rpy:2840 #-#-# translate crowdin bizoterias11_f3637c29:
 msgid "[_m_] How badly are you craving it?"
 msgstr ""
 
-# game/sakuracan.rpy:2877 #-#-# translate crowdin bizoterias11_12f521e5:
+# game/sakuracan.rpy:2846 #-#-# translate crowdin bizoterias11_12f521e5:
 msgid "[_m_] My dick is about to rip through my pants..."
 msgstr ""
 
-# game/sakuracan.rpy:2878 #-#-# translate crowdin bizoterias11_a396fa1b:
+# game/sakuracan.rpy:2847 #-#-# translate crowdin bizoterias11_a396fa1b:
 msgid "[_m_] Sasuke... You're just a criminal... How can you do your marital duty so poorly..."
 msgstr ""
 
-# game/sakuracan.rpy:2882 #-#-# translate crowdin bizoterias11_1608765b:
+# game/sakuracan.rpy:2853 #-#-# translate crowdin bizoterias11_1608765b:
 msgid "[_m_] She sped up."
 msgstr ""
 
-# game/sakuracan.rpy:2883 #-#-# translate crowdin bizoterias11_b69ddbd2:
+# game/sakuracan.rpy:2854 #-#-# translate crowdin bizoterias11_b69ddbd2:
 msgid "[_m_] Are you close already Sakura? You'd probably be ashamed to know that I'm watching you."
 msgstr ""
 
-# game/sakuracan.rpy:2884 #-#-# translate crowdin bizoterias11_1d50f1a8:
+# game/sakuracan.rpy:2855 #-#-# translate crowdin bizoterias11_1d50f1a8:
 msgid "[_m_] Don’t worry, very soon I will fuck you on the same bed."
 msgstr ""
 
-# game/sakuracan.rpy:2896 #-#-# translate crowdin bizoterias11_0ecb5557:
+# game/sakuracan.rpy:2867 #-#-# translate crowdin bizoterias11_0ecb5557:
 msgid "[_m_] You won’t have to endure it for longer"
 msgstr ""
 
-# game/sakuracan.rpy:2897 #-#-# translate crowdin bizoterias11_12cc315e:
+# game/sakuracan.rpy:2868 #-#-# translate crowdin bizoterias11_12cc315e:
 msgid "[_m_] Just wait a little."
 msgstr ""
 
-# game/sakuracan.rpy:2898 #-#-# translate crowdin bizoterias11_a885144d:
+# game/sakuracan.rpy:2869 #-#-# translate crowdin bizoterias11_a885144d:
 msgid "[_m_] That was hot... Such a performance, and all this for me?"
 msgstr ""
 
-# game/sakuracan.rpy:2899 #-#-# translate crowdin bizoterias11_d2b3ac8b:
+# game/sakuracan.rpy:2870 #-#-# translate crowdin bizoterias11_d2b3ac8b:
 msgid "[_m_] Of course, I didn’t count on something like that, it would have been enough for me to just observe the daily routine..."
 msgstr ""
 
-# game/sakuracan.rpy:2900 #-#-# translate crowdin bizoterias11_fcf45c38:
+# game/sakuracan.rpy:2871 #-#-# translate crowdin bizoterias11_fcf45c38:
 msgid "[_m_] But you surprised me, Sakura."
 msgstr ""
 
-# game/sakuracan.rpy:2901 #-#-# translate crowdin bizoterias11_780d16a6:
+# game/sakuracan.rpy:2872 #-#-# translate crowdin bizoterias11_780d16a6:
 msgid "[_m_] How little Sasuke cares about his wife's desires, it's such a pity..."
 msgstr ""
 
-# game/sakuracan.rpy:2905 #-#-# translate crowdin bizoterias11_24a31cc4:
+# game/sakuracan.rpy:2876 #-#-# translate crowdin bizoterias11_24a31cc4:
 msgid "[_sasu_] Sakura! Are you upstairs?"
 msgstr ""
 
-# game/sakuracan.rpy:2909 #-#-# translate crowdin bizoterias11_bf0d2b9b:
+# game/sakuracan.rpy:2880 #-#-# translate crowdin bizoterias11_bf0d2b9b:
 msgid "[_saku_] S-Sasuke!?"
 msgstr ""
 
-# game/sakuracan.rpy:2913 #-#-# translate crowdin bizoterias11_670b2f89:
+# game/sakuracan.rpy:2884 #-#-# translate crowdin bizoterias11_670b2f89:
 msgid "[_sasu_] Please come down, let's talk before I leave."
 msgstr ""
 
-# game/sakuracan.rpy:2917 #-#-# translate crowdin bizoterias11_b38fc2d6:
+# game/sakuracan.rpy:2888 #-#-# translate crowdin bizoterias11_b38fc2d6:
 msgid "[_saku_] Okay... Wait a minute.."
 msgstr ""
 
-# game/sakuracan.rpy:2919 #-#-# translate crowdin bizoterias11_9a3e494b:
+# game/sakuracan.rpy:2890 #-#-# translate crowdin bizoterias11_9a3e494b:
 msgid "[_m_] I have a desire to leave but... I’m so curious to eavesdrop on their conversation..."
 msgstr ""
 
-# game/sakuracan.rpy:2920 #-#-# translate crowdin bizoterias11_8cd27122:
+# game/sakuracan.rpy:2891 #-#-# translate crowdin bizoterias11_8cd27122:
 msgid "[_m_] Perhaps this is why I came here."
 msgstr ""
 
-# game/sakuracan.rpy:2926 #-#-# translate crowdin bizoterias11_d217b0e4:
+# game/sakuracan.rpy:2897 #-#-# translate crowdin bizoterias11_d217b0e4:
 msgid "[_sasu_] I'm going on a journey, perhaps for a long time."
 msgstr ""
 
-# game/sakuracan.rpy:2930 #-#-# translate crowdin bizoterias11_b9a293bc:
+# game/sakuracan.rpy:2901 #-#-# translate crowdin bizoterias11_b9a293bc:
 msgid "[_saku_] You haven’t said goodbye to Sarada..."
 msgstr ""
 
-# game/sakuracan.rpy:2934 #-#-# translate crowdin bizoterias11_92dbcd20:
+# game/sakuracan.rpy:2905 #-#-# translate crowdin bizoterias11_92dbcd20:
 msgid "[_sasu_] It doesn't matter. I have important work waiting for me."
 msgstr ""
 
-# game/sakuracan.rpy:2938 #-#-# translate crowdin bizoterias11_953b3205:
+# game/sakuracan.rpy:2909 #-#-# translate crowdin bizoterias11_953b3205:
 msgid "[_saku_] Sasuke... Since you're going on a long journey..."
 msgstr ""
 
-# game/sakuracan.rpy:2939 #-#-# translate crowdin bizoterias11_99ab36bc:
+# game/sakuracan.rpy:2910 #-#-# translate crowdin bizoterias11_99ab36bc:
 msgid "[_saku_] Maybe... You know... Let's do this before you leave..."
 msgstr ""
 
-# game/sakuracan.rpy:2943 #-#-# translate crowdin bizoterias11_06568753:
+# game/sakuracan.rpy:2914 #-#-# translate crowdin bizoterias11_06568753:
 msgid "[_sasu_] Sakura..."
 msgstr ""
 
-# game/sakuracan.rpy:2947 #-#-# translate crowdin bizoterias11_c76cd787:
+# game/sakuracan.rpy:2918 #-#-# translate crowdin bizoterias11_c76cd787:
 msgid "[_saku_] Come on... I really want you..."
 msgstr ""
 
-# game/sakuracan.rpy:2951 #-#-# translate crowdin bizoterias11_40857b6f:
+# game/sakuracan.rpy:2922 #-#-# translate crowdin bizoterias11_40857b6f:
 msgid "[_sasu_] I... I can't."
 msgstr ""
 
-# game/sakuracan.rpy:2955 #-#-# translate crowdin bizoterias11_bbb87044:
+# game/sakuracan.rpy:2926 #-#-# translate crowdin bizoterias11_bbb87044:
 msgid "[_saku_] Did I do something wrong?"
 msgstr ""
 
-# game/sakuracan.rpy:2959 #-#-# translate crowdin bizoterias11_819c5f40:
+# game/sakuracan.rpy:2930 #-#-# translate crowdin bizoterias11_819c5f40:
 msgid "[_sasu_] It's not because of you."
 msgstr ""
 
-# game/sakuracan.rpy:2963 #-#-# translate crowdin bizoterias11_41f445de:
+# game/sakuracan.rpy:2934 #-#-# translate crowdin bizoterias11_41f445de:
 msgid "[_saku_] Then what?"
 msgstr ""
 
-# game/sakuracan.rpy:2967 #-#-# translate crowdin bizoterias11_6bc8c157:
+# game/sakuracan.rpy:2938 #-#-# translate crowdin bizoterias11_6bc8c157:
 msgid "[_sasu_] I just can't... I constantly have nightmares... This responsibility fell on me with the new Ōtsutsuki... Now I also have this feeling..."
 msgstr ""
 
-# game/sakuracan.rpy:2971 #-#-# translate crowdin bizoterias11_ae6c4306:
+# game/sakuracan.rpy:2942 #-#-# translate crowdin bizoterias11_ae6c4306:
 msgid "[_saku_] What feeling?"
 msgstr ""
 
-# game/sakuracan.rpy:2975 #-#-# translate crowdin bizoterias11_b6e24fb3:
+# game/sakuracan.rpy:2946 #-#-# translate crowdin bizoterias11_b6e24fb3:
 msgid "[_sasu_] It's like I'm covered in this disgusting chakra... Feels like it's everywhere now... The beast’s chakra I was talking about..."
 msgstr ""
 
-# game/sakuracan.rpy:2976 #-#-# translate crowdin bizoterias11_a1887a04:
+# game/sakuracan.rpy:2947 #-#-# translate crowdin bizoterias11_a1887a04:
 msgid "[_sasu_] Am I going crazy? Why do I feel it literally everywhere... Even... Even from you..."
 msgstr ""
 
-# game/sakuracan.rpy:2980 #-#-# translate crowdin bizoterias11_dfa1a317:
+# game/sakuracan.rpy:2951 #-#-# translate crowdin bizoterias11_dfa1a317:
 msgid "[_saku_] What? What do you mean even from me?"
 msgstr ""
 
-# game/sakuracan.rpy:2982 #-#-# translate crowdin bizoterias11_a987e255:
+# game/sakuracan.rpy:2953 #-#-# translate crowdin bizoterias11_a987e255:
 msgid "[_m_] Oh no... Does he suspect something?"
 msgstr ""
 
-# game/sakuracan.rpy:2986 #-#-# translate crowdin bizoterias11_5b2354b8:
+# game/sakuracan.rpy:2957 #-#-# translate crowdin bizoterias11_5b2354b8:
 msgid "[_sasu_] I don't know! I can't say anything for sure! Damn... I feel like the presence of this chakra..."
 msgstr ""
 
-# game/sakuracan.rpy:2990 #-#-# translate crowdin bizoterias11_25235d2a:
+# game/sakuracan.rpy:2961 #-#-# translate crowdin bizoterias11_25235d2a:
 msgid "[_sasu_] Is here!"
 msgstr ""
 
-# game/sakuracan.rpy:2996 #-#-# translate crowdin bizoterias11_1a3b81d5:
+# game/sakuracan.rpy:2967 #-#-# translate crowdin bizoterias11_1a3b81d5:
 msgid "[_m_] WHAT THE FUCK! HE..."
 msgstr ""
 
-# game/sakuracan.rpy:2997 #-#-# translate crowdin bizoterias11_efa03be6:
+# game/sakuracan.rpy:2968 #-#-# translate crowdin bizoterias11_efa03be6:
 msgid "[_m_] Right at me..."
 msgstr ""
 
-# game/sakuracan.rpy:2999 #-#-# translate crowdin bizoterias11_2d26386a:
+# game/sakuracan.rpy:2970 #-#-# translate crowdin bizoterias11_2d26386a:
 msgid "[_sasu_] What are you!? Why can't I catch you!"
 msgstr ""
 
-# game/sakuracan.rpy:3000 #-#-# translate crowdin bizoterias11_cf1a63f9:
+# game/sakuracan.rpy:2971 #-#-# translate crowdin bizoterias11_cf1a63f9:
 msgid "[_saku_] Sasuke! Stop it! You haven't fully recovered yet!"
 msgstr ""
 
-# game/sakuracan.rpy:3001 #-#-# translate crowdin bizoterias11_19b508a4:
+# game/sakuracan.rpy:2972 #-#-# translate crowdin bizoterias11_19b508a4:
 msgid "[_sasu_] I..."
 msgstr ""
 
-# game/sakuracan.rpy:3002 #-#-# translate crowdin bizoterias11_b45dab98:
+# game/sakuracan.rpy:2973 #-#-# translate crowdin bizoterias11_b45dab98:
 msgid "[_sasu_] We are all in danger..."
 msgstr ""
 
-# game/sakuracan.rpy:3003 #-#-# translate crowdin bizoterias11_8e201e54:
+# game/sakuracan.rpy:2974 #-#-# translate crowdin bizoterias11_8e201e54:
 msgid "[_sasu_] The village may be destroyed again..."
 msgstr ""
 
-# game/sakuracan.rpy:3004 #-#-# translate crowdin bizoterias11_ddcc9ae8:
+# game/sakuracan.rpy:2975 #-#-# translate crowdin bizoterias11_ddcc9ae8:
 msgid "[_sasu_] I understand how it sounds... But I just know... Somewhere near us there is something destructive to such an extent... That even my eye is not able to detect its chakra."
 msgstr ""
 
-# game/sakuracan.rpy:3005 #-#-# translate crowdin bizoterias11_4edbc0d5:
+# game/sakuracan.rpy:2976 #-#-# translate crowdin bizoterias11_4edbc0d5:
 msgid "[_m_] I think I've had enough of this... I need to get out of here."
 msgstr ""
 
-# game/sakuracan.rpy:3023 #-#-# translate crowdin bizoterias11_fe21ab14:
+# game/sakuracan.rpy:2994 #-#-# translate crowdin bizoterias11_fe21ab14:
 msgid "[_m_] Yeah... Sasuke gave me the creeps..."
 msgstr ""
 
-# game/sakuracan.rpy:3024 #-#-# translate crowdin bizoterias11_21cc99f3:
+# game/sakuracan.rpy:2995 #-#-# translate crowdin bizoterias11_21cc99f3:
 msgid "[_m_] It was scary at the time... But I quickly realized that he wouldn't be able to see me."
 msgstr ""
 
-# game/sakuracan.rpy:3025 #-#-# translate crowdin bizoterias11_89cef3ad:
+# game/sakuracan.rpy:2996 #-#-# translate crowdin bizoterias11_89cef3ad:
 msgid "[_m_] Kamiko is too careful about this."
 msgstr ""
 
-# game/sakuracan.rpy:3026 #-#-# translate crowdin bizoterias11_4fb4535b:
+# game/sakuracan.rpy:2997 #-#-# translate crowdin bizoterias11_4fb4535b:
 msgid "[_m_] More importantly... Perhaps I should tell her about the incident where I... Died?"
 msgstr ""
 
-# game/sakuracan.rpy:3027 #-#-# translate crowdin bizoterias11_c71f1401:
+# game/sakuracan.rpy:2998 #-#-# translate crowdin bizoterias11_c71f1401:
 msgid "[_m_] I think I should..."
 msgstr ""
 
-# game/sakuracan.rpy:3028 #-#-# translate crowdin bizoterias11_bd1c18dd:
+# game/sakuracan.rpy:2999 #-#-# translate crowdin bizoterias11_bd1c18dd:
 msgid "[_m_] Or shouldn't I? Sasuke said that he feels that Kamiko is truly evil..."
 msgstr ""
 
-# game/sakuracan.rpy:3029 #-#-# translate crowdin bizoterias11_4edd967b:
+# game/sakuracan.rpy:3000 #-#-# translate crowdin bizoterias11_4edd967b:
 msgid "[_m_] If you look at things objectively... She is far from a positive character..."
 msgstr ""
 
-# game/sakuracan.rpy:3030 #-#-# translate crowdin bizoterias11_51a8152a:
+# game/sakuracan.rpy:3001 #-#-# translate crowdin bizoterias11_51a8152a:
 msgid "[_m_] If I was in some anime, she could easily pass as a main villain."
 msgstr ""
 
-# game/sakuracan.rpy:3031 #-#-# translate crowdin bizoterias11_c73e5b42:
+# game/sakuracan.rpy:3002 #-#-# translate crowdin bizoterias11_c73e5b42:
 msgid "[_m_] But she cares about me..."
 msgstr ""
 
-# game/sakuracan.rpy:3035 #-#-# translate crowdin bizoterias11_cd2f8785:
+# game/sakuracan.rpy:3006 #-#-# translate crowdin bizoterias11_cd2f8785:
 msgid "[_m_] I'll have to make that decision soon, but right now I need to deal with the boner in my pants."
 msgstr ""
 
-# game/sakuracan.rpy:3036 #-#-# translate crowdin bizoterias11_82fc5cd7:
+# game/sakuracan.rpy:3007 #-#-# translate crowdin bizoterias11_82fc5cd7:
 msgid "[_m_] Sakura really teased me with her appearance."
 msgstr ""
 
-# game/sakuracan.rpy:3037 #-#-# translate crowdin bizoterias11_2a815d0c:
+# game/sakuracan.rpy:3008 #-#-# translate crowdin bizoterias11_2a815d0c:
 msgid "[_m_] I'll release all my lust with Hinata, she knows how to care for my most primal needs."
 msgstr ""
 
-# game/sakuracan.rpy:3048 #-#-# translate crowdin bizoterias11_a2016af4:
+# game/sakuracan.rpy:3019 #-#-# translate crowdin bizoterias11_a2016af4:
 msgid "[_r_] Not busy?"
 msgstr ""
 
-# game/sakuracan.rpy:3050 #-#-# translate crowdin bizoterias11_e0fc16a2:
+# game/sakuracan.rpy:3021 #-#-# translate crowdin bizoterias11_e0fc16a2:
 msgid "[_hi_] Himawari is sleeping... Do you want me to come by?"
 msgstr ""
 
-# game/sakuracan.rpy:3052 #-#-# translate crowdin bizoterias11_c9eba5fc:
+# game/sakuracan.rpy:3023 #-#-# translate crowdin bizoterias11_c9eba5fc:
 msgid "[_r_] Do you want it?"
 msgstr ""
 
-# game/sakuracan.rpy:3054 #-#-# translate crowdin bizoterias11_fff83845:
+# game/sakuracan.rpy:3025 #-#-# translate crowdin bizoterias11_fff83845:
 msgid "[_hi_] You know... I always do..."
 msgstr ""
 
-# game/sakuracan.rpy:3056 #-#-# translate crowdin bizoterias11_6daa8526:
+# game/sakuracan.rpy:3027 #-#-# translate crowdin bizoterias11_6daa8526:
 msgid "[_r_] I'm waiting for you. Get your ass ready, today I want to come in from the back door."
 msgstr ""
 
-# game/sakuracan.rpy:3062 #-#-# translate crowdin bizoterias11_987b3efe:
+# game/sakuracan.rpy:3033 #-#-# translate crowdin bizoterias11_987b3efe:
 msgid "[_m_] Hung up?"
 msgstr ""
 
-# game/sakuracan.rpy:3063 #-#-# translate crowdin bizoterias11_825125d5:
+# game/sakuracan.rpy:3034 #-#-# translate crowdin bizoterias11_825125d5:
 msgid "[_m_] She either wants to fuck in the ass too much or is not at all happy about such a demand."
 msgstr ""
 
-# game/sakuracan.rpy:3067 #-#-# translate crowdin bizoterias11_b9d6c072:
+# game/sakuracan.rpy:3038 #-#-# translate crowdin bizoterias11_b9d6c072:
 msgid "[_m_] I'm leaning towards the former."
 msgstr ""
 
-# game/sakuracan.rpy:3069 #-#-# translate crowdin bizoterias11_7742ac8f:
+# game/sakuracan.rpy:3040 #-#-# translate crowdin bizoterias11_7742ac8f:
 msgid "Спустя пол часа"
 msgstr ""
 
-# game/sakuracan.rpy:3077 #-#-# translate crowdin bizoterias11_88f1f79b:
+# game/sakuracan.rpy:3048 #-#-# translate crowdin bizoterias11_88f1f79b:
 msgid "[_r_] Ready to have some fun?"
 msgstr ""
 
-# game/sakuracan.rpy:3082 #-#-# translate crowdin bizoterias11_6fb3322a:
+# game/sakuracan.rpy:3053 #-#-# translate crowdin bizoterias11_6fb3322a:
 msgid "[_hi_] Let's go to the room, I'll change my clothes quickly !"
 msgstr ""
 
-# game/sakuracan.rpy:3100 #-#-# translate crowdin positrenas_1a950046:
+# game/sakuracan.rpy:3071 #-#-# translate crowdin positrenas_1a950046:
 msgid "[_r_] Satisfied?"
 msgstr ""
 
-# game/sakuracan.rpy:3104 #-#-# translate crowdin positrenas_52972649:
+# game/sakuracan.rpy:3075 #-#-# translate crowdin positrenas_52972649:
 msgid "[_hi_] Yes... But only for today..."
 msgstr ""
 
-# game/sakuracan.rpy:3105 #-#-# translate crowdin positrenas_53523e8c:
+# game/sakuracan.rpy:3076 #-#-# translate crowdin positrenas_53523e8c:
 msgid "[_hi_] If you want to take care of my hunger, invite me to the training room more often!"
 msgstr ""
 
-# game/sakuracan.rpy:3109 #-#-# translate crowdin positrenas_396d8e8d:
+# game/sakuracan.rpy:3080 #-#-# translate crowdin positrenas_396d8e8d:
 msgid "[_r_] Next time you should ask to get in the room yourself, I know you're looking forward to it."
 msgstr ""
 
-# game/sakuracan.rpy:3113 #-#-# translate crowdin positrenas_a27480b7:
+# game/sakuracan.rpy:3084 #-#-# translate crowdin positrenas_a27480b7:
 msgid "[_hi_] You make a girl ask..."
 msgstr ""
 
-# game/sakuracan.rpy:3114 #-#-# translate crowdin positrenas_3d897c4d:
+# game/sakuracan.rpy:3085 #-#-# translate crowdin positrenas_3d897c4d:
 msgid "[_hi_] Maybe I will! See you!"
 msgstr ""
 
-# game/sakuracan.rpy:3118 #-#-# translate crowdin positrenas_7c9d9337:
+# game/sakuracan.rpy:3089 #-#-# translate crowdin positrenas_7c9d9337:
 msgid "[_r_] Good night."
 msgstr ""
 
-# game/sakuracan.rpy:3124 #-#-# translate crowdin positrenas_78e6f09b:
+# game/sakuracan.rpy:3095 #-#-# translate crowdin positrenas_78e6f09b:
 msgid "[_m_] Hinata left. I need to do something with this new information..."
 msgstr ""
 
-# game/sakuracan.rpy:3125 #-#-# translate crowdin positrenas_acad18b8:
+# game/sakuracan.rpy:3096 #-#-# translate crowdin positrenas_acad18b8:
 msgid "[_m_] Where the hell is Kamiko?"
 msgstr ""
 
-# game/sakuracan.rpy:3126 #-#-# translate crowdin positrenas_1246dd58:
+# game/sakuracan.rpy:3097 #-#-# translate crowdin positrenas_1246dd58:
 msgid "[_m_] She hasn't swung by the apartment for a long time..."
 msgstr ""
 
-# game/sakuracan.rpy:3127 #-#-# translate crowdin positrenas_d15bf6d9:
+# game/sakuracan.rpy:3098 #-#-# translate crowdin positrenas_d15bf6d9:
 msgid "[_m_] How can I find her?"
 msgstr ""
 
-# game/sakuracan.rpy:3128 #-#-# translate crowdin positrenas_0da678aa:
+# game/sakuracan.rpy:3099 #-#-# translate crowdin positrenas_0da678aa:
 msgid "[_m_] I feel that we are connected more than usual... I noticed this after the coma..."
 msgstr ""
 
-# game/sakuracan.rpy:3129 #-#-# translate crowdin positrenas_6e58da17:
+# game/sakuracan.rpy:3100 #-#-# translate crowdin positrenas_6e58da17:
 msgid "[_m_] Perhaps a new ability could help me out?"
 msgstr ""
 
-# game/sakuracan.rpy:3145 #-#-# translate crowdin sascixd_3394fc84:
+# game/sakuracan.rpy:3116 #-#-# translate crowdin sascixd_3394fc84:
 msgid "[_m_] What is this? Chakra? Traces are everywhere..."
 msgstr ""
 
-# game/sakuracan.rpy:3146 #-#-# translate crowdin sascixd_8e4c1c09:
+# game/sakuracan.rpy:3117 #-#-# translate crowdin sascixd_8e4c1c09:
 msgid "[_m_] I can clearly tell that this is Kamiko's chakra, I can feel it for some reason."
 msgstr ""
 
-# game/sakuracan.rpy:3147 #-#-# translate crowdin sascixd_e8245bb1:
+# game/sakuracan.rpy:3118 #-#-# translate crowdin sascixd_e8245bb1:
 msgid "[_m_] I think I got it, this trail will lead me to Kamiko."
 msgstr ""
 
-# game/sakuracan.rpy:3148 #-#-# translate crowdin sascixd_c11a53b5:
+# game/sakuracan.rpy:3119 #-#-# translate crowdin sascixd_c11a53b5:
 msgid "[_m_] These eyes are a handy thing, huh."
 msgstr ""
 
-# game/sakuracan.rpy:3162 #-#-# translate crowdin sascixd_cac54518:
+# game/sakuracan.rpy:3133 #-#-# translate crowdin sascixd_cac54518:
 msgid "[_m_] Is that Kamiko there? That's definitely her."
 msgstr ""
 
-# game/sakuracan.rpy:3163 #-#-# translate crowdin sascixd_58a7ac5b:
+# game/sakuracan.rpy:3134 #-#-# translate crowdin sascixd_58a7ac5b:
 msgid "[_m_] What is she doing there?"
 msgstr ""
 
-# game/sakuracan.rpy:3171 #-#-# translate crowdin sascixd_2e0a48d1:
+# game/sakuracan.rpy:3142 #-#-# translate crowdin sascixd_2e0a48d1:
 msgid "[_ka_] Sweetie, I see you."
 msgstr ""
 
-# game/sakuracan.rpy:3175 #-#-# translate crowdin sascixd_5cef1859:
+# game/sakuracan.rpy:3146 #-#-# translate crowdin sascixd_5cef1859:
 msgid "[_r_] Oh... Hello."
 msgstr ""
 
-# game/sakuracan.rpy:3180 #-#-# translate crowdin sascixd_965d0580:
+# game/sakuracan.rpy:3151 #-#-# translate crowdin sascixd_965d0580:
 msgid "[_ka_] What a sudden visit. How did you even find me?"
 msgstr ""
 
-# game/sakuracan.rpy:3185 #-#-# translate crowdin sascixd_92c11193:
+# game/sakuracan.rpy:3156 #-#-# translate crowdin sascixd_92c11193:
 msgid "[_r_] New eyes, I saw a trace of your chakra."
 msgstr ""
 
-# game/sakuracan.rpy:3190 #-#-# translate crowdin sascixd_287f9455:
+# game/sakuracan.rpy:3161 #-#-# translate crowdin sascixd_287f9455:
 msgid "[_ka_] Oh, so you were able to keep track? Not bad, even Uchiha with his Sharingan failed."
 msgstr ""
 
-# game/sakuracan.rpy:3195 #-#-# translate crowdin sascixd_5c072834:
+# game/sakuracan.rpy:3166 #-#-# translate crowdin sascixd_5c072834:
 msgid "[_r_] Am I disturbing you?"
 msgstr ""
 
-# game/sakuracan.rpy:3200 #-#-# translate crowdin sascixd_4793aa32:
+# game/sakuracan.rpy:3171 #-#-# translate crowdin sascixd_4793aa32:
 msgid "[_ka_] Not at all, I've already finished the ritual."
 msgstr ""
 
-# game/sakuracan.rpy:3205 #-#-# translate crowdin sascixd_ee873055:
+# game/sakuracan.rpy:3176 #-#-# translate crowdin sascixd_ee873055:
 msgid "[_r_] Ritual? What are you talking about?"
 msgstr ""
 
-# game/sakuracan.rpy:3210 #-#-# translate crowdin sascixd_18ea5907:
+# game/sakuracan.rpy:3181 #-#-# translate crowdin sascixd_18ea5907:
 msgid "[_ka_] Summoning a new pawn, I've already done this with you."
 msgstr ""
 
-# game/sakuracan.rpy:3215 #-#-# translate crowdin sascixd_b107cc5d:
+# game/sakuracan.rpy:3186 #-#-# translate crowdin sascixd_b107cc5d:
 msgid "[_r_] Are you summoning someone else? Did you succeed?"
 msgstr ""
 
-# game/sakuracan.rpy:3220 #-#-# translate crowdin sascixd_e9ed558e:
+# game/sakuracan.rpy:3191 #-#-# translate crowdin sascixd_e9ed558e:
 msgid "[_ka_] Well, how can I put this... You can take a look for yourself."
 msgstr ""
 
-# game/sakuracan.rpy:3229 #-#-# translate crowdin sascixd_c85c7b6d:
+# game/sakuracan.rpy:3200 #-#-# translate crowdin sascixd_c85c7b6d:
 msgid "[_r_] Fuck... My god... What evenis it!?"
 msgstr ""
 
-# game/sakuracan.rpy:3231 #-#-# translate crowdin sascixd_3dba32fc:
+# game/sakuracan.rpy:3202 #-#-# translate crowdin sascixd_3dba32fc:
 msgid "[_ka_] The body, as you can see. She couldn't stand it."
 msgstr ""
 
-# game/sakuracan.rpy:3233 #-#-# translate crowdin sascixd_49ea6bfc:
+# game/sakuracan.rpy:3204 #-#-# translate crowdin sascixd_49ea6bfc:
 msgid "[_r_] Couldn't stand what? What did you do to her?"
 msgstr ""
 
-# game/sakuracan.rpy:3235 #-#-# translate crowdin sascixd_59a8620b:
+# game/sakuracan.rpy:3206 #-#-# translate crowdin sascixd_59a8620b:
 msgid "[_ka_] The transfer. Her body couldn't handle the interdimensional travel."
 msgstr ""
 
-# game/sakuracan.rpy:3237 #-#-# translate crowdin sascixd_d4baaf8b:
+# game/sakuracan.rpy:3208 #-#-# translate crowdin sascixd_d4baaf8b:
 msgid "[_r_] I... I could end up like that too?"
 msgstr ""
 
-# game/sakuracan.rpy:3239 #-#-# translate crowdin sascixd_6526f2ac:
+# game/sakuracan.rpy:3210 #-#-# translate crowdin sascixd_6526f2ac:
 msgid "[_ka_] Of course, dear, before you I called about a hundred applicants who could not stand the transfer."
 msgstr ""
 
-# game/sakuracan.rpy:3241 #-#-# translate crowdin sascixd_ffdad8bc:
+# game/sakuracan.rpy:3212 #-#-# translate crowdin sascixd_ffdad8bc:
 msgid "[_r_] This... It’s not sitting in my head right..."
 msgstr ""
 
-# game/sakuracan.rpy:3243 #-#-# translate crowdin sascixd_d576e389:
+# game/sakuracan.rpy:3214 #-#-# translate crowdin sascixd_d576e389:
 msgid "[_ka_] You are special, I already said it... Special not only because you survived the transfer, you are very useful, I would get rid of useless pawns right away, but this is not about you."
 msgstr ""
 
-# game/sakuracan.rpy:3245 #-#-# translate crowdin sascixd_3ebea423:
+# game/sakuracan.rpy:3216 #-#-# translate crowdin sascixd_3ebea423:
 msgid "[_r_] So... You're going to summon someone else?"
 msgstr ""
 
-# game/sakuracan.rpy:3247 #-#-# translate crowdin sascixd_60b7880f:
+# game/sakuracan.rpy:3218 #-#-# translate crowdin sascixd_60b7880f:
 msgid "[_ka_] Yes... I feel like I'm close to summoning another pawn."
 msgstr ""
 
-# game/sakuracan.rpy:3249 #-#-# translate crowdin sascixd_662abe82:
+# game/sakuracan.rpy:3220 #-#-# translate crowdin sascixd_662abe82:
 msgid "[_r_] Which attempt is this? How many people failed?"
 msgstr ""
 
-# game/sakuracan.rpy:3251 #-#-# translate crowdin sascixd_7142279f:
+# game/sakuracan.rpy:3222 #-#-# translate crowdin sascixd_7142279f:
 msgid "[_ka_] This time it's more difficult... This poor thing was... Hmm... 274."
 msgstr ""
 
-# game/sakuracan.rpy:3253 #-#-# translate crowdin sascixd_8168cea9:
+# game/sakuracan.rpy:3224 #-#-# translate crowdin sascixd_8168cea9:
 msgid "[_m_] God... she killed so many people..."
 msgstr ""
 
-# game/sakuracan.rpy:3254 #-#-# translate crowdin sascixd_da1eb514:
+# game/sakuracan.rpy:3225 #-#-# translate crowdin sascixd_da1eb514:
 msgid "[_m_] I don't know what to think..."
 msgstr ""
 
-# game/sakuracan.rpy:3255 #-#-# translate crowdin sascixd_2f13a6a8:
+# game/sakuracan.rpy:3226 #-#-# translate crowdin sascixd_2f13a6a8:
 msgid "[_m_] I have only one goal here, I have to tell her... that I..."
 msgstr ""
 
-# game/sakuracan.rpy:3267 #-#-# translate crowdin razkazatey_e3904bb5:
+# game/sakuracan.rpy:3238 #-#-# translate crowdin razkazatey_e3904bb5:
 msgid "[_m_] I'll do it... It's too dangerous... I have no choice."
 msgstr ""
 
-# game/sakuracan.rpy:3271 #-#-# translate crowdin nerazkazal_8237d0c5:
+# game/sakuracan.rpy:3244 #-#-# translate crowdin nerazkazal_8237d0c5:
 msgid "[_m_] No... After what I saw... I have to do everything on my own..."
+msgstr ""
+
+# game/sakuracan.rpy:3260 #-#-# translate crowdin raskazevars_0947d227:
+msgid "[_r_] There's one thing that's bothering me right now..."
+msgstr ""
+
+# game/sakuracan.rpy:3262 #-#-# translate crowdin raskazevars_55419edd:
+msgid "[_r_] I feel like I should share it with you."
+msgstr ""
+
+# game/sakuracan.rpy:3264 #-#-# translate crowdin raskazevars_93a287be:
+msgid "[_ka_] Is it something important? You can tell me."
+msgstr ""
+
+# game/sakuracan.rpy:3266 #-#-# translate crowdin raskazevars_f0615dbf:
+msgid "[_r_] The thing is... My story might not be easy to believe.... You never know though, me standing here now isn't normal either."
+msgstr ""
+
+# game/sakuracan.rpy:3268 #-#-# translate crowdin raskazevars_f137ff3e:
+msgid "[_ka_] What an intriguing introduction... Spit it out, sweetie."
+msgstr ""
+
+# game/sakuracan.rpy:3270 #-#-# translate crowdin raskazevars_28449779:
+msgid "[_r_] Someone's after me. Some unfamiliar person who clearly wants me dead..."
+msgstr ""
+
+# game/sakuracan.rpy:3272 #-#-# translate crowdin raskazevars_2577664b:
+msgid "[_r_] No, even worse... He's killed before... Killed me..."
+msgstr ""
+
+# game/sakuracan.rpy:3274 #-#-# translate crowdin raskazevars_7254bb9b:
+msgid "[_ka_] Killed you? What do you mean?"
+msgstr ""
+
+# game/sakuracan.rpy:3276 #-#-# translate crowdin raskazevars_14978f59:
+msgid "[_r_] That man killed me when I went to Sakura, she'd texted me and asked to meet her."
+msgstr ""
+
+# game/sakuracan.rpy:3278 #-#-# translate crowdin raskazevars_6f7d440d:
+msgid "[_r_] I came, but Sakura wasn't there. I didn't realize it right away, I thought it was Sakura standing there, but it wasn't her.... I only saw his face for a few moments, then I felt a sharp pain in my neck..."
+msgstr ""
+
+# game/sakuracan.rpy:3280 #-#-# translate crowdin raskazevars_87fc3a22:
+msgid "[_r_] And then I woke up..."
+msgstr ""
+
+# game/sakuracan.rpy:3282 #-#-# translate crowdin raskazevars_c9761b29:
+msgid "[_r_] The day kept repeating itself with damn precision... I had the strange feeling that I'd already experienced this day, heard all these phrases..."
+msgstr ""
+
+# game/sakuracan.rpy:3284 #-#-# translate crowdin raskazevars_f1357ac6:
+msgid "[_r_] Then just as I thought... The message... It was exactly the same... I went there, but this time I'd disguised myself."
+msgstr ""
+
+# game/sakuracan.rpy:3286 #-#-# translate crowdin raskazevars_48059a48:
+msgid "[_r_] I know it sounds strange, but it's true..."
+msgstr ""
+
+# game/sakuracan.rpy:3288 #-#-# translate crowdin raskazevars_a3120550:
+msgid "[_ka_] Unbelievable... I never thought your rebirth could cause this kind of collapse."
+msgstr ""
+
+# game/sakuracan.rpy:3290 #-#-# translate crowdin raskazevars_dafbdb95:
+msgid "[_r_] What do you mean?"
+msgstr ""
+
+# game/sakuracan.rpy:3292 #-#-# translate crowdin raskazevars_c13cc0c3:
+msgid "[_ka_] Our journey, it was a natural step towards your evolution as Otsutsuki."
+msgstr ""
+
+# game/sakuracan.rpy:3294 #-#-# translate crowdin raskazevars_bc1e431f:
+msgid "[_ka_] Manipulating the flow of time is a very risky thing, no one knows where it could lead..."
+msgstr ""
+
+# game/sakuracan.rpy:3296 #-#-# translate crowdin raskazevars_63d911fe:
+msgid "[_ka_] But it was necessary to speed up your rebirth, your evolution... I was sure you could survive it, but I didn't know what the side effects of a technique of this magnitude would be."
+msgstr ""
+
+# game/sakuracan.rpy:3298 #-#-# translate crowdin raskazevars_b6a21196:
+msgid "[_r_] So... What are the consequences? Did you understand anything?"
+msgstr ""
+
+# game/sakuracan.rpy:3300 #-#-# translate crowdin raskazevars_415ff556:
+msgid "[_ka_] Whoever's trying to kill you is disrupting the uniform flow I created with my technique, he shouldn't be here, it's a critical exception, a paradox."
+msgstr ""
+
+# game/sakuracan.rpy:3302 #-#-# translate crowdin raskazevars_c0e6fca9:
+msgid "[_ka_] That's why he can't kill you, no matter how many times he tries."
+msgstr ""
+
+# game/sakuracan.rpy:3304 #-#-# translate crowdin raskazevars_fdb7bbdc:
+msgid "[_r_] So I'm not in danger?"
+msgstr ""
+
+# game/sakuracan.rpy:3306 #-#-# translate crowdin raskazevars_460d022c:
+msgid "[_ka_] I didn't say that."
+msgstr ""
+
+# game/sakuracan.rpy:3308 #-#-# translate crowdin raskazevars_ce8bf974:
+msgid "[_ka_] You've given me quite a task... Not the easiest one. But at the same time it was more than necessary, thanks for not hiding it from me.... I'll probably have to leave you for a while until I figure out how to get rid of our problem."
+msgstr ""
+
+# game/sakuracan.rpy:3310 #-#-# translate crowdin raskazevars_5a216079:
+msgid "[_r_] Okay... What about this... This girl? Are you going to leave her like this?"
+msgstr ""
+
+# game/sakuracan.rpy:3312 #-#-# translate crowdin raskazevars_6ea84914:
+msgid "[_ka_] Of course not, I'll get rid of the body, don't worry about it."
+msgstr ""
+
+# game/sakuracan.rpy:3320 #-#-# translate crowdin neraskazevarten_6ab2f7a3:
+msgid "[_ka_] Impressive, isn't it? After summoning you I realized that your universe is special in some way."
+msgstr ""
+
+# game/sakuracan.rpy:3322 #-#-# translate crowdin neraskazevarten_c9740df7:
+msgid "[_ka_] It's overflowing with different types of worlds that exist on TV screens, in comics, manga, books, stories... But not in reality..."
+msgstr ""
+
+# game/sakuracan.rpy:3324 #-#-# translate crowdin neraskazevarten_cc07a3a9:
+msgid "[_r_] You mean the various shows, anime and the like?"
+msgstr ""
+
+# game/sakuracan.rpy:3326 #-#-# translate crowdin neraskazevarten_85cdec21:
+msgid "[_ka_] Yes, these are all universes that actually exist outside of yours, they're all real, but to you they're nothing more than fantasy, fiction... It's amazing."
+msgstr ""
+
+# game/sakuracan.rpy:3328 #-#-# translate crowdin neraskazevarten_396504b1:
+msgid "[_r_] It kind of doesn't make sense... All these stories are made up by people, it's kind of fiction to entertain or make money or..."
+msgstr ""
+
+# game/sakuracan.rpy:3330 #-#-# translate crowdin neraskazevarten_8509efe9:
+msgid "[_ka_] Every story has a writer, just like every writer has a story."
+msgstr ""
+
+# game/sakuracan.rpy:3332 #-#-# translate crowdin neraskazevarten_15c679cc:
+msgid "[_ka_] In your world, these stories appear for a reason, they're all representations of other universes that people in your world can somehow see in their imagination..."
+msgstr ""
+
+# game/sakuracan.rpy:3334 #-#-# translate crowdin neraskazevarten_3585fd04:
+msgid "[_r_] So everything we've made up... Really does really exist somewhere?"
+msgstr ""
+
+# game/sakuracan.rpy:3336 #-#-# translate crowdin neraskazevarten_450d008d:
+msgid "[_ka_] What do you think? Fact that you're standing here is the clearest evidence of that."
+msgstr ""
+
+# game/sakuracan.rpy:3338 #-#-# translate crowdin neraskazevarten_1f7323c4:
+msgid "[_r_] Right... I didn't think of that."
+msgstr ""
+
+# game/sakuracan.rpy:3344 #-#-# translate crowdin obzert6667_8bf1193c:
+msgid "[viname]... Is that y-..."
+msgstr ""
+
+# game/sakuracan.rpy:3346 #-#-# translate crowdin obzert6667_85852747:
+msgid "[_m_] Wait... What is this?"
+msgstr ""
+
+# game/sakuracan.rpy:3353 #-#-# translate crowdin obzert6667_c8b42ec5:
+msgid "[_hi_] What's going on here..."
+msgstr ""
+
+# game/sakuracan.rpy:3355 #-#-# translate crowdin obzert6667_2b7d1732:
+msgid "[_r_] Hinata!? How did you get here?"
+msgstr ""
+
+# game/sakuracan.rpy:3357 #-#-# translate crowdin obzert6667_46a5517a:
+msgid "[_hi_] Who's that? Who is that woman with you? Why is she... She's like... Like Kaguya..."
+msgstr ""
+
+# game/sakuracan.rpy:3359 #-#-# translate crowdin obzert6667_e165ca1b:
+msgid "[_hi_] Please explain... I... I don't understand..."
+msgstr ""
+
+# game/sakuracan.rpy:3361 #-#-# translate crowdin obzert6667_18ba00f1:
+msgid "[_ka_] (Whispering) Check her status, how bound to you is she?"
+msgstr ""
+
+# game/sakuracan.rpy:3375 #-#-# translate crowdin ssssccccc_8844f81f:
+msgid "[_r_] (Whispering) 91"
+msgstr ""
+
+# game/sakuracan.rpy:3377 #-#-# translate crowdin ssssccccc_20337af1:
+msgid "[_ka_] (Whispering) Good, she'll do fine."
+msgstr ""
+
+# game/sakuracan.rpy:3379 #-#-# translate crowdin ssssccccc_cc7d4226:
+msgid "[_hi_] W-why are you silent...? I'm scared..."
+msgstr ""
+
+# game/sakuracan.rpy:3381 #-#-# translate crowdin ssssccccc_47780992:
+msgid "[_ka_] Hinata Uzumaki... You shouldn't be afraid of me. I'm not my sister, I'm not Kaguya."
+msgstr ""
+
+# game/sakuracan.rpy:3383 #-#-# translate crowdin ssssccccc_3489c5f3:
+msgid "[_hi_] W-what are you...?"
+msgstr ""
+
+# game/sakuracan.rpy:3385 #-#-# translate crowdin ssssccccc_c53f1a50:
+msgid "[_ka_] My name is Kamiko, as you've probably guessed by now, I'm from the Otsutsuki clan, just like my sister."
+msgstr ""
+
+# game/sakuracan.rpy:3387 #-#-# translate crowdin ssssccccc_c1055617:
+msgid "[_hi_] [viname]... What she's saying... Is it true?"
+msgstr ""
+
+# game/sakuracan.rpy:3389 #-#-# translate crowdin ssssccccc_167f50da:
+msgid "[_r_] Yes, believe her, you shouldn't be afraid of her."
+msgstr ""
+
+# game/sakuracan.rpy:3391 #-#-# translate crowdin ssssccccc_8db878a5:
+msgid "[_hi_] And... And you? Should I be afraid of you...? Are you also like her...?"
+msgstr ""
+
+# game/sakuracan.rpy:3393 #-#-# translate crowdin ssssccccc_9cd0d72a:
+msgid "[_ka_] No. He's not like me, at least not yet."
+msgstr ""
+
+# game/sakuracan.rpy:3395 #-#-# translate crowdin ssssccccc_3632d751:
+msgid "[_r_] Please Hinata, trust me, we don't want to hurt you... I would never do such a thing."
+msgstr ""
+
+# game/sakuracan.rpy:3397 #-#-# translate crowdin ssssccccc_f3956219:
+msgid "[_hi_] Then what... What's going on here?"
+msgstr ""
+
+# game/sakuracan.rpy:3399 #-#-# translate crowdin ssssccccc_c3d5c4fc:
+msgid "[_ka_] Let us explain everything in a more familiar setting."
+msgstr ""
+
+# game/sakuracan.rpy:3401 #-#-# translate crowdin ssssccccc_9ea00730:
+msgid "[_r_] Come with us Hinata, don't be afraid of anything, you're really in no danger."
+msgstr ""
+
+# game/sakuracan.rpy:3403 #-#-# translate crowdin ssssccccc_7711041f:
+msgid "[_hi_] O-okay..."
+msgstr ""
+
+# game/sakuracan.rpy:3419 #-#-# translate crowdin ssssccccc_db6eab03:
+msgid "[_hi_] I... I already regret following you..."
+msgstr ""
+
+# game/sakuracan.rpy:3423 #-#-# translate crowdin ssssccccc_2bcae9d8:
+msgid "[_r_] Why did you follow me? I thought you went home?"
+msgstr ""
+
+# game/sakuracan.rpy:3427 #-#-# translate crowdin ssssccccc_1cbb2804:
+msgid "[_hi_] I forgot my cellphone at your place... So I came back, but... I saw you walking somewhere."
+msgstr ""
+
+# game/sakuracan.rpy:3429 #-#-# translate crowdin ssssccccc_b125e81f:
+msgid "[_hi_] Then you disappeared. I was able to see you only after using my Byakugan..."
+msgstr ""
+
+# game/sakuracan.rpy:3433 #-#-# translate crowdin ssssccccc_e6dc36f4:
+msgid "[_r_] It was bound to happen sooner or later. We have a lot to talk about."
+msgstr ""
+
+# game/sakuracan.rpy:3435 #-#-# translate crowdin ssssccccc_09a3c2ab:
+msgid "[_ka_] Sit down, we'll talk."
+msgstr ""
+
+# game/sakuracan.rpy:3441 #-#-# translate crowdin ssssccccc_037fcec7:
+msgid "[_hi_] Tell me everything. Who are you? What are you doing here? What is the meaning of all this?"
+msgstr ""
+
+# game/sakuracan.rpy:3445 #-#-# translate crowdin ssssccccc_fbc5a513:
+msgid "[_ka_] As I said before, my name is Kamiko, I'm from the Otsutsuki clan."
+msgstr ""
+
+# game/sakuracan.rpy:3447 #-#-# translate crowdin ssssccccc_80dbee7b:
+msgid "[_ka_] However, don't be too categorical about it, as you can see I don't mean any harm, neither to you or anybody else."
+msgstr ""
+
+# game/sakuracan.rpy:3451 #-#-# translate crowdin ssssccccc_03f43c90:
+msgid "[_hi_] Anybody else? Who do you mean?"
+msgstr ""
+
+# game/sakuracan.rpy:3455 #-#-# translate crowdin ssssccccc_ee689ee4:
+msgid "[_ka_] You... Humans. Chakra fruit, as other members of my clan would call you."
+msgstr ""
+
+# game/sakuracan.rpy:3457 #-#-# translate crowdin ssssccccc_c72865d5:
+msgid "[_ka_] You see... Not all of us wish evil upon humanity. I am a very rare exception."
+msgstr ""
+
+# game/sakuracan.rpy:3461 #-#-# translate crowdin ssssccccc_d312a2f2:
+msgid "[_hi_] Why are you here? Don't you want to destroy our world?"
+msgstr ""
+
+# game/sakuracan.rpy:3465 #-#-# translate crowdin ssssccccc_95db996e:
+msgid "[_ka_] Oh, dear, of course I don't. I'll say more, my sister Kaguya didn't want to either."
+msgstr ""
+
+# game/sakuracan.rpy:3467 #-#-# translate crowdin ssssccccc_ecfedd85:
+msgid "[_ka_] To her, all of you are like her own litter, her children. But she realized that sooner or later a terrible fate awaits you. By sealing her up, you've given yourself half a century, at best."
+msgstr ""
+
+# game/sakuracan.rpy:3471 #-#-# translate crowdin ssssccccc_ea1c63c3:
+msgid "[_hi_] You... You know about Kaguya? And about Naruto sealing her?"
+msgstr ""
+
+# game/sakuracan.rpy:3475 #-#-# translate crowdin ssssccccc_815c1730:
+msgid "[_ka_] Of course, I even personally watched the whole bloody spectacle you call the fourth world shinobi war. You know... If I had helped her in that battle... Your land would no longer exist."
+msgstr ""
+
+# game/sakuracan.rpy:3479 #-#-# translate crowdin ssssccccc_8743b528:
+msgid "[_hi_] Why didn't you?"
+msgstr ""
+
+# game/sakuracan.rpy:3483 #-#-# translate crowdin ssssccccc_dd0b4466:
+msgid "[_ka_] Because I like it here. I feel free on this planet. This whole thing with world-devouring is tiring."
+msgstr ""
+
+# game/sakuracan.rpy:3487 #-#-# translate crowdin ssssccccc_c3286c7a:
+msgid "[_hi_] World-devouring!? What?"
+msgstr ""
+
+# game/sakuracan.rpy:3491 #-#-# translate crowdin ssssccccc_db86c4cc:
+msgid "[_ka_] It's complicated, girl, the only thing that matters is that I'm all in favor of your survival as a species."
+msgstr ""
+
+# game/sakuracan.rpy:3493 #-#-# translate crowdin ssssccccc_fcd7a216:
+msgid "[_ka_] My brethren have already realized Kaguya has failed, others will be here soon."
+msgstr ""
+
+# game/sakuracan.rpy:3497 #-#-# translate crowdin ssssccccc_795660b4:
+msgid "[_ka_] More complacent, more dangerous. They don't care that you're a full-fledged species, with your own history, feelings and dreams, to them you're just a food source."
+msgstr ""
+
+# game/sakuracan.rpy:3501 #-#-# translate crowdin ssssccccc_df9d6ba3:
+msgid "[_hi_] So you... You want to help?"
+msgstr ""
+
+# game/sakuracan.rpy:3505 #-#-# translate crowdin ssssccccc_3ce0d8a6:
+msgid "[_ka_] No, not just help... I want to save you."
+msgstr ""
+
+# game/sakuracan.rpy:3509 #-#-# translate crowdin ssssccccc_765b60fe:
+msgid "[_hi_] Why don't you go to Naruto? Why did you wait so long? He would understand."
+msgstr ""
+
+# game/sakuracan.rpy:3513 #-#-# translate crowdin ssssccccc_e1e22ab4:
+msgid "[_ka_] That's where you are mistaken."
+msgstr ""
+
+# game/sakuracan.rpy:3515 #-#-# translate crowdin ssssccccc_561bf93f:
+msgid "[_ka_] Naruto Uzumaki is an important historical figure to your species, he and his chakra will have significance to my brethren."
+msgstr ""
+
+# game/sakuracan.rpy:3517 #-#-# translate crowdin ssssccccc_a0ed694b:
+msgid "[_ka_] I knew they would come, but I didn't know how soon. At this time in your history, I must not be allowed to interfere with what is to come."
+msgstr ""
+
+# game/sakuracan.rpy:3521 #-#-# translate crowdin ssssccccc_3fa7a006:
+msgid "[_r_] Are you talking about Momoshiki's arrival?"
+msgstr ""
+
+# game/sakuracan.rpy:3525 #-#-# translate crowdin ssssccccc_3b5f9a06:
+msgid "[_ka_] What did you say?"
+msgstr ""
+
+# game/sakuracan.rpy:3529 #-#-# translate crowdin ssssccccc_968f8f56:
+msgid "[_r_] Momoshiki, he must come and fight Naruto, Sasuke and the others."
+msgstr ""
+
+# game/sakuracan.rpy:3533 #-#-# translate crowdin ssssccccc_233df240:
+msgid "[_ka_] Correct. Damn, sometimes I forget that you can know some important things ahead of time."
+msgstr ""
+
+# game/sakuracan.rpy:3537 #-#-# translate crowdin ssssccccc_b63ce39a:
+msgid "[_hi_] What's he talking about?"
+msgstr ""
+
+# game/sakuracan.rpy:3541 #-#-# translate crowdin ssssccccc_18fb8e99:
+msgid "[_ka_] What's important is that Momoshiki will be the first inevitable stage that will lead to your potential as a species becoming stronger."
+msgstr ""
+
+# game/sakuracan.rpy:3543 #-#-# translate crowdin ssssccccc_dc2dfbdc:
+msgid "[_ka_] Naruto's descendant, your son, he is a much more significant figure to your entire species."
+msgstr ""
+
+# game/sakuracan.rpy:3547 #-#-# translate crowdin ssssccccc_e33702e0:
+msgid "[_hi_] Boruto? You mean my Boruto?"
+msgstr ""
+
+# game/sakuracan.rpy:3551 #-#-# translate crowdin ssssccccc_dd0e7396:
+msgid "[_ka_] Yes."
+msgstr ""
+
+# game/sakuracan.rpy:3555 #-#-# translate crowdin ssssccccc_c25e2985:
+msgid "[_hi_] I don't understand... What does this have to do with my son... And why can't you go to Naruto with all this... It must be important!"
+msgstr ""
+
+# game/sakuracan.rpy:3559 #-#-# translate crowdin ssssccccc_71b6ab23:
+msgid "[_ka_] Oh, don't worry, one day we'll have to meet, but that time hasn't come yet."
+msgstr ""
+
+# game/sakuracan.rpy:3561 #-#-# translate crowdin ssssccccc_37fd199f:
+msgid "[_ka_] Just keep in your head that I want to help you, I don't want this world to die."
+msgstr ""
+
+# game/sakuracan.rpy:3563 #-#-# translate crowdin ssssccccc_940abdb9:
+msgid "[_ka_] One day Naruto will realize that, and you're going to help me with that."
+msgstr ""
+
+# game/sakuracan.rpy:3567 #-#-# translate crowdin ssssccccc_3b722d15:
+msgid "[_hi_] Okay but... What's your role in all this... [viname]..."
+msgstr ""
+
+# game/sakuracan.rpy:3571 #-#-# translate crowdin ssssccccc_600b9c83:
+msgid "[_r_] My role? Well... To tell you the truth, I have no idea."
+msgstr ""
+
+# game/sakuracan.rpy:3575 #-#-# translate crowdin ssssccccc_244636c0:
+msgid "[_hi_] Is that all you have to say?"
+msgstr ""
+
+# game/sakuracan.rpy:3579 #-#-# translate crowdin ssssccccc_35f6660e:
+msgid "[_ka_] It's true. He's just a victim of circumstances."
+msgstr ""
+
+# game/sakuracan.rpy:3583 #-#-# translate crowdin ssssccccc_fe0cd8f7:
+msgid "[_r_] Well... I wouldn't say victim... I like life here a lot."
+msgstr ""
+
+# game/sakuracan.rpy:3587 #-#-# translate crowdin ssssccccc_8cc090ae:
+msgid "[_hi_] You're helping her? You're helping... Kamiko?"
+msgstr ""
+
+# game/sakuracan.rpy:3591 #-#-# translate crowdin ssssccccc_858e3a0d:
+msgid "[_r_] Of course. I don't want this world to die either. More than that, I don't want you and your family to suffer."
+msgstr ""
+
+# game/sakuracan.rpy:3595 #-#-# translate crowdin ssssccccc_3ea3c08c:
+msgid "[_hi_] So... You did all of this... Between you and me... Just because you had to?"
+msgstr ""
+
+# game/sakuracan.rpy:3599 #-#-# translate crowdin ssssccccc_fe67c0fc:
+msgid "[_r_] I wouldn't say that, Hinata. You know, I've had a lot of different feelings for you in all this time, and they've been more real and vivid than every miserable year I've lived before."
+msgstr ""
+
+# game/sakuracan.rpy:3601 #-#-# translate crowdin ssssccccc_ba0e215d:
+msgid "[_r_] I used to think I was forced to do it... But now I know I'm helping Kamiko for your sake, you mean a lot to me."
+msgstr ""
+
+# game/sakuracan.rpy:3605 #-#-# translate crowdin ssssccccc_5ed51a1d:
+msgid "[_ka_] The guy is a sensitive one... You're lucky."
+msgstr ""
+
+# game/sakuracan.rpy:3609 #-#-# translate crowdin ssssccccc_d9c41bc0:
+msgid "[_hi_] So that's how it is..."
+msgstr ""
+
+# game/sakuracan.rpy:3611 #-#-# translate crowdin ssssccccc_3d05bb2f:
+msgid "[_hi_] All the things you've done and said... Are those really your feelings?"
+msgstr ""
+
+# game/sakuracan.rpy:3615 #-#-# translate crowdin ssssccccc_05ff5afd:
+msgid "[_r_] Absolutely. I wouldn't trade our moments with you for anything."
+msgstr ""
+
+# game/sakuracan.rpy:3619 #-#-# translate crowdin ssssccccc_2d321ca2:
+msgid "[_hi_] Good... I feel calmer already..."
+msgstr ""
+
+# game/sakuracan.rpy:3623 #-#-# translate crowdin ssssccccc_a9b0302a:
+msgid "[_ka_] Hinata... Honey... I can see how you're drawn to him, how you're afraid it was all fake... But you don't have to be afraid. We'll take care of you."
+msgstr ""
+
+# game/sakuracan.rpy:3627 #-#-# translate crowdin ssssccccc_76ad5114:
+msgid "[_hi_] What do you mean we...?"
+msgstr ""
+
+# game/sakuracan.rpy:3631 #-#-# translate crowdin ssssccccc_cfb36771:
+msgid "[_ka_] Let me show you just how human I can be..."
+msgstr ""
+
+# game/sakuracan.rpy:3639 #-#-# translate crowdin ssssccccc_1f86cddc:
+msgid "[_m_] Damn... Kamiko really wants to do this?"
+msgstr ""
+
+# game/sakuracan.rpy:3641 #-#-# translate crowdin ssssccccc_7d3d6195:
+msgid "[_m_] That's bold of her..."
+msgstr ""
+
+# game/sakuracan.rpy:3643 #-#-# translate crowdin ssssccccc_27639643:
+msgid "[_m_] I wouldn't say Hinata's fighting back though."
+msgstr ""
+
+# game/sakuracan.rpy:3645 #-#-# translate crowdin ssssccccc_1575aef2:
+msgid "[_m_] Looks like someone's about to get a threesome with two hot girls!"
+msgstr ""
+
+# game/sakuracan.rpy:3647 #-#-# translate crowdin ssssccccc_2b9fd579:
+msgid "[_m_] This worked out even better than I expected!"
+msgstr ""
+
+# game/sakuracan.rpy:3655 #-#-# translate crowdin ssssccccc_a73d289c:
+msgid "[_ka_] Take your clothes off, boy..."
+msgstr ""
+
+# game/sakuracan.rpy:3657 #-#-# translate crowdin ssssccccc_4c3111d2:
+msgid "[_ka_] We need your hard cock and clear mind."
+msgstr ""
+
+# game/sakuracan.rpy:3662 #-#-# translate crowdin ssssccccc_f5b8e697:
+msgid "[_r_] Hinata, is that what you want?"
+msgstr ""
+
+# game/sakuracan.rpy:3664 #-#-# translate crowdin ssssccccc_f72ffc15:
+msgid "[_hi_] L-let's just do it..."
+msgstr ""
+
+# game/sakuracan.rpy:3674 #-#-# translate crowdin ssssccccc_bf63247f:
+msgid "[_m_] They're doing teamwork!"
+msgstr ""
+
+# game/sakuracan.rpy:3676 #-#-# translate crowdin ssssccccc_305157e7:
+msgid "[_m_] Hinata is so bold..."
+msgstr ""
+
+# game/sakuracan.rpy:3678 #-#-# translate crowdin ssssccccc_5d42e143:
+msgid "[_m_] She's really doing it!"
+msgstr ""
+
+# game/sakuracan.rpy:3684 #-#-# translate crowdin ssssccccc_74b5338f:
+msgid "[_m_] Mmmmmm..."
+msgstr ""
+
+# game/sakuracan.rpy:3686 #-#-# translate crowdin ssssccccc_93f92fe2:
+msgid "[_m_] How much I missed Kamiko's mouth!"
+msgstr ""
+
+# game/sakuracan.rpy:3694 #-#-# translate crowdin ssssccccc_6bba4340:
+msgid "[_m_] Too fast!"
+msgstr ""
+
+# game/sakuracan.rpy:3696 #-#-# translate crowdin ssssccccc_f93460fd:
+msgid "[_m_] I won't last long at this rate!"
+msgstr ""
+
+# game/sakuracan.rpy:3698 #-#-# translate crowdin ssssccccc_9b2f19b5:
+msgid "[_r_] Lie down girls, let's get down to the main course."
+msgstr ""
+
+# game/sakuracan.rpy:3708 #-#-# translate crowdin ssssccccc_52d61abd:
+msgid "[_hi_] Mmmmmm!"
+msgstr ""
+
+# game/sakuracan.rpy:3710 #-#-# translate crowdin ssssccccc_530d4051:
+msgid "[_hi_] You're inside..."
+msgstr ""
+
+# game/sakuracan.rpy:3712 #-#-# translate crowdin ssssccccc_0efe3028:
+msgid "[_ka_] Take it all in, dear."
+msgstr ""
+
+# game/sakuracan.rpy:3718 #-#-# translate crowdin ssssccccc_09b78bbe:
+msgid "[_hi_] Yes! Good! Keep moving like that!"
+msgstr ""
+
+# game/sakuracan.rpy:3720 #-#-# translate crowdin ssssccccc_c1459c2e:
+msgid "[_r_] Hinata... I want to cum inside you!"
+msgstr ""
+
+# game/sakuracan.rpy:3722 #-#-# translate crowdin ssssccccc_4ab8247c:
+msgid "[_hi_] Yes! Please do it inside!"
+msgstr ""
+
+# game/sakuracan.rpy:3730 #-#-# translate crowdin ssssccccc_c6dd09f2:
+msgid "[_ka_] You're such an obedient girl, Hinata."
+msgstr ""
+
+# game/sakuracan.rpy:3732 #-#-# translate crowdin ssssccccc_def6e51e:
+msgid "[_hi_] I love it! I love this cock!"
+msgstr ""
+
+# game/sakuracan.rpy:3734 #-#-# translate crowdin ssssccccc_506fb446:
+msgid "[_r_] I'm cumming!"
+msgstr ""
+
+# game/sakuracan.rpy:3736 #-#-# translate crowdin ssssccccc_74226814:
+msgid "[_r_] Take it all!"
+msgstr ""
+
+# game/sakuracan.rpy:3744 #-#-# translate crowdin ssssccccc_ea3c066e:
+msgid "[_r_] Damn... With the last of my strength..."
+msgstr ""
+
+# game/sakuracan.rpy:3746 #-#-# translate crowdin ssssccccc_1a0fb161:
+msgid "[_ka_] Good job, stud."
+msgstr ""
+
+# game/sakuracan.rpy:3756 #-#-# translate crowdin ssssccccc_f1ea41e3:
+msgid "[_r_] How are you, Hinata? I feel better all the time after sex with Kamiko, don't you feel the same?"
+msgstr ""
+
+# game/sakuracan.rpy:3761 #-#-# translate crowdin ssssccccc_1dc6a020:
+msgid "[_hi_] Well... It felt good... But I wouldn't say that I felt any change."
+msgstr ""
+
+# game/sakuracan.rpy:3766 #-#-# translate crowdin ssssccccc_6c5f3e02:
+msgid "[_r_] I see, so it's just me."
+msgstr ""
+
+# game/sakuracan.rpy:3771 #-#-# translate crowdin ssssccccc_32987bb1:
+msgid "[_hi_] I can't believe I just took part in a threesome with Otsutsuki..."
+msgstr ""
+
+# game/sakuracan.rpy:3773 #-#-# translate crowdin ssssccccc_55b35681:
+msgid "[_hi_] But... Maybe she really doesn't want to hurt us... She's different."
+msgstr ""
+
+# game/sakuracan.rpy:3778 #-#-# translate crowdin ssssccccc_5d9f172f:
+msgid "[_r_] Don't doubt Kamiko, I think if she had bad intentions, the shinobi world would have been dead a long time ago."
+msgstr ""
+
+# game/sakuracan.rpy:3783 #-#-# translate crowdin ssssccccc_010afed4:
+msgid "[_hi_] You know, I've been feeling weird lately... I felt like someone was watching me..."
+msgstr ""
+
+# game/sakuracan.rpy:3785 #-#-# translate crowdin ssssccccc_f3c23613:
+msgid "[_hi_] But now I've realized that it was probably Kamiko watching me..."
+msgstr ""
+
+# game/sakuracan.rpy:3787 #-#-# translate crowdin ssssccccc_5b9bf24b:
+msgid "[_hi_] Because it's absolutely impossible to notice her chakra. I don't have to worry now, knowing it was her."
+msgstr ""
+
+# game/sakuracan.rpy:3792 #-#-# translate crowdin ssssccccc_e61a7d8c:
+msgid "[_r_] Quite possibly, it's her style. Sometimes I think her eyes can see the whole village."
+msgstr ""
+
+# game/sakuracan.rpy:3794 #-#-# translate crowdin ssssccccc_bab2bbdf:
+msgid "[_r_] Mind though, she meant it when she said you shouldn't tell Naruto or anyone else."
+msgstr ""
+
+# game/sakuracan.rpy:3796 #-#-# translate crowdin ssssccccc_22fb24ec:
+msgid "[_r_] You're part of our big secret now."
+msgstr ""
+
+# game/sakuracan.rpy:3801 #-#-# translate crowdin ssssccccc_4d0f05f8:
+msgid "[_hi_] I won't tell anyone. But I still have so many questions... Not just about her, but about you."
+msgstr ""
+
+# game/sakuracan.rpy:3806 #-#-# translate crowdin ssssccccc_bd8ffc35:
+msgid "[_hi_] Looks like you have even more secrets and mysteries..."
+msgstr ""
+
+# game/sakuracan.rpy:3811 #-#-# translate crowdin ssssccccc_4ec0c7ac:
+msgid "[_hi_] But that's okay. The important thing is that you have good intentions... And of course, our sex. I don't know how I'd live without your friend."
+msgstr ""
+
+# game/sakuracan.rpy:3816 #-#-# translate crowdin ssssccccc_2811bc6f:
+msgid "[_r_] Some time I'll tell you everything, everything and even more."
+msgstr ""
+
+# game/sakuracan.rpy:3821 #-#-# translate crowdin ssssccccc_cca4f48d:
+msgid "[_hi_] You don't like to rush things, do you? I don't mind."
+msgstr ""
+
+# game/sakuracan.rpy:3823 #-#-# translate crowdin ssssccccc_23991cb8:
+msgid "[_hi_] See you soon! I can't stay any longer. See you later, Kamiko!"
+msgstr ""
+
+# game/sakuracan.rpy:3825 #-#-# translate crowdin ssssccccc_2b5025db:
+msgid "[_ka_] See you, dear!"
+msgstr ""
+
+# game/sakuracan.rpy:3833 #-#-# translate crowdin ssssccccc_da1e3182:
+msgid "[_r_] Kamiko... What's the meaning of this? Why did you let Hinata discover yourself?"
+msgstr ""
+
+# game/sakuracan.rpy:3838 #-#-# translate crowdin ssssccccc_a3b7e4a1:
+msgid "[_ka_] It's your fault, you idiot. Letting someone follow you like that."
+msgstr ""
+
+# game/sakuracan.rpy:3843 #-#-# translate crowdin ssssccccc_956f89f5:
+msgid "[_r_] I was completely focused on the traces of your chakra, you have no idea how hard it is to keep track of you."
+msgstr ""
+
+# game/sakuracan.rpy:3848 #-#-# translate crowdin ssssccccc_973e6344:
+msgid "[_ka_] The situation wasn't the easiest, I spotted Hinata before you did, but I had a choice, hide myself and leave the body behind, or hide the body and stay there."
+msgstr ""
+
+# game/sakuracan.rpy:3850 #-#-# translate crowdin ssssccccc_542879c3:
+msgid "[_ka_] There was no way I could have left you with the body, that would have set off a chain of events that could have led to everyone finding out about me..."
+msgstr ""
+
+# game/sakuracan.rpy:3855 #-#-# translate crowdin ssssccccc_117a1023:
+msgid "[_r_] Yeah, a dead body from another universe... That would've raised quite a few questions."
+msgstr ""
+
+# game/sakuracan.rpy:3860 #-#-# translate crowdin ssssccccc_fa0de7f9:
+msgid "[_ka_] I hoped that you'd given Hinata a good training in our room, as it turns out I wasn't wrong, you did a great job with her."
+msgstr ""
+
+# game/sakuracan.rpy:3865 #-#-# translate crowdin ssssccccc_d5aed61d:
+msgid "[_r_] She reacted calmly, is it because of affection?"
+msgstr ""
+
+# game/sakuracan.rpy:3870 #-#-# translate crowdin ssssccccc_870caa82:
+msgid "[_ka_] Of course, was her affection lower, she wouldn't have valued your company enough to trust someone from Otsutsuki."
+msgstr ""
+
+# game/sakuracan.rpy:3872 #-#-# translate crowdin ssssccccc_56f17366:
+msgid "[_ka_] How glad I am that we didn't have to get rid of her..."
+msgstr ""
+
+# game/sakuracan.rpy:3877 #-#-# translate crowdin ssssccccc_07895e5b:
+msgid "[_r_] Don't say this... I don't even want to think about it..."
+msgstr ""
+
+# game/sakuracan.rpy:3882 #-#-# translate crowdin ssssccccc_6c42294d:
+msgid "[_ka_] It's over now. Now that Hinata knows about me, she's completely in your hands."
+msgstr ""
+
+# game/sakuracan.rpy:3887 #-#-# translate crowdin ssssccccc_75021d21:
+msgid "[_r_] No secrets, huh?"
+msgstr ""
+
+# game/sakuracan.rpy:3892 #-#-# translate crowdin ssssccccc_a9a784f4:
+msgid "[_ka_] I'm sure she'll help you with the others, the situation has turned in our favor."
+msgstr ""
+
+# game/sakuracan.rpy:3894 #-#-# translate crowdin ssssccccc_e3bc8991:
+msgid "[_ka_] Be sure to take advantage of this to move forward with Sakura."
+msgstr ""
+
+# game/sakuracan.rpy:3899 #-#-# translate crowdin ssssccccc_a1c81056:
+msgid "[_r_] Are you suggesting I talk to Hinata?"
+msgstr ""
+
+# game/sakuracan.rpy:3904 #-#-# translate crowdin ssssccccc_43c9acb1:
+msgid "[_ka_] Sure, the sooner the better."
+msgstr ""
+
+# game/sakuracan.rpy:3909 #-#-# translate crowdin ssssccccc_33e1fe9e:
+msgid "[_r_] I'll try my best."
+msgstr ""
+
+# game/sakuracan.rpy:3918 #-#-# translate crowdin ssssccccc_c32c2962:
+msgid "[_m_] Talk to Hinata... What will I tell her?"
+msgstr ""
+
+# game/sakuracan.rpy:3922 #-#-# translate crowdin ssssccccc_f1ea0433:
+msgid "[_m_] Hinata, my love, here's the deal, help me fuck all the hot kunuichi in Konoha starting with Sakura."
+msgstr ""
+
+# game/sakuracan.rpy:3926 #-#-# translate crowdin ssssccccc_a23a90ab:
+msgid "[_m_] She's gonna tell me to get the fuck away from her..."
+msgstr ""
+
+# game/sakuracan.rpy:3930 #-#-# translate crowdin ssssccccc_44eeadce:
+msgid "[_m_] I think talking to Kamiko might have had a good effect on her... It was about the survival of the human race, after all."
+msgstr ""
+
+# game/sakuracan.rpy:3934 #-#-# translate crowdin ssssccccc_9ff966ae:
+msgid "[_m_] Hinata is bound to me by now though. Probably even the less convincing of my arguments will sound good..."
+msgstr ""
+
+# game/sakuracan.rpy:3936 #-#-# translate crowdin ssssccccc_b4d8fb05:
+msgid "[_m_] Obviously I should take advantage of that."
+msgstr ""
+
+# game/sakuracan.rpy:3938 #-#-# translate crowdin ssssccccc_4f42b07b:
+msgid "[_m_] Don't worry, Hinata... No matter how many kunuichi I fuck along the way, you'll always be the first one in my bed!"
+msgstr ""
+
+# game/sakuracan.rpy:3956 #-#-# translate crowdin ssssccccc_2f1183b0:
+msgid "[_m_] Oh, was that Ino? A younger Ino."
+msgstr ""
+
+# game/sakuracan.rpy:3958 #-#-# translate crowdin ssssccccc_772fdb81:
+msgid "[_m_] In that dream, she was so depraved!"
+msgstr ""
+
+# game/sakuracan.rpy:3960 #-#-# translate crowdin ssssccccc_47ee49bd:
+msgid "[_m_] One day I'll get a good taste of the milf version of Ino, one day..."
+msgstr ""
+
+# game/sakuracan.rpy:3964 #-#-# translate crowdin ssssccccc_3ebaf5d5:
+msgid "[_m_] Speaking of milfs, I wonder how Hinata's doing?"
+msgstr ""
+
+# game/sakuracan.rpy:3968 #-#-# translate crowdin ssssccccc_15c3310d:
+msgid "[_m_] I'm still worrying about her, what if everything that happened yesterday wasn't enough..."
+msgstr ""
+
+# game/sakuracan.rpy:3970 #-#-# translate crowdin ssssccccc_8fe58b76:
+msgid "[_m_] What if she fell asleep thinking she'd made a mistake?"
+msgstr ""
+
+# game/sakuracan.rpy:3972 #-#-# translate crowdin ssssccccc_3c6d648a:
+msgid "[_m_] Nah..."
+msgstr ""
+
+# game/sakuracan.rpy:3974 #-#-# translate crowdin ssssccccc_8aa9c699:
+msgid "[_m_] I believe her. She's the most sincere person I've ever met around here."
+msgstr ""
+
+# game/sakuracan.rpy:3976 #-#-# translate crowdin ssssccccc_42e95bd8:
+msgid "[_m_] But it's gonna be worth it to check."
+msgstr ""
+
+# game/sakuracan.rpy:3984 #-#-# translate crowdin ssssccccc_da2f0e17:
+msgid "[_r_] Good morning, how are you? Didn't wake you up, I hope?"
+msgstr ""
+
+# game/sakuracan.rpy:3986 #-#-# translate crowdin ssssccccc_414f94ba:
+msgid "[_hi_] Morning... No, I've been up for a while, chores won't do themselves!"
+msgstr ""
+
+# game/sakuracan.rpy:3988 #-#-# translate crowdin ssssccccc_3b6b19e5:
+msgid "[_r_] You've cheered up pretty good, haven't you? No regrets about yesterday?"
+msgstr ""
+
+# game/sakuracan.rpy:3990 #-#-# translate crowdin ssssccccc_2d658b83:
+msgid "[_hi_] To tell you the truth, I've been getting used to the idea that my life wouldn't be the same for a while ..."
+msgstr ""
+
+# game/sakuracan.rpy:3992 #-#-# translate crowdin ssssccccc_2c55c7e9:
+msgid "[_hi_] But no, I don't, I'll never regret having great sex!"
+msgstr ""
+
+# game/sakuracan.rpy:3994 #-#-# translate crowdin ssssccccc_048591bd:
+msgid "[_r_] Great! I'm glad you're in a good mood."
+msgstr ""
+
+# game/sakuracan.rpy:3996 #-#-# translate crowdin ssssccccc_7dcf63a5:
+msgid "[_hi_] B-but you know. I wasn't just thinking about Kamiko... About you too... Even more about you than her."
+msgstr ""
+
+# game/sakuracan.rpy:3998 #-#-# translate crowdin ssssccccc_be39a548:
+msgid "[_r_] What were you thinking about?"
+msgstr ""
+
+# game/sakuracan.rpy:4000 #-#-# translate crowdin ssssccccc_f4b2c472:
+msgid "[_hi_] It's not easy to say... Not over the phone."
+msgstr ""
+
+# game/sakuracan.rpy:4002 #-#-# translate crowdin ssssccccc_fc848869:
+msgid "[_r_] Do you want to come over to talk about it?"
+msgstr ""
+
+# game/sakuracan.rpy:4004 #-#-# translate crowdin ssssccccc_037ccb8d:
+msgid "[_hi_] I... I don't know if I'm ready for what you might tell me..."
+msgstr ""
+
+# game/sakuracan.rpy:4006 #-#-# translate crowdin ssssccccc_17efbc01:
+msgid "[_r_] Maybe you're not, but I'll be honest with you."
+msgstr ""
+
+# game/sakuracan.rpy:4008 #-#-# translate crowdin ssssccccc_6a26bf99:
+msgid "[_hi_] Okay. Wait for me."
+msgstr ""
+
+# game/sakuracan.rpy:4014 #-#-# translate crowdin ssssccccc_0a4bfadd:
+msgid "[_m_] That tone... She's serious."
+msgstr ""
+
+# game/sakuracan.rpy:4016 #-#-# translate crowdin ssssccccc_4f1cdfdb:
+msgid "[_m_] Apparently good sex wasn't enough to set things right."
+msgstr ""
+
+# game/sakuracan.rpy:4018 #-#-# translate crowdin ssssccccc_ad957fcf:
+msgid "[_m_] I'm not gonna lie."
+msgstr ""
+
+# game/sakuracan.rpy:4020 #-#-# translate crowdin ssssccccc_f682bc7c:
+msgid "[_m_] She must know what's really going on."
+msgstr ""
+
+# game/sakuracan.rpy:4022 #-#-# translate crowdin ssssccccc_3998c3e5:
+msgid "[_m_] Hinata deserves it."
+msgstr ""
+
+# game/sakuracan.rpy:4038 #-#-# translate crowdin ssssccccc_d01f1dbb:
+msgid "[_hi_] Here uhh... Here I am..."
+msgstr ""
+
+# game/sakuracan.rpy:4043 #-#-# translate crowdin ssssccccc_ebad460e:
+msgid "[_r_] Is everything okay?"
+msgstr ""
+
+# game/sakuracan.rpy:4048 #-#-# translate crowdin ssssccccc_bfd047b5:
+msgid "[_hi_] Y-yes... It's just... I don't know what to expect."
+msgstr ""
+
+# game/sakuracan.rpy:4053 #-#-# translate crowdin ssssccccc_cb6050f5:
+msgid "[_r_] You're scared of all this, aren't you?"
+msgstr ""
+
+# game/sakuracan.rpy:4058 #-#-# translate crowdin ssssccccc_e1a0f2cc:
+msgid "[_hi_] A lot... I don't want to be disappointed."
+msgstr ""
+
+# game/sakuracan.rpy:4060 #-#-# translate crowdin ssssccccc_82f654b4:
+msgid "[_hi_] But... Don't lie to me... Even if it hurts me."
+msgstr ""
+
+# game/sakuracan.rpy:4065 #-#-# translate crowdin ssssccccc_c44cb1dc:
+msgid "[_r_] I promise I won't."
+msgstr ""
+
+# game/sakuracan.rpy:4070 #-#-# translate crowdin ssssccccc_d36d46dc:
+msgid "[_hi_] Good. Then... Let's talk, shall we?"
+msgstr ""
+
+# game/sakuracan.rpy:4075 #-#-# translate crowdin ssssccccc_6878e962:
+msgid "[_r_] Let's sit down, come here."
+msgstr ""
+
+# game/sakuracan.rpy:4118 #-#-# translate crowdin ktoti_5224d651:
+msgid "[_hi_] You're not from here, are you?"
+msgstr ""
+
+# game/sakuracan.rpy:4120 #-#-# translate crowdin ktoti_8970e259:
+msgid "[_r_] Yeah, like I said, I'm not from Konoha."
+msgstr ""
+
+# game/sakuracan.rpy:4122 #-#-# translate crowdin ktoti_7fbacf1e:
+msgid "[_hi_] No... I mean..."
+msgstr ""
+
+# game/sakuracan.rpy:4124 #-#-# translate crowdin ktoti_c5997595:
+msgid "[_r_] Yes. I'm not from this world."
+msgstr ""
+
+# game/sakuracan.rpy:4126 #-#-# translate crowdin ktoti_c81b2a3c:
+msgid "[_hi_] What does this mean?"
+msgstr ""
+
+# game/sakuracan.rpy:4128 #-#-# translate crowdin ktoti_32ff9900:
+msgid "[_r_] In short, the universe we're in now is not my original home."
+msgstr ""
+
+# game/sakuracan.rpy:4130 #-#-# translate crowdin ktoti_a2379535:
+msgid "[_r_] I was born in another universe where everything was completely different."
+msgstr ""
+
+# game/sakuracan.rpy:4132 #-#-# translate crowdin ktoti_63d95368:
+msgid "[_r_] No chakra, no techniques. People in my world fight differently, even though they live and love the same way they do here."
+msgstr ""
+
+# game/sakuracan.rpy:4134 #-#-# translate crowdin ktoti_adba3092:
+msgid "[_hi_] Fight differently? How's that?"
+msgstr ""
+
+# game/sakuracan.rpy:4136 #-#-# translate crowdin ktoti_46e2fb44:
+msgid "[_r_] We don't have the power that can grant us the might of the elements, absorb enemy attacks, destroy large areas, a person like me doesn't have that internal resource."
+msgstr ""
+
+# game/sakuracan.rpy:4138 #-#-# translate crowdin ktoti_ddaa0b9c:
+msgid "[_r_] But that doesn't mean we fight less effectively. Our main strength is knowledge, science, centuries of experience in different spheres of life."
+msgstr ""
+
+# game/sakuracan.rpy:4140 #-#-# translate crowdin ktoti_52b0f870:
+msgid "[_r_] Thanks to science, people in my world have created a weapon that can wipe out half the globe. If you think about it that way, it's frightening."
+msgstr ""
+
+# game/sakuracan.rpy:4142 #-#-# translate crowdin ktoti_96cc368e:
+msgid "[_hi_] Sounds like... Something impossible..."
+msgstr ""
+
+# game/sakuracan.rpy:4144 #-#-# translate crowdin ktoti_9d0ff88d:
+msgid "[_r_] Maybe. But it's all true."
+msgstr ""
+
+# game/sakuracan.rpy:4150 #-#-# translate crowdin okykamik_772fcaec:
+msgid "[_hi_] Kamiko... She's Otsutsuki... How are you related to her? How did you two meet?"
+msgstr ""
+
+# game/sakuracan.rpy:4152 #-#-# translate crowdin okykamik_d9e1d413:
+msgid "[_r_] Kamiko is unique. As far as I'm concerned all Otsutsutsuki are unique in some way, but Kamiko is something else."
+msgstr ""
+
+# game/sakuracan.rpy:4154 #-#-# translate crowdin okykamik_a72f74d2:
+msgid "[_r_] She has the power to manipulate time, she can summon beings from other dimensions. Just like she did with me."
+msgstr ""
+
+# game/sakuracan.rpy:4156 #-#-# translate crowdin okykamik_3b0b7756:
+msgid "[_hi_] Summon beings? Is that like the pact of summoning an animal? We have many who are skilled in summoning techniques."
+msgstr ""
+
+# game/sakuracan.rpy:4158 #-#-# translate crowdin okykamik_f9e9721f:
+msgid "[_r_] Similar, but no. The beasts you sign a pact with, though not physically in your dimension, they exist within your universe, so they can physically interact with you."
+msgstr ""
+
+# game/sakuracan.rpy:4160 #-#-# translate crowdin okykamik_395ce476:
+msgid "[_r_] Kamiko, on the other hand, can summon beings from completely different universes that are not connected to yours."
+msgstr ""
+
+# game/sakuracan.rpy:4162 #-#-# translate crowdin okykamik_905ca112:
+msgid "[_r_] That's what happened to me. I was just sitting in my room, surfing the web... Until I just found myself in the middle of a forest. In another world."
+msgstr ""
+
+# game/sakuracan.rpy:4164 #-#-# translate crowdin okykamik_14cb8db4:
+msgid "[_hi_] That's just crazy..."
+msgstr ""
+
+# game/sakuracan.rpy:4166 #-#-# translate crowdin okykamik_5dec45d8:
+msgid "[_r_] You don't say."
+msgstr ""
+
+# game/sakuracan.rpy:4168 #-#-# translate crowdin okykamik_28733062:
+msgid "[_hi_] How did you... Could you get over this?"
+msgstr ""
+
+# game/sakuracan.rpy:4170 #-#-# translate crowdin okykamik_d5935752:
+msgid "[_r_] It wasn't easy... But my life was on the line, I had to adapt."
+msgstr ""
+
+# game/sakuracan.rpy:4176 #-#-# translate crowdin tinevra_75749fcd:
+msgid "[_hi_] So you're not our enemy. are you? You were a victim of circumstance?"
+msgstr ""
+
+# game/sakuracan.rpy:4178 #-#-# translate crowdin tinevra_86301450:
+msgid "[_r_] Of course not."
+msgstr ""
+
+# game/sakuracan.rpy:4180 #-#-# translate crowdin tinevra_b3b12037:
+msgid "[_r_] I don't mean any harm, just the opposite. In all the time that you and I have been getting to know each other... I felt I wanted to protect you, I'm not your enemy."
+msgstr ""
+
+# game/sakuracan.rpy:4182 #-#-# translate crowdin tinevra_1f92a30c:
+msgid "[_hi_] And Kamiko? She isn't... Well... She's not bad either, is she?"
+msgstr ""
+
+# game/sakuracan.rpy:4184 #-#-# translate crowdin tinevra_1d09f965:
+msgid "[_r_] I promised I wouldn't lie to you. I don't know everything for sure, Hinata..."
+msgstr ""
+
+# game/sakuracan.rpy:4186 #-#-# translate crowdin tinevra_26ac94e4:
+msgid "[_r_] Some of her actions, decisions, attitudes strike me as a little... A little wild at times."
+msgstr ""
+
+# game/sakuracan.rpy:4188 #-#-# translate crowdin tinevra_e1fd881f:
+msgid "[_r_] But what can say for sure is that if she wanted to destroy you all, she would have done it a long time ago."
+msgstr ""
+
+# game/sakuracan.rpy:4190 #-#-# translate crowdin tinevra_44c58ac3:
+msgid "[_r_] Believe me, Kamiko has all the power to do so."
+msgstr ""
+
+# game/sakuracan.rpy:4196 #-#-# translate crowdin pocemua_0d4d3187:
+msgid "[_hi_] So... Why... I don't know how to say it..."
+msgstr ""
+
+# game/sakuracan.rpy:4198 #-#-# translate crowdin pocemua_bdc280da:
+msgid "[_hi_] It bothers me so much..."
+msgstr ""
+
+# game/sakuracan.rpy:4200 #-#-# translate crowdin pocemua_36828c6e:
+msgid "[_hi_] Tears are welling up when I think about This..."
+msgstr ""
+
+# game/sakuracan.rpy:4202 #-#-# translate crowdin pocemua_655b24fe:
+msgid "[_r_] It's okay Hinata, be brave."
+msgstr ""
+
+# game/sakuracan.rpy:4204 #-#-# translate crowdin pocemua_2f7ab586:
+msgid "[_hi_] Why... Me?"
+msgstr ""
+
+# game/sakuracan.rpy:4206 #-#-# translate crowdin pocemua_40c5e36d:
+msgid "[_hi_] Am I just a stepping stone in Kamiko's plan... Or a passed stage... What am I to you?"
+msgstr ""
+
+# game/sakuracan.rpy:4208 #-#-# translate crowdin pocemua_7958a29b:
+msgid "[_r_] In the beginning, you were nothing more than the goal Kamiko set for me."
+msgstr ""
+
+# game/sakuracan.rpy:4210 #-#-# translate crowdin pocemua_d4185df7:
+msgid "[_r_] But... Throughout this journey. I've gone through a lot of happy moments with you..."
+msgstr ""
+
+# game/sakuracan.rpy:4212 #-#-# translate crowdin pocemua_3b08fec5:
+msgid "[_r_] As well as hardships."
+msgstr ""
+
+# game/sakuracan.rpy:4214 #-#-# translate crowdin pocemua_aa2793e4:
+msgid "[_r_] Kamiko's technique... Because of it, I remember everything, even the most painful things."
+msgstr ""
+
+# game/sakuracan.rpy:4216 #-#-# translate crowdin pocemua_54d66611:
+msgid "[_r_] Having come all this way... From me doing it for myself, to me doing it all for us... You'll never be just Kamiko's goal for me."
+msgstr ""
+
+# game/sakuracan.rpy:4218 #-#-# translate crowdin pocemua_7100b72b:
+msgid "[_r_] No matter how this sounds... A part of me is with you now, just like a big part of you will never leave me."
+msgstr ""
+
+# game/sakuracan.rpy:4220 #-#-# translate crowdin pocemua_156eb4ab:
+msgid "[_hi_] Thank you... I... I needed to hear that."
+msgstr ""
+
+# game/sakuracan.rpy:4226 #-#-# translate crowdin ctobudedalse_829161e5:
+msgid "[_hi_] So... What do I have to look forward to? What's going to happen to us now? To me and you, to Kamiko, what's going to happen to all of this?"
+msgstr ""
+
+# game/sakuracan.rpy:4228 #-#-# translate crowdin ctobudedalse_e4eae327:
+msgid "[_r_] Kamiko's goal is important to her, she wants to protect this world and I fully support her in that."
+msgstr ""
+
+# game/sakuracan.rpy:4230 #-#-# translate crowdin ctobudedalse_5ef37e64:
+msgid "[_r_] She knows what it takes, and I'm going to follow her."
+msgstr ""
+
+# game/sakuracan.rpy:4232 #-#-# translate crowdin ctobudedalse_1e9d683a:
+msgid "[_r_] You're with us now... You're a part of this..."
+msgstr ""
+
+# game/sakuracan.rpy:4234 #-#-# translate crowdin ctobudedalse_7dba2e08:
+msgid "[_r_] But this is just the beginning."
+msgstr ""
+
+# game/sakuracan.rpy:4236 #-#-# translate crowdin ctobudedalse_2939e71a:
+msgid "[_r_] As painful as it sounds. But you're not the only one I'll be with."
+msgstr ""
+
+# game/sakuracan.rpy:4238 #-#-# translate crowdin ctobudedalse_cac09f7e:
+msgid "[_hi_] I... Yeah, I've realized that."
+msgstr ""
+
+# game/sakuracan.rpy:4240 #-#-# translate crowdin ctobudedalse_92c15089:
+msgid "[_r_] You have?"
+msgstr ""
+
+# game/sakuracan.rpy:4242 #-#-# translate crowdin ctobudedalse_8d61d480:
+msgid "[_hi_] Of course. I was surprised when I noticed that Sakura was starting to take interest in you."
+msgstr ""
+
+# game/sakuracan.rpy:4244 #-#-# translate crowdin ctobudedalse_3a1e4fc2:
+msgid "[_hi_] But when I saw Kamiko, and even more so when we all had sex together, I finally accepted that I wasn't the only one."
+msgstr ""
+
+# game/sakuracan.rpy:4246 #-#-# translate crowdin ctobudedalse_526dd9a4:
+msgid "[_r_] Doesn't this hurt you?"
+msgstr ""
+
+# game/sakuracan.rpy:4248 #-#-# translate crowdin ctobudedalse_399fbf63:
+msgid "[_hi_] N-no... I guess it doesn't..."
+msgstr ""
+
+# game/sakuracan.rpy:4250 #-#-# translate crowdin ctobudedalse_90f61102:
+msgid "[_hi_] What right do I have to be the only one... It's not like I'm your wife or girlfriend... I feel that I love you... I want you to own me as a woman..."
+msgstr ""
+
+# game/sakuracan.rpy:4252 #-#-# translate crowdin ctobudedalse_9f5a54ed:
+msgid "[_hi_] That's enough for me."
+msgstr ""
+
+# game/sakuracan.rpy:4254 #-#-# translate crowdin ctobudedalse_c5e770a9:
+msgid "[_r_] I'm very glad you think of it that way."
+msgstr ""
+
+# game/sakuracan.rpy:4256 #-#-# translate crowdin ctobudedalse_6f81d433:
+msgid "[_r_] I'll probably ask you to help me with Sakura soon, would you mind?"
+msgstr ""
+
+# game/sakuracan.rpy:4258 #-#-# translate crowdin ctobudedalse_d906410f:
+msgid "[_hi_] It turns me on to think that we'll be able to fuck Sakura the way we did with Kamiko..."
+msgstr ""
+
+# game/sakuracan.rpy:4260 #-#-# translate crowdin ctobudedalse_2e84110e:
+msgid "[_hi_] Damn... That really turns me on..."
+msgstr ""
+
+# game/sakuracan.rpy:4262 #-#-# translate crowdin ctobudedalse_76b79acc:
+msgid "[_r_] You're perfect."
+msgstr ""
+
+# game/sakuracan.rpy:4268 #-#-# translate crowdin cegohowecs_f0786871:
+msgid "[_hi_] So... Have you thought about what you want out of all this for yourself?"
+msgstr ""
+
+# game/sakuracan.rpy:4270 #-#-# translate crowdin cegohowecs_25d74ea3:
+msgid "[_hi_] Kamiko pulled you out of your world... You weren't supposed to be here..."
+msgstr ""
+
+# game/sakuracan.rpy:4272 #-#-# translate crowdin cegohowecs_0d5272fb:
+msgid "[_hi_] Do you want to go home?"
+msgstr ""
+
+# game/sakuracan.rpy:4274 #-#-# translate crowdin cegohowecs_306e2c64:
+msgid "[_r_] No, Hinata. I don't want to go back. There's nothing waiting for me there, I was completely empty there."
+msgstr ""
+
+# game/sakuracan.rpy:4276 #-#-# translate crowdin cegohowecs_0983ec73:
+msgid "[_r_] What do I want? To help Kamiko save the world, I guess."
+msgstr ""
+
+# game/sakuracan.rpy:4278 #-#-# translate crowdin cegohowecs_f0301801:
+msgid "[_r_] I want to spend more time with you, with other girls..."
+msgstr ""
+
+# game/sakuracan.rpy:4280 #-#-# translate crowdin cegohowecs_1341c985:
+msgid "[_r_] I want the danger to be over."
+msgstr ""
+
+# game/sakuracan.rpy:4282 #-#-# translate crowdin cegohowecs_aca0e16b:
+msgid "[_hi_] Sounds good to me..."
+msgstr ""
+
+# game/sakuracan.rpy:4294 #-#-# translate crowdin vsenetrapros_bb433f87:
+msgid "[_hi_] It was interesting to hear your story."
+msgstr ""
+
+# game/sakuracan.rpy:4296 #-#-# translate crowdin vsenetrapros_1088ede1:
+msgid "[_hi_] I'll probably never be able to understand you completely... But for now, I'm at peace."
+msgstr ""
+
+# game/sakuracan.rpy:4300 #-#-# translate crowdin vsenetrapros_deed4cb1:
+msgid "[_r_] There's a plenty of time, you'll have a lot of opportunities to get to know me better."
+msgstr ""
+
+# game/sakuracan.rpy:4304 #-#-# translate crowdin vsenetrapros_767eafc8:
+msgid "[_hi_] Yeah, I guess there's no rush. Especially since we crossed the line a long time ago."
+msgstr ""
+
+# game/sakuracan.rpy:4308 #-#-# translate crowdin vsenetrapros_95f262b2:
+msgid "[_r_] You still have a lot to think about, don't you?"
+msgstr ""
+
+# game/sakuracan.rpy:4312 #-#-# translate crowdin vsenetrapros_24fd91e3:
+msgid "[_hi_] Is it that obvious?"
+msgstr ""
+
+# game/sakuracan.rpy:4316 #-#-# translate crowdin vsenetrapros_3f34900f:
+msgid "[_r_] Yeah, one can tell."
+msgstr ""
+
+# game/sakuracan.rpy:4320 #-#-# translate crowdin vsenetrapros_3b64406f:
+msgid "[_hi_] This is all new to me, I'm still getting used to it."
+msgstr ""
+
+# game/sakuracan.rpy:4324 #-#-# translate crowdin vsenetrapros_832f55cc:
+msgid "[_r_] I won't rush you."
+msgstr ""
+
+# game/sakuracan.rpy:4326 #-#-# translate crowdin vsenetrapros_29c2cab8:
+msgid "[_r_] Are you going home?"
+msgstr ""
+
+# game/sakuracan.rpy:4330 #-#-# translate crowdin vsenetrapros_25c7173f:
+msgid "[_hi_] Yeah, I think I'll cook something, my family life isn't going anywhere."
+msgstr ""
+
+# game/sakuracan.rpy:4334 #-#-# translate crowdin vsenetrapros_00f89df5:
+msgid "[_r_] Okay, I'll see you then, I'll text or call you if anything."
+msgstr ""
+
+# game/sakuracan.rpy:4338 #-#-# translate crowdin vsenetrapros_229f49b9:
+msgid "[_hi_] Sure, anytime."
+msgstr ""
+
+# game/sakuracan.rpy:4348 #-#-# translate crowdin vsenetrapros_2a2a7392:
+msgid "[_m_] Boring day. Good rest never hurt anyone, though."
+msgstr ""
+
+# game/sakuracan.rpy:4352 #-#-# translate crowdin vsenetrapros_f74eb171:
+msgid "[_m_] I wonder, will Sakura call me back herself if she needs me?"
+msgstr ""
+
+# game/sakuracan.rpy:4356 #-#-# translate crowdin vsenetrapros_901f6317:
+msgid "[_m_] Maybe I should be a little more assertive."
+msgstr ""
+
+# game/sakuracan.rpy:4358 #-#-# translate crowdin vsenetrapros_1451aa46:
+msgid "[_m_] On the other hand, now I have Hinata as my ace in the hole."
+msgstr ""
+
+# game/sakuracan.rpy:4360 #-#-# translate crowdin vsenetrapros_127d125c:
+msgid "[_m_] I think I'll have to talk to her about the plan of action. With her help I can deal with Sakura faster."
+msgstr ""
+
+# game/sakuracan.rpy:4368 #-#-# translate crowdin vsenetrapros_f64ff31a:
+msgid "[_m_] Huh? Someone's here? Could it be Hinata? She would have texted me..."
+msgstr ""
+
+# game/sakuracan.rpy:4374 #-#-# translate crowdin vsenetrapros_4d0bead3:
+msgid "[_dostav_] Good evening, I've been asked to deliver a letter to this address."
+msgstr ""
+
+# game/sakuracan.rpy:4376 #-#-# translate crowdin vsenetrapros_0cde46b9:
+msgid "[_r_] A letter? From whom?"
+msgstr ""
+
+# game/sakuracan.rpy:4378 #-#-# translate crowdin vsenetrapros_5fe4b5b1:
+msgid "[_dostav_] The sender has chosen to be anonymous. He also didn't say exactly who is supposed to receive it. Do you live alone here?"
+msgstr ""
+
+# game/sakuracan.rpy:4380 #-#-# translate crowdin vsenetrapros_f75026fa:
+msgid "[_r_] Yes... Alone, of course."
+msgstr ""
+
+# game/sakuracan.rpy:4382 #-#-# translate crowdin vsenetrapros_7dfefb1f:
+msgid "[_dostav_] Then it's must be for you, here you go."
+msgstr ""
+
+# game/sakuracan.rpy:4384 #-#-# translate crowdin vsenetrapros_c265bda4:
+msgid "[_r_] Thank you."
+msgstr ""
+
+# game/sakuracan.rpy:4388 #-#-# translate crowdin vsenetrapros_a1156e1c:
+msgid "[_m_] A letter? Who would even think of that..."
+msgstr ""
+
+# game/sakuracan.rpy:4397 #-#-# translate crowdin vsenetrapros_5b6a41ec:
+msgid "You are an amazing creature. I don't know how you managed to reveal my presence, but your caution deserves a compliment."
+msgstr ""
+
+# game/sakuracan.rpy:4399 #-#-# translate crowdin vsenetrapros_48aabfd2:
+msgid "Since you're so careful, I'll start eliminating up your pawns. Hinata Uzumaki, the whore reeking of your stench. She'll be the first one I kill."
+msgstr ""
+
+# game/sakuracan.rpy:4401 #-#-# translate crowdin vsenetrapros_d9e16b2a:
+msgid "Know this, if you're reading this letter, your whore's body has long since bled to death in her own apartment."
+msgstr ""
+
+# game/sakuracan.rpy:4403 #-#-# translate crowdin vsenetrapros_6461219a:
+msgid "When you find her corpse, remember, it's all because of your cowardice, you monster."
+msgstr ""
+
+# game/sakuracan.rpy:4405 #-#-# translate crowdin vsenetrapros_1e11b833:
+msgid "[_m_] No... No..."
+msgstr ""
+
+# game/sakuracan.rpy:4407 #-#-# translate crowdin vsenetrapros_29666696:
+msgid "[_m_] Run! I must run!"
+msgstr ""
+
+# game/sakuracan.rpy:4409 #-#-# translate crowdin vsenetrapros_5a00a86c:
+msgid "[_m_] He won't make it! THAT SON OF A BITCH WON'T MAKE IT!"
+msgstr ""
+
+# game/sakuracan.rpy:4422 #-#-# translate crowdin vsenetrapros_a1f8971e:
+msgid "[_m_] There's nobody here... M-maybe in the bedroom?"
+msgstr ""
+
+# game/sakuracan.rpy:4424 #-#-# translate crowdin vsenetrapros_ffb341d3:
+msgid "[_su_] I can see you."
+msgstr ""
+
+# game/sakuracan.rpy:4426 #-#-# translate crowdin vsenetrapros_b2347401:
+msgid "[_m_] What..."
+msgstr ""
+
+# game/sakuracan.rpy:4434 #-#-# translate crowdin vsenetrapros_31ef5c2c:
+msgid "[_su_] You must have thought you'd be impossible to catch with a level one disguise, huh?"
+msgstr ""
+
+# game/sakuracan.rpy:4436 #-#-# translate crowdin vsenetrapros_84ba1ac5:
+msgid "[_su_] Needless to say, you aren't."
+msgstr ""
+
+# game/sakuracan.rpy:4438 #-#-# translate crowdin vsenetrapros_d0892e99:
+msgid "[_r_] W-who the hell... Are you..."
+msgstr ""
+
+# game/sakuracan.rpy:4440 #-#-# translate crowdin vsenetrapros_1e5e8be1:
+msgid "[_su_] Your death, it seems."
+msgstr ""
+
+# game/sakuracan.rpy:4442 #-#-# translate crowdin vsenetrapros_8ca9de0e:
+msgid "[_r_] Hinata... What did you..."
+msgstr ""
+
+# game/sakuracan.rpy:4444 #-#-# translate crowdin vsenetrapros_2d68cc93:
+msgid "[_su_] The whore is fine. What can't be said about you."
+msgstr ""
+
+# game/sakuracan.rpy:4450 #-#-# translate crowdin vsenetrapros_7706ab9e:
+msgid "[_su_] Didn't you feel anything when you entered the house?"
+msgstr ""
+
+# game/sakuracan.rpy:4452 #-#-# translate crowdin vsenetrapros_061cd99f:
+msgid "[_su_] Of course you didn't, you were in such a hurry."
+msgstr ""
+
+# game/sakuracan.rpy:4458 #-#-# translate crowdin vsenetrapros_6a3d3c50:
+msgid "[_su_] Poison against your kind."
+msgstr ""
+
+# game/sakuracan.rpy:4460 #-#-# translate crowdin vsenetrapros_7b53ea6d:
+msgid "[_su_] Something new, right?"
+msgstr ""
+
+# game/sakuracan.rpy:4471 #-#-# translate crowdin vsenetrapros_d0795c2a:
+msgid "[_su_] Come on, open your eyes, it should have worn off by now."
+msgstr ""
+
+# game/sakuracan.rpy:4477 #-#-# translate crowdin vsenetrapros_11c4183a:
+msgid "[_su_] Are you comfortable in there?"
+msgstr ""
+
+# game/sakuracan.rpy:4481 #-#-# translate crowdin vsenetrapros_aa0d491c:
+msgid "[_r_] Stop this."
+msgstr ""
+
+# game/sakuracan.rpy:4483 #-#-# translate crowdin vsenetrapros_570954bd:
+msgid "[_r_] I don't know who you are, I don't know what you're doing this for, but it's a mistake."
+msgstr ""
+
+# game/sakuracan.rpy:4487 #-#-# translate crowdin vsenetrapros_2b08d52a:
+msgid "[_su_] Don't bother trying to sweet talk me."
+msgstr ""
+
+# game/sakuracan.rpy:4489 #-#-# translate crowdin vsenetrapros_41b8a232:
+msgid "[_su_] Your death will save this world from destruction."
+msgstr ""
+
+# game/sakuracan.rpy:4493 #-#-# translate crowdin vsenetrapros_33700ee7:
+msgid "[_r_] I don't want to do anything bad to this world! I only want to help!"
+msgstr ""
+
+# game/sakuracan.rpy:4497 #-#-# translate crowdin vsenetrapros_1344e957:
+msgid "[_su_] Help... That's what you want."
+msgstr ""
+
+# game/sakuracan.rpy:4499 #-#-# translate crowdin vsenetrapros_48d0b0f6:
+msgid "[_su_] So your intentions were pure..."
+msgstr ""
+
+# game/sakuracan.rpy:4503 #-#-# translate crowdin vsenetrapros_542fef46:
+msgid "[_r_] You... You know more than the locals, do you?"
+msgstr ""
+
+# game/sakuracan.rpy:4505 #-#-# translate crowdin vsenetrapros_d395a6eb:
+msgid "[_r_] I do too, which is why I want to help avoid tragedy."
+msgstr ""
+
+# game/sakuracan.rpy:4509 #-#-# translate crowdin vsenetrapros_0155ff67:
+msgid "[_su_] Avoid tragedy? Don't you realize... You are the tragedy."
+msgstr ""
+
+# game/sakuracan.rpy:4513 #-#-# translate crowdin vsenetrapros_c26c2100:
+msgid "[_r_] I... I don't understand... What you mean..."
+msgstr ""
+
+# game/sakuracan.rpy:4517 #-#-# translate crowdin vsenetrapros_25fdb135:
+msgid "[_su_] It doesn't matter anymore."
+msgstr ""
+
+# game/sakuracan.rpy:4519 #-#-# translate crowdin vsenetrapros_e20a0a65:
+msgid "[_su_] It would have been so much easier to just stab you..... But you deserve to suffer more than anyone."
+msgstr ""
+
+# game/sakuracan.rpy:4523 #-#-# translate crowdin vsenetrapros_910638d8:
+msgid "[_r_] W-wait..."
+msgstr ""
+
+# game/sakuracan.rpy:4527 #-#-# translate crowdin vsenetrapros_96381de4:
+msgid "[_su_] See that jar?"
+msgstr ""
+
+# game/sakuracan.rpy:4531 #-#-# translate crowdin vsenetrapros_33a237f2:
+msgid "[_r_] That's... What are those? Worms?"
+msgstr ""
+
+# game/sakuracan.rpy:4535 #-#-# translate crowdin vsenetrapros_0b27802b:
+msgid "[_su_] Yes, they are. A large brood of sand scavengers."
+msgstr ""
+
+# game/sakuracan.rpy:4537 #-#-# translate crowdin vsenetrapros_df589250:
+msgid "[_su_] Bought at the black market in the sand village. They've long been trained to eat not only rotting human flesh, but fresh flesh as well."
+msgstr ""
+
+# game/sakuracan.rpy:4541 #-#-# translate crowdin vsenetrapros_845998c8:
+msgid "[_r_] Please... You... You're making a mistake..."
+msgstr ""
+
+# game/sakuracan.rpy:4547 #-#-# translate crowdin vsenetrapros_36ab2cad:
+msgid "[_su_] You're going to sleep now. But when you wake up... You'll finally know what it's like to be in the shoes of your victims."
+msgstr ""
+
+# game/sakuracan.rpy:4554 #-#-# translate crowdin vsenetrapros_dd91adda:
+msgid "[_m_] It tickles..."
+msgstr ""
+
+# game/sakuracan.rpy:4556 #-#-# translate crowdin vsenetrapros_34d623da:
+msgid "[_m_] It tickles!"
+msgstr ""
+
+# game/sakuracan.rpy:4558 #-#-# translate crowdin vsenetrapros_6093b749:
+msgid "[_m_] Tickles?"
+msgstr ""
+
+# game/sakuracan.rpy:4566 #-#-# translate crowdin vsenetrapros_06dbad6c:
+msgid "[_su_] Opened my eyes at last."
+msgstr ""
+
+# game/sakuracan.rpy:4568 #-#-# translate crowdin vsenetrapros_bdd1f7b2:
+msgid "[_su_] I was afraid you'd lost too much blood to wake up."
+msgstr ""
+
+# game/sakuracan.rpy:4574 #-#-# translate crowdin vsenetrapros_2820db9d:
+msgid "[_su_] Lucky me."
+msgstr ""
+
+# game/sakuracan.rpy:4576 #-#-# translate crowdin vsenetrapros_a7e75ebe:
+msgid "[_su_] Unlucky you, of course."
+msgstr ""
+
+# game/sakuracan.rpy:4582 #-#-# translate crowdin vsenetrapros_e523e71c:
+msgid "[_r_] АААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААА!!!!!!!!!!!!!!!"
+msgstr ""
+
+# game/sakuracan.rpy:4584 #-#-# translate crowdin vsenetrapros_3ff5e933:
+msgid "[_su_] This is it. Feel everything I have in store for you..."
+msgstr ""
+
+# game/sakuracan.rpy:4592 #-#-# translate crowdin vsenetrapros_ed7975f1:
+msgid "[_su_] You deserve every moment of this pain."
+msgstr ""
+
+# game/sakuracan.rpy:4600 #-#-# translate crowdin vsenetrapros_0ad4de6d:
+msgid "[_su_] Now when this blood-soaked pit becomes your grave."
+msgstr ""
+
+# game/sakuracan.rpy:4608 #-#-# translate crowdin vsenetrapros_1f44ff1e:
+msgid "[_su_] I will be able to rest."
+msgstr ""
+
+# game/sakuracan.rpy:4634 #-#-# translate crowdin vsenetrapros_f5078d2c:
+msgid "[_m_] That bastard... Shit..."
+msgstr ""
+
+# game/sakuracan.rpy:4636 #-#-# translate crowdin vsenetrapros_e658c440:
+msgid "[_m_] I can still feel the worms in my head..."
+msgstr ""
+
+# game/sakuracan.rpy:4638 #-#-# translate crowdin vsenetrapros_76d3850e:
+msgid "[_m_] Lured me out with Hinata... Dirty son of a bitch!"
+msgstr ""
+
+# game/sakuracan.rpy:4640 #-#-# translate crowdin vsenetrapros_e27a6bc2:
+msgid "[_m_] At least this time he talked to me. From what I was able to hear, I can tell he knows more than possible."
+msgstr ""
+
+# game/sakuracan.rpy:4642 #-#-# translate crowdin vsenetrapros_78827290:
+msgid "[_m_] His Sharingan can detect me in disguise... That makes a big difference."
+msgstr ""
+
+# game/sakuracan.rpy:4644 #-#-# translate crowdin vsenetrapros_ca2f4049:
+msgid "[_m_] No matter how hard I try to hide from him, he'll find me."
+msgstr ""
+
+# game/sakuracan.rpy:4646 #-#-# translate crowdin vsenetrapros_2b0e0c74:
+msgid "[_m_] The only thing I know about him is that he has a strong sharingan. Also, his approximate age. He looked to be about... Seventy? Probably.."
+msgstr ""
+
+# game/sakuracan.rpy:4648 #-#-# translate crowdin vsenetrapros_afbdc666:
+msgid "[_m_] Here I am again, it's the day after Hinata found out about everything..."
+msgstr ""
+
+# game/sakuracan.rpy:4650 #-#-# translate crowdin vsenetrapros_24aeb838:
+msgid "[_m_] And here I go again... To repeat everything exactly as I did... To answer all of Hinata's questions..."
+msgstr ""
+
+# game/sakuracan.rpy:4652 #-#-# translate crowdin vsenetrapros_52611bbc:
+msgid "[_m_] She must not return home this day... I have to do something to ruin his plans."
+msgstr ""
+
+# game/sakuracan.rpy:4667 #-#-# translate crowdin vsenetrapros_cd2bb3e2:
+msgid "[_r_] H-hinata... I know you have a family and all of that... I'm probably asking a lot but... Stay with me tonight. Just once, just for this one night..."
+msgstr ""
+
+# game/sakuracan.rpy:4671 #-#-# translate crowdin vsenetrapros_4f9b51ff:
+msgid "[_hi_] What's wrong? Why did your face change so much all of a sudden?"
+msgstr ""
+
+# game/sakuracan.rpy:4675 #-#-# translate crowdin vsenetrapros_95243fc9:
+msgid "[_r_] There's a reason, I... I don't even know if I can tell you, but..."
+msgstr ""
+
+# game/sakuracan.rpy:4679 #-#-# translate crowdin vsenetrapros_d2dae9e6:
+msgid "[_hi_] Please trust me... I've put all my faith in you..."
+msgstr ""
+
+# game/sakuracan.rpy:4683 #-#-# translate crowdin vsenetrapros_f81b11c4:
+msgid "[_r_] Okay, I'll tell you everything. But you have to stay here by my side."
+msgstr ""
+
+# game/sakuracan.rpy:4687 #-#-# translate crowdin vsenetrapros_7024929f:
+msgid "[_hi_] Okay. I'll stay with you for tonight, but just this once... I can't do this all the time you know..."
+msgstr ""
+
+# game/sakuracan.rpy:4691 #-#-# translate crowdin vsenetrapros_3af98989:
+msgid "[_r_] Sure, don't worry."
+msgstr ""
+
+# game/sakuracan.rpy:4703 #-#-# translate crowdin vsenetrapros_82feb081:
+msgid "[_hi_] Your place is in such a mess! It's a good thing I have a chance to fix this."
+msgstr ""
+
+# game/sakuracan.rpy:4707 #-#-# translate crowdin vsenetrapros_d1b8d1b7:
+msgid "[_r_] You shouldn't have. I'm grateful, but it's a little embarrassing."
+msgstr ""
+
+# game/sakuracan.rpy:4711 #-#-# translate crowdin vsenetrapros_e22abbbb:
+msgid "[_hi_] I can't look at the mess, makes me want to tidy everything up. I guess being a housewife takes its toll on me."
+msgstr ""
+
+# game/sakuracan.rpy:4715 #-#-# translate crowdin vsenetrapros_af91cb9e:
+msgid "[_r_] You're a perfect wife, Naruto and the kids are lucky to have you."
+msgstr ""
+
+# game/sakuracan.rpy:4719 #-#-# translate crowdin vsenetrapros_386872a3:
+msgid "[_hi_] You're also as lucky, actually! You're a part of my family, even if a secret one."
+msgstr ""
+
+# game/sakuracan.rpy:4723 #-#-# translate crowdin vsenetrapros_23b9a0d0:
+msgid "[_r_] Oh... Really? I didn't realize you thought of me that way."
+msgstr ""
+
+# game/sakuracan.rpy:4727 #-#-# translate crowdin vsenetrapros_4ed44559:
+msgid "[_hi_] I can't help it. You're a part of my life... I've never let anyone into my heart except my husband and the children... But I let you in."
+msgstr ""
+
+# game/sakuracan.rpy:4731 #-#-# translate crowdin vsenetrapros_3ae73c4e:
+msgid "[_r_] Hinata... You may have been in danger... That's why you're here and not at home."
+msgstr ""
+
+# game/sakuracan.rpy:4735 #-#-# translate crowdin vsenetrapros_c1dd2181:
+msgid "[_hi_] What do you mean?"
+msgstr ""
+
+# game/sakuracan.rpy:4739 #-#-# translate crowdin vsenetrapros_f98d29bb:
+msgid "[_r_] What I'm about to say is hard to believe but I'm not lying to you... There's a man who's been trying to kill me all this time... And sometimes he succeeds."
+msgstr ""
+
+# game/sakuracan.rpy:4743 #-#-# translate crowdin vsenetrapros_be851b50:
+msgid "[_hi_] I didn't understand this one..."
+msgstr ""
+
+# game/sakuracan.rpy:4747 #-#-# translate crowdin vsenetrapros_10cc5556:
+msgid "[_r_] This man... He's killed me several times already. Yet somehow I keep going back to the morning of the day I was killed."
+msgstr ""
+
+# game/sakuracan.rpy:4751 #-#-# translate crowdin vsenetrapros_ab188081:
+msgid "[_hi_] Are you serious? How is it possible..."
+msgstr ""
+
+# game/sakuracan.rpy:4755 #-#-# translate crowdin vsenetrapros_18ef9625:
+msgid "[_r_] I don't fully understand it myself, but that's what happens."
+msgstr ""
+
+# game/sakuracan.rpy:4757 #-#-# translate crowdin vsenetrapros_fcd29e4d:
+msgid "[_r_] Last time, I got a letter from him when you had left. He wrote that he was going to kill you, that he was already doing it while I was reading the letter..."
+msgstr ""
+
+# game/sakuracan.rpy:4759 #-#-# translate crowdin vsenetrapros_b8f2b010:
+msgid "[_r_] I rushed to you, but it turned out to be a trap... What did you plan to do at that time? Were you planning to do something around the house?"
+msgstr ""
+
+# game/sakuracan.rpy:4763 #-#-# translate crowdin vsenetrapros_d34ffcfe:
+msgid "[_hi_] Not really, I was planning to shop for groceries at one old lady's place on the other side of the village. I always get vegetables from her, she grows them herself..."
+msgstr ""
+
+# game/sakuracan.rpy:4767 #-#-# translate crowdin vsenetrapros_124dcb4f:
+msgid "[_r_] Okay, so you weren't home at the time. Probably, he was waiting, either for you to arrive or for me to react."
+msgstr ""
+
+# game/sakuracan.rpy:4771 #-#-# translate crowdin vsenetrapros_2eafccc5:
+msgid "[_hi_] He... Was he following me? What does he know about my family?"
+msgstr ""
+
+# game/sakuracan.rpy:4775 #-#-# translate crowdin vsenetrapros_3dfdae5b:
+msgid "[_r_] I don't know any more than you do but I'm guessing that yes, he may well have been watching you all that time."
+msgstr ""
+
+# game/sakuracan.rpy:4779 #-#-# translate crowdin vsenetrapros_ef61f45f:
+msgid "[_hi_] I see... So he was the one whose gaze I sensed..."
+msgstr ""
+
+# game/sakuracan.rpy:4783 #-#-# translate crowdin vsenetrapros_f0671a8d:
+msgid "[_r_] When you get home, be on your guard. With your byakugan you must be able to notice him if you're aware of this."
+msgstr ""
+
+# game/sakuracan.rpy:4787 #-#-# translate crowdin vsenetrapros_64edc8d8:
+msgid "[_hi_] Thank you..."
+msgstr ""
+
+# game/sakuracan.rpy:4791 #-#-# translate crowdin vsenetrapros_2bfcdb31:
+msgid "[_r_] There's one more thing... I want to ask for your help."
+msgstr ""
+
+# game/sakuracan.rpy:4795 #-#-# translate crowdin vsenetrapros_45588520:
+msgid "[_hi_] I'll try to help in any way I can..."
+msgstr ""
+
+# game/sakuracan.rpy:4799 #-#-# translate crowdin vsenetrapros_3fcb6051:
+msgid "[_r_] I need your help with Sakura. We talked earlier about me needing help with other girls... So now I need help with Sakura."
+msgstr ""
+
+# game/sakuracan.rpy:4803 #-#-# translate crowdin vsenetrapros_0986ec64:
+msgid "[_hi_] You intend to fuck her, don't you? Just like you did me?"
+msgstr ""
+
+# game/sakuracan.rpy:4807 #-#-# translate crowdin vsenetrapros_ddb9beb2:
+msgid "[_r_] Yes... Maybe it's a little wrong to ask you but..."
+msgstr ""
+
+# game/sakuracan.rpy:4811 #-#-# translate crowdin vsenetrapros_9c4d3026:
+msgid "[_hi_] I'll help but... Answer one question..."
+msgstr ""
+
+# game/sakuracan.rpy:4813 #-#-# translate crowdin vsenetrapros_fe55944a:
+msgid "[_hi_] No matter how many women you gather around yourself... I'll always be a little above them... won't I? Will I be the first one on your list?"
+msgstr ""
+
+# game/sakuracan.rpy:4827 #-#-# translate crowdin pervoidlam_e1b01d6d:
+msgid "[_r_] Not counting Kamiko, you were my first in many ways..."
+msgstr ""
+
+# game/sakuracan.rpy:4829 #-#-# translate crowdin pervoidlam_be9c71c2:
+msgid "[_r_] In the future, I'll protect a lot of people... All of them will probably feel the same way about me..."
+msgstr ""
+
+# game/sakuracan.rpy:4833 #-#-# translate crowdin pervoidlam_836e006b:
+msgid "[_r_] But I promise you'll always be more important to me than others. You have my word."
+msgstr ""
+
+# game/sakuracan.rpy:4841 #-#-# translate crowdin nemoguob_3154d12c:
+msgid "[_r_] I can't look that far ahead, Hinata..."
+msgstr ""
+
+# game/sakuracan.rpy:4843 #-#-# translate crowdin nemoguob_378a7145:
+msgid "[_r_] As much as I'd like to give you the answer you want to hear, I simply can't."
+msgstr ""
+
+# game/sakuracan.rpy:4847 #-#-# translate crowdin nemoguob_b9b6016e:
+msgid "[_r_] You'll always be dear and loved by me, but I can't say for sure if you'll be in the first place."
+msgstr ""
+
+# game/sakuracan.rpy:4857 #-#-# translate crowdin obbbzzzaaalll_450af0af:
+msgid "[_hi_] Thanks for the answer... I'll remember this..."
+msgstr ""
+
+# game/sakuracan.rpy:4861 #-#-# translate crowdin obbbzzzaaalll_beb627e4:
+msgid "[_hi_] Now I'm ready to listen. Do you have a plan?"
+msgstr ""
+
+# game/sakuracan.rpy:4865 #-#-# translate crowdin obbbzzzaaalll_e80dbb2a:
+msgid "[_r_] I know a few things about Sakura's life. Sasuke left the village and went on an important mission. Sakura is alone now. Moreover, she is very unsatisfied with her and Sasuke's intimate life."
+msgstr ""
+
+# game/sakuracan.rpy:4869 #-#-# translate crowdin obbbzzzaaalll_25734c8d:
+msgid "[_hi_] Yeah... You know, sometimes I see it perfectly. We sometimes meet for a drink and a chat, although she doesn't say it directly, but it's clear from her behavior."
+msgstr ""
+
+# game/sakuracan.rpy:4871 #-#-# translate crowdin obbbzzzaaalll_ceb698db:
+msgid "[_hi_] I see it because I was the same way before you came into my life."
+msgstr ""
+
+# game/sakuracan.rpy:4875 #-#-# translate crowdin obbbzzzaaalll_c9297efa:
+msgid "[_r_] If you help me, we can cure her of this quickly and safely."
+msgstr ""
+
+# game/sakuracan.rpy:4879 #-#-# translate crowdin obbbzzzaaalll_70d006ca:
+msgid "[_r_] How do you even feel about trying a... you know? With Sakura..."
+msgstr ""
+
+# game/sakuracan.rpy:4883 #-#-# translate crowdin obbbzzzaaalll_8dbaf562:
+msgid "[_hi_] A threesome with Sakura? I'm thrilled!"
+msgstr ""
+
+# game/sakuracan.rpy:4885 #-#-# translate crowdin obbbzzzaaalll_5add6adc:
+msgid "[_hi_] Although I didn't want to admit it for a long time, I was thinking of something like this when you showed me what quality sex is..."
+msgstr ""
+
+# game/sakuracan.rpy:4887 #-#-# translate crowdin obbbzzzaaalll_a9aff3de:
+msgid "[_hi_] Sakura deserves this kind of relief too."
+msgstr ""
+
+# game/sakuracan.rpy:4889 #-#-# translate crowdin obbbzzzaaalll_dc73c1be:
+msgid "[_hi_] I can't wait for you to show her the training room!"
+msgstr ""
+
+# game/sakuracan.rpy:4893 #-#-# translate crowdin obbbzzzaaalll_9fdae801:
+msgid "[_r_] All in good time, we have to do it carefully, so we don't scare her off."
+msgstr ""
+
+# game/sakuracan.rpy:4897 #-#-# translate crowdin obbbzzzaaalll_f6b7b150:
+msgid "[_hi_] I have an idea."
+msgstr ""
+
+# game/sakuracan.rpy:4899 #-#-# translate crowdin obbbzzzaaalll_3d02f87d:
+msgid "[_hi_] It's pretty hot right now, isn't it? Why not invite Sakura to the lake? Once, she herself showed me a lovely secluded lake by the Leaf Village. It's small but quite nice."
+msgstr ""
+
+# game/sakuracan.rpy:4901 #-#-# translate crowdin obbbzzzaaalll_82c6d974:
+msgid "[_hi_] I invite her there, I mention you, tell her I called you too so we can all relax and socialize a bit!"
+msgstr ""
+
+# game/sakuracan.rpy:4903 #-#-# translate crowdin obbbzzzaaalll_e2a81568:
+msgid "[_hi_] We'll put on our swimsuits. You'll be able to look at our half-naked bodies. It's no big deal, they're just swimsuits, right?"
+msgstr ""
+
+# game/sakuracan.rpy:4907 #-#-# translate crowdin obbbzzzaaalll_b408565a:
+msgid "[_r_] You've taken initiative with such eagerness... You're spoiling me too much, Hinata!"
+msgstr ""
+
+# game/sakuracan.rpy:4911 #-#-# translate crowdin obbbzzzaaalll_3c5b8947:
+msgid "[_hi_] Get yourself ready, stud! I'll ask her out tomorrow morning, and I'm sure she won't say no. Get ready to show off all the charisma you have!"
+msgstr ""
+
+# game/sakuracan.rpy:4915 #-#-# translate crowdin obbbzzzaaalll_faa47276:
+msgid "[_r_] Charisma is not important, I have a more effective weapon."
+msgstr ""
+
+# game/sakuracan.rpy:4919 #-#-# translate crowdin obbbzzzaaalll_da66aa79:
+msgid "[_hi_] Your dick? Isn't it a little early? Or are you talking about something else?"
+msgstr ""
+
+# game/sakuracan.rpy:4923 #-#-# translate crowdin obbbzzzaaalll_76df8ced:
+msgid "[_r_] That's a trade secret."
+msgstr ""
+
+# game/sakuracan.rpy:4925 #-#-# translate crowdin obbbzzzaaalll_dcacfec1:
+msgid "[_r_] Get some rest, Hinata, you have a lot of work tomorrow."
+msgstr ""
+
+# game/sakuracan.rpy:4929 #-#-# translate crowdin obbbzzzaaalll_00e46c51:
+msgid "[_hi_] Sure... Good night!"
+msgstr ""
+
+# game/sakuracan.rpy:4937 #-#-# translate crowdin obbbzzzaaalll_0a20c1cb:
+msgid "[_hi_] Good morning, we don't have much time. I've already arranged everything with Sakura, will you come with me?"
+msgstr ""
+
+# game/sakuracan.rpy:4942 #-#-# translate crowdin obbbzzzaaalll_fd2a2981:
+msgid "[_r_] Right now? So early?"
+msgstr ""
+
+# game/sakuracan.rpy:4947 #-#-# translate crowdin obbbzzzaaalll_63c2775a:
+msgid "[_hi_] Yeah, I just texted Sakura, she isn't busy today just like you, so we can go chat."
+msgstr ""
+
+# game/sakuracan.rpy:4952 #-#-# translate crowdin obbbzzzaaalll_edde82ac:
+msgid "[_r_] Did you mention me?"
+msgstr ""
+
+# game/sakuracan.rpy:4957 #-#-# translate crowdin obbbzzzaaalll_afd172df:
+msgid "[_hi_] Yeah, I said I'd take you with me, Sakura doesn't mind."
+msgstr ""
+
+# game/sakuracan.rpy:4962 #-#-# translate crowdin obbbzzzaaalll_cfcba6d8:
+msgid "[_r_] Well, okay let's go then."
+msgstr ""
+
+# game/sakuracan.rpy:4979 #-#-# translate crowdin obbbzzzaaalll_35ba93d3:
+msgid "[_saku_] Hey guys, what's going on? Do you have special plans today, Hinata?"
+msgstr ""
+
+# game/sakuracan.rpy:4984 #-#-# translate crowdin obbbzzzaaalll_00fc5778:
+msgid "[_r_] Hi-hi."
+msgstr ""
+
+# game/sakuracan.rpy:4986 #-#-# translate crowdin obbbzzzaaalll_d12e32b7:
+msgid "[_hi_] You bet! I'm sick of the heat, Himawari is at grandpa's, Boruto is on a mission, I want to relax! Remember that lake we went to two years ago?"
+msgstr ""
+
+# game/sakuracan.rpy:4991 #-#-# translate crowdin obbbzzzaaalll_dcabbc87:
+msgid "[_saku_] The one in the forest? Yeah, wanna go take a dip?"
+msgstr ""
+
+# game/sakuracan.rpy:4996 #-#-# translate crowdin obbbzzzaaalll_bf751da6:
+msgid "[_hi_] Yes! It'd be great to go there together, [viname] eager to do the same."
+msgstr ""
+
+# game/sakuracan.rpy:4998 #-#-# translate crowdin obbbzzzaaalll_c61dcd2e:
+msgid "[_r_] It's really hot here all the time, and I didn't even know of any good lakes. As soon as Hinata mentioned it, I immediately got the urge to go."
+msgstr ""
+
+# game/sakuracan.rpy:5003 #-#-# translate crowdin obbbzzzaaalll_ea52a174:
+msgid "[_saku_] Well... I don't have any plans so... Alright, let's do it!"
+msgstr ""
+
+# game/sakuracan.rpy:5005 #-#-# translate crowdin obbbzzzaaalll_407a4143:
+msgid "[_saku_] Just need to bring my swimsuit... Have you brought yours, Hinata?"
+msgstr ""
+
+# game/sakuracan.rpy:5010 #-#-# translate crowdin obbbzzzaaalll_1008950e:
+msgid "[_hi_] We'll stop by my place on our way, I'll get it."
+msgstr ""
+
+# game/sakuracan.rpy:5015 #-#-# translate crowdin obbbzzzaaalll_a7f4e691:
+msgid "[_saku_] Alright, wait a couple of minutes guys, I'll grab what I need and let's go!"
+msgstr ""
+
+# game/sakuracan.rpy:5035 #-#-# translate crowdin sumaa78_1889396c:
+msgid "[_hi_] How about we play a game of Truth or Dare?"
+msgstr ""
+
+# game/sakuracan.rpy:5039 #-#-# translate crowdin sumaa78_e0134cce:
+msgid "[_r_] Huh? I've never heard of such a game."
+msgstr ""
+
+# game/sakuracan.rpy:5043 #-#-# translate crowdin sumaa78_f992c419:
+msgid "[_saku_] Generally, this game is for a large group of people, but three people can also play, have you really never tried it?"
+msgstr ""
+
+# game/sakuracan.rpy:5047 #-#-# translate crowdin sumaa78_a2b7284b:
+msgid "[_r_] I don't even know the rules."
+msgstr ""
+
+# game/sakuracan.rpy:5051 #-#-# translate crowdin sumaa78_64d210c3:
+msgid "[_hi_] It's simple! We ask questions in a circle, on any topic. The one who is asked a question must answer honestly and if they can't, the circle changes direction, and the one who couldn't asnwer has to perform some task. Usually, it's drinking strong alcohol."
+msgstr ""
+
+# game/sakuracan.rpy:5055 #-#-# translate crowdin sumaa78_ca20df0e:
+msgid "[_saku_] So that's why you brought a couple bottles of wine... Clever, Hinata!"
+msgstr ""
+
+# game/sakuracan.rpy:5059 #-#-# translate crowdin sumaa78_6b9007d1:
+msgid "[_r_] Let's give it a try, sounds like fun!"
+msgstr ""
+
+# game/sakuracan.rpy:5063 #-#-# translate crowdin sumaa78_d76e4b60:
+msgid "[_hi_] I'll get started then!"
+msgstr ""
+
+# game/sakuracan.rpy:5067 #-#-# translate crowdin sumaa78_148e80fe:
+msgid "[_hi_] Sakura, how many kids would you ideally want? I'm sure you, like all girls, have had these thoughts in the past."
+msgstr ""
+
+# game/sakuracan.rpy:5071 #-#-# translate crowdin sumaa78_7796a6bd:
+msgid "[_saku_] Well, well, well... I used to dream of having a big family! I've thought about it many times in the past... I wanted at least three kids, ideally."
+msgstr ""
+
+# game/sakuracan.rpy:5073 #-#-# translate crowdin sumaa78_b474c7b4:
+msgid "[_saku_] But work sometimes changes plans and makes its own adjustments. It's still not too late, though!"
+msgstr ""
+
+# game/sakuracan.rpy:5077 #-#-# translate crowdin sumaa78_7d161e5c:
+msgid "[_hi_] I like your honesty!"
+msgstr ""
+
+# game/sakuracan.rpy:5083 #-#-# translate crowdin sumaa78_a9f105b6:
+msgid "[_saku_] Okay... [viname]... What is your ideal girl? It's always interesting to hear that from a bachelor!"
+msgstr ""
+
+# game/sakuracan.rpy:5097 #-#-# translate crowdin smelaya_6ff7de4a:
+msgid "[_r_] Come to think of it, I've always appreciated boldness in a girl."
+msgstr ""
+
+# game/sakuracan.rpy:5099 #-#-# translate crowdin smelaya_0e53845e:
+msgid "[_r_] If she's going to be bold in her desires and honest with me, not afraid to say things straight, that sounds perfect to me."
+msgstr ""
+
+# game/sakuracan.rpy:5101 #-#-# translate crowdin smelaya_b24c8397:
+msgid "[_r_] Then spice it all up with a sense of humor, and we have the perfect match for me."
+msgstr ""
+
+# game/sakuracan.rpy:5111 #-#-# translate crowdin spokoi_14360061:
+msgid "[_r_] I don't think about it often, but when I do, I see a calm and sweet girl next to me."
+msgstr ""
+
+# game/sakuracan.rpy:5113 #-#-# translate crowdin spokoi_f3c37e78:
+msgid "[_r_] An explosive temper doesn't appeal to me much."
+msgstr ""
+
+# game/sakuracan.rpy:5115 #-#-# translate crowdin spokoi_4e37a32c:
+msgid "[_r_] A nice family girl is the best for relationships, but I probably wouldn't look for such a girl, it will just happen one day."
+msgstr ""
+
+# game/sakuracan.rpy:5125 #-#-# translate crowdin krutibubut_7a6f347e:
+msgid "[_saku_] I see! To each his own, I'm sure in time you'll find the perfect match!"
+msgstr ""
+
+# game/sakuracan.rpy:5129 #-#-# translate crowdin krutibubut_f9b9621f:
+msgid "[_r_] So... Hinata..."
+msgstr ""
+
+# game/sakuracan.rpy:5133 #-#-# translate crowdin krutibubut_93f57e2c:
+msgid "[_hi_] Go ahead! I want you to ask me the boldest question you can think of!"
+msgstr ""
+
+# game/sakuracan.rpy:5137 #-#-# translate crowdin krutibubut_d3094e10:
+msgid "[_saku_] Wow! She's challenging you!"
+msgstr ""
+
+# game/sakuracan.rpy:5141 #-#-# translate crowdin krutibubut_8d74d80c:
+msgid "[_r_] The boldest? Okay..."
+msgstr ""
+
+# game/sakuracan.rpy:5143 #-#-# translate crowdin krutibubut_0880c366:
+msgid "[_r_] So, Hinata, you're Hokage's wife, aren't you? In your entire life, have you ever liked anyone other than him? Back when you weren't in a relationship with him."
+msgstr ""
+
+# game/sakuracan.rpy:5147 #-#-# translate crowdin krutibubut_9268f212:
+msgid "[_hi_] I... I don't know. I can't answer that, I'd rather have a drink!"
+msgstr ""
+
+# game/sakuracan.rpy:5151 #-#-# translate crowdin krutibubut_526705a6:
+msgid "[_saku_] Good one, ou hit it right on the mark! Are newbies always this lucky?"
+msgstr ""
+
+# game/sakuracan.rpy:5155 #-#-# translate crowdin krutibubut_b4eda2bc:
+msgid "[_r_] I'm surprised myself!"
+msgstr ""
+
+# game/sakuracan.rpy:5159 #-#-# translate crowdin krutibubut_f18c308e:
+msgid "[_saku_] Alright, since Hinata couldn't answer, the circle changes its direction, now you ask me a question."
+msgstr ""
+
+# game/sakuracan.rpy:5161 #-#-# translate crowdin krutibubut_8a875f9a:
+msgid "[_saku_] Let's see if you're that good!"
+msgstr ""
+
+# game/sakuracan.rpy:5165 #-#-# translate crowdin krutibubut_154b5f3b:
+msgid "[_r_] Sakura... I'm sure we all have bad habits, name a bad habit you're ashamed of."
+msgstr ""
+
+# game/sakuracan.rpy:5169 #-#-# translate crowdin krutibubut_8a97c956:
+msgid "[_hi_] Ooh! Time for embarrassing stories!"
+msgstr ""
+
+# game/sakuracan.rpy:5173 #-#-# translate crowdin krutibubut_211d3938:
+msgid "[_saku_] Okay, you got me. Let my shameful story remain a secret!"
+msgstr ""
+
+# game/sakuracan.rpy:5177 #-#-# translate crowdin krutibubut_daeb94e7:
+msgid "[_hi_] Drink, drink, drink!"
+msgstr ""
+
+# game/sakuracan.rpy:5181 #-#-# translate crowdin krutibubut_3d403b6d:
+msgid "[_saku_] It's time for something stronger, right? Okay, okay, I'm drinking."
+msgstr ""
+
+# game/sakuracan.rpy:5189 #-#-# translate crowdin krutibubut_36de402a:
+msgid "[_hi_] Now you're asking me a question again!"
+msgstr ""
+
+# game/sakuracan.rpy:5193 #-#-# translate crowdin krutibubut_11006e5d:
+msgid "[_r_] Hinata... Hadn't you become a shinobi in your time, what profession do you think you would have learned?"
+msgstr ""
+
+# game/sakuracan.rpy:5197 #-#-# translate crowdin krutibubut_4562cdaf:
+msgid "[_hi_] Well... I loved cooking when I was a kid, and I still do. I think I'd be able to devote my life to cooking!"
+msgstr ""
+
+# game/sakuracan.rpy:5201 #-#-# translate crowdin krutibubut_83a6644d:
+msgid "[_saku_] That was an easy one!"
+msgstr ""
+
+# game/sakuracan.rpy:5205 #-#-# translate crowdin krutibubut_b2e49ee5:
+msgid "[_hi_] It's going to be harder now, Sakura!"
+msgstr ""
+
+# game/sakuracan.rpy:5209 #-#-# translate crowdin krutibubut_b6cee7c5:
+msgid "[_saku_] I'm scared already! The shots we're drinking are pretty strong."
+msgstr ""
+
+# game/sakuracan.rpy:5213 #-#-# translate crowdin krutibubut_ba6ec6db:
+msgid "[_hi_] Sakura! Do you have any sex toys at home? What do they look like?"
+msgstr ""
+
+# game/sakuracan.rpy:5217 #-#-# translate crowdin krutibubut_66b1e3aa:
+msgid "[_saku_] Damn... How do I answer that? It's embarrassing..."
+msgstr ""
+
+# game/sakuracan.rpy:5221 #-#-# translate crowdin krutibubut_8a6b2693:
+msgid "[_hi_] Then drink up!"
+msgstr ""
+
+# game/sakuracan.rpy:5225 #-#-# translate crowdin krutibubut_4e7374f6:
+msgid "[_saku_] You're playing dirty... But I'll get my revenge!"
+msgstr ""
+
+# game/sakuracan.rpy:5229 #-#-# translate crowdin krutibubut_2f9520d0:
+msgid "[_hi_] [viname]! If Sakura and I weren't married women, which one of us would be more popular with men?"
+msgstr ""
+
+# game/sakuracan.rpy:5233 #-#-# translate crowdin krutibubut_b823128c:
+msgid "[_saku_] Oh, Sakura's really going wild!"
+msgstr ""
+
+# game/sakuracan.rpy:5247 #-#-# translate crowdin sakkurrea_72e47d78:
+msgid "[_r_] It's hard to say, but I still think Sakura would."
+msgstr ""
+
+# game/sakuracan.rpy:5249 #-#-# translate crowdin sakkurrea_0eee0a58:
+msgid "[_r_] You're both very pretty, but Sakura looks like a woman who can do anything!"
+msgstr ""
+
+# game/sakuracan.rpy:5251 #-#-# translate crowdin sakkurrea_3b891e80:
+msgid "[_r_] A hospital director with that kind of looks and status, that's attractive!"
+msgstr ""
+
+# game/sakuracan.rpy:5255 #-#-# translate crowdin sakkurrea_f724de68:
+msgid "[_saku_] Oh, cut this off... It's nice to hear, though!"
+msgstr ""
+
+# game/sakuracan.rpy:5263 #-#-# translate crowdin hinautat_d7840877:
+msgid "[_r_] You both look excellent, but I'm leaning more towards Hinata."
+msgstr ""
+
+# game/sakuracan.rpy:5265 #-#-# translate crowdin hinautat_88981363:
+msgid "[_r_] A nice housewife who will always provide a good meal is something that a lot of men want."
+msgstr ""
+
+# game/sakuracan.rpy:5267 #-#-# translate crowdin hinautat_63d2871a:
+msgid "[_r_] For most men, I think Hinata's type is the ideal."
+msgstr ""
+
+# game/sakuracan.rpy:5271 #-#-# translate crowdin hinautat_92fafaaa:
+msgid "[_hi_] Compliments! How nice to hear!"
+msgstr ""
+
+# game/sakuracan.rpy:5281 #-#-# translate crowdin anuisseesa_5d23c9d7:
+msgid "[_r_] Okay, Sakura... Since we can play dirty..."
+msgstr ""
+
+# game/sakuracan.rpy:5283 #-#-# translate crowdin anuisseesa_d8064d68:
+msgid "[_r_] How often do you masturbate?"
+msgstr ""
+
+# game/sakuracan.rpy:5287 #-#-# translate crowdin anuisseesa_049bf283:
+msgid "[_hi_] Ha! I like this question!"
+msgstr ""
+
+# game/sakuracan.rpy:5291 #-#-# translate crowdin anuisseesa_ac64a57f:
+msgid "[_saku_] Guys... That's quite the questions you're asking... But I can't lose again..."
+msgstr ""
+
+# game/sakuracan.rpy:5293 #-#-# translate crowdin anuisseesa_7ae31b61:
+msgid "[_saku_] O-okay, to hell with it! I want revenge on Hinata!"
+msgstr ""
+
+# game/sakuracan.rpy:5295 #-#-# translate crowdin anuisseesa_199cf15e:
+msgid "[_saku_] It's... about three times a day..."
+msgstr ""
+
+# game/sakuracan.rpy:5299 #-#-# translate crowdin anuisseesa_85c5667c:
+msgid "[_hi_] Wow! That's a lot!"
+msgstr ""
+
+# game/sakuracan.rpy:5303 #-#-# translate crowdin anuisseesa_7f6f880f:
+msgid "[_saku_] That's it! Quit discussing this!"
+msgstr ""
+
+# game/sakuracan.rpy:5305 #-#-# translate crowdin anuisseesa_a6e52b0c:
+msgid "[_saku_] My question!"
+msgstr ""
+
+# game/sakuracan.rpy:5307 #-#-# translate crowdin anuisseesa_32c683d0:
+msgid "[_saku_] Hinata! A few years ago, you and me bought the same dildo... What position do you use it in most often?"
+msgstr ""
+
+# game/sakuracan.rpy:5311 #-#-# translate crowdin anuisseesa_43821adb:
+msgid "[_hi_] Hey... That was our secret... I... I'll have a drink!"
+msgstr ""
+
+# game/sakuracan.rpy:5315 #-#-# translate crowdin anuisseesa_2d693101:
+msgid "[_saku_] That's right! That'll teach you how to corner me!"
+msgstr ""
+
+# game/sakuracan.rpy:5319 #-#-# translate crowdin anuisseesa_ff6171c8:
+msgid "[_saku_] [viname]! If you don't answer, I win!"
+msgstr ""
+
+# game/sakuracan.rpy:5321 #-#-# translate crowdin anuisseesa_dfe48dff:
+msgid "[_saku_] Have you ever masturbated thinking about any of us?"
+msgstr ""
+
+# game/sakuracan.rpy:5335 #-#-# translate crowdin dada_de4be074:
+msgid "[_r_] Since we have to be 100 percent honest here.... Yeah, I did it once."
+msgstr ""
+
+# game/sakuracan.rpy:5337 #-#-# translate crowdin dada_226be31f:
+msgid "[_r_] I couldn't help it, I'm a single guy and you girls are just too pretty."
+msgstr ""
+
+# game/sakuracan.rpy:5341 #-#-# translate crowdin dada_b8970653:
+msgid "[_saku_] Bold! I didn't think you'd answer."
+msgstr ""
+
+# game/sakuracan.rpy:5349 #-#-# translate crowdin nenet_c73d5990:
+msgid "[_r_] No, why would I when I can just watch porn?"
+msgstr ""
+
+# game/sakuracan.rpy:5351 #-#-# translate crowdin nenet_940aef7d:
+msgid "[_r_] Thoughts haven't turned me on for a long time."
+msgstr ""
+
+# game/sakuracan.rpy:5355 #-#-# translate crowdin nenet_266b792f:
+msgid "[_saku_] Missed... Although if you did, I'm sure you wouldn't have said so!"
+msgstr ""
+
+# game/sakuracan.rpy:5365 #-#-# translate crowdin oossncm_600c02ce:
+msgid "[_r_] Hinata, what's your favorite kind of sex and position?"
+msgstr ""
+
+# game/sakuracan.rpy:5369 #-#-# translate crowdin oossncm_297bf6bd:
+msgid "[_saku_] After a question like that, you have to drink the whole bottle!"
+msgstr ""
+
+# game/sakuracan.rpy:5373 #-#-# translate crowdin oossncm_8a748d2f:
+msgid "[_hi_] No way!"
+msgstr ""
+
+# game/sakuracan.rpy:5377 #-#-# translate crowdin oossncm_861a00f3:
+msgid "[_hi_] I like anal sex, my favorite position is doggystyle."
+msgstr ""
+
+# game/sakuracan.rpy:5381 #-#-# translate crowdin oossncm_fe0a84c9:
+msgid "[_saku_] Damn girl... I can't even imagine what you're going to ask me next..."
+msgstr ""
+
+# game/sakuracan.rpy:5385 #-#-# translate crowdin oossncm_ad741545:
+msgid "[_r_] You really answered, that's really brave."
+msgstr ""
+
+# game/sakuracan.rpy:5389 #-#-# translate crowdin oossncm_99258b6e:
+msgid "[_hi_] Sakura, anal sex, vaginal or oral? And why, in detail!"
+msgstr ""
+
+# game/sakuracan.rpy:5393 #-#-# translate crowdin oossncm_ff9f048b:
+msgid "[_saku_] Shit... I... Okay! I'll answer, but that's the last question, and we're going swimming!"
+msgstr ""
+
+# game/sakuracan.rpy:5397 #-#-# translate crowdin oossncm_2836f5f2:
+msgid "[_hi_] Or maybe you'll finish the bottle after all?"
+msgstr ""
+
+# game/sakuracan.rpy:5401 #-#-# translate crowdin oossncm_49d894c8:
+msgid "[_saku_] I can't... It'll just get me completely drunk, I won't be able to rest!"
+msgstr ""
+
+# game/sakuracan.rpy:5403 #-#-# translate crowdin oossncm_959daebe:
+msgid "[_saku_] Anyway... Oral sex..."
+msgstr ""
+
+# game/sakuracan.rpy:5407 #-#-# translate crowdin oossncm_2e58ea8f:
+msgid "[_r_] So that's how... And why?"
+msgstr ""
+
+# game/sakuracan.rpy:5411 #-#-# translate crowdin oossncm_465a8d81:
+msgid "[_saku_] I just like the feeling... When, well..."
+msgstr ""
+
+# game/sakuracan.rpy:5415 #-#-# translate crowdin oossncm_a9eb0615:
+msgid "[_hi_] The bottle is waiting..."
+msgstr ""
+
+# game/sakuracan.rpy:5419 #-#-# translate crowdin oossncm_9694397b:
+msgid "[_saku_] I like the feeling of a cock going straight down my throat! I just like it harder!"
+msgstr ""
+
+# game/sakuracan.rpy:5423 #-#-# translate crowdin oossncm_eeb3e77b:
+msgid "[_hi_] No one's judging you!"
+msgstr ""
+
+# game/sakuracan.rpy:5427 #-#-# translate crowdin oossncm_c6242612:
+msgid "[_saku_] It's all so embarrassing, guys... Let's just forget about this game..."
+msgstr ""
+
+# game/sakuracan.rpy:5431 #-#-# translate crowdin oossncm_be4a1f7d:
+msgid "[_hi_] What game? I don't remember anything! You're going into the water!"
+msgstr ""
+
+# game/sakuracan.rpy:5435 #-#-# translate crowdin oossncm_ccb5b728:
+msgid "[_saku_] Yeah, that's what I wanted to hear!"
+msgstr ""
+
+# game/sakuracan.rpy:5441 #-#-# translate crowdin oossncm_d2baa3c9:
+msgid "[_m_] How good they all look..."
+msgstr ""
+
+# game/sakuracan.rpy:5443 #-#-# translate crowdin oossncm_71c4ae77:
+msgid "[_m_] This whole thing looks like a dream."
+msgstr ""
+
+# game/sakuracan.rpy:5445 #-#-# translate crowdin oossncm_4f0c6178:
+msgid "[_m_] I'm glad Hinata agreed to help me, the way she does it is amazing."
+msgstr ""
+
+# game/sakuracan.rpy:5447 #-#-# translate crowdin oossncm_89bbe7d7:
+msgid "[_m_] To jump to such intimate questions so easily... I couldn't have done it myself."
+msgstr ""
+
+# game/sakuracan.rpy:5449 #-#-# translate crowdin oossncm_85b40426:
+msgid "[_m_] With her help, Sakura will be mine very soon..."
+msgstr ""
+
+# game/sakuracan.rpy:5453 #-#-# translate crowdin oossncm_e80f24ed:
+msgid "[_m_] When that happens, days like this will become the norm. Not only will I be able to enjoy looking at their bodies in swimsuits, I'll enjoy their bodies to the fullest."
+msgstr ""
+
+# game/sakuracan.rpy:5457 #-#-# translate crowdin oossncm_2804de83:
+msgid "[_m_] I just have to be patient..."
+msgstr ""
+
+# game/sakuracan.rpy:5459 #-#-# translate crowdin oossncm_7789e321:
+msgid "[_hi_] Hey, what are you gawking at? Enjoying looking at our half-naked bodies?"
+msgstr ""
+
+# game/sakuracan.rpy:5461 #-#-# translate crowdin oossncm_a09f7aa9:
+msgid "[_r_] How do you think? I love it!"
+msgstr ""
+
+# game/sakuracan.rpy:5463 #-#-# translate crowdin oossncm_3ba2fa84:
+msgid "[_hi_] And what about our big hard friend? Does your thing want some attention yet?"
+msgstr ""
+
+# game/sakuracan.rpy:5465 #-#-# translate crowdin oossncm_b6775068:
+msgid "[_r_] Hinata... Right here? Sakura's..."
+msgstr ""
+
+# game/sakuracan.rpy:5467 #-#-# translate crowdin oossncm_02ee8f8d:
+msgid "[_hi_] Shh... Behind the tree, quickly... Sakura won't even notice you came..."
+msgstr ""
+
+# game/sakuracan.rpy:5469 #-#-# translate crowdin oossncm_7d144f95:
+msgid "[_r_] Come here, I'll warm you up a bit."
+msgstr ""
+
+# game/sakuracan.rpy:5480 #-#-# translate crowdin oossncm_eb91e1e2:
+msgid "[_hi_] Mmmmm... Your tongue... It feels so good..."
+msgstr ""
+
+# game/sakuracan.rpy:5482 #-#-# translate crowdin oossncm_9e0c7dfc:
+msgid "[_hi_] Good..."
+msgstr ""
+
+# game/sakuracan.rpy:5484 #-#-# translate crowdin oossncm_28510251:
+msgid "[_hi_] You know what I need..."
+msgstr ""
+
+# game/sakuracan.rpy:5490 #-#-# translate crowdin oossncm_8d129c3d:
+msgid "[_hi_] M-M-M-M-M-M-M!"
+msgstr ""
+
+# game/sakuracan.rpy:5492 #-#-# translate crowdin oossncm_eb609a86:
+msgid "[_hi_] Right there!"
+msgstr ""
+
+# game/sakuracan.rpy:5498 #-#-# translate crowdin oossncm_027d0421:
+msgid "[_hi_] Come on!"
+msgstr ""
+
+# game/sakuracan.rpy:5500 #-#-# translate crowdin oossncm_05172655:
+msgid "[_hi_] Please! Fuck me!"
+msgstr ""
+
+# game/sakuracan.rpy:5510 #-#-# translate crowdin oossncm_cecaedc3:
+msgid "[_hi_] Yes! Fuck me! YES!"
+msgstr ""
+
+# game/sakuracan.rpy:5512 #-#-# translate crowdin oossncm_bf89cb10:
+msgid "[_r_] Shh, Hinata! Sakura will hear!"
+msgstr ""
+
+# game/sakuracan.rpy:5514 #-#-# translate crowdin oossncm_59ac14d6:
+msgid "[_hi_] Mmmm... I can't help myself... All this talk about sex..."
+msgstr ""
+
+# game/sakuracan.rpy:5516 #-#-# translate crowdin oossncm_3a862965:
+msgid "[_hi_] It's so nice that you can fuck me good right now!"
+msgstr ""
+
+# game/sakuracan.rpy:5522 #-#-# translate crowdin oossncm_ac8b42a9:
+msgid "[_hi_] Yes! Yes! More!"
+msgstr ""
+
+# game/sakuracan.rpy:5524 #-#-# translate crowdin oossncm_85cfd857:
+msgid "[_hi_] You need to finish quickly!"
+msgstr ""
+
+# game/sakuracan.rpy:5526 #-#-# translate crowdin oossncm_f30794e0:
+msgid "[_hi_] Fuck me hard! Use me like a toy!"
+msgstr ""
+
+# game/sakuracan.rpy:5532 #-#-# translate crowdin oossncm_61821243:
+msgid "[_r_] Fuck! It's too good!"
+msgstr ""
+
+# game/sakuracan.rpy:5534 #-#-# translate crowdin oossncm_9278e311:
+msgid "[_r_] I'm gonna cum inside you!"
+msgstr ""
+
+# game/sakuracan.rpy:5536 #-#-# translate crowdin oossncm_84a4ec6a:
+msgid "[_hi_] Do it! The water will wash it all away!"
+msgstr ""
+
+# game/sakuracan.rpy:5546 #-#-# translate crowdin oossncm_d7b6d445:
+msgid "[_r_] Phew... That was quick..."
+msgstr ""
+
+# game/sakuracan.rpy:5548 #-#-# translate crowdin oossncm_47fb1143:
+msgid "[_hi_] Let's continue in the room..."
+msgstr ""
+
+# game/sakuracan.rpy:5552 #-#-# translate crowdin oossncm_900d3269:
+msgid "[_m_] Either the alcohol has affected Hinata so much, or she's just becoming a pervert..."
+msgstr ""
+
+# game/sakuracan.rpy:5554 #-#-# translate crowdin oossncm_785169fc:
+msgid "[_m_] Whatever it is, I like it."
+msgstr ""
+
+# game/sakuracan.rpy:5560 #-#-# translate crowdin oossncm_d9f9acbf:
+msgid "[_hi_] The water is so refreshing... I'm glad we went swimming today..."
+msgstr ""
+
+# game/sakuracan.rpy:5564 #-#-# translate crowdin oossncm_c0e471cb:
+msgid "[_saku_] You don't say... I've missed this for a long time with this weather..."
+msgstr ""
+
+# game/sakuracan.rpy:5568 #-#-# translate crowdin oossncm_79f32a06:
+msgid "[_hi_] I think we should do it again someday, it was fun!"
+msgstr ""
+
+# game/sakuracan.rpy:5572 #-#-# translate crowdin oossncm_8c2d51e2:
+msgid "[_r_] I agree, we had a great time."
+msgstr ""
+
+# game/sakuracan.rpy:5576 #-#-# translate crowdin oossncm_b5b84c87:
+msgid "[_saku_] Yeah... It's always nice to have company!"
+msgstr ""
+
+# game/sakuracan.rpy:5578 #-#-# translate crowdin oossncm_dc7f59c3:
+msgid "[_saku_] [viname], we have to go to work tomorrow, are you ready for the shift?"
+msgstr ""
+
+# game/sakuracan.rpy:5582 #-#-# translate crowdin oossncm_b0fe915c:
+msgid "[_r_] Yes, quite. Will there be a lot of new visitors to the massage department?"
+msgstr ""
+
+# game/sakuracan.rpy:5586 #-#-# translate crowdin oossncm_d33ad4e0:
+msgid "[_saku_] Well, you'll definitely have one more!"
+msgstr ""
+
+# game/sakuracan.rpy:5588 #-#-# translate crowdin oossncm_a2e59817:
+msgid "[_saku_] I still don't want to abuse my power as your boss, but people have been praising your hands so much... Maybe I should come over for a massage too."
+msgstr ""
+
+# game/sakuracan.rpy:5592 #-#-# translate crowdin oossncm_a22a7eaf:
+msgid "[_hi_] That's the best idea you've ever had! Trust me, his hands are magical."
+msgstr ""
+
+# game/sakuracan.rpy:5596 #-#-# translate crowdin oossncm_f71a9f72:
+msgid "[_saku_] Here comes some more positive feedback... This is where I can't resist anymore, my shoulders have been hurting too much lately."
+msgstr ""
+
+# game/sakuracan.rpy:5600 #-#-# translate crowdin oossncm_78d5ffe2:
+msgid "[_r_] You're welcome to visit, always happy to help!"
+msgstr ""
+
+# game/sakuracan.rpy:5604 #-#-# translate crowdin oossncm_3c9beee1:
+msgid "[_saku_] Alright then! In this case, wait for me at your workplace sometime before lunch."
+msgstr ""
+
+# game/sakuracan.rpy:5608 #-#-# translate crowdin oossncm_380ebdbf:
+msgid "[_r_] Yes, boss!"
+msgstr ""
+
+# game/sakuracan.rpy:5620 #-#-# translate crowdin oossncm_c92e98df:
+msgid "[_hi_] Thought I was leaving? Not at all! There's still stuff waiting for us in the room..."
+msgstr ""
+
+# game/sakuracan.rpy:5625 #-#-# translate crowdin oossncm_65066c0d:
+msgid "[_r_] You want to fuck so badly tonight, don't you?"
+msgstr ""
+
+# game/sakuracan.rpy:5630 #-#-# translate crowdin oossncm_a5ec7c18:
+msgid "[_hi_] We've been practicing anal... Your cock in my ass is the only thing I want lately!"
+msgstr ""
+
+# game/sakuracan.rpy:5635 #-#-# translate crowdin oossncm_e6468fa1:
+msgid "[_r_] Get changed then, it's time to work on your ass."
+msgstr ""
+
+# game/sakuracan.rpy:5649 #-#-# translate crowdin wintdmerss_7f6df6f5:
+msgid "[_r_] Today was a great day, thanks for helping me, Hinata."
+msgstr ""
+
+# game/sakuracan.rpy:5654 #-#-# translate crowdin wintdmerss_9b872763:
+msgid "[_hi_] Thank you... For taking care of my body and my needs..."
+msgstr ""
+
+# game/sakuracan.rpy:5659 #-#-# translate crowdin wintdmerss_384ba531:
+msgid "[_hi_] If you need me to help you with Sakura, I'm always here for you!"
+msgstr ""
+
+# game/sakuracan.rpy:5664 #-#-# translate crowdin wintdmerss_dd0124be:
+msgid "[_r_] If I think of anything, I'll be sure to call you!"
+msgstr ""
+
+# game/sakuracan.rpy:5669 #-#-# translate crowdin wintdmerss_d31d1f89:
+msgid "[_hi_] See you then!"
+msgstr ""
+
+# game/sakuracan.rpy:5676 #-#-# translate crowdin wintdmerss_31bc5006:
+msgid "[_m_] Tomorrow I'll be able to touch Sakura and it won't look like anything weird."
+msgstr ""
+
+# game/sakuracan.rpy:5678 #-#-# translate crowdin wintdmerss_393f020b:
+msgid "[_m_] The fact that she'll be in my hands is a big trap. Once I use provocation, she won't want to get up from the massage chair anymore."
+msgstr ""
+
+# game/sakuracan.rpy:5680 #-#-# translate crowdin wintdmerss_1628c1b7:
+msgid "[_m_] Further and further, it's just a matter of pressing the right point, which is her sexual dissatisfaction."
+msgstr ""
+
+# game/sakuracan.rpy:5682 #-#-# translate crowdin wintdmerss_642303d6:
+msgid "[_m_] Poor girl masturbates three times a day... Although I wouldn't be surprised if it started after the first provocation, we'll see."
+msgstr ""
+
+# game/sakuracan.rpy:5684 #-#-# translate crowdin wintdmerss_9bd3caba:
+msgid "[_m_] Time to go to bed, tomorrow should be even more productive."
+msgstr ""
+
+# game/sakuracan.rpy:5709 #-#-# translate crowdin wintdmerss_3cd7c96f:
+msgid "[_saku_] Hey, good morning! How's your head today?"
+msgstr ""
+
+# game/sakuracan.rpy:5713 #-#-# translate crowdin wintdmerss_62878a3c:
+msgid "[_r_] I'm fine, what about you? Yesterday, you drank the most."
+msgstr ""
+
+# game/sakuracan.rpy:5717 #-#-# translate crowdin wintdmerss_791e47b0:
+msgid "[_saku_] Yeah... Thanks for asking... It's aching a little, to be honest."
+msgstr ""
+
+# game/sakuracan.rpy:5721 #-#-# translate crowdin wintdmerss_dbf74827:
+msgid "[_saku_] Anyway, I'm hoping for a nice massage! That should take the edge off."
+msgstr ""
+
+# game/sakuracan.rpy:5725 #-#-# translate crowdin wintdmerss_5fea05de:
+msgid "[_r_] Before lunch, right?"
+msgstr ""
+
+# game/sakuracan.rpy:5729 #-#-# translate crowdin wintdmerss_8fad9f0c:
+msgid "[_saku_] Exactly!"
+msgstr ""
+
+# game/sakuracan.rpy:5733 #-#-# translate crowdin wintdmerss_be13fc4b:
+msgid "[_r_] Okay, I'll be waiting, boss!"
+msgstr ""
+
+# game/sakuracan.rpy:5740 #-#-# translate crowdin wintdmerss_92a67328:
+msgid "[_m_] Okay, that was the last one. Sakura should be coming now."
+msgstr ""
+
+# game/sakuracan.rpy:5742 #-#-# translate crowdin wintdmerss_209919da:
+msgid "[_m_] Good thing there aren't that many visitors, I haven't had a chance to get tired."
+msgstr ""
+
+# game/sakuracan.rpy:5750 #-#-# translate crowdin wintdmerss_8dd014b0:
+msgid "[_saku_] Hey, hey! So, ready to give me a massage?"
+msgstr ""
+
+# game/sakuracan.rpy:5754 #-#-# translate crowdin wintdmerss_2cd0571f:
+msgid "[_r_] Of course, Sakura, anything for you."
+msgstr ""
+
+# game/sakuracan.rpy:5758 #-#-# translate crowdin wintdmerss_5406ffeb:
+msgid "[_saku_] So... Give commands! What do you want me to do? Should I undress a little or is staying dressed okay, too?"
+msgstr ""
+
+# game/sakuracan.rpy:5762 #-#-# translate crowdin wintdmerss_0c7ae636:
+msgid "[_r_] Yes, strip down to your waist. Don't worry, I'll go away for a second to prepare ointments."
+msgstr ""
+
+# game/sakuracan.rpy:5766 #-#-# translate crowdin wintdmerss_59db61b4:
+msgid "[_saku_] Okay!"
+msgstr ""
+
+# game/sakuracan.rpy:5772 #-#-# translate crowdin wintdmerss_43ef04eb:
+msgid "[_saku_] Your hands... They're so warm!"
+msgstr ""
+
+# game/sakuracan.rpy:5776 #-#-# translate crowdin wintdmerss_25c1e356:
+msgid "[_r_] That's because of the ointment, it helps to keep the warmth in, so that the massage is more effective. Especially in the softer areas of your back."
+msgstr ""
+
+# game/sakuracan.rpy:5780 #-#-# translate crowdin wintdmerss_f6973b96:
+msgid "[_saku_] Sounds good..."
+msgstr ""
+
+# game/sakuracan.rpy:5782 #-#-# translate crowdin wintdmerss_b355532e:
+msgid "[_m_] It's time."
+msgstr ""
+
+# game/sakuracan.rpy:5796 #-#-# translate crowdin winserse678_0a196739:
+msgid "[_saku_] Mmmmm... You know... All those people weren't lying... You really are good at this..."
+msgstr ""
+
+# game/sakuracan.rpy:5800 #-#-# translate crowdin winserse678_eeb221e0:
+msgid "[_r_] Lots of people who praised me?"
+msgstr ""
+
+# game/sakuracan.rpy:5804 #-#-# translate crowdin winserse678_13283aff:
+msgid "[_saku_] Older patients often leave reviews for masseurs they like, but they also leave angry ones..."
+msgstr ""
+
+# game/sakuracan.rpy:5806 #-#-# translate crowdin winserse678_4f60a652:
+msgid "[_saku_] No one complained about you... They wrote only rave reviews... All of which found their way to my desk... Now I know what they were talking about..."
+msgstr ""
+
+# game/sakuracan.rpy:5808 #-#-# translate crowdin winserse678_06ee9c6a:
+msgid "[_saku_] You have such a... Strong and yet gentle hands... I wonder how you do it..."
+msgstr ""
+
+# game/sakuracan.rpy:5812 #-#-# translate crowdin winserse678_cdd3c8c6:
+msgid "[_r_] I have a special technique... A little secret that masseurs like me don't reveal."
+msgstr ""
+
+# game/sakuracan.rpy:5816 #-#-# translate crowdin winserse678_b7724bf1:
+msgid "[_saku_] I s-see... Feels... Feels very good..."
+msgstr ""
+
+# game/sakuracan.rpy:5820 #-#-# translate crowdin winserse678_a27bbb31:
+msgid "[_r_] You know, if you like it so much, you can come here every day. I'll find time for you."
+msgstr ""
+
+# game/sakuracan.rpy:5824 #-#-# translate crowdin winserse678_45539685:
+msgid "[_saku_] I... I can't... I'm your boss..."
+msgstr ""
+
+# game/sakuracan.rpy:5828 #-#-# translate crowdin winserse678_0ad4b110:
+msgid "[_r_] I insist, your muscles tell me that you don't know how to relax properly, you need it."
+msgstr ""
+
+# game/sakuracan.rpy:5832 #-#-# translate crowdin winserse678_12402e4a:
+msgid "[_saku_] I guess... You're right about that..."
+msgstr ""
+
+# game/sakuracan.rpy:5834 #-#-# translate crowdin winserse678_0072a899:
+msgid "[_saku_] I... I'll think about it... Thanks..."
+msgstr ""
+
+# game/sakuracan.rpy:5844 #-#-# translate crowdin winserse678_2b2fc86e:
+msgid "[_saku_] Now that was something! Thank you for your massage. I feel born anew now!"
+msgstr ""
+
+# game/sakuracan.rpy:5849 #-#-# translate crowdin winserse678_a2825571:
+msgid "[_r_] Oh, it's nothing, just my first massage. You should come in every day, then I'll fix your back right up."
+msgstr ""
+
+# game/sakuracan.rpy:5851 #-#-# translate crowdin winserse678_b3392499:
+msgid "[_r_] I can see it's not in the best condition; it's probably the sedentary work taking its toll."
+msgstr ""
+
+# game/sakuracan.rpy:5856 #-#-# translate crowdin winserse678_e8708c3a:
+msgid "[_saku_] Yeah... Filling out paperwork is harder than it looks. But at the same time, no one can do it for me."
+msgstr ""
+
+# game/sakuracan.rpy:5861 #-#-# translate crowdin winserse678_e867143a:
+msgid "[_r_] It's cool that you're so responsible when it comes to work."
+msgstr ""
+
+# game/sakuracan.rpy:5866 #-#-# translate crowdin winserse678_5ae9f30a:
+msgid "[_saku_] Oh, you flatterer! You're making me blush!"
+msgstr ""
+
+# game/sakuracan.rpy:5871 #-#-# translate crowdin winserse678_5c4562d7:
+msgid "[_r_] Come on, I'm just pointing out my boss's strengths!"
+msgstr ""
+
+# game/sakuracan.rpy:5876 #-#-# translate crowdin winserse678_614a6aad:
+msgid "[_saku_] Thanks... Maybe you want to... well..."
+msgstr ""
+
+# game/sakuracan.rpy:5878 #-#-# translate crowdin winserse678_59912854:
+msgid "[_saku_] Of course, I never offer this to my employees, but you're kind of a friend and..."
+msgstr ""
+
+# game/sakuracan.rpy:5880 #-#-# translate crowdin winserse678_1b974fd4:
+msgid "[_saku_] I have some nice wine in my office, and your shift is over..."
+msgstr ""
+
+# game/sakuracan.rpy:5885 #-#-# translate crowdin winserse678_d880315e:
+msgid "[_r_] I gladly accept! I don't mind relaxing after being on my feet all day."
+msgstr ""
+
+# game/sakuracan.rpy:5890 #-#-# translate crowdin winserse678_e90d20b9:
+msgid "[_saku_] Great! Let's go then!"
+msgstr ""
+
+# game/sakuracan.rpy:5901 #-#-# translate crowdin winserse678_095ab8f3:
+msgid "[_saku_] Of course, I wanted to tell Hinata that Naruto would appreciate such a gift, but, man... I was so embarrassed!"
+msgstr ""
+
+# game/sakuracan.rpy:5905 #-#-# translate crowdin winserse678_59d2a291:
+msgid "[_r_] No wonder, it's never easy to talk about such things in a large company."
+msgstr ""
+
+# game/sakuracan.rpy:5909 #-#-# translate crowdin winserse678_d4957809:
+msgid "[_saku_] That's what I mean! It would sound super weird..."
+msgstr ""
+
+# game/sakuracan.rpy:5911 #-#-# translate crowdin winserse678_f99be74c:
+msgid "[_saku_] What about you? I don't know how you still manage to stay single."
+msgstr ""
+
+# game/sakuracan.rpy:5913 #-#-# translate crowdin winserse678_f8727a11:
+msgid "[_saku_] I bet you've had affairs while traveling all over the world!"
+msgstr ""
+
+# game/sakuracan.rpy:5917 #-#-# translate crowdin winserse678_0aaee476:
+msgid "[_r_] Nothing serious, Sakura. I don't mean to cry the blues, but it never got serious."
+msgstr ""
+
+# game/sakuracan.rpy:5921 #-#-# translate crowdin winserse678_e3b5809a:
+msgid "[_r_] How are you doing on the love front? You must be married, aren't you?"
+msgstr ""
+
+# game/sakuracan.rpy:5925 #-#-# translate crowdin winserse678_39c04227:
+msgid "[_saku_] Yeah... I have a husband and everything.... I don't see him very often, though."
+msgstr ""
+
+# game/sakuracan.rpy:5929 #-#-# translate crowdin winserse678_71b21f8a:
+msgid "[_r_] Really? What's the matter? Does he work outside the village?"
+msgstr ""
+
+# game/sakuracan.rpy:5933 #-#-# translate crowdin winserse678_7977cfaa:
+msgid "[_saku_] You could say that, yes..."
+msgstr ""
+
+# game/sakuracan.rpy:5937 #-#-# translate crowdin winserse678_c0aae700:
+msgid "[_r_] You seem a little upset when you talk about him, is everything alright?"
+msgstr ""
+
+# game/sakuracan.rpy:5941 #-#-# translate crowdin winserse678_e71b8b20:
+msgid "[_saku_] I... I guess I'm not in the mood to talk about this... Don't worry about it..."
+msgstr ""
+
+# game/sakuracan.rpy:5945 #-#-# translate crowdin winserse678_f957ec75:
+msgid "[_m_] I gotta push forward!"
+msgstr ""
+
+# game/sakuracan.rpy:5951 #-#-# translate crowdin winserse678_e0ed82b3:
+msgid "[_m_] Now!"
+msgstr ""
+
+# game/sakuracan.rpy:5965 #-#-# translate crowdin xcmv743bsd_1501921c:
+msgid "[_r_] You know, Sakura, if there's anything worrying you, don't be afraid to tell me or anyone else."
+msgstr ""
+
+# game/sakuracan.rpy:5967 #-#-# translate crowdin xcmv743bsd_04d45f0b:
+msgid "[_r_] When you share your problems, it gets easier..."
+msgstr ""
+
+# game/sakuracan.rpy:5969 #-#-# translate crowdin xcmv743bsd_c67bab63:
+msgid "[_r_] I'm sure there's nothing you can't handle, but everyone deserves to be heard."
+msgstr ""
+
+# game/sakuracan.rpy:5971 #-#-# translate crowdin xcmv743bsd_da803ec7:
+msgid "[_saku_] Yeah... I deserve that... You're right..."
+msgstr ""
+
+# game/sakuracan.rpy:5973 #-#-# translate crowdin xcmv743bsd_616e3cbd:
+msgid "[_saku_] I do love my husband... He's a bit of an unusual man..."
+msgstr ""
+
+# game/sakuracan.rpy:5975 #-#-# translate crowdin xcmv743bsd_7ca6c79a:
+msgid "[_saku_] A lot of things have happened between us in the past..."
+msgstr ""
+
+# game/sakuracan.rpy:5977 #-#-# translate crowdin xcmv743bsd_043dab16:
+msgid "[_saku_] Sometimes I think... that I'll never..."
+msgstr ""
+
+# game/sakuracan.rpy:5979 #-#-# translate crowdin xcmv743bsd_94ce01b8:
+msgid "[_saku_] It's getting harder and harder now. We see each other so rarely that I'm getting used to his absence."
+msgstr ""
+
+# game/sakuracan.rpy:5981 #-#-# translate crowdin xcmv743bsd_ee2bd640:
+msgid "[_saku_] It scares me."
+msgstr ""
+
+# game/sakuracan.rpy:5983 #-#-# translate crowdin xcmv743bsd_ca811c68:
+msgid "[_r_] How does he feel about it? Have you talked this through?"
+msgstr ""
+
+# game/sakuracan.rpy:5985 #-#-# translate crowdin xcmv743bsd_e3db9a1f:
+msgid "[_saku_] I tried... but his work is more important... He's never been one for emotion or... tenderness..."
+msgstr ""
+
+# game/sakuracan.rpy:5987 #-#-# translate crowdin xcmv743bsd_ca3da63f:
+msgid "[_saku_] Maybe it's okay... It's just that sometimes dark thoughts creep into my head..."
+msgstr ""
+
+# game/sakuracan.rpy:5989 #-#-# translate crowdin xcmv743bsd_f7f5ef46:
+msgid "[_r_] It's up to you to decide what's normal and what's not. If the situation is bothering you, then there's a problem. That's what I think."
+msgstr ""
+
+# game/sakuracan.rpy:5991 #-#-# translate crowdin xcmv743bsd_cff0074c:
+msgid "[_saku_] It's harder to solve it than it seems... I've tried, really."
+msgstr ""
+
+# game/sakuracan.rpy:5993 #-#-# translate crowdin xcmv743bsd_664ff7c1:
+msgid "[_r_] Yeah, I don't know everything you know; my vision of your situation is only superficial."
+msgstr ""
+
+# game/sakuracan.rpy:5995 #-#-# translate crowdin xcmv743bsd_19fb7f66:
+msgid "[_r_] But a positive attitude is also very important! Even if you miss him and there's nothing you can do about it, don't let yourself lose your spirit!"
+msgstr ""
+
+# game/sakuracan.rpy:5997 #-#-# translate crowdin xcmv743bsd_0221861b:
+msgid "[_r_] There are lots of other ways to unwind."
+msgstr ""
+
+# game/sakuracan.rpy:5999 #-#-# translate crowdin xcmv743bsd_f4ea31c4:
+msgid "[_saku_] Like what?"
+msgstr ""
+
+# game/sakuracan.rpy:6001 #-#-# translate crowdin xcmv743bsd_85844d1f:
+msgid "[_r_] Like spending more time with your friends. Come to my workplace for a massage! Let yourself get more out of life than you currently do."
+msgstr ""
+
+# game/sakuracan.rpy:6003 #-#-# translate crowdin xcmv743bsd_bb28a8a3:
+msgid "[_saku_] Yeah... I guess that makes sense. It was fun when we all went swimming together. It was a really nice day... I wasn't thinking about Sasuke at all..."
+msgstr ""
+
+# game/sakuracan.rpy:6005 #-#-# translate crowdin xcmv743bsd_0ad4c24b:
+msgid "[_r_] It's time to start thinking about yourself. It'll be easier to deal with difficulties that way!"
+msgstr ""
+
+# game/sakuracan.rpy:6007 #-#-# translate crowdin xcmv743bsd_b25b0d9c:
+msgid "[_saku_] I'll try..."
+msgstr ""
+
+# game/sakuracan.rpy:6015 #-#-# translate crowdin xcmv743bsd_9919a571:
+msgid "[_saku_] Time to go home... Thank you for this conversation... I haven't talked to someone so frankly in a long time..."
+msgstr ""
+
+# game/sakuracan.rpy:6019 #-#-# translate crowdin xcmv743bsd_8572c214:
+msgid "[_r_] Oh, please, I'm at your service. I'm still your employee, after all!"
+msgstr ""
+
+# game/sakuracan.rpy:6023 #-#-# translate crowdin xcmv743bsd_9280f717:
+msgid "[_saku_] See you tomorrow!"
+msgstr ""
+
+# game/sakuracan.rpy:6029 #-#-# translate crowdin xcmv743bsd_b63e5fb9:
+msgid "[_m_] No way! I can feel how horny you are right now."
+msgstr ""
+
+# game/sakuracan.rpy:6031 #-#-# translate crowdin xcmv743bsd_5347028c:
+msgid "[_m_] My provocation is making you wetter by every second. Is that why you're trying to make me go home?"
+msgstr ""
+
+# game/sakuracan.rpy:6033 #-#-# translate crowdin xcmv743bsd_ff3a7966:
+msgid "[_m_] I know that after all the workers have finished their shifts, you check to make sure that no doors are left unlocked."
+msgstr ""
+
+# game/sakuracan.rpy:6035 #-#-# translate crowdin xcmv743bsd_fbe2ac53:
+msgid "[_m_] But I also know that when you do that, you don't lock your office."
+msgstr ""
+
+# game/sakuracan.rpy:6037 #-#-# translate crowdin xcmv743bsd_fdc1c3d4:
+msgid "[_m_] Will you surprise me with something today?"
+msgstr ""
+
+# game/sakuracan.rpy:6056 #-#-# translate crowdin scxver4324t24_5102f1e3:
+msgid "[_m_] She's gone, so I just have to wait for her to come back."
+msgstr ""
+
+# game/sakuracan.rpy:6058 #-#-# translate crowdin scxver4324t24_05d9fea8:
+msgid "[_m_] As she was walking away, I could feel her body burning from the inside."
+msgstr ""
+
+# game/sakuracan.rpy:6060 #-#-# translate crowdin scxver4324t24_397ea8ae:
+msgid "[_m_] My mastery of provocation has improved by leaps and bounds."
+msgstr ""
+
+# game/sakuracan.rpy:6062 #-#-# translate crowdin scxver4324t24_7207591e:
+msgid "[_m_] Despite Sakura's high chakra control, she's very susceptible to the influence of my provocation."
+msgstr ""
+
+# game/sakuracan.rpy:6064 #-#-# translate crowdin scxver4324t24_ad363a56:
+msgid "[_m_] It's probably because of her personal problems."
+msgstr ""
+
+# game/sakuracan.rpy:6066 #-#-# translate crowdin scxver4324t24_4f29a6f1:
+msgid "[_m_] Plainly speaking, it's all because Sasuke doesn't fuck you at all, right, Sakura?"
+msgstr ""
+
+# game/sakuracan.rpy:6083 #-#-# translate crowdin scxver4324t24_9837afab:
+msgid "[_m_] A little warm-up before the main course?"
+msgstr ""
+
+# game/sakuracan.rpy:6085 #-#-# translate crowdin scxver4324t24_c90353bf:
+msgid "[_m_] I've turned her on so much that even the slightest touch makes her tremble."
+msgstr ""
+
+# game/sakuracan.rpy:6087 #-#-# translate crowdin scxver4324t24_2ea0ce0b:
+msgid "[_m_] But to think, right in the office? I was certainly hoping for that, but I still had my doubts."
+msgstr ""
+
+# game/sakuracan.rpy:6089 #-#-# translate crowdin scxver4324t24_d1e126e1:
+msgid "[_m_] She's playing with her pussy like it's the only thing she needs in her life right now."
+msgstr ""
+
+# game/sakuracan.rpy:6091 #-#-# translate crowdin scxver4324t24_8165d456:
+msgid "[_m_] She's breathing so hard, it's like she's just come back from a long run on the hottest day."
+msgstr ""
+
+# game/sakuracan.rpy:6093 #-#-# translate crowdin scxver4324t24_6499136c:
+msgid "[_m_] Poor girl... She's still very young. Not having a good cock on a regular basis must be literal torture."
+msgstr ""
+
+# game/sakuracan.rpy:6097 #-#-# translate crowdin scxver4324t24_d6e81c07:
+msgid "[_m_] Can't wait, can you?"
+msgstr ""
+
+# game/sakuracan.rpy:6099 #-#-# translate crowdin scxver4324t24_cfc4caa6:
+msgid "[_m_] So that's where you're hiding it. I never thought that filing cabinet would hide a rubber dick."
+msgstr ""
+
+# game/sakuracan.rpy:6110 #-#-# translate crowdin scxver4324t24_30d45815:
+msgid "[_m_] No foreplay whatsoever!"
+msgstr ""
+
+# game/sakuracan.rpy:6112 #-#-# translate crowdin scxver4324t24_4617c865:
+msgid "[_m_] She just started pounding with that thing right away."
+msgstr ""
+
+# game/sakuracan.rpy:6114 #-#-# translate crowdin scxver4324t24_ec31fe87:
+msgid "[_m_] Now every time I walk into her office, there will be this image of cock-hungry Sakura riding a dildo on her desk right in my mind."
+msgstr ""
+
+# game/sakuracan.rpy:6116 #-#-# translate crowdin scxver4324t24_ab554d64:
+msgid "[_m_] I can feel her chakra giving in further and further."
+msgstr ""
+
+# game/sakuracan.rpy:6118 #-#-# translate crowdin scxver4324t24_ab8f0b44:
+msgid "[_m_] She just can't resist anymore."
+msgstr ""
+
+# game/sakuracan.rpy:6120 #-#-# translate crowdin scxver4324t24_8ef07de0:
+msgid "[_m_] Just a little more and that big ass will end up on my cock."
+msgstr ""
+
+# game/sakuracan.rpy:6122 #-#-# translate crowdin scxver4324t24_aa388059:
+msgid "[_m_] I can feel it..."
+msgstr ""
+
+# game/sakuracan.rpy:6131 #-#-# translate crowdin scxver4324t24_c80e8dce:
+msgid "[_m_] That was fast... You went a little too hard, it seems."
+msgstr ""
+
+# game/sakuracan.rpy:6133 #-#-# translate crowdin scxver4324t24_ecfeecb9:
+msgid "[_m_] It's okay, Sakura. We're almost at the finish line. Wait a little, and you'll throw that thing in the trash."
+msgstr ""
+
+# game/sakuracan.rpy:6142 #-#-# translate crowdin scxver4324t24_46c61d7c:
+msgid "[_m_] I should fool around with Hinata, I miss her ass."
+msgstr ""
+
+# game/sakuracan.rpy:6144 #-#-# translate crowdin scxver4324t24_7032ed9f:
+msgid "[_m_] Besides, she'll be thrilled to learn a little more about Sakura."
+msgstr ""
+
+# game/sakuracan.rpy:6152 #-#-# translate crowdin scxver4324t24_3d8b989a:
+msgid "[_r_] What's up? Are you up for some fun tonight?"
+msgstr ""
+
+# game/sakuracan.rpy:6154 #-#-# translate crowdin scxver4324t24_dc3b36d5:
+msgid "[_hi_] Why not. Can I also stay at your place?"
+msgstr ""
+
+# game/sakuracan.rpy:6156 #-#-# translate crowdin scxver4324t24_f116a0a7:
+msgid "[_r_] Sure, we could sleep together, too."
+msgstr ""
+
+# game/sakuracan.rpy:6158 #-#-# translate crowdin scxver4324t24_7012f48b:
+msgid "[_hi_] I'll be there soon!"
+msgstr ""
+
+# game/sakuracan.rpy:6167 #-#-# translate crowdin scxver4324t24_b2875931:
+msgid "[_hi_] Is the room ready for us?"
+msgstr ""
+
+# game/sakuracan.rpy:6172 #-#-# translate crowdin scxver4324t24_c5208a28:
+msgid "[_r_] Straight to the main course? Why don't we have tea first?"
+msgstr ""
+
+# game/sakuracan.rpy:6177 #-#-# translate crowdin scxver4324t24_6b3d1407:
+msgid "[_hi_] Do we have to? We've long since moved on to what happens after tea!"
+msgstr ""
+
+# game/sakuracan.rpy:6179 #-#-# translate crowdin scxver4324t24_f06a82d5:
+msgid "[_hi_] I want to be yours tonight!"
+msgstr ""
+
+# game/sakuracan.rpy:6184 #-#-# translate crowdin scxver4324t24_74d87bd3:
+msgid "[_r_] Well, since you're asking..."
+msgstr ""
+
+# game/sakuracan.rpy:6186 #-#-# translate crowdin scxver4324t24_69da5c09:
+msgid "[_r_] Get changed; let's go have some fun."
+msgstr ""
+
+# game/sakuracan.rpy:6200 #-#-# translate crowdin teismcvwanefwvg_65bbf2f1:
+msgid "[_r_] You know, I think Sakura will join us shortly."
+msgstr ""
+
+# game/sakuracan.rpy:6204 #-#-# translate crowdin teismcvwanefwvg_a5b9acb8:
+msgid "[_hi_] So soon? I thought it would take longer."
+msgstr ""
+
+# game/sakuracan.rpy:6208 #-#-# translate crowdin teismcvwanefwvg_567e604d:
+msgid "[_r_] She's giving in to my technique much faster than I thought."
+msgstr ""
+
+# game/sakuracan.rpy:6212 #-#-# translate crowdin teismcvwanefwvg_2374c2da:
+msgid "[_hi_] You know how to handle girls. There's nothing surprising."
+msgstr ""
+
+# game/sakuracan.rpy:6216 #-#-# translate crowdin teismcvwanefwvg_6245be17:
+msgid "[_r_] Thank you, but that's not the point."
+msgstr ""
+
+# game/sakuracan.rpy:6220 #-#-# translate crowdin teismcvwanefwvg_1b5bbda1:
+msgid "[_r_] She does not get any sex at all."
+msgstr ""
+
+# game/sakuracan.rpy:6224 #-#-# translate crowdin teismcvwanefwvg_d622d25e:
+msgid "[_hi_] Yeah... We've talked about it sometimes. Of all the married women I know, she has the hardest time."
+msgstr ""
+
+# game/sakuracan.rpy:6228 #-#-# translate crowdin teismcvwanefwvg_5119de05:
+msgid "[_r_] Are you sure you're ready to let her into our private life?"
+msgstr ""
+
+# game/sakuracan.rpy:6232 #-#-# translate crowdin teismcvwanefwvg_a09b99b0:
+msgid "[_hi_] Yes! I can't wait... I want us both to feel as good as I do right now."
+msgstr ""
+
+# game/sakuracan.rpy:6236 #-#-# translate crowdin teismcvwanefwvg_417140ea:
+msgid "[_m_] Sakura?"
+msgstr ""
+
+# game/sakuracan.rpy:6242 #-#-# translate crowdin teismcvwanefwvg_fb1e7546:
+msgid "[_r_] Sakura? Did something happen?"
+msgstr ""
+
+# game/sakuracan.rpy:6244 #-#-# translate crowdin teismcvwanefwvg_b4115ab2:
+msgid "[_saku_] Hey! Sorry for calling you so late... You're still up, aren't you? I really hope I didn't wake you up... It's kind of embarrassing..."
+msgstr ""
+
+# game/sakuracan.rpy:6246 #-#-# translate crowdin teismcvwanefwvg_b5e17541:
+msgid "[_r_] No, no, I'm still awake; it's fine. Did you want something?"
+msgstr ""
+
+# game/sakuracan.rpy:6248 #-#-# translate crowdin teismcvwanefwvg_ef901e64:
+msgid "[_saku_] Yeah... Well... tomorrow, some of our patients are moving to another hospital, which means that your shift for tomorrow is canceled."
+msgstr ""
+
+# game/sakuracan.rpy:6250 #-#-# translate crowdin teismcvwanefwvg_13ffb388:
+msgid "[_r_] Oh... Yeah, okay, I got it."
+msgstr ""
+
+# game/sakuracan.rpy:6252 #-#-# translate crowdin teismcvwanefwvg_38c6739a:
+msgid "[_saku_] Maybe... Maybe you want to spend some time together? Not with me of course! Don't get any ideas! With me and Hinata! We could come over to my place and spend time in friendly company..."
+msgstr ""
+
+# game/sakuracan.rpy:6254 #-#-# translate crowdin teismcvwanefwvg_582b8608:
+msgid "[_saku_] Or do you have other plans?"
+msgstr ""
+
+# game/sakuracan.rpy:6256 #-#-# translate crowdin teismcvwanefwvg_30bace47:
+msgid "[_r_] No plans, Sakura. I'm all yours tomorrow. Or rather, yours and Hinata's."
+msgstr ""
+
+# game/sakuracan.rpy:6258 #-#-# translate crowdin teismcvwanefwvg_633474f7:
+msgid "[_saku_] Great! Then, before you come over to my place, can you do me a friendly favor?"
+msgstr ""
+
+# game/sakuracan.rpy:6260 #-#-# translate crowdin teismcvwanefwvg_4b1af71e:
+msgid "[_r_] Sure, what is it?"
+msgstr ""
+
+# game/sakuracan.rpy:6262 #-#-# translate crowdin teismcvwanefwvg_c1a91892:
+msgid "[_saku_] I need to pick up some flowers from my friend's shop, but I have an online work call scheduled at the same time. It would be silly if I talked to an important customer on the way to the shop."
+msgstr ""
+
+# game/sakuracan.rpy:6264 #-#-# translate crowdin teismcvwanefwvg_74ec6b32:
+msgid "[_saku_] Just pick up the vase of flowers and come straight to my place. I'll warn my friend. Will you do that for me?"
+msgstr ""
+
+# game/sakuracan.rpy:6266 #-#-# translate crowdin teismcvwanefwvg_7dd287ae:
+msgid "[_r_] Yes, it's no big deal, rely on me."
+msgstr ""
+
+# game/sakuracan.rpy:6268 #-#-# translate crowdin teismcvwanefwvg_a6a8bdb5:
+msgid "[_saku_] Thank you! You're the best! A mountain off my shoulders, I didn't want to reschedule the call, thank you!"
+msgstr ""
+
+# game/sakuracan.rpy:6270 #-#-# translate crowdin teismcvwanefwvg_a2bc8238:
+msgid "[_r_] See you tomorrow, Sakura. I'll be on time!"
+msgstr ""
+
+# game/sakuracan.rpy:6272 #-#-# translate crowdin teismcvwanefwvg_32108cc2:
+msgid "[_saku_] Good night!"
+msgstr ""
+
+# game/sakuracan.rpy:6278 #-#-# translate crowdin teismcvwanefwvg_e8e15590:
+msgid "[_hi_] Wow, that's unexpected. She didn't say anything to me."
+msgstr ""
+
+# game/sakuracan.rpy:6280 #-#-# translate crowdin teismcvwanefwvg_884f63ed:
+msgid "[_hi_] She'll probably text and invite you any moment now."
+msgstr ""
+
+# game/sakuracan.rpy:6284 #-#-# translate crowdin teismcvwanefwvg_2dab4a52:
+msgid "[_r_] Sakura called me first. I guess I'm her new favorite?"
+msgstr ""
+
+# game/sakuracan.rpy:6288 #-#-# translate crowdin teismcvwanefwvg_e50a0da7:
+msgid "[_hi_] Oh, stop bragging!"
+msgstr ""
+
+# game/sakuracan.rpy:6290 #-#-# translate crowdin teismcvwanefwvg_242b68d5:
+msgid "[_hi_] Let's call it a day. I have to go home in the morning."
+msgstr ""
+
+# game/sakuracan.rpy:6294 #-#-# translate crowdin teismcvwanefwvg_77f79a3e:
+msgid "[_r_] That's right, come here..."
+msgstr ""
+
+# game/sakuracan.rpy:6324 #-#-# translate crowdin iramsn_9ecdd967:
+msgid "[_ino_] Good afternoon! Would you like to buy some pretty flowers for your girl?"
+msgstr ""
+
+# game/sakuracan.rpy:6328 #-#-# translate crowdin iramsn_d8e95b91:
+msgid "[_r_] Hello. Perhaps... Do you think she will like flowers?"
+msgstr ""
+
+# game/sakuracan.rpy:6332 #-#-# translate crowdin iramsn_aac3c1f8:
+msgid "[_ino_] Rest assured! All girls love flowers; they are associated with youth, with spring and love!"
+msgstr ""
+
+# game/sakuracan.rpy:6336 #-#-# translate crowdin iramsn_f3912109:
+msgid "[_r_] Well, then maybe I'll buy some. What kind of flowers do you like? I'm ready to gift you with a bouquet right now."
+msgstr ""
+
+# game/sakuracan.rpy:6340 #-#-# translate crowdin iramsn_2fd2364f:
+msgid "[_ino_] Oh! That's so sweet of you... but this girl's been married a long time! You're a little late!"
+msgstr ""
+
+# game/sakuracan.rpy:6344 #-#-# translate crowdin iramsn_7d412266:
+msgid "[_r_] Oh... I should have gotten here earlier..."
+msgstr ""
+
+# game/sakuracan.rpy:6348 #-#-# translate crowdin iramsn_edbbc50b:
+msgid "[_ino_] Don't worry, there are plenty of young girls in Konoha who would like a young man of such a gallant manner."
+msgstr ""
+
+# game/sakuracan.rpy:6350 #-#-# translate crowdin iramsn_bfec3b0d:
+msgid "[_ino_] It's all about choosing the right flowers!"
+msgstr ""
+
+# game/sakuracan.rpy:6354 #-#-# translate crowdin iramsn_e09c2e3a:
+msgid "[_r_] I'll keep that in mind! But I'm actually here running an errand a friend. Sakura asked me to pick up a vase of flowers."
+msgstr ""
+
+# game/sakuracan.rpy:6358 #-#-# translate crowdin iramsn_e6dca272:
+msgid "[_ino_] Ohhhh, so you're the intern from the hospital? I see! My name is Ino. Nice to meet you!"
+msgstr ""
+
+# game/sakuracan.rpy:6362 #-#-# translate crowdin iramsn_f561bf15:
+msgid "[_r_] That's right, it's me. I'm [viname]."
+msgstr ""
+
+# game/sakuracan.rpy:6366 #-#-# translate crowdin iramsn_47e1d47f:
+msgid "[_ino_] You're so young, yet you work in a hospital? I thought only old people worked there!"
+msgstr ""
+
+# game/sakuracan.rpy:6370 #-#-# translate crowdin iramsn_0936fd7e:
+msgid "[_r_] What about Sakura? She's very young too."
+msgstr ""
+
+# game/sakuracan.rpy:6374 #-#-# translate crowdin iramsn_9751d732:
+msgid "[_ino_] Sakura is the most experienced medical-nin in Konoha. Iit's a whole different thing!"
+msgstr ""
+
+# game/sakuracan.rpy:6378 #-#-# translate crowdin iramsn_d1f896cc:
+msgid "[_r_] I'm just interested in helping people. I'm good at giving massages, so I make use of that skill."
+msgstr ""
+
+# game/sakuracan.rpy:6382 #-#-# translate crowdin iramsn_78f2f05b:
+msgid "[_ino_] That's great! Finding one's calling at such a young age is worth half a life!"
+msgstr ""
+
+# game/sakuracan.rpy:6386 #-#-# translate crowdin iramsn_88f5c641:
+msgid "[_r_] And what's the other half, then?"
+msgstr ""
+
+# game/sakuracan.rpy:6390 #-#-# translate crowdin iramsn_bb50c9fe:
+msgid "[_ino_] You answered your own question. Finding your other half is what you need for complete happiness! So don't forget to buy flowers, or you'll miss yours!"
+msgstr ""
+
+# game/sakuracan.rpy:6394 #-#-# translate crowdin iramsn_6484bdec:
+msgid "[_r_] I'll keep that in mind, Ino! Now, let me take the vase."
+msgstr ""
+
+# game/sakuracan.rpy:6398 #-#-# translate crowdin iramsn_bbd4efe6:
+msgid "[_ino_] Of course, it's all yours."
+msgstr ""
+
+# game/sakuracan.rpy:6404 #-#-# translate crowdin iramsn_7a1c48bc:
+msgid "[_ino_] Say hi to Sakura! She mentions you sometimes and says only nice things!"
+msgstr ""
+
+# game/sakuracan.rpy:6406 #-#-# translate crowdin iramsn_fc265bd2:
+msgid "[_ino_] I look forward to seeing you in my store again!"
+msgstr ""
+
+# game/sakuracan.rpy:6410 #-#-# translate crowdin iramsn_37add773:
+msgid "[_r_] Thanks a lot, Ino. I'm sure we'll meet again."
+msgstr ""
+
+# game/sakuracan.rpy:6412 #-#-# translate crowdin iramsn_b0f5e006:
+msgid "[_m_] One day... Ino..."
+msgstr ""
+
+# game/sakuracan.rpy:6416 #-#-# translate crowdin iramsn_baf0b338:
+msgid "[_ino_] See you later!"
+msgstr ""
+
+# game/sakuracan.rpy:6422 #-#-# translate crowdin iramsn_a4d720fe:
+msgid "[_m_] So... I got the flowers. I guess we can go in now?"
+msgstr ""
+
+# game/sakuracan.rpy:6426 #-#-# translate crowdin iramsn_ae4a0e2c:
+msgid "[_hi_] You got here first! I thought I'd have to wait for you."
+msgstr ""
+
+# game/sakuracan.rpy:6430 #-#-# translate crowdin iramsn_f6300893:
+msgid "[_r_] Yeah, I had to go out a little early, got the flowers."
+msgstr ""
+
+# game/sakuracan.rpy:6434 #-#-# translate crowdin iramsn_1e296be3:
+msgid "[_hi_] What a beautiful vase! The flowers look nice. I wish someone would give me one of these..."
+msgstr ""
+
+# game/sakuracan.rpy:6438 #-#-# translate crowdin iramsn_dfe0df6d:
+msgid "[_r_] Someone might find out about us... Well, in case I start showering you with flowers..."
+msgstr ""
+
+# game/sakuracan.rpy:6442 #-#-# translate crowdin iramsn_bf13f233:
+msgid "[_hi_] I'm just kidding! I don't need flowers. Just fuck me once in a while and I'll be happy!"
+msgstr ""
+
+# game/sakuracan.rpy:6446 #-#-# translate crowdin iramsn_91a5185e:
+msgid "[_r_] I can do that!"
+msgstr ""
+
+# game/sakuracan.rpy:6450 #-#-# translate crowdin iramsn_464b64d7:
+msgid "[_hi_] Let's go inside, Sakura's probably waiting already!"
+msgstr ""
+
+# game/sakuracan.rpy:6457 #-#-# translate crowdin iramsn_be48f8b5:
+msgid "[_m_] I'm having fun."
+msgstr ""
+
+# game/sakuracan.rpy:6459 #-#-# translate crowdin iramsn_6fd6e49b:
+msgid "[_m_] The pleasant company of the girls..."
+msgstr ""
+
+# game/sakuracan.rpy:6461 #-#-# translate crowdin iramsn_a4900ae3:
+msgid "[_m_] The warmth and comfort..."
+msgstr ""
+
+# game/sakuracan.rpy:6463 #-#-# translate crowdin iramsn_080fb9b0:
+msgid "[_m_] We ate some homemade food... We drank delicious tea... some wine..."
+msgstr ""
+
+# game/sakuracan.rpy:6465 #-#-# translate crowdin iramsn_8d7c8790:
+msgid "[_m_] We chatted about all kinds of things."
+msgstr ""
+
+# game/sakuracan.rpy:6467 #-#-# translate crowdin iramsn_a9735317:
+msgid "[_m_] The day is still ahead of us... And I'm still having fun, but..."
+msgstr ""
+
+# game/sakuracan.rpy:6469 #-#-# translate crowdin iramsn_ec35f6cf:
+msgid "[_m_] For some reason..."
+msgstr ""
+
+# game/sakuracan.rpy:6471 #-#-# translate crowdin iramsn_a5fa897f:
+msgid "[_m_] Sometimes..."
+msgstr ""
+
+# game/sakuracan.rpy:6473 #-#-# translate crowdin iramsn_ddbc6bf4:
+msgid "[_m_] I get the shivers..."
+msgstr ""
+
+# game/sakuracan.rpy:6481 #-#-# translate crowdin iramsn_8f7ef22b:
+msgid "[_hi_] [viname], do you get the rules?"
+msgstr ""
+
+# game/sakuracan.rpy:6483 #-#-# translate crowdin iramsn_caf72e09:
+msgid "[_hi_] [viname]?"
+msgstr ""
+
+# game/sakuracan.rpy:6485 #-#-# translate crowdin iramsn_b56b3ccd:
+msgid "[_hi_] [viname]!"
+msgstr ""
+
+# game/sakuracan.rpy:6495 #-#-# translate crowdin iramsn_dd9b3ee6:
+msgid "[_r_] Oh... Yes, yes! I think it's all clear!"
+msgstr ""
+
+# game/sakuracan.rpy:6497 #-#-# translate crowdin iramsn_ea413fe9:
+msgid "[_r_] However, I'm not sure..."
+msgstr ""
+
+# game/sakuracan.rpy:6501 #-#-# translate crowdin iramsn_6d94e4db:
+msgid "[_saku_] You just put down the same colors or numbers; it's not that hard!"
+msgstr ""
+
+# game/sakuracan.rpy:6505 #-#-# translate crowdin iramsn_c39fc971:
+msgid "[_r_] And the black card?"
+msgstr ""
+
+# game/sakuracan.rpy:6509 #-#-# translate crowdin iramsn_d5534d6d:
+msgid "[_hi_] That's the coolest one! It can completely turn the game around! Keep it with you and use it at the right moment!"
+msgstr ""
+
+# game/sakuracan.rpy:6513 #-#-# translate crowdin iramsn_bb28305a:
+msgid "[_saku_] It's kind of a joker, only more interesting and fun!"
+msgstr ""
+
+# game/sakuracan.rpy:6517 #-#-# translate crowdin iramsn_25971b53:
+msgid "[_r_] How about we just watch some movie? We can stay at your place more, Sakura?"
+msgstr ""
+
+# game/sakuracan.rpy:6521 #-#-# translate crowdin iramsn_b6660464:
+msgid "[_saku_] It's already evening, but if you want, you can just crash here. The house is big, there's plenty of room for all of us!"
+msgstr ""
+
+# game/sakuracan.rpy:6525 #-#-# translate crowdin iramsn_0c0c037e:
+msgid "[_r_] What do you say, Hinata?"
+msgstr ""
+
+# game/sakuracan.rpy:6529 #-#-# translate crowdin iramsn_6308b334:
+msgid "[_hi_] I'm in! My house is empty right now too, so it'll be more fun with you guys than alone."
+msgstr ""
+
+# game/sakuracan.rpy:6533 #-#-# translate crowdin iramsn_e49b79d6:
+msgid "[_r_] Cool! Since we have the whole evening ahead of us, I might as well learn to play this game."
+msgstr ""
+
+# game/sakuracan.rpy:6537 #-#-# translate crowdin iramsn_2cba85a9:
+msgid "[_saku_] You'll get the hang of it in no time, you just have to start!"
+msgstr ""
+
+# game/sakuracan.rpy:6555 #-#-# translate crowdin iramsn_41bd993b:
+msgid "[_hi_] We had a great time. Thanks, Sakura!"
+msgstr ""
+
+# game/sakuracan.rpy:6560 #-#-# translate crowdin iramsn_7c0b920a:
+msgid "[_saku_] Oh, thank you two! It was I who invited you, after all. It was fun."
+msgstr ""
+
+# game/sakuracan.rpy:6562 #-#-# translate crowdin iramsn_19e3ac87:
+msgid "[_saku_] I'll go prepare a bed for you, Hinata."
+msgstr ""
+
+# game/sakuracan.rpy:6564 #-#-# translate crowdin iramsn_5614f4b7:
+msgid "[_saku_] [viname], you don't mind sleeping on the couch, do you?"
+msgstr ""
+
+# game/sakuracan.rpy:6566 #-#-# translate crowdin iramsn_c4dcfef8:
+msgid "[_r_] Your couch looks damn comfortable. I'm definitely up to spending the night on it."
+msgstr ""
+
+# game/sakuracan.rpy:6568 #-#-# translate crowdin iramsn_dd04a0fe:
+msgid "[_saku_] I'll find something to make it look even more comfortable! I promise!"
+msgstr ""
+
+# game/sakuracan.rpy:6575 #-#-# translate crowdin iramsn_6deb9dc0:
+msgid "[_hi_] Will you help me in the kitchen? I think there's something in there I can't sleep without."
+msgstr ""
+
+# game/sakuracan.rpy:6580 #-#-# translate crowdin iramsn_02a109e5:
+msgid "[_r_] Is my help required?"
+msgstr ""
+
+# game/sakuracan.rpy:6585 #-#-# translate crowdin iramsn_bdce97c4:
+msgid "[_hi_] It absolutely is."
+msgstr ""
+
+# game/sakuracan.rpy:6593 #-#-# translate crowdin iramsn_53e3ba9a:
+msgid "[_r_] So, were you hungry or something?"
+msgstr ""
+
+# game/sakuracan.rpy:6595 #-#-# translate crowdin iramsn_ad94c7b1:
+msgid "[_r_] It's a little dark in here..."
+msgstr ""
+
+# game/sakuracan.rpy:6600 #-#-# translate crowdin iramsn_2e7a1c73:
+msgid "[_hi_] Hungry... That's one way to put it."
+msgstr ""
+
+# game/sakuracan.rpy:6602 #-#-# translate crowdin iramsn_84910f1d:
+msgid "[_hi_] Let me kneel down in front of you, so you can feed me something delicious real quick..."
+msgstr ""
+
+# game/sakuracan.rpy:6607 #-#-# translate crowdin iramsn_57aa2a7d:
+msgid "[_r_] Right now? Sakura is..."
+msgstr ""
+
+# game/sakuracan.rpy:6612 #-#-# translate crowdin iramsn_e03d79b1:
+msgid "[_hi_] It's dark in here. Sakura's upstairs!"
+msgstr ""
+
+# game/sakuracan.rpy:6614 #-#-# translate crowdin iramsn_f7eb0b59:
+msgid "[_hi_] Come on... I want your delicious cock in my mouth. I can't sleep without playing with it!"
+msgstr ""
+
+# game/sakuracan.rpy:6619 #-#-# translate crowdin iramsn_a8d30f5d:
+msgid "[_r_] Let's just make it quick, okay? We don't want Sakura to hears us."
+msgstr ""
+
+# game/sakuracan.rpy:6624 #-#-# translate crowdin iramsn_69fdd892:
+msgid "[_hi_] I'll use my throat like you taught me to!"
+msgstr ""
+
+# game/sakuracan.rpy:6629 #-#-# translate crowdin iramsn_1edd2a44:
+msgid "[_r_] Okay, come here."
+msgstr ""
+
+# game/sakuracan.rpy:6638 #-#-# translate crowdin iramsn_d0de5e66:
+msgid "[_m_] She's very passionate..."
+msgstr ""
+
+# game/sakuracan.rpy:6640 #-#-# translate crowdin iramsn_eebe2b1e:
+msgid "[_m_] I would even say... insatiable..."
+msgstr ""
+
+# game/sakuracan.rpy:6642 #-#-# translate crowdin iramsn_fdf1440f:
+msgid "[_m_] Hinata wants more and more."
+msgstr ""
+
+# game/sakuracan.rpy:6644 #-#-# translate crowdin iramsn_0a659816:
+msgid "[_m_] I think it's no exaggeration to say that she's addicted to my cock."
+msgstr ""
+
+# game/sakuracan.rpy:6646 #-#-# translate crowdin iramsn_ebaf7c02:
+msgid "[_m_] Hinata kisses me so greedily and with such love..."
+msgstr ""
+
+# game/sakuracan.rpy:6648 #-#-# translate crowdin iramsn_26ca3416:
+msgid "[_m_] My cock is literally ecstatic about it!"
+msgstr ""
+
+# game/sakuracan.rpy:6650 #-#-# translate crowdin iramsn_b5adf2af:
+msgid "[_m_] I have to fuck her in the mouth quickly before this gets out of hand..."
+msgstr ""
+
+# game/sakuracan.rpy:6656 #-#-# translate crowdin iramsn_fcb4b5f2:
+msgid "[_saku_] Guys..."
+msgstr ""
+
+# game/sakuracan.rpy:6658 #-#-# translate crowdin iramsn_65a682f9:
+msgid "[_saku_] what..."
+msgstr ""
+
+# game/sakuracan.rpy:6660 #-#-# translate crowdin iramsn_d08825b5:
+msgid "[_saku_] What are you doing!?"
 msgstr ""
 
 # §translate crowdin strings: #|#|# # game/sakuracan.rpy:199
@@ -3220,11 +6648,59 @@ msgstr ""
 msgid "I’m leaving, it’s getting too scary."
 msgstr ""
 
-# game/sakuracan.rpy:3257
+# game/sakuracan.rpy:3228
 msgid "Tell her about the murderer and rebirth."
 msgstr ""
 
-# game/sakuracan.rpy:3257
+# game/sakuracan.rpy:3228
 msgid "Don’t tell her, figure it out yourself."
+msgstr ""
+
+# game/sakuracan.rpy:4091
+msgid "Who are you? How did you get here?"
+msgstr ""
+
+# game/sakuracan.rpy:4091
+msgid "How do you know Kamiko, how are you two related?"
+msgstr ""
+
+# game/sakuracan.rpy:4091
+msgid "You're not our enemy?"
+msgstr ""
+
+# game/sakuracan.rpy:4091
+msgid "Why me?"
+msgstr ""
+
+# game/sakuracan.rpy:4091
+msgid "What happens next?"
+msgstr ""
+
+# game/sakuracan.rpy:4091
+msgid "What do you yourself want out of all this?"
+msgstr ""
+
+# game/sakuracan.rpy:4815
+msgid "You'll always be in the first place for me."
+msgstr ""
+
+# game/sakuracan.rpy:4815
+msgid "I can't promise this."
+msgstr ""
+
+# game/sakuracan.rpy:5085
+msgid "Bold and fun."
+msgstr ""
+
+# game/sakuracan.rpy:5085
+msgid "Calm and sweet."
+msgstr ""
+
+# game/sakuracan.rpy:5235
+msgid "Sakura"
+msgstr ""
+
+# game/sakuracan.rpy:5235
+msgid "Hinata"
 msgstr ""
 
