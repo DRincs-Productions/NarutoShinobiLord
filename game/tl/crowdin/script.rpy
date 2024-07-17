@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-08 11:40
+﻿# TODO: Translation updated at 2024-07-17 11:01
 
 # game/script.rpy:59
 translate crowdin start_9c9cf755:
@@ -24557,8 +24557,8 @@ translate crowdin strings:
     new "Ask if she needs help with something else?"
 
     # game/script.rpy:13273
-    old "Give me a glass of water and let's go... (Patrons only)"
-    new "Give me a glass of water and let's go... (Patrons only)"
+    old " Give me a glass of water and let's go... (Patrons only)"
+    new " Give me a glass of water and let's go... (Patrons only)"
 
     # game/script.rpy:13273
     old "You'll get more only when I say so, not now."
@@ -24625,8 +24625,8 @@ translate crowdin strings:
     new "Cum in my pussy."
 
     # game/script.rpy:16797
-    old "Let him suck my balls (only for patrons)"
-    new "Let him suck my balls (only for patrons)"
+    old " Let him suck my balls (only for patrons)"
+    new " Let him suck my balls (only for patrons)"
 
     # game/script.rpy:16971
     old "It wouldn't be easy for me to accept."
@@ -24657,8 +24657,8 @@ translate crowdin strings:
     new "Cum in Hinata."
 
     # game/script.rpy:18089
-    old "Let her take the initiative (Patrons only)"
-    new "Let her take the initiative (Patrons only)"
+    old " Let her take the initiative (Patrons only)"
+    new " Let her take the initiative (Patrons only)"
 
     # game/script.rpy:18847
     old "Okay, I'll go with you."
@@ -24701,6 +24701,6 @@ translate crowdin strings:
     new "Don't stop, I'm about to cum!"
 
     # game/script.rpy:19653
-    old "Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
-    new "Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
+    old " Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
+    new " Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
 

@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-08 11:40
+﻿# TODO: Translation updated at 2024-07-17 11:01
 
 # game/sakuracan.rpy:16
 translate crowdin sakuracan_62efc2f4:
@@ -3846,935 +3846,6077 @@ translate crowdin aferomes_459be873:
     # m "You need to get a good night's sleep..."
     m "You need to get a good night's sleep..."
 
-# game/sakuracan.rpy:2738
-translate crowdin banito_48357e72:
-
-    # r "Why am I blindfolded?"
-    r "Why am I blindfolded?"
-
-# game/sakuracan.rpy:2739
-translate crowdin banito_f869553d:
-
-    # tema "No questions, lie on your back."
-    tema "No questions, lie on your back."
-
-# game/sakuracan.rpy:2740
-translate crowdin banito_61d4aeb0:
-
-    # r "Do you know what you're doing exactly?"
-    r "Do you know what you're doing exactly?"
-
-# game/sakuracan.rpy:2741
-translate crowdin banito_5f175d6f:
-
-    # tema "Shut up! Now I'm going to put that tongue of yours to work!."
-    tema "Shut up! Now I'm going to put that tongue of yours to work!."
-
-# game/sakuracan.rpy:2747
-translate crowdin banito_b47f3f8f:
-
-    # tema "Come on boy, try harder!"
-    tema "Come on boy, try harder!"
-
-# game/sakuracan.rpy:2748
-translate crowdin banito_29da2000:
-
-    # tema "If you want me to play with your dick, work for it!"
-    tema "If you want me to play with your dick, work for it!"
-
-# game/sakuracan.rpy:2752
-translate crowdin banito_2c19b3b4:
-
-    # tema "Okay... Good boy."
-    tema "Okay... Good boy."
-
-# game/sakuracan.rpy:2753
-translate crowdin banito_9584b855:
-
-    # tema "Mistress will cum on your face now..."
-    tema "Mistress will cum on your face now..."
-
-# game/sakuracan.rpy:2757
-translate crowdin banito_4da2ec3d:
-
-    # tema "Yes... This is what you want, right?"
-    tema "Yes... This is what you want, right?"
-
-# game/sakuracan.rpy:2758
-translate crowdin banito_54919f17:
-
-    # tema "Keep going! MMMMM!"
-    tema "Keep going! MMMMM!"
-
-# game/sakuracan.rpy:2764
-translate crowdin banito_631ca321:
-
-    # tema "Not bad... This is your full-time job now, boy."
-    tema "Not bad... This is your full-time job now, boy."
-
-# game/sakuracan.rpy:2777
+# game/sakuracan.rpy:2744
 translate crowdin prosnulsa_ef3bc2f6:
 
     # m "How could I dream about something like that... Although I wouldn’t rule that scenario out, with any luck it might just happen..."
     m "How could I dream about something like that... Although I wouldn’t rule that scenario out, with any luck it might just happen..."
 
-# game/sakuracan.rpy:2778
+# game/sakuracan.rpy:2745
 translate crowdin prosnulsa_e86645b8:
 
     # m "Well, it's time to go do my job, I'll activate my disguise and keep an eye on Sakura, I hope it's not useless."
     m "Well, it's time to go do my job, I'll activate my disguise and keep an eye on Sakura, I hope it's not useless."
 
-# game/sakuracan.rpy:2779
+# game/sakuracan.rpy:2746
 translate crowdin prosnulsa_7631f9b1:
 
     # m "Even if I don't find any leads on that guy, I'll just find out a little more about Sakura, that should come in handy."
     m "Even if I don't find any leads on that guy, I'll just find out a little more about Sakura, that should come in handy."
 
-# game/sakuracan.rpy:2801
+# game/sakuracan.rpy:2768
 translate crowdin num_b677988e:
 
     # m "I'm here, I need to check the front door, carefully."
     m "I'm here, I need to check the front door, carefully."
 
-# game/sakuracan.rpy:2802
+# game/sakuracan.rpy:2769
 translate crowdin num_45f4b086:
 
     # m "I've already been to her house, so I can get my bearings."
     m "I've already been to her house, so I can get my bearings."
 
-# game/sakuracan.rpy:2803
+# game/sakuracan.rpy:2770
 translate crowdin num_4502f2ae:
 
     # m "Door’s open! I love Konoha, no one closes the front door!"
     m "Door’s open! I love Konoha, no one closes the front door!"
 
-# game/sakuracan.rpy:2810
+# game/sakuracan.rpy:2777
 translate crowdin num_8218ffa3:
 
     # m "Okay. I hope no one heard me close the front door."
     m "Okay. I hope no one heard me close the front door."
 
-# game/sakuracan.rpy:2811
+# game/sakuracan.rpy:2778
 translate crowdin num_1e9da5c0:
 
     # m "I wonder if Sakura is alone right now? Or is Sarada here too?"
     m "I wonder if Sakura is alone right now? Or is Sarada here too?"
 
-# game/sakuracan.rpy:2812
+# game/sakuracan.rpy:2779
 translate crowdin num_72b166c2:
 
     # m "I think Sakura mentioned that Sarada is on a mission, but I'm not sure..."
     m "I think Sakura mentioned that Sarada is on a mission, but I'm not sure..."
 
-# game/sakuracan.rpy:2813
+# game/sakuracan.rpy:2780
 translate crowdin num_075f119e:
 
     # m "It's rather quiet on the first floor, I think I hear sounds on the second floor, it sounds like the running water."
     m "It's rather quiet on the first floor, I think I hear sounds on the second floor, it sounds like the running water."
 
-# game/sakuracan.rpy:2814
+# game/sakuracan.rpy:2781
 translate crowdin num_104edc84:
 
     # m "Need to check."
     m "Need to check."
 
-# game/sakuracan.rpy:2818
+# game/sakuracan.rpy:2785
 translate crowdin num_c2337811:
 
     # m "Is this the second bathroom? I think Sakura is in there."
     m "Is this the second bathroom? I think Sakura is in there."
 
-# game/sakuracan.rpy:2819
+# game/sakuracan.rpy:2786
 translate crowdin num_a23ec329:
 
     # m "The door is open, you’re brave Sakura, this means that she knows for sure that no one will come to her, which means Sarada is definitely on a mission."
     m "The door is open, you’re brave Sakura, this means that she knows for sure that no one will come to her, which means Sarada is definitely on a mission."
 
-# game/sakuracan.rpy:2820
+# game/sakuracan.rpy:2787
 translate crowdin num_8bef4103:
 
     # m "But you're not alone here, you should have been more careful!"
     m "But you're not alone here, you should have been more careful!"
 
-# game/sakuracan.rpy:2837
+# game/sakuracan.rpy:2804
 translate crowdin bizoterias11_9758c96f:
 
     # m "So, so, so... Have you decided to completely relax on your day off?"
     m "So, so, so... Have you decided to completely relax on your day off?"
 
-# game/sakuracan.rpy:2838
+# game/sakuracan.rpy:2805
 translate crowdin bizoterias11_1c0c4e22:
 
     # m "Hot bath, red wine... I didn't know this side of you, Tsunade seems to be a bad influence on you."
     m "Hot bath, red wine... I didn't know this side of you, Tsunade seems to be a bad influence on you."
 
-# game/sakuracan.rpy:2839
+# game/sakuracan.rpy:2806
 translate crowdin bizoterias11_c9d2464a:
 
     # m "I have to give credit to your body, Sakura... You're in great athletic shape, usually moms at your age don't really care about their shape, but you're an exception."
     m "I have to give credit to your body, Sakura... You're in great athletic shape, usually moms at your age don't really care about their shape, but you're an exception."
 
-# game/sakuracan.rpy:2840
+# game/sakuracan.rpy:2807
 translate crowdin bizoterias11_bddaec86:
 
     # m "Do all former shinobi really have such sexy bodies? Perfect Hinata with her curvaceous figure, now you Sakura... Kill me as many times as you like, but this view is worth it."
     m "Do all former shinobi really have such sexy bodies? Perfect Hinata with her curvaceous figure, now you Sakura... Kill me as many times as you like, but this view is worth it."
 
-# game/sakuracan.rpy:2841
+# game/sakuracan.rpy:2808
 translate crowdin bizoterias11_e7f648d0:
 
     # m "Are you leaving already? Apparently I came too late."
     m "Are you leaving already? Apparently I came too late."
 
-# game/sakuracan.rpy:2847
+# game/sakuracan.rpy:2814
 translate crowdin bizoterias11_3aa380fd:
 
     # m "Just like that? No robes or towels?"
     m "Just like that? No robes or towels?"
 
-# game/sakuracan.rpy:2848
+# game/sakuracan.rpy:2815
 translate crowdin bizoterias11_f01130f7:
 
     # m "What a teasing view, it’s a pity that I can’t come closer to you yet and grab that delicious ass..."
     m "What a teasing view, it’s a pity that I can’t come closer to you yet and grab that delicious ass..."
 
-# game/sakuracan.rpy:2849
+# game/sakuracan.rpy:2816
 translate crowdin bizoterias11_40c899c0:
 
     # m "Are you going to the bedroom already?"
     m "Are you going to the bedroom already?"
 
-# game/sakuracan.rpy:2850
+# game/sakuracan.rpy:2817
 translate crowdin bizoterias11_68371a27:
 
     # m "Don't tell me it's a bath before bed, I didn't come in vain, right?"
     m "Don't tell me it's a bath before bed, I didn't come in vain, right?"
 
-# game/sakuracan.rpy:2857
+# game/sakuracan.rpy:2824
 translate crowdin bizoterias11_c536e31d:
 
     # m "It's cozy here, I like it."
     m "It's cozy here, I like it."
 
-# game/sakuracan.rpy:2858
+# game/sakuracan.rpy:2825
 translate crowdin bizoterias11_23a354b4:
 
     # m "This is where you and Sasuke made Sarada? For some reason, I don't think Sasuke is particularly skilled in these matters."
     m "This is where you and Sasuke made Sarada? For some reason, I don't think Sasuke is particularly skilled in these matters."
 
-# game/sakuracan.rpy:2859
+# game/sakuracan.rpy:2826
 translate crowdin bizoterias11_900418d7:
 
     # m "Wow, what did you get out of the closet? A dildo? Every mom has one of those hidden away."
     m "Wow, what did you get out of the closet? A dildo? Every mom has one of those hidden away."
 
-# game/sakuracan.rpy:2860
+# game/sakuracan.rpy:2827
 translate crowdin bizoterias11_4d73197d:
 
     # m "Now there's a show."
     m "Now there's a show."
 
-# game/sakuracan.rpy:2872
+# game/sakuracan.rpy:2839
 translate crowdin bizoterias11_9ae6cbb8:
 
     # m "Wow, right away?"
     m "Wow, right away?"
 
-# game/sakuracan.rpy:2873
+# game/sakuracan.rpy:2840
 translate crowdin bizoterias11_f3637c29:
 
     # m "How badly are you craving it?"
     m "How badly are you craving it?"
 
-# game/sakuracan.rpy:2877
+# game/sakuracan.rpy:2846
 translate crowdin bizoterias11_12f521e5:
 
     # m "My dick is about to rip through my pants..."
     m "My dick is about to rip through my pants..."
 
-# game/sakuracan.rpy:2878
+# game/sakuracan.rpy:2847
 translate crowdin bizoterias11_a396fa1b:
 
     # m "Sasuke... You're just a criminal... How can you do your marital duty so poorly..."
     m "Sasuke... You're just a criminal... How can you do your marital duty so poorly..."
 
-# game/sakuracan.rpy:2882
+# game/sakuracan.rpy:2853
 translate crowdin bizoterias11_1608765b:
 
     # m "She sped up."
     m "She sped up."
 
-# game/sakuracan.rpy:2883
+# game/sakuracan.rpy:2854
 translate crowdin bizoterias11_b69ddbd2:
 
     # m "Are you close already Sakura? You'd probably be ashamed to know that I'm watching you."
     m "Are you close already Sakura? You'd probably be ashamed to know that I'm watching you."
 
-# game/sakuracan.rpy:2884
+# game/sakuracan.rpy:2855
 translate crowdin bizoterias11_1d50f1a8:
 
     # m "Don’t worry, very soon I will fuck you on the same bed."
     m "Don’t worry, very soon I will fuck you on the same bed."
 
-# game/sakuracan.rpy:2896
+# game/sakuracan.rpy:2867
 translate crowdin bizoterias11_0ecb5557:
 
     # m "You won’t have to endure it for longer"
     m "You won’t have to endure it for longer"
 
-# game/sakuracan.rpy:2897
+# game/sakuracan.rpy:2868
 translate crowdin bizoterias11_12cc315e:
 
     # m "Just wait a little."
     m "Just wait a little."
 
-# game/sakuracan.rpy:2898
+# game/sakuracan.rpy:2869
 translate crowdin bizoterias11_a885144d:
 
     # m "That was hot... Such a performance, and all this for me?"
     m "That was hot... Such a performance, and all this for me?"
 
-# game/sakuracan.rpy:2899
+# game/sakuracan.rpy:2870
 translate crowdin bizoterias11_d2b3ac8b:
 
     # m "Of course, I didn’t count on something like that, it would have been enough for me to just observe the daily routine..."
     m "Of course, I didn’t count on something like that, it would have been enough for me to just observe the daily routine..."
 
-# game/sakuracan.rpy:2900
+# game/sakuracan.rpy:2871
 translate crowdin bizoterias11_fcf45c38:
 
     # m "But you surprised me, Sakura."
     m "But you surprised me, Sakura."
 
-# game/sakuracan.rpy:2901
+# game/sakuracan.rpy:2872
 translate crowdin bizoterias11_780d16a6:
 
     # m "How little Sasuke cares about his wife's desires, it's such a pity..."
     m "How little Sasuke cares about his wife's desires, it's such a pity..."
 
-# game/sakuracan.rpy:2905
+# game/sakuracan.rpy:2876
 translate crowdin bizoterias11_24a31cc4:
 
     # sasu "Sakura! Are you upstairs?"
     sasu "Sakura! Are you upstairs?"
 
-# game/sakuracan.rpy:2909
+# game/sakuracan.rpy:2880
 translate crowdin bizoterias11_bf0d2b9b:
 
     # saku "S-Sasuke!?"
     saku "S-Sasuke!?"
 
-# game/sakuracan.rpy:2913
+# game/sakuracan.rpy:2884
 translate crowdin bizoterias11_670b2f89:
 
     # sasu "Please come down, let's talk before I leave."
     sasu "Please come down, let's talk before I leave."
 
-# game/sakuracan.rpy:2917
+# game/sakuracan.rpy:2888
 translate crowdin bizoterias11_b38fc2d6:
 
     # saku "Okay... Wait a minute.."
     saku "Okay... Wait a minute.."
 
-# game/sakuracan.rpy:2919
+# game/sakuracan.rpy:2890
 translate crowdin bizoterias11_9a3e494b:
 
     # m "I have a desire to leave but... I’m so curious to eavesdrop on their conversation..."
     m "I have a desire to leave but... I’m so curious to eavesdrop on their conversation..."
 
-# game/sakuracan.rpy:2920
+# game/sakuracan.rpy:2891
 translate crowdin bizoterias11_8cd27122:
 
     # m "Perhaps this is why I came here."
     m "Perhaps this is why I came here."
 
-# game/sakuracan.rpy:2926
+# game/sakuracan.rpy:2897
 translate crowdin bizoterias11_d217b0e4:
 
     # sasu "I'm going on a journey, perhaps for a long time."
     sasu "I'm going on a journey, perhaps for a long time."
 
-# game/sakuracan.rpy:2930
+# game/sakuracan.rpy:2901
 translate crowdin bizoterias11_b9a293bc:
 
     # saku "You haven’t said goodbye to Sarada..."
     saku "You haven’t said goodbye to Sarada..."
 
-# game/sakuracan.rpy:2934
+# game/sakuracan.rpy:2905
 translate crowdin bizoterias11_92dbcd20:
 
     # sasu "It doesn't matter. I have important work waiting for me."
     sasu "It doesn't matter. I have important work waiting for me."
 
-# game/sakuracan.rpy:2938
+# game/sakuracan.rpy:2909
 translate crowdin bizoterias11_953b3205:
 
     # saku "Sasuke... Since you're going on a long journey..."
     saku "Sasuke... Since you're going on a long journey..."
 
-# game/sakuracan.rpy:2939
+# game/sakuracan.rpy:2910
 translate crowdin bizoterias11_99ab36bc:
 
     # saku "Maybe... You know... Let's do this before you leave..."
     saku "Maybe... You know... Let's do this before you leave..."
 
-# game/sakuracan.rpy:2943
+# game/sakuracan.rpy:2914
 translate crowdin bizoterias11_06568753:
 
     # sasu "Sakura..."
     sasu "Sakura..."
 
-# game/sakuracan.rpy:2947
+# game/sakuracan.rpy:2918
 translate crowdin bizoterias11_c76cd787:
 
     # saku "Come on... I really want you..."
     saku "Come on... I really want you..."
 
-# game/sakuracan.rpy:2951
+# game/sakuracan.rpy:2922
 translate crowdin bizoterias11_40857b6f:
 
     # sasu "I... I can't."
     sasu "I... I can't."
 
-# game/sakuracan.rpy:2955
+# game/sakuracan.rpy:2926
 translate crowdin bizoterias11_bbb87044:
 
     # saku "Did I do something wrong?"
     saku "Did I do something wrong?"
 
-# game/sakuracan.rpy:2959
+# game/sakuracan.rpy:2930
 translate crowdin bizoterias11_819c5f40:
 
     # sasu "It's not because of you."
     sasu "It's not because of you."
 
-# game/sakuracan.rpy:2963
+# game/sakuracan.rpy:2934
 translate crowdin bizoterias11_41f445de:
 
     # saku "Then what?"
     saku "Then what?"
 
-# game/sakuracan.rpy:2967
+# game/sakuracan.rpy:2938
 translate crowdin bizoterias11_6bc8c157:
 
     # sasu "I just can't... I constantly have nightmares... This responsibility fell on me with the new Ōtsutsuki... Now I also have this feeling..."
     sasu "I just can't... I constantly have nightmares... This responsibility fell on me with the new Ōtsutsuki... Now I also have this feeling..."
 
-# game/sakuracan.rpy:2971
+# game/sakuracan.rpy:2942
 translate crowdin bizoterias11_ae6c4306:
 
     # saku "What feeling?"
     saku "What feeling?"
 
-# game/sakuracan.rpy:2975
+# game/sakuracan.rpy:2946
 translate crowdin bizoterias11_b6e24fb3:
 
     # sasu "It's like I'm covered in this disgusting chakra... Feels like it's everywhere now... The beast’s chakra I was talking about..."
     sasu "It's like I'm covered in this disgusting chakra... Feels like it's everywhere now... The beast’s chakra I was talking about..."
 
-# game/sakuracan.rpy:2976
+# game/sakuracan.rpy:2947
 translate crowdin bizoterias11_a1887a04:
 
     # sasu "Am I going crazy? Why do I feel it literally everywhere... Even... Even from you..."
     sasu "Am I going crazy? Why do I feel it literally everywhere... Even... Even from you..."
 
-# game/sakuracan.rpy:2980
+# game/sakuracan.rpy:2951
 translate crowdin bizoterias11_dfa1a317:
 
     # saku "What? What do you mean even from me?"
     saku "What? What do you mean even from me?"
 
-# game/sakuracan.rpy:2982
+# game/sakuracan.rpy:2953
 translate crowdin bizoterias11_a987e255:
 
     # m "Oh no... Does he suspect something?"
     m "Oh no... Does he suspect something?"
 
-# game/sakuracan.rpy:2986
+# game/sakuracan.rpy:2957
 translate crowdin bizoterias11_5b2354b8:
 
     # sasu "I don't know! I can't say anything for sure! Damn... I feel like the presence of this chakra..."
     sasu "I don't know! I can't say anything for sure! Damn... I feel like the presence of this chakra..."
 
-# game/sakuracan.rpy:2990
+# game/sakuracan.rpy:2961
 translate crowdin bizoterias11_25235d2a:
 
     # sasu "Is here!"
     sasu "Is here!"
 
-# game/sakuracan.rpy:2996
+# game/sakuracan.rpy:2967
 translate crowdin bizoterias11_1a3b81d5:
 
     # m "WHAT THE FUCK! HE..."
     m "WHAT THE FUCK! HE..."
 
-# game/sakuracan.rpy:2997
+# game/sakuracan.rpy:2968
 translate crowdin bizoterias11_efa03be6:
 
     # m "Right at me..."
     m "Right at me..."
 
-# game/sakuracan.rpy:2999
+# game/sakuracan.rpy:2970
 translate crowdin bizoterias11_2d26386a:
 
     # sasu "What are you!? Why can't I catch you!"
     sasu "What are you!? Why can't I catch you!"
 
-# game/sakuracan.rpy:3000
+# game/sakuracan.rpy:2971
 translate crowdin bizoterias11_cf1a63f9:
 
     # saku "Sasuke! Stop it! You haven't fully recovered yet!"
     saku "Sasuke! Stop it! You haven't fully recovered yet!"
 
-# game/sakuracan.rpy:3001
+# game/sakuracan.rpy:2972
 translate crowdin bizoterias11_19b508a4:
 
     # sasu "I..."
     sasu "I..."
 
-# game/sakuracan.rpy:3002
+# game/sakuracan.rpy:2973
 translate crowdin bizoterias11_b45dab98:
 
     # sasu "We are all in danger..."
     sasu "We are all in danger..."
 
-# game/sakuracan.rpy:3003
+# game/sakuracan.rpy:2974
 translate crowdin bizoterias11_8e201e54:
 
     # sasu "The village may be destroyed again..."
     sasu "The village may be destroyed again..."
 
-# game/sakuracan.rpy:3004
+# game/sakuracan.rpy:2975
 translate crowdin bizoterias11_ddcc9ae8:
 
     # sasu "I understand how it sounds... But I just know... Somewhere near us there is something destructive to such an extent... That even my eye is not able to detect its chakra."
     sasu "I understand how it sounds... But I just know... Somewhere near us there is something destructive to such an extent... That even my eye is not able to detect its chakra."
 
-# game/sakuracan.rpy:3005
+# game/sakuracan.rpy:2976
 translate crowdin bizoterias11_4edbc0d5:
 
     # m "I think I've had enough of this... I need to get out of here."
     m "I think I've had enough of this... I need to get out of here."
 
-# game/sakuracan.rpy:3023
+# game/sakuracan.rpy:2994
 translate crowdin bizoterias11_fe21ab14:
 
     # m "Yeah... Sasuke gave me the creeps..."
     m "Yeah... Sasuke gave me the creeps..."
 
-# game/sakuracan.rpy:3024
+# game/sakuracan.rpy:2995
 translate crowdin bizoterias11_21cc99f3:
 
     # m "It was scary at the time... But I quickly realized that he wouldn't be able to see me."
     m "It was scary at the time... But I quickly realized that he wouldn't be able to see me."
 
-# game/sakuracan.rpy:3025
+# game/sakuracan.rpy:2996
 translate crowdin bizoterias11_89cef3ad:
 
     # m "Kamiko is too careful about this."
     m "Kamiko is too careful about this."
 
-# game/sakuracan.rpy:3026
+# game/sakuracan.rpy:2997
 translate crowdin bizoterias11_4fb4535b:
 
     # m "More importantly... Perhaps I should tell her about the incident where I... Died?"
     m "More importantly... Perhaps I should tell her about the incident where I... Died?"
 
-# game/sakuracan.rpy:3027
+# game/sakuracan.rpy:2998
 translate crowdin bizoterias11_c71f1401:
 
     # m "I think I should..."
     m "I think I should..."
 
-# game/sakuracan.rpy:3028
+# game/sakuracan.rpy:2999
 translate crowdin bizoterias11_bd1c18dd:
 
     # m "Or shouldn't I? Sasuke said that he feels that Kamiko is truly evil..."
     m "Or shouldn't I? Sasuke said that he feels that Kamiko is truly evil..."
 
-# game/sakuracan.rpy:3029
+# game/sakuracan.rpy:3000
 translate crowdin bizoterias11_4edd967b:
 
     # m "If you look at things objectively... She is far from a positive character..."
     m "If you look at things objectively... She is far from a positive character..."
 
-# game/sakuracan.rpy:3030
+# game/sakuracan.rpy:3001
 translate crowdin bizoterias11_51a8152a:
 
     # m "If I was in some anime, she could easily pass as a main villain."
     m "If I was in some anime, she could easily pass as a main villain."
 
-# game/sakuracan.rpy:3031
+# game/sakuracan.rpy:3002
 translate crowdin bizoterias11_c73e5b42:
 
     # m "But she cares about me..."
     m "But she cares about me..."
 
-# game/sakuracan.rpy:3035
+# game/sakuracan.rpy:3006
 translate crowdin bizoterias11_cd2f8785:
 
     # m "I'll have to make that decision soon, but right now I need to deal with the boner in my pants."
     m "I'll have to make that decision soon, but right now I need to deal with the boner in my pants."
 
-# game/sakuracan.rpy:3036
+# game/sakuracan.rpy:3007
 translate crowdin bizoterias11_82fc5cd7:
 
     # m "Sakura really teased me with her appearance."
     m "Sakura really teased me with her appearance."
 
-# game/sakuracan.rpy:3037
+# game/sakuracan.rpy:3008
 translate crowdin bizoterias11_2a815d0c:
 
     # m "I'll release all my lust with Hinata, she knows how to care for my most primal needs."
     m "I'll release all my lust with Hinata, she knows how to care for my most primal needs."
 
-# game/sakuracan.rpy:3048
+# game/sakuracan.rpy:3019
 translate crowdin bizoterias11_a2016af4:
 
     # r "Not busy?"
     r "Not busy?"
 
-# game/sakuracan.rpy:3050
+# game/sakuracan.rpy:3021
 translate crowdin bizoterias11_e0fc16a2:
 
     # hi "Himawari is sleeping... Do you want me to come by?"
     hi "Himawari is sleeping... Do you want me to come by?"
 
-# game/sakuracan.rpy:3052
+# game/sakuracan.rpy:3023
 translate crowdin bizoterias11_c9eba5fc:
 
     # r "Do you want it?"
     r "Do you want it?"
 
-# game/sakuracan.rpy:3054
+# game/sakuracan.rpy:3025
 translate crowdin bizoterias11_fff83845:
 
     # hi "You know... I always do..."
     hi "You know... I always do..."
 
-# game/sakuracan.rpy:3056
+# game/sakuracan.rpy:3027
 translate crowdin bizoterias11_6daa8526:
 
     # r "I'm waiting for you. Get your ass ready, today I want to come in from the back door."
     r "I'm waiting for you. Get your ass ready, today I want to come in from the back door."
 
-# game/sakuracan.rpy:3062
+# game/sakuracan.rpy:3033
 translate crowdin bizoterias11_987b3efe:
 
     # m "Hung up?"
     m "Hung up?"
 
-# game/sakuracan.rpy:3063
+# game/sakuracan.rpy:3034
 translate crowdin bizoterias11_825125d5:
 
     # m "She either wants to fuck in the ass too much or is not at all happy about such a demand."
     m "She either wants to fuck in the ass too much or is not at all happy about such a demand."
 
-# game/sakuracan.rpy:3067
+# game/sakuracan.rpy:3038
 translate crowdin bizoterias11_b9d6c072:
 
     # m "I'm leaning towards the former."
     m "I'm leaning towards the former."
 
-# game/sakuracan.rpy:3069
+# game/sakuracan.rpy:3040
 translate crowdin bizoterias11_7742ac8f:
 
     # "Спустя пол часа"
     "Спустя пол часа"
 
-# game/sakuracan.rpy:3077
+# game/sakuracan.rpy:3048
 translate crowdin bizoterias11_88f1f79b:
 
     # r "Ready to have some fun?"
     r "Ready to have some fun?"
 
-# game/sakuracan.rpy:3082
+# game/sakuracan.rpy:3053
 translate crowdin bizoterias11_6fb3322a:
 
     # hi "Let's go to the room, I'll change my clothes quickly !"
     hi "Let's go to the room, I'll change my clothes quickly !"
 
-# game/sakuracan.rpy:3100
+# game/sakuracan.rpy:3071
 translate crowdin positrenas_1a950046:
 
     # r "Satisfied?"
     r "Satisfied?"
 
-# game/sakuracan.rpy:3104
+# game/sakuracan.rpy:3075
 translate crowdin positrenas_52972649:
 
     # hi "Yes... But only for today..."
     hi "Yes... But only for today..."
 
-# game/sakuracan.rpy:3105
+# game/sakuracan.rpy:3076
 translate crowdin positrenas_53523e8c:
 
     # hi "If you want to take care of my hunger, invite me to the training room more often!"
     hi "If you want to take care of my hunger, invite me to the training room more often!"
 
-# game/sakuracan.rpy:3109
+# game/sakuracan.rpy:3080
 translate crowdin positrenas_396d8e8d:
 
     # r "Next time you should ask to get in the room yourself, I know you're looking forward to it."
     r "Next time you should ask to get in the room yourself, I know you're looking forward to it."
 
-# game/sakuracan.rpy:3113
+# game/sakuracan.rpy:3084
 translate crowdin positrenas_a27480b7:
 
     # hi "You make a girl ask..."
     hi "You make a girl ask..."
 
-# game/sakuracan.rpy:3114
+# game/sakuracan.rpy:3085
 translate crowdin positrenas_3d897c4d:
 
     # hi "Maybe I will! See you!"
     hi "Maybe I will! See you!"
 
-# game/sakuracan.rpy:3118
+# game/sakuracan.rpy:3089
 translate crowdin positrenas_7c9d9337:
 
     # r "Good night."
     r "Good night."
 
-# game/sakuracan.rpy:3124
+# game/sakuracan.rpy:3095
 translate crowdin positrenas_78e6f09b:
 
     # m "Hinata left. I need to do something with this new information..."
     m "Hinata left. I need to do something with this new information..."
 
-# game/sakuracan.rpy:3125
+# game/sakuracan.rpy:3096
 translate crowdin positrenas_acad18b8:
 
     # m "Where the hell is Kamiko?"
     m "Where the hell is Kamiko?"
 
-# game/sakuracan.rpy:3126
+# game/sakuracan.rpy:3097
 translate crowdin positrenas_1246dd58:
 
     # m "She hasn't swung by the apartment for a long time..."
     m "She hasn't swung by the apartment for a long time..."
 
-# game/sakuracan.rpy:3127
+# game/sakuracan.rpy:3098
 translate crowdin positrenas_d15bf6d9:
 
     # m "How can I find her?"
     m "How can I find her?"
 
-# game/sakuracan.rpy:3128
+# game/sakuracan.rpy:3099
 translate crowdin positrenas_0da678aa:
 
     # m "I feel that we are connected more than usual... I noticed this after the coma..."
     m "I feel that we are connected more than usual... I noticed this after the coma..."
 
-# game/sakuracan.rpy:3129
+# game/sakuracan.rpy:3100
 translate crowdin positrenas_6e58da17:
 
     # m "Perhaps a new ability could help me out?"
     m "Perhaps a new ability could help me out?"
 
-# game/sakuracan.rpy:3145
+# game/sakuracan.rpy:3116
 translate crowdin sascixd_3394fc84:
 
     # m "What is this? Chakra? Traces are everywhere..."
     m "What is this? Chakra? Traces are everywhere..."
 
-# game/sakuracan.rpy:3146
+# game/sakuracan.rpy:3117
 translate crowdin sascixd_8e4c1c09:
 
     # m "I can clearly tell that this is Kamiko's chakra, I can feel it for some reason."
     m "I can clearly tell that this is Kamiko's chakra, I can feel it for some reason."
 
-# game/sakuracan.rpy:3147
+# game/sakuracan.rpy:3118
 translate crowdin sascixd_e8245bb1:
 
     # m "I think I got it, this trail will lead me to Kamiko."
     m "I think I got it, this trail will lead me to Kamiko."
 
-# game/sakuracan.rpy:3148
+# game/sakuracan.rpy:3119
 translate crowdin sascixd_c11a53b5:
 
     # m "These eyes are a handy thing, huh."
     m "These eyes are a handy thing, huh."
 
-# game/sakuracan.rpy:3162
+# game/sakuracan.rpy:3133
 translate crowdin sascixd_cac54518:
 
     # m "Is that Kamiko there? That's definitely her."
     m "Is that Kamiko there? That's definitely her."
 
-# game/sakuracan.rpy:3163
+# game/sakuracan.rpy:3134
 translate crowdin sascixd_58a7ac5b:
 
     # m "What is she doing there?"
     m "What is she doing there?"
 
-# game/sakuracan.rpy:3171
+# game/sakuracan.rpy:3142
 translate crowdin sascixd_2e0a48d1:
 
     # ka "Sweetie, I see you."
     ka "Sweetie, I see you."
 
-# game/sakuracan.rpy:3175
+# game/sakuracan.rpy:3146
 translate crowdin sascixd_5cef1859:
 
     # r "Oh... Hello."
     r "Oh... Hello."
 
-# game/sakuracan.rpy:3180
+# game/sakuracan.rpy:3151
 translate crowdin sascixd_965d0580:
 
     # ka "What a sudden visit. How did you even find me?"
     ka "What a sudden visit. How did you even find me?"
 
-# game/sakuracan.rpy:3185
+# game/sakuracan.rpy:3156
 translate crowdin sascixd_92c11193:
 
     # r "New eyes, I saw a trace of your chakra."
     r "New eyes, I saw a trace of your chakra."
 
-# game/sakuracan.rpy:3190
+# game/sakuracan.rpy:3161
 translate crowdin sascixd_287f9455:
 
     # ka "Oh, so you were able to keep track? Not bad, even Uchiha with his Sharingan failed."
     ka "Oh, so you were able to keep track? Not bad, even Uchiha with his Sharingan failed."
 
-# game/sakuracan.rpy:3195
+# game/sakuracan.rpy:3166
 translate crowdin sascixd_5c072834:
 
     # r "Am I disturbing you?"
     r "Am I disturbing you?"
 
-# game/sakuracan.rpy:3200
+# game/sakuracan.rpy:3171
 translate crowdin sascixd_4793aa32:
 
     # ka "Not at all, I've already finished the ritual."
     ka "Not at all, I've already finished the ritual."
 
-# game/sakuracan.rpy:3205
+# game/sakuracan.rpy:3176
 translate crowdin sascixd_ee873055:
 
     # r "Ritual? What are you talking about?"
     r "Ritual? What are you talking about?"
 
-# game/sakuracan.rpy:3210
+# game/sakuracan.rpy:3181
 translate crowdin sascixd_18ea5907:
 
     # ka "Summoning a new pawn, I've already done this with you."
     ka "Summoning a new pawn, I've already done this with you."
 
-# game/sakuracan.rpy:3215
+# game/sakuracan.rpy:3186
 translate crowdin sascixd_b107cc5d:
 
     # r "Are you summoning someone else? Did you succeed?"
     r "Are you summoning someone else? Did you succeed?"
 
-# game/sakuracan.rpy:3220
+# game/sakuracan.rpy:3191
 translate crowdin sascixd_e9ed558e:
 
     # ka "Well, how can I put this... You can take a look for yourself."
     ka "Well, how can I put this... You can take a look for yourself."
 
-# game/sakuracan.rpy:3229
+# game/sakuracan.rpy:3200
 translate crowdin sascixd_c85c7b6d:
 
     # r "Fuck... My god... What evenis it!?"
     r "Fuck... My god... What evenis it!?"
 
-# game/sakuracan.rpy:3231
+# game/sakuracan.rpy:3202
 translate crowdin sascixd_3dba32fc:
 
     # ka "The body, as you can see. She couldn't stand it."
     ka "The body, as you can see. She couldn't stand it."
 
-# game/sakuracan.rpy:3233
+# game/sakuracan.rpy:3204
 translate crowdin sascixd_49ea6bfc:
 
     # r "Couldn't stand what? What did you do to her?"
     r "Couldn't stand what? What did you do to her?"
 
-# game/sakuracan.rpy:3235
+# game/sakuracan.rpy:3206
 translate crowdin sascixd_59a8620b:
 
     # ka "The transfer. Her body couldn't handle the interdimensional travel."
     ka "The transfer. Her body couldn't handle the interdimensional travel."
 
-# game/sakuracan.rpy:3237
+# game/sakuracan.rpy:3208
 translate crowdin sascixd_d4baaf8b:
 
     # r "I... I could end up like that too?"
     r "I... I could end up like that too?"
 
-# game/sakuracan.rpy:3239
+# game/sakuracan.rpy:3210
 translate crowdin sascixd_6526f2ac:
 
     # ka "Of course, dear, before you I called about a hundred applicants who could not stand the transfer."
     ka "Of course, dear, before you I called about a hundred applicants who could not stand the transfer."
 
-# game/sakuracan.rpy:3241
+# game/sakuracan.rpy:3212
 translate crowdin sascixd_ffdad8bc:
 
     # r "This... It’s not sitting in my head right..."
     r "This... It’s not sitting in my head right..."
 
-# game/sakuracan.rpy:3243
+# game/sakuracan.rpy:3214
 translate crowdin sascixd_d576e389:
 
     # ka "You are special, I already said it... Special not only because you survived the transfer, you are very useful, I would get rid of useless pawns right away, but this is not about you."
     ka "You are special, I already said it... Special not only because you survived the transfer, you are very useful, I would get rid of useless pawns right away, but this is not about you."
 
-# game/sakuracan.rpy:3245
+# game/sakuracan.rpy:3216
 translate crowdin sascixd_3ebea423:
 
     # r "So... You're going to summon someone else?"
     r "So... You're going to summon someone else?"
 
-# game/sakuracan.rpy:3247
+# game/sakuracan.rpy:3218
 translate crowdin sascixd_60b7880f:
 
     # ka "Yes... I feel like I'm close to summoning another pawn."
     ka "Yes... I feel like I'm close to summoning another pawn."
 
-# game/sakuracan.rpy:3249
+# game/sakuracan.rpy:3220
 translate crowdin sascixd_662abe82:
 
     # r "Which attempt is this? How many people failed?"
     r "Which attempt is this? How many people failed?"
 
-# game/sakuracan.rpy:3251
+# game/sakuracan.rpy:3222
 translate crowdin sascixd_7142279f:
 
     # ka "This time it's more difficult... This poor thing was... Hmm... 274."
     ka "This time it's more difficult... This poor thing was... Hmm... 274."
 
-# game/sakuracan.rpy:3253
+# game/sakuracan.rpy:3224
 translate crowdin sascixd_8168cea9:
 
     # m "God... she killed so many people..."
     m "God... she killed so many people..."
 
-# game/sakuracan.rpy:3254
+# game/sakuracan.rpy:3225
 translate crowdin sascixd_da1eb514:
 
     # m "I don't know what to think..."
     m "I don't know what to think..."
 
-# game/sakuracan.rpy:3255
+# game/sakuracan.rpy:3226
 translate crowdin sascixd_2f13a6a8:
 
     # m "I have only one goal here, I have to tell her... that I..."
     m "I have only one goal here, I have to tell her... that I..."
 
-# game/sakuracan.rpy:3267
+# game/sakuracan.rpy:3238
 translate crowdin razkazatey_e3904bb5:
 
     # m "I'll do it... It's too dangerous... I have no choice."
     m "I'll do it... It's too dangerous... I have no choice."
 
-# game/sakuracan.rpy:3271
+# game/sakuracan.rpy:3244
 translate crowdin nerazkazal_8237d0c5:
 
     # m "No... After what I saw... I have to do everything on my own..."
     m "No... After what I saw... I have to do everything on my own..."
+
+# game/sakuracan.rpy:3260
+translate crowdin raskazevars_0947d227:
+
+    # r "There's one thing that's bothering me right now..."
+    r "There's one thing that's bothering me right now..."
+
+# game/sakuracan.rpy:3262
+translate crowdin raskazevars_55419edd:
+
+    # r "I feel like I should share it with you."
+    r "I feel like I should share it with you."
+
+# game/sakuracan.rpy:3264
+translate crowdin raskazevars_93a287be:
+
+    # ka "Is it something important? You can tell me."
+    ka "Is it something important? You can tell me."
+
+# game/sakuracan.rpy:3266
+translate crowdin raskazevars_f0615dbf:
+
+    # r "The thing is... My story might not be easy to believe.... You never know though, me standing here now isn't normal either."
+    r "The thing is... My story might not be easy to believe.... You never know though, me standing here now isn't normal either."
+
+# game/sakuracan.rpy:3268
+translate crowdin raskazevars_f137ff3e:
+
+    # ka "What an intriguing introduction... Spit it out, sweetie."
+    ka "What an intriguing introduction... Spit it out, sweetie."
+
+# game/sakuracan.rpy:3270
+translate crowdin raskazevars_28449779:
+
+    # r "Someone's after me. Some unfamiliar person who clearly wants me dead..."
+    r "Someone's after me. Some unfamiliar person who clearly wants me dead..."
+
+# game/sakuracan.rpy:3272
+translate crowdin raskazevars_2577664b:
+
+    # r "No, even worse... He's killed before... Killed me..."
+    r "No, even worse... He's killed before... Killed me..."
+
+# game/sakuracan.rpy:3274
+translate crowdin raskazevars_7254bb9b:
+
+    # ka "Killed you? What do you mean?"
+    ka "Killed you? What do you mean?"
+
+# game/sakuracan.rpy:3276
+translate crowdin raskazevars_14978f59:
+
+    # r "That man killed me when I went to Sakura, she'd texted me and asked to meet her."
+    r "That man killed me when I went to Sakura, she'd texted me and asked to meet her."
+
+# game/sakuracan.rpy:3278
+translate crowdin raskazevars_6f7d440d:
+
+    # r "I came, but Sakura wasn't there. I didn't realize it right away, I thought it was Sakura standing there, but it wasn't her.... I only saw his face for a few moments, then I felt a sharp pain in my neck..."
+    r "I came, but Sakura wasn't there. I didn't realize it right away, I thought it was Sakura standing there, but it wasn't her.... I only saw his face for a few moments, then I felt a sharp pain in my neck..."
+
+# game/sakuracan.rpy:3280
+translate crowdin raskazevars_87fc3a22:
+
+    # r "And then I woke up..."
+    r "And then I woke up..."
+
+# game/sakuracan.rpy:3282
+translate crowdin raskazevars_c9761b29:
+
+    # r "The day kept repeating itself with damn precision... I had the strange feeling that I'd already experienced this day, heard all these phrases..."
+    r "The day kept repeating itself with damn precision... I had the strange feeling that I'd already experienced this day, heard all these phrases..."
+
+# game/sakuracan.rpy:3284
+translate crowdin raskazevars_f1357ac6:
+
+    # r "Then just as I thought... The message... It was exactly the same... I went there, but this time I'd disguised myself."
+    r "Then just as I thought... The message... It was exactly the same... I went there, but this time I'd disguised myself."
+
+# game/sakuracan.rpy:3286
+translate crowdin raskazevars_48059a48:
+
+    # r "I know it sounds strange, but it's true..."
+    r "I know it sounds strange, but it's true..."
+
+# game/sakuracan.rpy:3288
+translate crowdin raskazevars_a3120550:
+
+    # ka "Unbelievable... I never thought your rebirth could cause this kind of collapse."
+    ka "Unbelievable... I never thought your rebirth could cause this kind of collapse."
+
+# game/sakuracan.rpy:3290
+translate crowdin raskazevars_dafbdb95:
+
+    # r "What do you mean?"
+    r "What do you mean?"
+
+# game/sakuracan.rpy:3292
+translate crowdin raskazevars_c13cc0c3:
+
+    # ka "Our journey, it was a natural step towards your evolution as Otsutsuki."
+    ka "Our journey, it was a natural step towards your evolution as Otsutsuki."
+
+# game/sakuracan.rpy:3294
+translate crowdin raskazevars_bc1e431f:
+
+    # ka "Manipulating the flow of time is a very risky thing, no one knows where it could lead..."
+    ka "Manipulating the flow of time is a very risky thing, no one knows where it could lead..."
+
+# game/sakuracan.rpy:3296
+translate crowdin raskazevars_63d911fe:
+
+    # ka "But it was necessary to speed up your rebirth, your evolution... I was sure you could survive it, but I didn't know what the side effects of a technique of this magnitude would be."
+    ka "But it was necessary to speed up your rebirth, your evolution... I was sure you could survive it, but I didn't know what the side effects of a technique of this magnitude would be."
+
+# game/sakuracan.rpy:3298
+translate crowdin raskazevars_b6a21196:
+
+    # r "So... What are the consequences? Did you understand anything?"
+    r "So... What are the consequences? Did you understand anything?"
+
+# game/sakuracan.rpy:3300
+translate crowdin raskazevars_415ff556:
+
+    # ka "Whoever's trying to kill you is disrupting the uniform flow I created with my technique, he shouldn't be here, it's a critical exception, a paradox."
+    ka "Whoever's trying to kill you is disrupting the uniform flow I created with my technique, he shouldn't be here, it's a critical exception, a paradox."
+
+# game/sakuracan.rpy:3302
+translate crowdin raskazevars_c0e6fca9:
+
+    # ka "That's why he can't kill you, no matter how many times he tries."
+    ka "That's why he can't kill you, no matter how many times he tries."
+
+# game/sakuracan.rpy:3304
+translate crowdin raskazevars_fdb7bbdc:
+
+    # r "So I'm not in danger?"
+    r "So I'm not in danger?"
+
+# game/sakuracan.rpy:3306
+translate crowdin raskazevars_460d022c:
+
+    # ka "I didn't say that."
+    ka "I didn't say that."
+
+# game/sakuracan.rpy:3308
+translate crowdin raskazevars_ce8bf974:
+
+    # ka "You've given me quite a task... Not the easiest one. But at the same time it was more than necessary, thanks for not hiding it from me.... I'll probably have to leave you for a while until I figure out how to get rid of our problem."
+    ka "You've given me quite a task... Not the easiest one. But at the same time it was more than necessary, thanks for not hiding it from me.... I'll probably have to leave you for a while until I figure out how to get rid of our problem."
+
+# game/sakuracan.rpy:3310
+translate crowdin raskazevars_5a216079:
+
+    # r "Okay... What about this... This girl? Are you going to leave her like this?"
+    r "Okay... What about this... This girl? Are you going to leave her like this?"
+
+# game/sakuracan.rpy:3312
+translate crowdin raskazevars_6ea84914:
+
+    # ka "Of course not, I'll get rid of the body, don't worry about it."
+    ka "Of course not, I'll get rid of the body, don't worry about it."
+
+# game/sakuracan.rpy:3320
+translate crowdin neraskazevarten_6ab2f7a3:
+
+    # ka "Impressive, isn't it? After summoning you I realized that your universe is special in some way."
+    ka "Impressive, isn't it? After summoning you I realized that your universe is special in some way."
+
+# game/sakuracan.rpy:3322
+translate crowdin neraskazevarten_c9740df7:
+
+    # ka "It's overflowing with different types of worlds that exist on TV screens, in comics, manga, books, stories... But not in reality..."
+    ka "It's overflowing with different types of worlds that exist on TV screens, in comics, manga, books, stories... But not in reality..."
+
+# game/sakuracan.rpy:3324
+translate crowdin neraskazevarten_cc07a3a9:
+
+    # r "You mean the various shows, anime and the like?"
+    r "You mean the various shows, anime and the like?"
+
+# game/sakuracan.rpy:3326
+translate crowdin neraskazevarten_85cdec21:
+
+    # ka "Yes, these are all universes that actually exist outside of yours, they're all real, but to you they're nothing more than fantasy, fiction... It's amazing."
+    ka "Yes, these are all universes that actually exist outside of yours, they're all real, but to you they're nothing more than fantasy, fiction... It's amazing."
+
+# game/sakuracan.rpy:3328
+translate crowdin neraskazevarten_396504b1:
+
+    # r "It kind of doesn't make sense... All these stories are made up by people, it's kind of fiction to entertain or make money or..."
+    r "It kind of doesn't make sense... All these stories are made up by people, it's kind of fiction to entertain or make money or..."
+
+# game/sakuracan.rpy:3330
+translate crowdin neraskazevarten_8509efe9:
+
+    # ka "Every story has a writer, just like every writer has a story."
+    ka "Every story has a writer, just like every writer has a story."
+
+# game/sakuracan.rpy:3332
+translate crowdin neraskazevarten_15c679cc:
+
+    # ka "In your world, these stories appear for a reason, they're all representations of other universes that people in your world can somehow see in their imagination..."
+    ka "In your world, these stories appear for a reason, they're all representations of other universes that people in your world can somehow see in their imagination..."
+
+# game/sakuracan.rpy:3334
+translate crowdin neraskazevarten_3585fd04:
+
+    # r "So everything we've made up... Really does really exist somewhere?"
+    r "So everything we've made up... Really does really exist somewhere?"
+
+# game/sakuracan.rpy:3336
+translate crowdin neraskazevarten_450d008d:
+
+    # ka "What do you think? Fact that you're standing here is the clearest evidence of that."
+    ka "What do you think? Fact that you're standing here is the clearest evidence of that."
+
+# game/sakuracan.rpy:3338
+translate crowdin neraskazevarten_1f7323c4:
+
+    # r "Right... I didn't think of that."
+    r "Right... I didn't think of that."
+
+# game/sakuracan.rpy:3344
+translate crowdin obzert6667_8bf1193c:
+
+    # "[viname]... Is that y-..."
+    "[viname]... Is that y-..."
+
+# game/sakuracan.rpy:3346
+translate crowdin obzert6667_85852747:
+
+    # m "Wait... What is this?"
+    m "Wait... What is this?"
+
+# game/sakuracan.rpy:3353
+translate crowdin obzert6667_c8b42ec5:
+
+    # hi "What's going on here..."
+    hi "What's going on here..."
+
+# game/sakuracan.rpy:3355
+translate crowdin obzert6667_2b7d1732:
+
+    # r "Hinata!? How did you get here?"
+    r "Hinata!? How did you get here?"
+
+# game/sakuracan.rpy:3357
+translate crowdin obzert6667_46a5517a:
+
+    # hi "Who's that? Who is that woman with you? Why is she... She's like... Like Kaguya..."
+    hi "Who's that? Who is that woman with you? Why is she... She's like... Like Kaguya..."
+
+# game/sakuracan.rpy:3359
+translate crowdin obzert6667_e165ca1b:
+
+    # hi "Please explain... I... I don't understand..."
+    hi "Please explain... I... I don't understand..."
+
+# game/sakuracan.rpy:3361
+translate crowdin obzert6667_18ba00f1:
+
+    # ka "(Whispering) Check her status, how bound to you is she?"
+    ka "(Whispering) Check her status, how bound to you is she?"
+
+# game/sakuracan.rpy:3375
+translate crowdin ssssccccc_8844f81f:
+
+    # r "(Whispering) 91"
+    r "(Whispering) 91"
+
+# game/sakuracan.rpy:3377
+translate crowdin ssssccccc_20337af1:
+
+    # ka "(Whispering) Good, she'll do fine."
+    ka "(Whispering) Good, she'll do fine."
+
+# game/sakuracan.rpy:3379
+translate crowdin ssssccccc_cc7d4226:
+
+    # hi "W-why are you silent...? I'm scared..."
+    hi "W-why are you silent...? I'm scared..."
+
+# game/sakuracan.rpy:3381
+translate crowdin ssssccccc_47780992:
+
+    # ka "Hinata Uzumaki... You shouldn't be afraid of me. I'm not my sister, I'm not Kaguya."
+    ka "Hinata Uzumaki... You shouldn't be afraid of me. I'm not my sister, I'm not Kaguya."
+
+# game/sakuracan.rpy:3383
+translate crowdin ssssccccc_3489c5f3:
+
+    # hi "W-what are you...?"
+    hi "W-what are you...?"
+
+# game/sakuracan.rpy:3385
+translate crowdin ssssccccc_c53f1a50:
+
+    # ka "My name is Kamiko, as you've probably guessed by now, I'm from the Otsutsuki clan, just like my sister."
+    ka "My name is Kamiko, as you've probably guessed by now, I'm from the Otsutsuki clan, just like my sister."
+
+# game/sakuracan.rpy:3387
+translate crowdin ssssccccc_c1055617:
+
+    # hi "[viname]... What she's saying... Is it true?"
+    hi "[viname]... What she's saying... Is it true?"
+
+# game/sakuracan.rpy:3389
+translate crowdin ssssccccc_167f50da:
+
+    # r "Yes, believe her, you shouldn't be afraid of her."
+    r "Yes, believe her, you shouldn't be afraid of her."
+
+# game/sakuracan.rpy:3391
+translate crowdin ssssccccc_8db878a5:
+
+    # hi "And... And you? Should I be afraid of you...? Are you also like her...?"
+    hi "And... And you? Should I be afraid of you...? Are you also like her...?"
+
+# game/sakuracan.rpy:3393
+translate crowdin ssssccccc_9cd0d72a:
+
+    # ka "No. He's not like me, at least not yet."
+    ka "No. He's not like me, at least not yet."
+
+# game/sakuracan.rpy:3395
+translate crowdin ssssccccc_3632d751:
+
+    # r "Please Hinata, trust me, we don't want to hurt you... I would never do such a thing."
+    r "Please Hinata, trust me, we don't want to hurt you... I would never do such a thing."
+
+# game/sakuracan.rpy:3397
+translate crowdin ssssccccc_f3956219:
+
+    # hi "Then what... What's going on here?"
+    hi "Then what... What's going on here?"
+
+# game/sakuracan.rpy:3399
+translate crowdin ssssccccc_c3d5c4fc:
+
+    # ka "Let us explain everything in a more familiar setting."
+    ka "Let us explain everything in a more familiar setting."
+
+# game/sakuracan.rpy:3401
+translate crowdin ssssccccc_9ea00730:
+
+    # r "Come with us Hinata, don't be afraid of anything, you're really in no danger."
+    r "Come with us Hinata, don't be afraid of anything, you're really in no danger."
+
+# game/sakuracan.rpy:3403
+translate crowdin ssssccccc_7711041f:
+
+    # hi "O-okay..."
+    hi "O-okay..."
+
+# game/sakuracan.rpy:3419
+translate crowdin ssssccccc_db6eab03:
+
+    # hi "I... I already regret following you..."
+    hi "I... I already regret following you..."
+
+# game/sakuracan.rpy:3423
+translate crowdin ssssccccc_2bcae9d8:
+
+    # r "Why did you follow me? I thought you went home?"
+    r "Why did you follow me? I thought you went home?"
+
+# game/sakuracan.rpy:3427
+translate crowdin ssssccccc_1cbb2804:
+
+    # hi "I forgot my cellphone at your place... So I came back, but... I saw you walking somewhere."
+    hi "I forgot my cellphone at your place... So I came back, but... I saw you walking somewhere."
+
+# game/sakuracan.rpy:3429
+translate crowdin ssssccccc_b125e81f:
+
+    # hi "Then you disappeared. I was able to see you only after using my Byakugan..."
+    hi "Then you disappeared. I was able to see you only after using my Byakugan..."
+
+# game/sakuracan.rpy:3433
+translate crowdin ssssccccc_e6dc36f4:
+
+    # r "It was bound to happen sooner or later. We have a lot to talk about."
+    r "It was bound to happen sooner or later. We have a lot to talk about."
+
+# game/sakuracan.rpy:3435
+translate crowdin ssssccccc_09a3c2ab:
+
+    # ka "Sit down, we'll talk."
+    ka "Sit down, we'll talk."
+
+# game/sakuracan.rpy:3441
+translate crowdin ssssccccc_037fcec7:
+
+    # hi "Tell me everything. Who are you? What are you doing here? What is the meaning of all this?"
+    hi "Tell me everything. Who are you? What are you doing here? What is the meaning of all this?"
+
+# game/sakuracan.rpy:3445
+translate crowdin ssssccccc_fbc5a513:
+
+    # ka "As I said before, my name is Kamiko, I'm from the Otsutsuki clan."
+    ka "As I said before, my name is Kamiko, I'm from the Otsutsuki clan."
+
+# game/sakuracan.rpy:3447
+translate crowdin ssssccccc_80dbee7b:
+
+    # ka "However, don't be too categorical about it, as you can see I don't mean any harm, neither to you or anybody else."
+    ka "However, don't be too categorical about it, as you can see I don't mean any harm, neither to you or anybody else."
+
+# game/sakuracan.rpy:3451
+translate crowdin ssssccccc_03f43c90:
+
+    # hi "Anybody else? Who do you mean?"
+    hi "Anybody else? Who do you mean?"
+
+# game/sakuracan.rpy:3455
+translate crowdin ssssccccc_ee689ee4:
+
+    # ka "You... Humans. Chakra fruit, as other members of my clan would call you."
+    ka "You... Humans. Chakra fruit, as other members of my clan would call you."
+
+# game/sakuracan.rpy:3457
+translate crowdin ssssccccc_c72865d5:
+
+    # ka "You see... Not all of us wish evil upon humanity. I am a very rare exception."
+    ka "You see... Not all of us wish evil upon humanity. I am a very rare exception."
+
+# game/sakuracan.rpy:3461
+translate crowdin ssssccccc_d312a2f2:
+
+    # hi "Why are you here? Don't you want to destroy our world?"
+    hi "Why are you here? Don't you want to destroy our world?"
+
+# game/sakuracan.rpy:3465
+translate crowdin ssssccccc_95db996e:
+
+    # ka "Oh, dear, of course I don't. I'll say more, my sister Kaguya didn't want to either."
+    ka "Oh, dear, of course I don't. I'll say more, my sister Kaguya didn't want to either."
+
+# game/sakuracan.rpy:3467
+translate crowdin ssssccccc_ecfedd85:
+
+    # ka "To her, all of you are like her own litter, her children. But she realized that sooner or later a terrible fate awaits you. By sealing her up, you've given yourself half a century, at best."
+    ka "To her, all of you are like her own litter, her children. But she realized that sooner or later a terrible fate awaits you. By sealing her up, you've given yourself half a century, at best."
+
+# game/sakuracan.rpy:3471
+translate crowdin ssssccccc_ea1c63c3:
+
+    # hi "You... You know about Kaguya? And about Naruto sealing her?"
+    hi "You... You know about Kaguya? And about Naruto sealing her?"
+
+# game/sakuracan.rpy:3475
+translate crowdin ssssccccc_815c1730:
+
+    # ka "Of course, I even personally watched the whole bloody spectacle you call the fourth world shinobi war. You know... If I had helped her in that battle... Your land would no longer exist."
+    ka "Of course, I even personally watched the whole bloody spectacle you call the fourth world shinobi war. You know... If I had helped her in that battle... Your land would no longer exist."
+
+# game/sakuracan.rpy:3479
+translate crowdin ssssccccc_8743b528:
+
+    # hi "Why didn't you?"
+    hi "Why didn't you?"
+
+# game/sakuracan.rpy:3483
+translate crowdin ssssccccc_dd0b4466:
+
+    # ka "Because I like it here. I feel free on this planet. This whole thing with world-devouring is tiring."
+    ka "Because I like it here. I feel free on this planet. This whole thing with world-devouring is tiring."
+
+# game/sakuracan.rpy:3487
+translate crowdin ssssccccc_c3286c7a:
+
+    # hi "World-devouring!? What?"
+    hi "World-devouring!? What?"
+
+# game/sakuracan.rpy:3491
+translate crowdin ssssccccc_db86c4cc:
+
+    # ka "It's complicated, girl, the only thing that matters is that I'm all in favor of your survival as a species."
+    ka "It's complicated, girl, the only thing that matters is that I'm all in favor of your survival as a species."
+
+# game/sakuracan.rpy:3493
+translate crowdin ssssccccc_fcd7a216:
+
+    # ka "My brethren have already realized Kaguya has failed, others will be here soon."
+    ka "My brethren have already realized Kaguya has failed, others will be here soon."
+
+# game/sakuracan.rpy:3497
+translate crowdin ssssccccc_795660b4:
+
+    # ka "More complacent, more dangerous. They don't care that you're a full-fledged species, with your own history, feelings and dreams, to them you're just a food source."
+    ka "More complacent, more dangerous. They don't care that you're a full-fledged species, with your own history, feelings and dreams, to them you're just a food source."
+
+# game/sakuracan.rpy:3501
+translate crowdin ssssccccc_df9d6ba3:
+
+    # hi "So you... You want to help?"
+    hi "So you... You want to help?"
+
+# game/sakuracan.rpy:3505
+translate crowdin ssssccccc_3ce0d8a6:
+
+    # ka "No, not just help... I want to save you."
+    ka "No, not just help... I want to save you."
+
+# game/sakuracan.rpy:3509
+translate crowdin ssssccccc_765b60fe:
+
+    # hi "Why don't you go to Naruto? Why did you wait so long? He would understand."
+    hi "Why don't you go to Naruto? Why did you wait so long? He would understand."
+
+# game/sakuracan.rpy:3513
+translate crowdin ssssccccc_e1e22ab4:
+
+    # ka "That's where you are mistaken."
+    ka "That's where you are mistaken."
+
+# game/sakuracan.rpy:3515
+translate crowdin ssssccccc_561bf93f:
+
+    # ka "Naruto Uzumaki is an important historical figure to your species, he and his chakra will have significance to my brethren."
+    ka "Naruto Uzumaki is an important historical figure to your species, he and his chakra will have significance to my brethren."
+
+# game/sakuracan.rpy:3517
+translate crowdin ssssccccc_a0ed694b:
+
+    # ka "I knew they would come, but I didn't know how soon. At this time in your history, I must not be allowed to interfere with what is to come."
+    ka "I knew they would come, but I didn't know how soon. At this time in your history, I must not be allowed to interfere with what is to come."
+
+# game/sakuracan.rpy:3521
+translate crowdin ssssccccc_3fa7a006:
+
+    # r "Are you talking about Momoshiki's arrival?"
+    r "Are you talking about Momoshiki's arrival?"
+
+# game/sakuracan.rpy:3525
+translate crowdin ssssccccc_3b5f9a06:
+
+    # ka "What did you say?"
+    ka "What did you say?"
+
+# game/sakuracan.rpy:3529
+translate crowdin ssssccccc_968f8f56:
+
+    # r "Momoshiki, he must come and fight Naruto, Sasuke and the others."
+    r "Momoshiki, he must come and fight Naruto, Sasuke and the others."
+
+# game/sakuracan.rpy:3533
+translate crowdin ssssccccc_233df240:
+
+    # ka "Correct. Damn, sometimes I forget that you can know some important things ahead of time."
+    ka "Correct. Damn, sometimes I forget that you can know some important things ahead of time."
+
+# game/sakuracan.rpy:3537
+translate crowdin ssssccccc_b63ce39a:
+
+    # hi "What's he talking about?"
+    hi "What's he talking about?"
+
+# game/sakuracan.rpy:3541
+translate crowdin ssssccccc_18fb8e99:
+
+    # ka "What's important is that Momoshiki will be the first inevitable stage that will lead to your potential as a species becoming stronger."
+    ka "What's important is that Momoshiki will be the first inevitable stage that will lead to your potential as a species becoming stronger."
+
+# game/sakuracan.rpy:3543
+translate crowdin ssssccccc_dc2dfbdc:
+
+    # ka "Naruto's descendant, your son, he is a much more significant figure to your entire species."
+    ka "Naruto's descendant, your son, he is a much more significant figure to your entire species."
+
+# game/sakuracan.rpy:3547
+translate crowdin ssssccccc_e33702e0:
+
+    # hi "Boruto? You mean my Boruto?"
+    hi "Boruto? You mean my Boruto?"
+
+# game/sakuracan.rpy:3551
+translate crowdin ssssccccc_dd0e7396:
+
+    # ka "Yes."
+    ka "Yes."
+
+# game/sakuracan.rpy:3555
+translate crowdin ssssccccc_c25e2985:
+
+    # hi "I don't understand... What does this have to do with my son... And why can't you go to Naruto with all this... It must be important!"
+    hi "I don't understand... What does this have to do with my son... And why can't you go to Naruto with all this... It must be important!"
+
+# game/sakuracan.rpy:3559
+translate crowdin ssssccccc_71b6ab23:
+
+    # ka "Oh, don't worry, one day we'll have to meet, but that time hasn't come yet."
+    ka "Oh, don't worry, one day we'll have to meet, but that time hasn't come yet."
+
+# game/sakuracan.rpy:3561
+translate crowdin ssssccccc_37fd199f:
+
+    # ka "Just keep in your head that I want to help you, I don't want this world to die."
+    ka "Just keep in your head that I want to help you, I don't want this world to die."
+
+# game/sakuracan.rpy:3563
+translate crowdin ssssccccc_940abdb9:
+
+    # ka "One day Naruto will realize that, and you're going to help me with that."
+    ka "One day Naruto will realize that, and you're going to help me with that."
+
+# game/sakuracan.rpy:3567
+translate crowdin ssssccccc_3b722d15:
+
+    # hi "Okay but... What's your role in all this... [viname]..."
+    hi "Okay but... What's your role in all this... [viname]..."
+
+# game/sakuracan.rpy:3571
+translate crowdin ssssccccc_600b9c83:
+
+    # r "My role? Well... To tell you the truth, I have no idea."
+    r "My role? Well... To tell you the truth, I have no idea."
+
+# game/sakuracan.rpy:3575
+translate crowdin ssssccccc_244636c0:
+
+    # hi "Is that all you have to say?"
+    hi "Is that all you have to say?"
+
+# game/sakuracan.rpy:3579
+translate crowdin ssssccccc_35f6660e:
+
+    # ka "It's true. He's just a victim of circumstances."
+    ka "It's true. He's just a victim of circumstances."
+
+# game/sakuracan.rpy:3583
+translate crowdin ssssccccc_fe0cd8f7:
+
+    # r "Well... I wouldn't say victim... I like life here a lot."
+    r "Well... I wouldn't say victim... I like life here a lot."
+
+# game/sakuracan.rpy:3587
+translate crowdin ssssccccc_8cc090ae:
+
+    # hi "You're helping her? You're helping... Kamiko?"
+    hi "You're helping her? You're helping... Kamiko?"
+
+# game/sakuracan.rpy:3591
+translate crowdin ssssccccc_858e3a0d:
+
+    # r "Of course. I don't want this world to die either. More than that, I don't want you and your family to suffer."
+    r "Of course. I don't want this world to die either. More than that, I don't want you and your family to suffer."
+
+# game/sakuracan.rpy:3595
+translate crowdin ssssccccc_3ea3c08c:
+
+    # hi "So... You did all of this... Between you and me... Just because you had to?"
+    hi "So... You did all of this... Between you and me... Just because you had to?"
+
+# game/sakuracan.rpy:3599
+translate crowdin ssssccccc_fe67c0fc:
+
+    # r "I wouldn't say that, Hinata. You know, I've had a lot of different feelings for you in all this time, and they've been more real and vivid than every miserable year I've lived before."
+    r "I wouldn't say that, Hinata. You know, I've had a lot of different feelings for you in all this time, and they've been more real and vivid than every miserable year I've lived before."
+
+# game/sakuracan.rpy:3601
+translate crowdin ssssccccc_ba0e215d:
+
+    # r "I used to think I was forced to do it... But now I know I'm helping Kamiko for your sake, you mean a lot to me."
+    r "I used to think I was forced to do it... But now I know I'm helping Kamiko for your sake, you mean a lot to me."
+
+# game/sakuracan.rpy:3605
+translate crowdin ssssccccc_5ed51a1d:
+
+    # ka "The guy is a sensitive one... You're lucky."
+    ka "The guy is a sensitive one... You're lucky."
+
+# game/sakuracan.rpy:3609
+translate crowdin ssssccccc_d9c41bc0:
+
+    # hi "So that's how it is..."
+    hi "So that's how it is..."
+
+# game/sakuracan.rpy:3611
+translate crowdin ssssccccc_3d05bb2f:
+
+    # hi "All the things you've done and said... Are those really your feelings?"
+    hi "All the things you've done and said... Are those really your feelings?"
+
+# game/sakuracan.rpy:3615
+translate crowdin ssssccccc_05ff5afd:
+
+    # r "Absolutely. I wouldn't trade our moments with you for anything."
+    r "Absolutely. I wouldn't trade our moments with you for anything."
+
+# game/sakuracan.rpy:3619
+translate crowdin ssssccccc_2d321ca2:
+
+    # hi "Good... I feel calmer already..."
+    hi "Good... I feel calmer already..."
+
+# game/sakuracan.rpy:3623
+translate crowdin ssssccccc_a9b0302a:
+
+    # ka "Hinata... Honey... I can see how you're drawn to him, how you're afraid it was all fake... But you don't have to be afraid. We'll take care of you."
+    ka "Hinata... Honey... I can see how you're drawn to him, how you're afraid it was all fake... But you don't have to be afraid. We'll take care of you."
+
+# game/sakuracan.rpy:3627
+translate crowdin ssssccccc_76ad5114:
+
+    # hi "What do you mean we...?"
+    hi "What do you mean we...?"
+
+# game/sakuracan.rpy:3631
+translate crowdin ssssccccc_cfb36771:
+
+    # ka "Let me show you just how human I can be..."
+    ka "Let me show you just how human I can be..."
+
+# game/sakuracan.rpy:3639
+translate crowdin ssssccccc_1f86cddc:
+
+    # m "Damn... Kamiko really wants to do this?"
+    m "Damn... Kamiko really wants to do this?"
+
+# game/sakuracan.rpy:3641
+translate crowdin ssssccccc_7d3d6195:
+
+    # m "That's bold of her..."
+    m "That's bold of her..."
+
+# game/sakuracan.rpy:3643
+translate crowdin ssssccccc_27639643:
+
+    # m "I wouldn't say Hinata's fighting back though."
+    m "I wouldn't say Hinata's fighting back though."
+
+# game/sakuracan.rpy:3645
+translate crowdin ssssccccc_1575aef2:
+
+    # m "Looks like someone's about to get a threesome with two hot girls!"
+    m "Looks like someone's about to get a threesome with two hot girls!"
+
+# game/sakuracan.rpy:3647
+translate crowdin ssssccccc_2b9fd579:
+
+    # m "This worked out even better than I expected!"
+    m "This worked out even better than I expected!"
+
+# game/sakuracan.rpy:3655
+translate crowdin ssssccccc_a73d289c:
+
+    # ka "Take your clothes off, boy..."
+    ka "Take your clothes off, boy..."
+
+# game/sakuracan.rpy:3657
+translate crowdin ssssccccc_4c3111d2:
+
+    # ka "We need your hard cock and clear mind."
+    ka "We need your hard cock and clear mind."
+
+# game/sakuracan.rpy:3662
+translate crowdin ssssccccc_f5b8e697:
+
+    # r "Hinata, is that what you want?"
+    r "Hinata, is that what you want?"
+
+# game/sakuracan.rpy:3664
+translate crowdin ssssccccc_f72ffc15:
+
+    # hi "L-let's just do it..."
+    hi "L-let's just do it..."
+
+# game/sakuracan.rpy:3674
+translate crowdin ssssccccc_bf63247f:
+
+    # m "They're doing teamwork!"
+    m "They're doing teamwork!"
+
+# game/sakuracan.rpy:3676
+translate crowdin ssssccccc_305157e7:
+
+    # m "Hinata is so bold..."
+    m "Hinata is so bold..."
+
+# game/sakuracan.rpy:3678
+translate crowdin ssssccccc_5d42e143:
+
+    # m "She's really doing it!"
+    m "She's really doing it!"
+
+# game/sakuracan.rpy:3684
+translate crowdin ssssccccc_74b5338f:
+
+    # m "Mmmmmm..."
+    m "Mmmmmm..."
+
+# game/sakuracan.rpy:3686
+translate crowdin ssssccccc_93f92fe2:
+
+    # m "How much I missed Kamiko's mouth!"
+    m "How much I missed Kamiko's mouth!"
+
+# game/sakuracan.rpy:3694
+translate crowdin ssssccccc_6bba4340:
+
+    # m "Too fast!"
+    m "Too fast!"
+
+# game/sakuracan.rpy:3696
+translate crowdin ssssccccc_f93460fd:
+
+    # m "I won't last long at this rate!"
+    m "I won't last long at this rate!"
+
+# game/sakuracan.rpy:3698
+translate crowdin ssssccccc_9b2f19b5:
+
+    # r "Lie down girls, let's get down to the main course."
+    r "Lie down girls, let's get down to the main course."
+
+# game/sakuracan.rpy:3708
+translate crowdin ssssccccc_52d61abd:
+
+    # hi "Mmmmmm!"
+    hi "Mmmmmm!"
+
+# game/sakuracan.rpy:3710
+translate crowdin ssssccccc_530d4051:
+
+    # hi "You're inside..."
+    hi "You're inside..."
+
+# game/sakuracan.rpy:3712
+translate crowdin ssssccccc_0efe3028:
+
+    # ka "Take it all in, dear."
+    ka "Take it all in, dear."
+
+# game/sakuracan.rpy:3718
+translate crowdin ssssccccc_09b78bbe:
+
+    # hi "Yes! Good! Keep moving like that!"
+    hi "Yes! Good! Keep moving like that!"
+
+# game/sakuracan.rpy:3720
+translate crowdin ssssccccc_c1459c2e:
+
+    # r "Hinata... I want to cum inside you!"
+    r "Hinata... I want to cum inside you!"
+
+# game/sakuracan.rpy:3722
+translate crowdin ssssccccc_4ab8247c:
+
+    # hi "Yes! Please do it inside!"
+    hi "Yes! Please do it inside!"
+
+# game/sakuracan.rpy:3730
+translate crowdin ssssccccc_c6dd09f2:
+
+    # ka "You're such an obedient girl, Hinata."
+    ka "You're such an obedient girl, Hinata."
+
+# game/sakuracan.rpy:3732
+translate crowdin ssssccccc_def6e51e:
+
+    # hi "I love it! I love this cock!"
+    hi "I love it! I love this cock!"
+
+# game/sakuracan.rpy:3734
+translate crowdin ssssccccc_506fb446:
+
+    # r "I'm cumming!"
+    r "I'm cumming!"
+
+# game/sakuracan.rpy:3736
+translate crowdin ssssccccc_74226814:
+
+    # r "Take it all!"
+    r "Take it all!"
+
+# game/sakuracan.rpy:3744
+translate crowdin ssssccccc_ea3c066e:
+
+    # r "Damn... With the last of my strength..."
+    r "Damn... With the last of my strength..."
+
+# game/sakuracan.rpy:3746
+translate crowdin ssssccccc_1a0fb161:
+
+    # ka "Good job, stud."
+    ka "Good job, stud."
+
+# game/sakuracan.rpy:3756
+translate crowdin ssssccccc_f1ea41e3:
+
+    # r "How are you, Hinata? I feel better all the time after sex with Kamiko, don't you feel the same?"
+    r "How are you, Hinata? I feel better all the time after sex with Kamiko, don't you feel the same?"
+
+# game/sakuracan.rpy:3761
+translate crowdin ssssccccc_1dc6a020:
+
+    # hi "Well... It felt good... But I wouldn't say that I felt any change."
+    hi "Well... It felt good... But I wouldn't say that I felt any change."
+
+# game/sakuracan.rpy:3766
+translate crowdin ssssccccc_6c5f3e02:
+
+    # r "I see, so it's just me."
+    r "I see, so it's just me."
+
+# game/sakuracan.rpy:3771
+translate crowdin ssssccccc_32987bb1:
+
+    # hi "I can't believe I just took part in a threesome with Otsutsuki..."
+    hi "I can't believe I just took part in a threesome with Otsutsuki..."
+
+# game/sakuracan.rpy:3773
+translate crowdin ssssccccc_55b35681:
+
+    # hi "But... Maybe she really doesn't want to hurt us... She's different."
+    hi "But... Maybe she really doesn't want to hurt us... She's different."
+
+# game/sakuracan.rpy:3778
+translate crowdin ssssccccc_5d9f172f:
+
+    # r "Don't doubt Kamiko, I think if she had bad intentions, the shinobi world would have been dead a long time ago."
+    r "Don't doubt Kamiko, I think if she had bad intentions, the shinobi world would have been dead a long time ago."
+
+# game/sakuracan.rpy:3783
+translate crowdin ssssccccc_010afed4:
+
+    # hi "You know, I've been feeling weird lately... I felt like someone was watching me..."
+    hi "You know, I've been feeling weird lately... I felt like someone was watching me..."
+
+# game/sakuracan.rpy:3785
+translate crowdin ssssccccc_f3c23613:
+
+    # hi "But now I've realized that it was probably Kamiko watching me..."
+    hi "But now I've realized that it was probably Kamiko watching me..."
+
+# game/sakuracan.rpy:3787
+translate crowdin ssssccccc_5b9bf24b:
+
+    # hi "Because it's absolutely impossible to notice her chakra. I don't have to worry now, knowing it was her."
+    hi "Because it's absolutely impossible to notice her chakra. I don't have to worry now, knowing it was her."
+
+# game/sakuracan.rpy:3792
+translate crowdin ssssccccc_e61a7d8c:
+
+    # r "Quite possibly, it's her style. Sometimes I think her eyes can see the whole village."
+    r "Quite possibly, it's her style. Sometimes I think her eyes can see the whole village."
+
+# game/sakuracan.rpy:3794
+translate crowdin ssssccccc_bab2bbdf:
+
+    # r "Mind though, she meant it when she said you shouldn't tell Naruto or anyone else."
+    r "Mind though, she meant it when she said you shouldn't tell Naruto or anyone else."
+
+# game/sakuracan.rpy:3796
+translate crowdin ssssccccc_22fb24ec:
+
+    # r "You're part of our big secret now."
+    r "You're part of our big secret now."
+
+# game/sakuracan.rpy:3801
+translate crowdin ssssccccc_4d0f05f8:
+
+    # hi "I won't tell anyone. But I still have so many questions... Not just about her, but about you."
+    hi "I won't tell anyone. But I still have so many questions... Not just about her, but about you."
+
+# game/sakuracan.rpy:3806
+translate crowdin ssssccccc_bd8ffc35:
+
+    # hi "Looks like you have even more secrets and mysteries..."
+    hi "Looks like you have even more secrets and mysteries..."
+
+# game/sakuracan.rpy:3811
+translate crowdin ssssccccc_4ec0c7ac:
+
+    # hi "But that's okay. The important thing is that you have good intentions... And of course, our sex. I don't know how I'd live without your friend."
+    hi "But that's okay. The important thing is that you have good intentions... And of course, our sex. I don't know how I'd live without your friend."
+
+# game/sakuracan.rpy:3816
+translate crowdin ssssccccc_2811bc6f:
+
+    # r "Some time I'll tell you everything, everything and even more."
+    r "Some time I'll tell you everything, everything and even more."
+
+# game/sakuracan.rpy:3821
+translate crowdin ssssccccc_cca4f48d:
+
+    # hi "You don't like to rush things, do you? I don't mind."
+    hi "You don't like to rush things, do you? I don't mind."
+
+# game/sakuracan.rpy:3823
+translate crowdin ssssccccc_23991cb8:
+
+    # hi "See you soon! I can't stay any longer. See you later, Kamiko!"
+    hi "See you soon! I can't stay any longer. See you later, Kamiko!"
+
+# game/sakuracan.rpy:3825
+translate crowdin ssssccccc_2b5025db:
+
+    # ka "See you, dear!"
+    ka "See you, dear!"
+
+# game/sakuracan.rpy:3833
+translate crowdin ssssccccc_da1e3182:
+
+    # r "Kamiko... What's the meaning of this? Why did you let Hinata discover yourself?"
+    r "Kamiko... What's the meaning of this? Why did you let Hinata discover yourself?"
+
+# game/sakuracan.rpy:3838
+translate crowdin ssssccccc_a3b7e4a1:
+
+    # ka "It's your fault, you idiot. Letting someone follow you like that."
+    ka "It's your fault, you idiot. Letting someone follow you like that."
+
+# game/sakuracan.rpy:3843
+translate crowdin ssssccccc_956f89f5:
+
+    # r "I was completely focused on the traces of your chakra, you have no idea how hard it is to keep track of you."
+    r "I was completely focused on the traces of your chakra, you have no idea how hard it is to keep track of you."
+
+# game/sakuracan.rpy:3848
+translate crowdin ssssccccc_973e6344:
+
+    # ka "The situation wasn't the easiest, I spotted Hinata before you did, but I had a choice, hide myself and leave the body behind, or hide the body and stay there."
+    ka "The situation wasn't the easiest, I spotted Hinata before you did, but I had a choice, hide myself and leave the body behind, or hide the body and stay there."
+
+# game/sakuracan.rpy:3850
+translate crowdin ssssccccc_542879c3:
+
+    # ka "There was no way I could have left you with the body, that would have set off a chain of events that could have led to everyone finding out about me..."
+    ka "There was no way I could have left you with the body, that would have set off a chain of events that could have led to everyone finding out about me..."
+
+# game/sakuracan.rpy:3855
+translate crowdin ssssccccc_117a1023:
+
+    # r "Yeah, a dead body from another universe... That would've raised quite a few questions."
+    r "Yeah, a dead body from another universe... That would've raised quite a few questions."
+
+# game/sakuracan.rpy:3860
+translate crowdin ssssccccc_fa0de7f9:
+
+    # ka "I hoped that you'd given Hinata a good training in our room, as it turns out I wasn't wrong, you did a great job with her."
+    ka "I hoped that you'd given Hinata a good training in our room, as it turns out I wasn't wrong, you did a great job with her."
+
+# game/sakuracan.rpy:3865
+translate crowdin ssssccccc_d5aed61d:
+
+    # r "She reacted calmly, is it because of affection?"
+    r "She reacted calmly, is it because of affection?"
+
+# game/sakuracan.rpy:3870
+translate crowdin ssssccccc_870caa82:
+
+    # ka "Of course, was her affection lower, she wouldn't have valued your company enough to trust someone from Otsutsuki."
+    ka "Of course, was her affection lower, she wouldn't have valued your company enough to trust someone from Otsutsuki."
+
+# game/sakuracan.rpy:3872
+translate crowdin ssssccccc_56f17366:
+
+    # ka "How glad I am that we didn't have to get rid of her..."
+    ka "How glad I am that we didn't have to get rid of her..."
+
+# game/sakuracan.rpy:3877
+translate crowdin ssssccccc_07895e5b:
+
+    # r "Don't say this... I don't even want to think about it..."
+    r "Don't say this... I don't even want to think about it..."
+
+# game/sakuracan.rpy:3882
+translate crowdin ssssccccc_6c42294d:
+
+    # ka "It's over now. Now that Hinata knows about me, she's completely in your hands."
+    ka "It's over now. Now that Hinata knows about me, she's completely in your hands."
+
+# game/sakuracan.rpy:3887
+translate crowdin ssssccccc_75021d21:
+
+    # r "No secrets, huh?"
+    r "No secrets, huh?"
+
+# game/sakuracan.rpy:3892
+translate crowdin ssssccccc_a9a784f4:
+
+    # ka "I'm sure she'll help you with the others, the situation has turned in our favor."
+    ka "I'm sure she'll help you with the others, the situation has turned in our favor."
+
+# game/sakuracan.rpy:3894
+translate crowdin ssssccccc_e3bc8991:
+
+    # ka "Be sure to take advantage of this to move forward with Sakura."
+    ka "Be sure to take advantage of this to move forward with Sakura."
+
+# game/sakuracan.rpy:3899
+translate crowdin ssssccccc_a1c81056:
+
+    # r "Are you suggesting I talk to Hinata?"
+    r "Are you suggesting I talk to Hinata?"
+
+# game/sakuracan.rpy:3904
+translate crowdin ssssccccc_43c9acb1:
+
+    # ka "Sure, the sooner the better."
+    ka "Sure, the sooner the better."
+
+# game/sakuracan.rpy:3909
+translate crowdin ssssccccc_33e1fe9e:
+
+    # r "I'll try my best."
+    r "I'll try my best."
+
+# game/sakuracan.rpy:3918
+translate crowdin ssssccccc_c32c2962:
+
+    # m "Talk to Hinata... What will I tell her?"
+    m "Talk to Hinata... What will I tell her?"
+
+# game/sakuracan.rpy:3922
+translate crowdin ssssccccc_f1ea0433:
+
+    # m "Hinata, my love, here's the deal, help me fuck all the hot kunuichi in Konoha starting with Sakura."
+    m "Hinata, my love, here's the deal, help me fuck all the hot kunuichi in Konoha starting with Sakura."
+
+# game/sakuracan.rpy:3926
+translate crowdin ssssccccc_a23a90ab:
+
+    # m "She's gonna tell me to get the fuck away from her..."
+    m "She's gonna tell me to get the fuck away from her..."
+
+# game/sakuracan.rpy:3930
+translate crowdin ssssccccc_44eeadce:
+
+    # m "I think talking to Kamiko might have had a good effect on her... It was about the survival of the human race, after all."
+    m "I think talking to Kamiko might have had a good effect on her... It was about the survival of the human race, after all."
+
+# game/sakuracan.rpy:3934
+translate crowdin ssssccccc_9ff966ae:
+
+    # m "Hinata is bound to me by now though. Probably even the less convincing of my arguments will sound good..."
+    m "Hinata is bound to me by now though. Probably even the less convincing of my arguments will sound good..."
+
+# game/sakuracan.rpy:3936
+translate crowdin ssssccccc_b4d8fb05:
+
+    # m "Obviously I should take advantage of that."
+    m "Obviously I should take advantage of that."
+
+# game/sakuracan.rpy:3938
+translate crowdin ssssccccc_4f42b07b:
+
+    # m "Don't worry, Hinata... No matter how many kunuichi I fuck along the way, you'll always be the first one in my bed!"
+    m "Don't worry, Hinata... No matter how many kunuichi I fuck along the way, you'll always be the first one in my bed!"
+
+# game/sakuracan.rpy:3956
+translate crowdin ssssccccc_2f1183b0:
+
+    # m "Oh, was that Ino? A younger Ino."
+    m "Oh, was that Ino? A younger Ino."
+
+# game/sakuracan.rpy:3958
+translate crowdin ssssccccc_772fdb81:
+
+    # m "In that dream, she was so depraved!"
+    m "In that dream, she was so depraved!"
+
+# game/sakuracan.rpy:3960
+translate crowdin ssssccccc_47ee49bd:
+
+    # m "One day I'll get a good taste of the milf version of Ino, one day..."
+    m "One day I'll get a good taste of the milf version of Ino, one day..."
+
+# game/sakuracan.rpy:3964
+translate crowdin ssssccccc_3ebaf5d5:
+
+    # m "Speaking of milfs, I wonder how Hinata's doing?"
+    m "Speaking of milfs, I wonder how Hinata's doing?"
+
+# game/sakuracan.rpy:3968
+translate crowdin ssssccccc_15c3310d:
+
+    # m "I'm still worrying about her, what if everything that happened yesterday wasn't enough..."
+    m "I'm still worrying about her, what if everything that happened yesterday wasn't enough..."
+
+# game/sakuracan.rpy:3970
+translate crowdin ssssccccc_8fe58b76:
+
+    # m "What if she fell asleep thinking she'd made a mistake?"
+    m "What if she fell asleep thinking she'd made a mistake?"
+
+# game/sakuracan.rpy:3972
+translate crowdin ssssccccc_3c6d648a:
+
+    # m "Nah..."
+    m "Nah..."
+
+# game/sakuracan.rpy:3974
+translate crowdin ssssccccc_8aa9c699:
+
+    # m "I believe her. She's the most sincere person I've ever met around here."
+    m "I believe her. She's the most sincere person I've ever met around here."
+
+# game/sakuracan.rpy:3976
+translate crowdin ssssccccc_42e95bd8:
+
+    # m "But it's gonna be worth it to check."
+    m "But it's gonna be worth it to check."
+
+# game/sakuracan.rpy:3984
+translate crowdin ssssccccc_da2f0e17:
+
+    # r "Good morning, how are you? Didn't wake you up, I hope?"
+    r "Good morning, how are you? Didn't wake you up, I hope?"
+
+# game/sakuracan.rpy:3986
+translate crowdin ssssccccc_414f94ba:
+
+    # hi "Morning... No, I've been up for a while, chores won't do themselves!"
+    hi "Morning... No, I've been up for a while, chores won't do themselves!"
+
+# game/sakuracan.rpy:3988
+translate crowdin ssssccccc_3b6b19e5:
+
+    # r "You've cheered up pretty good, haven't you? No regrets about yesterday?"
+    r "You've cheered up pretty good, haven't you? No regrets about yesterday?"
+
+# game/sakuracan.rpy:3990
+translate crowdin ssssccccc_2d658b83:
+
+    # hi "To tell you the truth, I've been getting used to the idea that my life wouldn't be the same for a while ..."
+    hi "To tell you the truth, I've been getting used to the idea that my life wouldn't be the same for a while ..."
+
+# game/sakuracan.rpy:3992
+translate crowdin ssssccccc_2c55c7e9:
+
+    # hi "But no, I don't, I'll never regret having great sex!"
+    hi "But no, I don't, I'll never regret having great sex!"
+
+# game/sakuracan.rpy:3994
+translate crowdin ssssccccc_048591bd:
+
+    # r "Great! I'm glad you're in a good mood."
+    r "Great! I'm glad you're in a good mood."
+
+# game/sakuracan.rpy:3996
+translate crowdin ssssccccc_7dcf63a5:
+
+    # hi "B-but you know. I wasn't just thinking about Kamiko... About you too... Even more about you than her."
+    hi "B-but you know. I wasn't just thinking about Kamiko... About you too... Even more about you than her."
+
+# game/sakuracan.rpy:3998
+translate crowdin ssssccccc_be39a548:
+
+    # r "What were you thinking about?"
+    r "What were you thinking about?"
+
+# game/sakuracan.rpy:4000
+translate crowdin ssssccccc_f4b2c472:
+
+    # hi "It's not easy to say... Not over the phone."
+    hi "It's not easy to say... Not over the phone."
+
+# game/sakuracan.rpy:4002
+translate crowdin ssssccccc_fc848869:
+
+    # r "Do you want to come over to talk about it?"
+    r "Do you want to come over to talk about it?"
+
+# game/sakuracan.rpy:4004
+translate crowdin ssssccccc_037ccb8d:
+
+    # hi "I... I don't know if I'm ready for what you might tell me..."
+    hi "I... I don't know if I'm ready for what you might tell me..."
+
+# game/sakuracan.rpy:4006
+translate crowdin ssssccccc_17efbc01:
+
+    # r "Maybe you're not, but I'll be honest with you."
+    r "Maybe you're not, but I'll be honest with you."
+
+# game/sakuracan.rpy:4008
+translate crowdin ssssccccc_6a26bf99:
+
+    # hi "Okay. Wait for me."
+    hi "Okay. Wait for me."
+
+# game/sakuracan.rpy:4014
+translate crowdin ssssccccc_0a4bfadd:
+
+    # m "That tone... She's serious."
+    m "That tone... She's serious."
+
+# game/sakuracan.rpy:4016
+translate crowdin ssssccccc_4f1cdfdb:
+
+    # m "Apparently good sex wasn't enough to set things right."
+    m "Apparently good sex wasn't enough to set things right."
+
+# game/sakuracan.rpy:4018
+translate crowdin ssssccccc_ad957fcf:
+
+    # m "I'm not gonna lie."
+    m "I'm not gonna lie."
+
+# game/sakuracan.rpy:4020
+translate crowdin ssssccccc_f682bc7c:
+
+    # m "She must know what's really going on."
+    m "She must know what's really going on."
+
+# game/sakuracan.rpy:4022
+translate crowdin ssssccccc_3998c3e5:
+
+    # m "Hinata deserves it."
+    m "Hinata deserves it."
+
+# game/sakuracan.rpy:4038
+translate crowdin ssssccccc_d01f1dbb:
+
+    # hi "Here uhh... Here I am..."
+    hi "Here uhh... Here I am..."
+
+# game/sakuracan.rpy:4043
+translate crowdin ssssccccc_ebad460e:
+
+    # r "Is everything okay?"
+    r "Is everything okay?"
+
+# game/sakuracan.rpy:4048
+translate crowdin ssssccccc_bfd047b5:
+
+    # hi "Y-yes... It's just... I don't know what to expect."
+    hi "Y-yes... It's just... I don't know what to expect."
+
+# game/sakuracan.rpy:4053
+translate crowdin ssssccccc_cb6050f5:
+
+    # r "You're scared of all this, aren't you?"
+    r "You're scared of all this, aren't you?"
+
+# game/sakuracan.rpy:4058
+translate crowdin ssssccccc_e1a0f2cc:
+
+    # hi "A lot... I don't want to be disappointed."
+    hi "A lot... I don't want to be disappointed."
+
+# game/sakuracan.rpy:4060
+translate crowdin ssssccccc_82f654b4:
+
+    # hi "But... Don't lie to me... Even if it hurts me."
+    hi "But... Don't lie to me... Even if it hurts me."
+
+# game/sakuracan.rpy:4065
+translate crowdin ssssccccc_c44cb1dc:
+
+    # r "I promise I won't."
+    r "I promise I won't."
+
+# game/sakuracan.rpy:4070
+translate crowdin ssssccccc_d36d46dc:
+
+    # hi "Good. Then... Let's talk, shall we?"
+    hi "Good. Then... Let's talk, shall we?"
+
+# game/sakuracan.rpy:4075
+translate crowdin ssssccccc_6878e962:
+
+    # r "Let's sit down, come here."
+    r "Let's sit down, come here."
+
+# game/sakuracan.rpy:4118
+translate crowdin ktoti_5224d651:
+
+    # hi "You're not from here, are you?"
+    hi "You're not from here, are you?"
+
+# game/sakuracan.rpy:4120
+translate crowdin ktoti_8970e259:
+
+    # r "Yeah, like I said, I'm not from Konoha."
+    r "Yeah, like I said, I'm not from Konoha."
+
+# game/sakuracan.rpy:4122
+translate crowdin ktoti_7fbacf1e:
+
+    # hi "No... I mean..."
+    hi "No... I mean..."
+
+# game/sakuracan.rpy:4124
+translate crowdin ktoti_c5997595:
+
+    # r "Yes. I'm not from this world."
+    r "Yes. I'm not from this world."
+
+# game/sakuracan.rpy:4126
+translate crowdin ktoti_c81b2a3c:
+
+    # hi "What does this mean?"
+    hi "What does this mean?"
+
+# game/sakuracan.rpy:4128
+translate crowdin ktoti_32ff9900:
+
+    # r "In short, the universe we're in now is not my original home."
+    r "In short, the universe we're in now is not my original home."
+
+# game/sakuracan.rpy:4130
+translate crowdin ktoti_a2379535:
+
+    # r "I was born in another universe where everything was completely different."
+    r "I was born in another universe where everything was completely different."
+
+# game/sakuracan.rpy:4132
+translate crowdin ktoti_63d95368:
+
+    # r "No chakra, no techniques. People in my world fight differently, even though they live and love the same way they do here."
+    r "No chakra, no techniques. People in my world fight differently, even though they live and love the same way they do here."
+
+# game/sakuracan.rpy:4134
+translate crowdin ktoti_adba3092:
+
+    # hi "Fight differently? How's that?"
+    hi "Fight differently? How's that?"
+
+# game/sakuracan.rpy:4136
+translate crowdin ktoti_46e2fb44:
+
+    # r "We don't have the power that can grant us the might of the elements, absorb enemy attacks, destroy large areas, a person like me doesn't have that internal resource."
+    r "We don't have the power that can grant us the might of the elements, absorb enemy attacks, destroy large areas, a person like me doesn't have that internal resource."
+
+# game/sakuracan.rpy:4138
+translate crowdin ktoti_ddaa0b9c:
+
+    # r "But that doesn't mean we fight less effectively. Our main strength is knowledge, science, centuries of experience in different spheres of life."
+    r "But that doesn't mean we fight less effectively. Our main strength is knowledge, science, centuries of experience in different spheres of life."
+
+# game/sakuracan.rpy:4140
+translate crowdin ktoti_52b0f870:
+
+    # r "Thanks to science, people in my world have created a weapon that can wipe out half the globe. If you think about it that way, it's frightening."
+    r "Thanks to science, people in my world have created a weapon that can wipe out half the globe. If you think about it that way, it's frightening."
+
+# game/sakuracan.rpy:4142
+translate crowdin ktoti_96cc368e:
+
+    # hi "Sounds like... Something impossible..."
+    hi "Sounds like... Something impossible..."
+
+# game/sakuracan.rpy:4144
+translate crowdin ktoti_9d0ff88d:
+
+    # r "Maybe. But it's all true."
+    r "Maybe. But it's all true."
+
+# game/sakuracan.rpy:4150
+translate crowdin okykamik_772fcaec:
+
+    # hi "Kamiko... She's Otsutsuki... How are you related to her? How did you two meet?"
+    hi "Kamiko... She's Otsutsuki... How are you related to her? How did you two meet?"
+
+# game/sakuracan.rpy:4152
+translate crowdin okykamik_d9e1d413:
+
+    # r "Kamiko is unique. As far as I'm concerned all Otsutsutsuki are unique in some way, but Kamiko is something else."
+    r "Kamiko is unique. As far as I'm concerned all Otsutsutsuki are unique in some way, but Kamiko is something else."
+
+# game/sakuracan.rpy:4154
+translate crowdin okykamik_a72f74d2:
+
+    # r "She has the power to manipulate time, she can summon beings from other dimensions. Just like she did with me."
+    r "She has the power to manipulate time, she can summon beings from other dimensions. Just like she did with me."
+
+# game/sakuracan.rpy:4156
+translate crowdin okykamik_3b0b7756:
+
+    # hi "Summon beings? Is that like the pact of summoning an animal? We have many who are skilled in summoning techniques."
+    hi "Summon beings? Is that like the pact of summoning an animal? We have many who are skilled in summoning techniques."
+
+# game/sakuracan.rpy:4158
+translate crowdin okykamik_f9e9721f:
+
+    # r "Similar, but no. The beasts you sign a pact with, though not physically in your dimension, they exist within your universe, so they can physically interact with you."
+    r "Similar, but no. The beasts you sign a pact with, though not physically in your dimension, they exist within your universe, so they can physically interact with you."
+
+# game/sakuracan.rpy:4160
+translate crowdin okykamik_395ce476:
+
+    # r "Kamiko, on the other hand, can summon beings from completely different universes that are not connected to yours."
+    r "Kamiko, on the other hand, can summon beings from completely different universes that are not connected to yours."
+
+# game/sakuracan.rpy:4162
+translate crowdin okykamik_905ca112:
+
+    # r "That's what happened to me. I was just sitting in my room, surfing the web... Until I just found myself in the middle of a forest. In another world."
+    r "That's what happened to me. I was just sitting in my room, surfing the web... Until I just found myself in the middle of a forest. In another world."
+
+# game/sakuracan.rpy:4164
+translate crowdin okykamik_14cb8db4:
+
+    # hi "That's just crazy..."
+    hi "That's just crazy..."
+
+# game/sakuracan.rpy:4166
+translate crowdin okykamik_5dec45d8:
+
+    # r "You don't say."
+    r "You don't say."
+
+# game/sakuracan.rpy:4168
+translate crowdin okykamik_28733062:
+
+    # hi "How did you... Could you get over this?"
+    hi "How did you... Could you get over this?"
+
+# game/sakuracan.rpy:4170
+translate crowdin okykamik_d5935752:
+
+    # r "It wasn't easy... But my life was on the line, I had to adapt."
+    r "It wasn't easy... But my life was on the line, I had to adapt."
+
+# game/sakuracan.rpy:4176
+translate crowdin tinevra_75749fcd:
+
+    # hi "So you're not our enemy. are you? You were a victim of circumstance?"
+    hi "So you're not our enemy. are you? You were a victim of circumstance?"
+
+# game/sakuracan.rpy:4178
+translate crowdin tinevra_86301450:
+
+    # r "Of course not."
+    r "Of course not."
+
+# game/sakuracan.rpy:4180
+translate crowdin tinevra_b3b12037:
+
+    # r "I don't mean any harm, just the opposite. In all the time that you and I have been getting to know each other... I felt I wanted to protect you, I'm not your enemy."
+    r "I don't mean any harm, just the opposite. In all the time that you and I have been getting to know each other... I felt I wanted to protect you, I'm not your enemy."
+
+# game/sakuracan.rpy:4182
+translate crowdin tinevra_1f92a30c:
+
+    # hi "And Kamiko? She isn't... Well... She's not bad either, is she?"
+    hi "And Kamiko? She isn't... Well... She's not bad either, is she?"
+
+# game/sakuracan.rpy:4184
+translate crowdin tinevra_1d09f965:
+
+    # r "I promised I wouldn't lie to you. I don't know everything for sure, Hinata..."
+    r "I promised I wouldn't lie to you. I don't know everything for sure, Hinata..."
+
+# game/sakuracan.rpy:4186
+translate crowdin tinevra_26ac94e4:
+
+    # r "Some of her actions, decisions, attitudes strike me as a little... A little wild at times."
+    r "Some of her actions, decisions, attitudes strike me as a little... A little wild at times."
+
+# game/sakuracan.rpy:4188
+translate crowdin tinevra_e1fd881f:
+
+    # r "But what can say for sure is that if she wanted to destroy you all, she would have done it a long time ago."
+    r "But what can say for sure is that if she wanted to destroy you all, she would have done it a long time ago."
+
+# game/sakuracan.rpy:4190
+translate crowdin tinevra_44c58ac3:
+
+    # r "Believe me, Kamiko has all the power to do so."
+    r "Believe me, Kamiko has all the power to do so."
+
+# game/sakuracan.rpy:4196
+translate crowdin pocemua_0d4d3187:
+
+    # hi "So... Why... I don't know how to say it..."
+    hi "So... Why... I don't know how to say it..."
+
+# game/sakuracan.rpy:4198
+translate crowdin pocemua_bdc280da:
+
+    # hi "It bothers me so much..."
+    hi "It bothers me so much..."
+
+# game/sakuracan.rpy:4200
+translate crowdin pocemua_36828c6e:
+
+    # hi "Tears are welling up when I think about This..."
+    hi "Tears are welling up when I think about This..."
+
+# game/sakuracan.rpy:4202
+translate crowdin pocemua_655b24fe:
+
+    # r "It's okay Hinata, be brave."
+    r "It's okay Hinata, be brave."
+
+# game/sakuracan.rpy:4204
+translate crowdin pocemua_2f7ab586:
+
+    # hi "Why... Me?"
+    hi "Why... Me?"
+
+# game/sakuracan.rpy:4206
+translate crowdin pocemua_40c5e36d:
+
+    # hi "Am I just a stepping stone in Kamiko's plan... Or a passed stage... What am I to you?"
+    hi "Am I just a stepping stone in Kamiko's plan... Or a passed stage... What am I to you?"
+
+# game/sakuracan.rpy:4208
+translate crowdin pocemua_7958a29b:
+
+    # r "In the beginning, you were nothing more than the goal Kamiko set for me."
+    r "In the beginning, you were nothing more than the goal Kamiko set for me."
+
+# game/sakuracan.rpy:4210
+translate crowdin pocemua_d4185df7:
+
+    # r "But... Throughout this journey. I've gone through a lot of happy moments with you..."
+    r "But... Throughout this journey. I've gone through a lot of happy moments with you..."
+
+# game/sakuracan.rpy:4212
+translate crowdin pocemua_3b08fec5:
+
+    # r "As well as hardships."
+    r "As well as hardships."
+
+# game/sakuracan.rpy:4214
+translate crowdin pocemua_aa2793e4:
+
+    # r "Kamiko's technique... Because of it, I remember everything, even the most painful things."
+    r "Kamiko's technique... Because of it, I remember everything, even the most painful things."
+
+# game/sakuracan.rpy:4216
+translate crowdin pocemua_54d66611:
+
+    # r "Having come all this way... From me doing it for myself, to me doing it all for us... You'll never be just Kamiko's goal for me."
+    r "Having come all this way... From me doing it for myself, to me doing it all for us... You'll never be just Kamiko's goal for me."
+
+# game/sakuracan.rpy:4218
+translate crowdin pocemua_7100b72b:
+
+    # r "No matter how this sounds... A part of me is with you now, just like a big part of you will never leave me."
+    r "No matter how this sounds... A part of me is with you now, just like a big part of you will never leave me."
+
+# game/sakuracan.rpy:4220
+translate crowdin pocemua_156eb4ab:
+
+    # hi "Thank you... I... I needed to hear that."
+    hi "Thank you... I... I needed to hear that."
+
+# game/sakuracan.rpy:4226
+translate crowdin ctobudedalse_829161e5:
+
+    # hi "So... What do I have to look forward to? What's going to happen to us now? To me and you, to Kamiko, what's going to happen to all of this?"
+    hi "So... What do I have to look forward to? What's going to happen to us now? To me and you, to Kamiko, what's going to happen to all of this?"
+
+# game/sakuracan.rpy:4228
+translate crowdin ctobudedalse_e4eae327:
+
+    # r "Kamiko's goal is important to her, she wants to protect this world and I fully support her in that."
+    r "Kamiko's goal is important to her, she wants to protect this world and I fully support her in that."
+
+# game/sakuracan.rpy:4230
+translate crowdin ctobudedalse_5ef37e64:
+
+    # r "She knows what it takes, and I'm going to follow her."
+    r "She knows what it takes, and I'm going to follow her."
+
+# game/sakuracan.rpy:4232
+translate crowdin ctobudedalse_1e9d683a:
+
+    # r "You're with us now... You're a part of this..."
+    r "You're with us now... You're a part of this..."
+
+# game/sakuracan.rpy:4234
+translate crowdin ctobudedalse_7dba2e08:
+
+    # r "But this is just the beginning."
+    r "But this is just the beginning."
+
+# game/sakuracan.rpy:4236
+translate crowdin ctobudedalse_2939e71a:
+
+    # r "As painful as it sounds. But you're not the only one I'll be with."
+    r "As painful as it sounds. But you're not the only one I'll be with."
+
+# game/sakuracan.rpy:4238
+translate crowdin ctobudedalse_cac09f7e:
+
+    # hi "I... Yeah, I've realized that."
+    hi "I... Yeah, I've realized that."
+
+# game/sakuracan.rpy:4240
+translate crowdin ctobudedalse_92c15089:
+
+    # r "You have?"
+    r "You have?"
+
+# game/sakuracan.rpy:4242
+translate crowdin ctobudedalse_8d61d480:
+
+    # hi "Of course. I was surprised when I noticed that Sakura was starting to take interest in you."
+    hi "Of course. I was surprised when I noticed that Sakura was starting to take interest in you."
+
+# game/sakuracan.rpy:4244
+translate crowdin ctobudedalse_3a1e4fc2:
+
+    # hi "But when I saw Kamiko, and even more so when we all had sex together, I finally accepted that I wasn't the only one."
+    hi "But when I saw Kamiko, and even more so when we all had sex together, I finally accepted that I wasn't the only one."
+
+# game/sakuracan.rpy:4246
+translate crowdin ctobudedalse_526dd9a4:
+
+    # r "Doesn't this hurt you?"
+    r "Doesn't this hurt you?"
+
+# game/sakuracan.rpy:4248
+translate crowdin ctobudedalse_399fbf63:
+
+    # hi "N-no... I guess it doesn't..."
+    hi "N-no... I guess it doesn't..."
+
+# game/sakuracan.rpy:4250
+translate crowdin ctobudedalse_90f61102:
+
+    # hi "What right do I have to be the only one... It's not like I'm your wife or girlfriend... I feel that I love you... I want you to own me as a woman..."
+    hi "What right do I have to be the only one... It's not like I'm your wife or girlfriend... I feel that I love you... I want you to own me as a woman..."
+
+# game/sakuracan.rpy:4252
+translate crowdin ctobudedalse_9f5a54ed:
+
+    # hi "That's enough for me."
+    hi "That's enough for me."
+
+# game/sakuracan.rpy:4254
+translate crowdin ctobudedalse_c5e770a9:
+
+    # r "I'm very glad you think of it that way."
+    r "I'm very glad you think of it that way."
+
+# game/sakuracan.rpy:4256
+translate crowdin ctobudedalse_6f81d433:
+
+    # r "I'll probably ask you to help me with Sakura soon, would you mind?"
+    r "I'll probably ask you to help me with Sakura soon, would you mind?"
+
+# game/sakuracan.rpy:4258
+translate crowdin ctobudedalse_d906410f:
+
+    # hi "It turns me on to think that we'll be able to fuck Sakura the way we did with Kamiko..."
+    hi "It turns me on to think that we'll be able to fuck Sakura the way we did with Kamiko..."
+
+# game/sakuracan.rpy:4260
+translate crowdin ctobudedalse_2e84110e:
+
+    # hi "Damn... That really turns me on..."
+    hi "Damn... That really turns me on..."
+
+# game/sakuracan.rpy:4262
+translate crowdin ctobudedalse_76b79acc:
+
+    # r "You're perfect."
+    r "You're perfect."
+
+# game/sakuracan.rpy:4268
+translate crowdin cegohowecs_f0786871:
+
+    # hi "So... Have you thought about what you want out of all this for yourself?"
+    hi "So... Have you thought about what you want out of all this for yourself?"
+
+# game/sakuracan.rpy:4270
+translate crowdin cegohowecs_25d74ea3:
+
+    # hi "Kamiko pulled you out of your world... You weren't supposed to be here..."
+    hi "Kamiko pulled you out of your world... You weren't supposed to be here..."
+
+# game/sakuracan.rpy:4272
+translate crowdin cegohowecs_0d5272fb:
+
+    # hi "Do you want to go home?"
+    hi "Do you want to go home?"
+
+# game/sakuracan.rpy:4274
+translate crowdin cegohowecs_306e2c64:
+
+    # r "No, Hinata. I don't want to go back. There's nothing waiting for me there, I was completely empty there."
+    r "No, Hinata. I don't want to go back. There's nothing waiting for me there, I was completely empty there."
+
+# game/sakuracan.rpy:4276
+translate crowdin cegohowecs_0983ec73:
+
+    # r "What do I want? To help Kamiko save the world, I guess."
+    r "What do I want? To help Kamiko save the world, I guess."
+
+# game/sakuracan.rpy:4278
+translate crowdin cegohowecs_f0301801:
+
+    # r "I want to spend more time with you, with other girls..."
+    r "I want to spend more time with you, with other girls..."
+
+# game/sakuracan.rpy:4280
+translate crowdin cegohowecs_1341c985:
+
+    # r "I want the danger to be over."
+    r "I want the danger to be over."
+
+# game/sakuracan.rpy:4282
+translate crowdin cegohowecs_aca0e16b:
+
+    # hi "Sounds good to me..."
+    hi "Sounds good to me..."
+
+# game/sakuracan.rpy:4294
+translate crowdin vsenetrapros_bb433f87:
+
+    # hi "It was interesting to hear your story."
+    hi "It was interesting to hear your story."
+
+# game/sakuracan.rpy:4296
+translate crowdin vsenetrapros_1088ede1:
+
+    # hi "I'll probably never be able to understand you completely... But for now, I'm at peace."
+    hi "I'll probably never be able to understand you completely... But for now, I'm at peace."
+
+# game/sakuracan.rpy:4300
+translate crowdin vsenetrapros_deed4cb1:
+
+    # r "There's a plenty of time, you'll have a lot of opportunities to get to know me better."
+    r "There's a plenty of time, you'll have a lot of opportunities to get to know me better."
+
+# game/sakuracan.rpy:4304
+translate crowdin vsenetrapros_767eafc8:
+
+    # hi "Yeah, I guess there's no rush. Especially since we crossed the line a long time ago."
+    hi "Yeah, I guess there's no rush. Especially since we crossed the line a long time ago."
+
+# game/sakuracan.rpy:4308
+translate crowdin vsenetrapros_95f262b2:
+
+    # r "You still have a lot to think about, don't you?"
+    r "You still have a lot to think about, don't you?"
+
+# game/sakuracan.rpy:4312
+translate crowdin vsenetrapros_24fd91e3:
+
+    # hi "Is it that obvious?"
+    hi "Is it that obvious?"
+
+# game/sakuracan.rpy:4316
+translate crowdin vsenetrapros_3f34900f:
+
+    # r "Yeah, one can tell."
+    r "Yeah, one can tell."
+
+# game/sakuracan.rpy:4320
+translate crowdin vsenetrapros_3b64406f:
+
+    # hi "This is all new to me, I'm still getting used to it."
+    hi "This is all new to me, I'm still getting used to it."
+
+# game/sakuracan.rpy:4324
+translate crowdin vsenetrapros_832f55cc:
+
+    # r "I won't rush you."
+    r "I won't rush you."
+
+# game/sakuracan.rpy:4326
+translate crowdin vsenetrapros_29c2cab8:
+
+    # r "Are you going home?"
+    r "Are you going home?"
+
+# game/sakuracan.rpy:4330
+translate crowdin vsenetrapros_25c7173f:
+
+    # hi "Yeah, I think I'll cook something, my family life isn't going anywhere."
+    hi "Yeah, I think I'll cook something, my family life isn't going anywhere."
+
+# game/sakuracan.rpy:4334
+translate crowdin vsenetrapros_00f89df5:
+
+    # r "Okay, I'll see you then, I'll text or call you if anything."
+    r "Okay, I'll see you then, I'll text or call you if anything."
+
+# game/sakuracan.rpy:4338
+translate crowdin vsenetrapros_229f49b9:
+
+    # hi "Sure, anytime."
+    hi "Sure, anytime."
+
+# game/sakuracan.rpy:4348
+translate crowdin vsenetrapros_2a2a7392:
+
+    # m "Boring day. Good rest never hurt anyone, though."
+    m "Boring day. Good rest never hurt anyone, though."
+
+# game/sakuracan.rpy:4352
+translate crowdin vsenetrapros_f74eb171:
+
+    # m "I wonder, will Sakura call me back herself if she needs me?"
+    m "I wonder, will Sakura call me back herself if she needs me?"
+
+# game/sakuracan.rpy:4356
+translate crowdin vsenetrapros_901f6317:
+
+    # m "Maybe I should be a little more assertive."
+    m "Maybe I should be a little more assertive."
+
+# game/sakuracan.rpy:4358
+translate crowdin vsenetrapros_1451aa46:
+
+    # m "On the other hand, now I have Hinata as my ace in the hole."
+    m "On the other hand, now I have Hinata as my ace in the hole."
+
+# game/sakuracan.rpy:4360
+translate crowdin vsenetrapros_127d125c:
+
+    # m "I think I'll have to talk to her about the plan of action. With her help I can deal with Sakura faster."
+    m "I think I'll have to talk to her about the plan of action. With her help I can deal with Sakura faster."
+
+# game/sakuracan.rpy:4368
+translate crowdin vsenetrapros_f64ff31a:
+
+    # m "Huh? Someone's here? Could it be Hinata? She would have texted me..."
+    m "Huh? Someone's here? Could it be Hinata? She would have texted me..."
+
+# game/sakuracan.rpy:4374
+translate crowdin vsenetrapros_4d0bead3:
+
+    # dostav "Good evening, I've been asked to deliver a letter to this address."
+    dostav "Good evening, I've been asked to deliver a letter to this address."
+
+# game/sakuracan.rpy:4376
+translate crowdin vsenetrapros_0cde46b9:
+
+    # r "A letter? From whom?"
+    r "A letter? From whom?"
+
+# game/sakuracan.rpy:4378
+translate crowdin vsenetrapros_5fe4b5b1:
+
+    # dostav "The sender has chosen to be anonymous. He also didn't say exactly who is supposed to receive it. Do you live alone here?"
+    dostav "The sender has chosen to be anonymous. He also didn't say exactly who is supposed to receive it. Do you live alone here?"
+
+# game/sakuracan.rpy:4380
+translate crowdin vsenetrapros_f75026fa:
+
+    # r "Yes... Alone, of course."
+    r "Yes... Alone, of course."
+
+# game/sakuracan.rpy:4382
+translate crowdin vsenetrapros_7dfefb1f:
+
+    # dostav "Then it's must be for you, here you go."
+    dostav "Then it's must be for you, here you go."
+
+# game/sakuracan.rpy:4384
+translate crowdin vsenetrapros_c265bda4:
+
+    # r "Thank you."
+    r "Thank you."
+
+# game/sakuracan.rpy:4388
+translate crowdin vsenetrapros_a1156e1c:
+
+    # m "A letter? Who would even think of that..."
+    m "A letter? Who would even think of that..."
+
+# game/sakuracan.rpy:4397
+translate crowdin vsenetrapros_5b6a41ec:
+
+    # "You are an amazing creature. I don't know how you managed to reveal my presence, but your caution deserves a compliment."
+    "You are an amazing creature. I don't know how you managed to reveal my presence, but your caution deserves a compliment."
+
+# game/sakuracan.rpy:4399
+translate crowdin vsenetrapros_48aabfd2:
+
+    # "Since you're so careful, I'll start eliminating up your pawns. Hinata Uzumaki, the whore reeking of your stench. She'll be the first one I kill."
+    "Since you're so careful, I'll start eliminating up your pawns. Hinata Uzumaki, the whore reeking of your stench. She'll be the first one I kill."
+
+# game/sakuracan.rpy:4401
+translate crowdin vsenetrapros_d9e16b2a:
+
+    # "Know this, if you're reading this letter, your whore's body has long since bled to death in her own apartment."
+    "Know this, if you're reading this letter, your whore's body has long since bled to death in her own apartment."
+
+# game/sakuracan.rpy:4403
+translate crowdin vsenetrapros_6461219a:
+
+    # "When you find her corpse, remember, it's all because of your cowardice, you monster."
+    "When you find her corpse, remember, it's all because of your cowardice, you monster."
+
+# game/sakuracan.rpy:4405
+translate crowdin vsenetrapros_1e11b833:
+
+    # m "No... No..."
+    m "No... No..."
+
+# game/sakuracan.rpy:4407
+translate crowdin vsenetrapros_29666696:
+
+    # m "Run! I must run!"
+    m "Run! I must run!"
+
+# game/sakuracan.rpy:4409
+translate crowdin vsenetrapros_5a00a86c:
+
+    # m "He won't make it! THAT SON OF A BITCH WON'T MAKE IT!"
+    m "He won't make it! THAT SON OF A BITCH WON'T MAKE IT!"
+
+# game/sakuracan.rpy:4422
+translate crowdin vsenetrapros_a1f8971e:
+
+    # m "There's nobody here... M-maybe in the bedroom?"
+    m "There's nobody here... M-maybe in the bedroom?"
+
+# game/sakuracan.rpy:4424
+translate crowdin vsenetrapros_ffb341d3:
+
+    # su "I can see you."
+    su "I can see you."
+
+# game/sakuracan.rpy:4426
+translate crowdin vsenetrapros_b2347401:
+
+    # m "What..."
+    m "What..."
+
+# game/sakuracan.rpy:4434
+translate crowdin vsenetrapros_31ef5c2c:
+
+    # su "You must have thought you'd be impossible to catch with a level one disguise, huh?"
+    su "You must have thought you'd be impossible to catch with a level one disguise, huh?"
+
+# game/sakuracan.rpy:4436
+translate crowdin vsenetrapros_84ba1ac5:
+
+    # su "Needless to say, you aren't."
+    su "Needless to say, you aren't."
+
+# game/sakuracan.rpy:4438
+translate crowdin vsenetrapros_d0892e99:
+
+    # r "W-who the hell... Are you..."
+    r "W-who the hell... Are you..."
+
+# game/sakuracan.rpy:4440
+translate crowdin vsenetrapros_1e5e8be1:
+
+    # su "Your death, it seems."
+    su "Your death, it seems."
+
+# game/sakuracan.rpy:4442
+translate crowdin vsenetrapros_8ca9de0e:
+
+    # r "Hinata... What did you..."
+    r "Hinata... What did you..."
+
+# game/sakuracan.rpy:4444
+translate crowdin vsenetrapros_2d68cc93:
+
+    # su "The whore is fine. What can't be said about you."
+    su "The whore is fine. What can't be said about you."
+
+# game/sakuracan.rpy:4450
+translate crowdin vsenetrapros_7706ab9e:
+
+    # su "Didn't you feel anything when you entered the house?"
+    su "Didn't you feel anything when you entered the house?"
+
+# game/sakuracan.rpy:4452
+translate crowdin vsenetrapros_061cd99f:
+
+    # su "Of course you didn't, you were in such a hurry."
+    su "Of course you didn't, you were in such a hurry."
+
+# game/sakuracan.rpy:4458
+translate crowdin vsenetrapros_6a3d3c50:
+
+    # su "Poison against your kind."
+    su "Poison against your kind."
+
+# game/sakuracan.rpy:4460
+translate crowdin vsenetrapros_7b53ea6d:
+
+    # su "Something new, right?"
+    su "Something new, right?"
+
+# game/sakuracan.rpy:4471
+translate crowdin vsenetrapros_d0795c2a:
+
+    # su "Come on, open your eyes, it should have worn off by now."
+    su "Come on, open your eyes, it should have worn off by now."
+
+# game/sakuracan.rpy:4477
+translate crowdin vsenetrapros_11c4183a:
+
+    # su "Are you comfortable in there?"
+    su "Are you comfortable in there?"
+
+# game/sakuracan.rpy:4481
+translate crowdin vsenetrapros_aa0d491c:
+
+    # r "Stop this."
+    r "Stop this."
+
+# game/sakuracan.rpy:4483
+translate crowdin vsenetrapros_570954bd:
+
+    # r "I don't know who you are, I don't know what you're doing this for, but it's a mistake."
+    r "I don't know who you are, I don't know what you're doing this for, but it's a mistake."
+
+# game/sakuracan.rpy:4487
+translate crowdin vsenetrapros_2b08d52a:
+
+    # su "Don't bother trying to sweet talk me."
+    su "Don't bother trying to sweet talk me."
+
+# game/sakuracan.rpy:4489
+translate crowdin vsenetrapros_41b8a232:
+
+    # su "Your death will save this world from destruction."
+    su "Your death will save this world from destruction."
+
+# game/sakuracan.rpy:4493
+translate crowdin vsenetrapros_33700ee7:
+
+    # r "I don't want to do anything bad to this world! I only want to help!"
+    r "I don't want to do anything bad to this world! I only want to help!"
+
+# game/sakuracan.rpy:4497
+translate crowdin vsenetrapros_1344e957:
+
+    # su "Help... That's what you want."
+    su "Help... That's what you want."
+
+# game/sakuracan.rpy:4499
+translate crowdin vsenetrapros_48d0b0f6:
+
+    # su "So your intentions were pure..."
+    su "So your intentions were pure..."
+
+# game/sakuracan.rpy:4503
+translate crowdin vsenetrapros_542fef46:
+
+    # r "You... You know more than the locals, do you?"
+    r "You... You know more than the locals, do you?"
+
+# game/sakuracan.rpy:4505
+translate crowdin vsenetrapros_d395a6eb:
+
+    # r "I do too, which is why I want to help avoid tragedy."
+    r "I do too, which is why I want to help avoid tragedy."
+
+# game/sakuracan.rpy:4509
+translate crowdin vsenetrapros_0155ff67:
+
+    # su "Avoid tragedy? Don't you realize... You are the tragedy."
+    su "Avoid tragedy? Don't you realize... You are the tragedy."
+
+# game/sakuracan.rpy:4513
+translate crowdin vsenetrapros_c26c2100:
+
+    # r "I... I don't understand... What you mean..."
+    r "I... I don't understand... What you mean..."
+
+# game/sakuracan.rpy:4517
+translate crowdin vsenetrapros_25fdb135:
+
+    # su "It doesn't matter anymore."
+    su "It doesn't matter anymore."
+
+# game/sakuracan.rpy:4519
+translate crowdin vsenetrapros_e20a0a65:
+
+    # su "It would have been so much easier to just stab you..... But you deserve to suffer more than anyone."
+    su "It would have been so much easier to just stab you..... But you deserve to suffer more than anyone."
+
+# game/sakuracan.rpy:4523
+translate crowdin vsenetrapros_910638d8:
+
+    # r "W-wait..."
+    r "W-wait..."
+
+# game/sakuracan.rpy:4527
+translate crowdin vsenetrapros_96381de4:
+
+    # su "See that jar?"
+    su "See that jar?"
+
+# game/sakuracan.rpy:4531
+translate crowdin vsenetrapros_33a237f2:
+
+    # r "That's... What are those? Worms?"
+    r "That's... What are those? Worms?"
+
+# game/sakuracan.rpy:4535
+translate crowdin vsenetrapros_0b27802b:
+
+    # su "Yes, they are. A large brood of sand scavengers."
+    su "Yes, they are. A large brood of sand scavengers."
+
+# game/sakuracan.rpy:4537
+translate crowdin vsenetrapros_df589250:
+
+    # su "Bought at the black market in the sand village. They've long been trained to eat not only rotting human flesh, but fresh flesh as well."
+    su "Bought at the black market in the sand village. They've long been trained to eat not only rotting human flesh, but fresh flesh as well."
+
+# game/sakuracan.rpy:4541
+translate crowdin vsenetrapros_845998c8:
+
+    # r "Please... You... You're making a mistake..."
+    r "Please... You... You're making a mistake..."
+
+# game/sakuracan.rpy:4547
+translate crowdin vsenetrapros_36ab2cad:
+
+    # su "You're going to sleep now. But when you wake up... You'll finally know what it's like to be in the shoes of your victims."
+    su "You're going to sleep now. But when you wake up... You'll finally know what it's like to be in the shoes of your victims."
+
+# game/sakuracan.rpy:4554
+translate crowdin vsenetrapros_dd91adda:
+
+    # m "It tickles..."
+    m "It tickles..."
+
+# game/sakuracan.rpy:4556
+translate crowdin vsenetrapros_34d623da:
+
+    # m "It tickles!"
+    m "It tickles!"
+
+# game/sakuracan.rpy:4558
+translate crowdin vsenetrapros_6093b749:
+
+    # m "Tickles?"
+    m "Tickles?"
+
+# game/sakuracan.rpy:4566
+translate crowdin vsenetrapros_06dbad6c:
+
+    # su "Opened my eyes at last."
+    su "Opened my eyes at last."
+
+# game/sakuracan.rpy:4568
+translate crowdin vsenetrapros_bdd1f7b2:
+
+    # su "I was afraid you'd lost too much blood to wake up."
+    su "I was afraid you'd lost too much blood to wake up."
+
+# game/sakuracan.rpy:4574
+translate crowdin vsenetrapros_2820db9d:
+
+    # su "Lucky me."
+    su "Lucky me."
+
+# game/sakuracan.rpy:4576
+translate crowdin vsenetrapros_a7e75ebe:
+
+    # su "Unlucky you, of course."
+    su "Unlucky you, of course."
+
+# game/sakuracan.rpy:4582
+translate crowdin vsenetrapros_e523e71c:
+
+    # r "АААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААА!!!!!!!!!!!!!!!"
+    r "АААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААААА!!!!!!!!!!!!!!!"
+
+# game/sakuracan.rpy:4584
+translate crowdin vsenetrapros_3ff5e933:
+
+    # su "This is it. Feel everything I have in store for you..."
+    su "This is it. Feel everything I have in store for you..."
+
+# game/sakuracan.rpy:4592
+translate crowdin vsenetrapros_ed7975f1:
+
+    # su "You deserve every moment of this pain."
+    su "You deserve every moment of this pain."
+
+# game/sakuracan.rpy:4600
+translate crowdin vsenetrapros_0ad4de6d:
+
+    # su "Now when this blood-soaked pit becomes your grave."
+    su "Now when this blood-soaked pit becomes your grave."
+
+# game/sakuracan.rpy:4608
+translate crowdin vsenetrapros_1f44ff1e:
+
+    # su "I will be able to rest."
+    su "I will be able to rest."
+
+# game/sakuracan.rpy:4634
+translate crowdin vsenetrapros_f5078d2c:
+
+    # m "That bastard... Shit..."
+    m "That bastard... Shit..."
+
+# game/sakuracan.rpy:4636
+translate crowdin vsenetrapros_e658c440:
+
+    # m "I can still feel the worms in my head..."
+    m "I can still feel the worms in my head..."
+
+# game/sakuracan.rpy:4638
+translate crowdin vsenetrapros_76d3850e:
+
+    # m "Lured me out with Hinata... Dirty son of a bitch!"
+    m "Lured me out with Hinata... Dirty son of a bitch!"
+
+# game/sakuracan.rpy:4640
+translate crowdin vsenetrapros_e27a6bc2:
+
+    # m "At least this time he talked to me. From what I was able to hear, I can tell he knows more than possible."
+    m "At least this time he talked to me. From what I was able to hear, I can tell he knows more than possible."
+
+# game/sakuracan.rpy:4642
+translate crowdin vsenetrapros_78827290:
+
+    # m "His Sharingan can detect me in disguise... That makes a big difference."
+    m "His Sharingan can detect me in disguise... That makes a big difference."
+
+# game/sakuracan.rpy:4644
+translate crowdin vsenetrapros_ca2f4049:
+
+    # m "No matter how hard I try to hide from him, he'll find me."
+    m "No matter how hard I try to hide from him, he'll find me."
+
+# game/sakuracan.rpy:4646
+translate crowdin vsenetrapros_2b0e0c74:
+
+    # m "The only thing I know about him is that he has a strong sharingan. Also, his approximate age. He looked to be about... Seventy? Probably.."
+    m "The only thing I know about him is that he has a strong sharingan. Also, his approximate age. He looked to be about... Seventy? Probably.."
+
+# game/sakuracan.rpy:4648
+translate crowdin vsenetrapros_afbdc666:
+
+    # m "Here I am again, it's the day after Hinata found out about everything..."
+    m "Here I am again, it's the day after Hinata found out about everything..."
+
+# game/sakuracan.rpy:4650
+translate crowdin vsenetrapros_24aeb838:
+
+    # m "And here I go again... To repeat everything exactly as I did... To answer all of Hinata's questions..."
+    m "And here I go again... To repeat everything exactly as I did... To answer all of Hinata's questions..."
+
+# game/sakuracan.rpy:4652
+translate crowdin vsenetrapros_52611bbc:
+
+    # m "She must not return home this day... I have to do something to ruin his plans."
+    m "She must not return home this day... I have to do something to ruin his plans."
+
+# game/sakuracan.rpy:4667
+translate crowdin vsenetrapros_cd2bb3e2:
+
+    # r "H-hinata... I know you have a family and all of that... I'm probably asking a lot but... Stay with me tonight. Just once, just for this one night..."
+    r "H-hinata... I know you have a family and all of that... I'm probably asking a lot but... Stay with me tonight. Just once, just for this one night..."
+
+# game/sakuracan.rpy:4671
+translate crowdin vsenetrapros_4f9b51ff:
+
+    # hi "What's wrong? Why did your face change so much all of a sudden?"
+    hi "What's wrong? Why did your face change so much all of a sudden?"
+
+# game/sakuracan.rpy:4675
+translate crowdin vsenetrapros_95243fc9:
+
+    # r "There's a reason, I... I don't even know if I can tell you, but..."
+    r "There's a reason, I... I don't even know if I can tell you, but..."
+
+# game/sakuracan.rpy:4679
+translate crowdin vsenetrapros_d2dae9e6:
+
+    # hi "Please trust me... I've put all my faith in you..."
+    hi "Please trust me... I've put all my faith in you..."
+
+# game/sakuracan.rpy:4683
+translate crowdin vsenetrapros_f81b11c4:
+
+    # r "Okay, I'll tell you everything. But you have to stay here by my side."
+    r "Okay, I'll tell you everything. But you have to stay here by my side."
+
+# game/sakuracan.rpy:4687
+translate crowdin vsenetrapros_7024929f:
+
+    # hi "Okay. I'll stay with you for tonight, but just this once... I can't do this all the time you know..."
+    hi "Okay. I'll stay with you for tonight, but just this once... I can't do this all the time you know..."
+
+# game/sakuracan.rpy:4691
+translate crowdin vsenetrapros_3af98989:
+
+    # r "Sure, don't worry."
+    r "Sure, don't worry."
+
+# game/sakuracan.rpy:4703
+translate crowdin vsenetrapros_82feb081:
+
+    # hi "Your place is in such a mess! It's a good thing I have a chance to fix this."
+    hi "Your place is in such a mess! It's a good thing I have a chance to fix this."
+
+# game/sakuracan.rpy:4707
+translate crowdin vsenetrapros_d1b8d1b7:
+
+    # r "You shouldn't have. I'm grateful, but it's a little embarrassing."
+    r "You shouldn't have. I'm grateful, but it's a little embarrassing."
+
+# game/sakuracan.rpy:4711
+translate crowdin vsenetrapros_e22abbbb:
+
+    # hi "I can't look at the mess, makes me want to tidy everything up. I guess being a housewife takes its toll on me."
+    hi "I can't look at the mess, makes me want to tidy everything up. I guess being a housewife takes its toll on me."
+
+# game/sakuracan.rpy:4715
+translate crowdin vsenetrapros_af91cb9e:
+
+    # r "You're a perfect wife, Naruto and the kids are lucky to have you."
+    r "You're a perfect wife, Naruto and the kids are lucky to have you."
+
+# game/sakuracan.rpy:4719
+translate crowdin vsenetrapros_386872a3:
+
+    # hi "You're also as lucky, actually! You're a part of my family, even if a secret one."
+    hi "You're also as lucky, actually! You're a part of my family, even if a secret one."
+
+# game/sakuracan.rpy:4723
+translate crowdin vsenetrapros_23b9a0d0:
+
+    # r "Oh... Really? I didn't realize you thought of me that way."
+    r "Oh... Really? I didn't realize you thought of me that way."
+
+# game/sakuracan.rpy:4727
+translate crowdin vsenetrapros_4ed44559:
+
+    # hi "I can't help it. You're a part of my life... I've never let anyone into my heart except my husband and the children... But I let you in."
+    hi "I can't help it. You're a part of my life... I've never let anyone into my heart except my husband and the children... But I let you in."
+
+# game/sakuracan.rpy:4731
+translate crowdin vsenetrapros_3ae73c4e:
+
+    # r "Hinata... You may have been in danger... That's why you're here and not at home."
+    r "Hinata... You may have been in danger... That's why you're here and not at home."
+
+# game/sakuracan.rpy:4735
+translate crowdin vsenetrapros_c1dd2181:
+
+    # hi "What do you mean?"
+    hi "What do you mean?"
+
+# game/sakuracan.rpy:4739
+translate crowdin vsenetrapros_f98d29bb:
+
+    # r "What I'm about to say is hard to believe but I'm not lying to you... There's a man who's been trying to kill me all this time... And sometimes he succeeds."
+    r "What I'm about to say is hard to believe but I'm not lying to you... There's a man who's been trying to kill me all this time... And sometimes he succeeds."
+
+# game/sakuracan.rpy:4743
+translate crowdin vsenetrapros_be851b50:
+
+    # hi "I didn't understand this one..."
+    hi "I didn't understand this one..."
+
+# game/sakuracan.rpy:4747
+translate crowdin vsenetrapros_10cc5556:
+
+    # r "This man... He's killed me several times already. Yet somehow I keep going back to the morning of the day I was killed."
+    r "This man... He's killed me several times already. Yet somehow I keep going back to the morning of the day I was killed."
+
+# game/sakuracan.rpy:4751
+translate crowdin vsenetrapros_ab188081:
+
+    # hi "Are you serious? How is it possible..."
+    hi "Are you serious? How is it possible..."
+
+# game/sakuracan.rpy:4755
+translate crowdin vsenetrapros_18ef9625:
+
+    # r "I don't fully understand it myself, but that's what happens."
+    r "I don't fully understand it myself, but that's what happens."
+
+# game/sakuracan.rpy:4757
+translate crowdin vsenetrapros_fcd29e4d:
+
+    # r "Last time, I got a letter from him when you had left. He wrote that he was going to kill you, that he was already doing it while I was reading the letter..."
+    r "Last time, I got a letter from him when you had left. He wrote that he was going to kill you, that he was already doing it while I was reading the letter..."
+
+# game/sakuracan.rpy:4759
+translate crowdin vsenetrapros_b8f2b010:
+
+    # r "I rushed to you, but it turned out to be a trap... What did you plan to do at that time? Were you planning to do something around the house?"
+    r "I rushed to you, but it turned out to be a trap... What did you plan to do at that time? Were you planning to do something around the house?"
+
+# game/sakuracan.rpy:4763
+translate crowdin vsenetrapros_d34ffcfe:
+
+    # hi "Not really, I was planning to shop for groceries at one old lady's place on the other side of the village. I always get vegetables from her, she grows them herself..."
+    hi "Not really, I was planning to shop for groceries at one old lady's place on the other side of the village. I always get vegetables from her, she grows them herself..."
+
+# game/sakuracan.rpy:4767
+translate crowdin vsenetrapros_124dcb4f:
+
+    # r "Okay, so you weren't home at the time. Probably, he was waiting, either for you to arrive or for me to react."
+    r "Okay, so you weren't home at the time. Probably, he was waiting, either for you to arrive or for me to react."
+
+# game/sakuracan.rpy:4771
+translate crowdin vsenetrapros_2eafccc5:
+
+    # hi "He... Was he following me? What does he know about my family?"
+    hi "He... Was he following me? What does he know about my family?"
+
+# game/sakuracan.rpy:4775
+translate crowdin vsenetrapros_3dfdae5b:
+
+    # r "I don't know any more than you do but I'm guessing that yes, he may well have been watching you all that time."
+    r "I don't know any more than you do but I'm guessing that yes, he may well have been watching you all that time."
+
+# game/sakuracan.rpy:4779
+translate crowdin vsenetrapros_ef61f45f:
+
+    # hi "I see... So he was the one whose gaze I sensed..."
+    hi "I see... So he was the one whose gaze I sensed..."
+
+# game/sakuracan.rpy:4783
+translate crowdin vsenetrapros_f0671a8d:
+
+    # r "When you get home, be on your guard. With your byakugan you must be able to notice him if you're aware of this."
+    r "When you get home, be on your guard. With your byakugan you must be able to notice him if you're aware of this."
+
+# game/sakuracan.rpy:4787
+translate crowdin vsenetrapros_64edc8d8:
+
+    # hi "Thank you..."
+    hi "Thank you..."
+
+# game/sakuracan.rpy:4791
+translate crowdin vsenetrapros_2bfcdb31:
+
+    # r "There's one more thing... I want to ask for your help."
+    r "There's one more thing... I want to ask for your help."
+
+# game/sakuracan.rpy:4795
+translate crowdin vsenetrapros_45588520:
+
+    # hi "I'll try to help in any way I can..."
+    hi "I'll try to help in any way I can..."
+
+# game/sakuracan.rpy:4799
+translate crowdin vsenetrapros_3fcb6051:
+
+    # r "I need your help with Sakura. We talked earlier about me needing help with other girls... So now I need help with Sakura."
+    r "I need your help with Sakura. We talked earlier about me needing help with other girls... So now I need help with Sakura."
+
+# game/sakuracan.rpy:4803
+translate crowdin vsenetrapros_0986ec64:
+
+    # hi "You intend to fuck her, don't you? Just like you did me?"
+    hi "You intend to fuck her, don't you? Just like you did me?"
+
+# game/sakuracan.rpy:4807
+translate crowdin vsenetrapros_ddb9beb2:
+
+    # r "Yes... Maybe it's a little wrong to ask you but..."
+    r "Yes... Maybe it's a little wrong to ask you but..."
+
+# game/sakuracan.rpy:4811
+translate crowdin vsenetrapros_9c4d3026:
+
+    # hi "I'll help but... Answer one question..."
+    hi "I'll help but... Answer one question..."
+
+# game/sakuracan.rpy:4813
+translate crowdin vsenetrapros_fe55944a:
+
+    # hi "No matter how many women you gather around yourself... I'll always be a little above them... won't I? Will I be the first one on your list?"
+    hi "No matter how many women you gather around yourself... I'll always be a little above them... won't I? Will I be the first one on your list?"
+
+# game/sakuracan.rpy:4827
+translate crowdin pervoidlam_e1b01d6d:
+
+    # r "Not counting Kamiko, you were my first in many ways..."
+    r "Not counting Kamiko, you were my first in many ways..."
+
+# game/sakuracan.rpy:4829
+translate crowdin pervoidlam_be9c71c2:
+
+    # r "In the future, I'll protect a lot of people... All of them will probably feel the same way about me..."
+    r "In the future, I'll protect a lot of people... All of them will probably feel the same way about me..."
+
+# game/sakuracan.rpy:4833
+translate crowdin pervoidlam_836e006b:
+
+    # r "But I promise you'll always be more important to me than others. You have my word."
+    r "But I promise you'll always be more important to me than others. You have my word."
+
+# game/sakuracan.rpy:4841
+translate crowdin nemoguob_3154d12c:
+
+    # r "I can't look that far ahead, Hinata..."
+    r "I can't look that far ahead, Hinata..."
+
+# game/sakuracan.rpy:4843
+translate crowdin nemoguob_378a7145:
+
+    # r "As much as I'd like to give you the answer you want to hear, I simply can't."
+    r "As much as I'd like to give you the answer you want to hear, I simply can't."
+
+# game/sakuracan.rpy:4847
+translate crowdin nemoguob_b9b6016e:
+
+    # r "You'll always be dear and loved by me, but I can't say for sure if you'll be in the first place."
+    r "You'll always be dear and loved by me, but I can't say for sure if you'll be in the first place."
+
+# game/sakuracan.rpy:4857
+translate crowdin obbbzzzaaalll_450af0af:
+
+    # hi "Thanks for the answer... I'll remember this..."
+    hi "Thanks for the answer... I'll remember this..."
+
+# game/sakuracan.rpy:4861
+translate crowdin obbbzzzaaalll_beb627e4:
+
+    # hi "Now I'm ready to listen. Do you have a plan?"
+    hi "Now I'm ready to listen. Do you have a plan?"
+
+# game/sakuracan.rpy:4865
+translate crowdin obbbzzzaaalll_e80dbb2a:
+
+    # r "I know a few things about Sakura's life. Sasuke left the village and went on an important mission. Sakura is alone now. Moreover, she is very unsatisfied with her and Sasuke's intimate life."
+    r "I know a few things about Sakura's life. Sasuke left the village and went on an important mission. Sakura is alone now. Moreover, she is very unsatisfied with her and Sasuke's intimate life."
+
+# game/sakuracan.rpy:4869
+translate crowdin obbbzzzaaalll_25734c8d:
+
+    # hi "Yeah... You know, sometimes I see it perfectly. We sometimes meet for a drink and a chat, although she doesn't say it directly, but it's clear from her behavior."
+    hi "Yeah... You know, sometimes I see it perfectly. We sometimes meet for a drink and a chat, although she doesn't say it directly, but it's clear from her behavior."
+
+# game/sakuracan.rpy:4871
+translate crowdin obbbzzzaaalll_ceb698db:
+
+    # hi "I see it because I was the same way before you came into my life."
+    hi "I see it because I was the same way before you came into my life."
+
+# game/sakuracan.rpy:4875
+translate crowdin obbbzzzaaalll_c9297efa:
+
+    # r "If you help me, we can cure her of this quickly and safely."
+    r "If you help me, we can cure her of this quickly and safely."
+
+# game/sakuracan.rpy:4879
+translate crowdin obbbzzzaaalll_70d006ca:
+
+    # r "How do you even feel about trying a... you know? With Sakura..."
+    r "How do you even feel about trying a... you know? With Sakura..."
+
+# game/sakuracan.rpy:4883
+translate crowdin obbbzzzaaalll_8dbaf562:
+
+    # hi "A threesome with Sakura? I'm thrilled!"
+    hi "A threesome with Sakura? I'm thrilled!"
+
+# game/sakuracan.rpy:4885
+translate crowdin obbbzzzaaalll_5add6adc:
+
+    # hi "Although I didn't want to admit it for a long time, I was thinking of something like this when you showed me what quality sex is..."
+    hi "Although I didn't want to admit it for a long time, I was thinking of something like this when you showed me what quality sex is..."
+
+# game/sakuracan.rpy:4887
+translate crowdin obbbzzzaaalll_a9aff3de:
+
+    # hi "Sakura deserves this kind of relief too."
+    hi "Sakura deserves this kind of relief too."
+
+# game/sakuracan.rpy:4889
+translate crowdin obbbzzzaaalll_dc73c1be:
+
+    # hi "I can't wait for you to show her the training room!"
+    hi "I can't wait for you to show her the training room!"
+
+# game/sakuracan.rpy:4893
+translate crowdin obbbzzzaaalll_9fdae801:
+
+    # r "All in good time, we have to do it carefully, so we don't scare her off."
+    r "All in good time, we have to do it carefully, so we don't scare her off."
+
+# game/sakuracan.rpy:4897
+translate crowdin obbbzzzaaalll_f6b7b150:
+
+    # hi "I have an idea."
+    hi "I have an idea."
+
+# game/sakuracan.rpy:4899
+translate crowdin obbbzzzaaalll_3d02f87d:
+
+    # hi "It's pretty hot right now, isn't it? Why not invite Sakura to the lake? Once, she herself showed me a lovely secluded lake by the Leaf Village. It's small but quite nice."
+    hi "It's pretty hot right now, isn't it? Why not invite Sakura to the lake? Once, she herself showed me a lovely secluded lake by the Leaf Village. It's small but quite nice."
+
+# game/sakuracan.rpy:4901
+translate crowdin obbbzzzaaalll_82c6d974:
+
+    # hi "I invite her there, I mention you, tell her I called you too so we can all relax and socialize a bit!"
+    hi "I invite her there, I mention you, tell her I called you too so we can all relax and socialize a bit!"
+
+# game/sakuracan.rpy:4903
+translate crowdin obbbzzzaaalll_e2a81568:
+
+    # hi "We'll put on our swimsuits. You'll be able to look at our half-naked bodies. It's no big deal, they're just swimsuits, right?"
+    hi "We'll put on our swimsuits. You'll be able to look at our half-naked bodies. It's no big deal, they're just swimsuits, right?"
+
+# game/sakuracan.rpy:4907
+translate crowdin obbbzzzaaalll_b408565a:
+
+    # r "You've taken initiative with such eagerness... You're spoiling me too much, Hinata!"
+    r "You've taken initiative with such eagerness... You're spoiling me too much, Hinata!"
+
+# game/sakuracan.rpy:4911
+translate crowdin obbbzzzaaalll_3c5b8947:
+
+    # hi "Get yourself ready, stud! I'll ask her out tomorrow morning, and I'm sure she won't say no. Get ready to show off all the charisma you have!"
+    hi "Get yourself ready, stud! I'll ask her out tomorrow morning, and I'm sure she won't say no. Get ready to show off all the charisma you have!"
+
+# game/sakuracan.rpy:4915
+translate crowdin obbbzzzaaalll_faa47276:
+
+    # r "Charisma is not important, I have a more effective weapon."
+    r "Charisma is not important, I have a more effective weapon."
+
+# game/sakuracan.rpy:4919
+translate crowdin obbbzzzaaalll_da66aa79:
+
+    # hi "Your dick? Isn't it a little early? Or are you talking about something else?"
+    hi "Your dick? Isn't it a little early? Or are you talking about something else?"
+
+# game/sakuracan.rpy:4923
+translate crowdin obbbzzzaaalll_76df8ced:
+
+    # r "That's a trade secret."
+    r "That's a trade secret."
+
+# game/sakuracan.rpy:4925
+translate crowdin obbbzzzaaalll_dcacfec1:
+
+    # r "Get some rest, Hinata, you have a lot of work tomorrow."
+    r "Get some rest, Hinata, you have a lot of work tomorrow."
+
+# game/sakuracan.rpy:4929
+translate crowdin obbbzzzaaalll_00e46c51:
+
+    # hi "Sure... Good night!"
+    hi "Sure... Good night!"
+
+# game/sakuracan.rpy:4937
+translate crowdin obbbzzzaaalll_0a20c1cb:
+
+    # hi "Good morning, we don't have much time. I've already arranged everything with Sakura, will you come with me?"
+    hi "Good morning, we don't have much time. I've already arranged everything with Sakura, will you come with me?"
+
+# game/sakuracan.rpy:4942
+translate crowdin obbbzzzaaalll_fd2a2981:
+
+    # r "Right now? So early?"
+    r "Right now? So early?"
+
+# game/sakuracan.rpy:4947
+translate crowdin obbbzzzaaalll_63c2775a:
+
+    # hi "Yeah, I just texted Sakura, she isn't busy today just like you, so we can go chat."
+    hi "Yeah, I just texted Sakura, she isn't busy today just like you, so we can go chat."
+
+# game/sakuracan.rpy:4952
+translate crowdin obbbzzzaaalll_edde82ac:
+
+    # r "Did you mention me?"
+    r "Did you mention me?"
+
+# game/sakuracan.rpy:4957
+translate crowdin obbbzzzaaalll_afd172df:
+
+    # hi "Yeah, I said I'd take you with me, Sakura doesn't mind."
+    hi "Yeah, I said I'd take you with me, Sakura doesn't mind."
+
+# game/sakuracan.rpy:4962
+translate crowdin obbbzzzaaalll_cfcba6d8:
+
+    # r "Well, okay let's go then."
+    r "Well, okay let's go then."
+
+# game/sakuracan.rpy:4979
+translate crowdin obbbzzzaaalll_35ba93d3:
+
+    # saku "Hey guys, what's going on? Do you have special plans today, Hinata?"
+    saku "Hey guys, what's going on? Do you have special plans today, Hinata?"
+
+# game/sakuracan.rpy:4984
+translate crowdin obbbzzzaaalll_00fc5778:
+
+    # r "Hi-hi."
+    r "Hi-hi."
+
+# game/sakuracan.rpy:4986
+translate crowdin obbbzzzaaalll_d12e32b7:
+
+    # hi "You bet! I'm sick of the heat, Himawari is at grandpa's, Boruto is on a mission, I want to relax! Remember that lake we went to two years ago?"
+    hi "You bet! I'm sick of the heat, Himawari is at grandpa's, Boruto is on a mission, I want to relax! Remember that lake we went to two years ago?"
+
+# game/sakuracan.rpy:4991
+translate crowdin obbbzzzaaalll_dcabbc87:
+
+    # saku "The one in the forest? Yeah, wanna go take a dip?"
+    saku "The one in the forest? Yeah, wanna go take a dip?"
+
+# game/sakuracan.rpy:4996
+translate crowdin obbbzzzaaalll_bf751da6:
+
+    # hi "Yes! It'd be great to go there together, [viname] eager to do the same."
+    hi "Yes! It'd be great to go there together, [viname] eager to do the same."
+
+# game/sakuracan.rpy:4998
+translate crowdin obbbzzzaaalll_c61dcd2e:
+
+    # r "It's really hot here all the time, and I didn't even know of any good lakes. As soon as Hinata mentioned it, I immediately got the urge to go."
+    r "It's really hot here all the time, and I didn't even know of any good lakes. As soon as Hinata mentioned it, I immediately got the urge to go."
+
+# game/sakuracan.rpy:5003
+translate crowdin obbbzzzaaalll_ea52a174:
+
+    # saku "Well... I don't have any plans so... Alright, let's do it!"
+    saku "Well... I don't have any plans so... Alright, let's do it!"
+
+# game/sakuracan.rpy:5005
+translate crowdin obbbzzzaaalll_407a4143:
+
+    # saku "Just need to bring my swimsuit... Have you brought yours, Hinata?"
+    saku "Just need to bring my swimsuit... Have you brought yours, Hinata?"
+
+# game/sakuracan.rpy:5010
+translate crowdin obbbzzzaaalll_1008950e:
+
+    # hi "We'll stop by my place on our way, I'll get it."
+    hi "We'll stop by my place on our way, I'll get it."
+
+# game/sakuracan.rpy:5015
+translate crowdin obbbzzzaaalll_a7f4e691:
+
+    # saku "Alright, wait a couple of minutes guys, I'll grab what I need and let's go!"
+    saku "Alright, wait a couple of minutes guys, I'll grab what I need and let's go!"
+
+# game/sakuracan.rpy:5035
+translate crowdin sumaa78_1889396c:
+
+    # hi "How about we play a game of Truth or Dare?"
+    hi "How about we play a game of Truth or Dare?"
+
+# game/sakuracan.rpy:5039
+translate crowdin sumaa78_e0134cce:
+
+    # r "Huh? I've never heard of such a game."
+    r "Huh? I've never heard of such a game."
+
+# game/sakuracan.rpy:5043
+translate crowdin sumaa78_f992c419:
+
+    # saku "Generally, this game is for a large group of people, but three people can also play, have you really never tried it?"
+    saku "Generally, this game is for a large group of people, but three people can also play, have you really never tried it?"
+
+# game/sakuracan.rpy:5047
+translate crowdin sumaa78_a2b7284b:
+
+    # r "I don't even know the rules."
+    r "I don't even know the rules."
+
+# game/sakuracan.rpy:5051
+translate crowdin sumaa78_64d210c3:
+
+    # hi "It's simple! We ask questions in a circle, on any topic. The one who is asked a question must answer honestly and if they can't, the circle changes direction, and the one who couldn't asnwer has to perform some task. Usually, it's drinking strong alcohol."
+    hi "It's simple! We ask questions in a circle, on any topic. The one who is asked a question must answer honestly and if they can't, the circle changes direction, and the one who couldn't asnwer has to perform some task. Usually, it's drinking strong alcohol."
+
+# game/sakuracan.rpy:5055
+translate crowdin sumaa78_ca20df0e:
+
+    # saku "So that's why you brought a couple bottles of wine... Clever, Hinata!"
+    saku "So that's why you brought a couple bottles of wine... Clever, Hinata!"
+
+# game/sakuracan.rpy:5059
+translate crowdin sumaa78_6b9007d1:
+
+    # r "Let's give it a try, sounds like fun!"
+    r "Let's give it a try, sounds like fun!"
+
+# game/sakuracan.rpy:5063
+translate crowdin sumaa78_d76e4b60:
+
+    # hi "I'll get started then!"
+    hi "I'll get started then!"
+
+# game/sakuracan.rpy:5067
+translate crowdin sumaa78_148e80fe:
+
+    # hi "Sakura, how many kids would you ideally want? I'm sure you, like all girls, have had these thoughts in the past."
+    hi "Sakura, how many kids would you ideally want? I'm sure you, like all girls, have had these thoughts in the past."
+
+# game/sakuracan.rpy:5071
+translate crowdin sumaa78_7796a6bd:
+
+    # saku "Well, well, well... I used to dream of having a big family! I've thought about it many times in the past... I wanted at least three kids, ideally."
+    saku "Well, well, well... I used to dream of having a big family! I've thought about it many times in the past... I wanted at least three kids, ideally."
+
+# game/sakuracan.rpy:5073
+translate crowdin sumaa78_b474c7b4:
+
+    # saku "But work sometimes changes plans and makes its own adjustments. It's still not too late, though!"
+    saku "But work sometimes changes plans and makes its own adjustments. It's still not too late, though!"
+
+# game/sakuracan.rpy:5077
+translate crowdin sumaa78_7d161e5c:
+
+    # hi "I like your honesty!"
+    hi "I like your honesty!"
+
+# game/sakuracan.rpy:5083
+translate crowdin sumaa78_a9f105b6:
+
+    # saku "Okay... [viname]... What is your ideal girl? It's always interesting to hear that from a bachelor!"
+    saku "Okay... [viname]... What is your ideal girl? It's always interesting to hear that from a bachelor!"
+
+# game/sakuracan.rpy:5097
+translate crowdin smelaya_6ff7de4a:
+
+    # r "Come to think of it, I've always appreciated boldness in a girl."
+    r "Come to think of it, I've always appreciated boldness in a girl."
+
+# game/sakuracan.rpy:5099
+translate crowdin smelaya_0e53845e:
+
+    # r "If she's going to be bold in her desires and honest with me, not afraid to say things straight, that sounds perfect to me."
+    r "If she's going to be bold in her desires and honest with me, not afraid to say things straight, that sounds perfect to me."
+
+# game/sakuracan.rpy:5101
+translate crowdin smelaya_b24c8397:
+
+    # r "Then spice it all up with a sense of humor, and we have the perfect match for me."
+    r "Then spice it all up with a sense of humor, and we have the perfect match for me."
+
+# game/sakuracan.rpy:5111
+translate crowdin spokoi_14360061:
+
+    # r "I don't think about it often, but when I do, I see a calm and sweet girl next to me."
+    r "I don't think about it often, but when I do, I see a calm and sweet girl next to me."
+
+# game/sakuracan.rpy:5113
+translate crowdin spokoi_f3c37e78:
+
+    # r "An explosive temper doesn't appeal to me much."
+    r "An explosive temper doesn't appeal to me much."
+
+# game/sakuracan.rpy:5115
+translate crowdin spokoi_4e37a32c:
+
+    # r "A nice family girl is the best for relationships, but I probably wouldn't look for such a girl, it will just happen one day."
+    r "A nice family girl is the best for relationships, but I probably wouldn't look for such a girl, it will just happen one day."
+
+# game/sakuracan.rpy:5125
+translate crowdin krutibubut_7a6f347e:
+
+    # saku "I see! To each his own, I'm sure in time you'll find the perfect match!"
+    saku "I see! To each his own, I'm sure in time you'll find the perfect match!"
+
+# game/sakuracan.rpy:5129
+translate crowdin krutibubut_f9b9621f:
+
+    # r "So... Hinata..."
+    r "So... Hinata..."
+
+# game/sakuracan.rpy:5133
+translate crowdin krutibubut_93f57e2c:
+
+    # hi "Go ahead! I want you to ask me the boldest question you can think of!"
+    hi "Go ahead! I want you to ask me the boldest question you can think of!"
+
+# game/sakuracan.rpy:5137
+translate crowdin krutibubut_d3094e10:
+
+    # saku "Wow! She's challenging you!"
+    saku "Wow! She's challenging you!"
+
+# game/sakuracan.rpy:5141
+translate crowdin krutibubut_8d74d80c:
+
+    # r "The boldest? Okay..."
+    r "The boldest? Okay..."
+
+# game/sakuracan.rpy:5143
+translate crowdin krutibubut_0880c366:
+
+    # r "So, Hinata, you're Hokage's wife, aren't you? In your entire life, have you ever liked anyone other than him? Back when you weren't in a relationship with him."
+    r "So, Hinata, you're Hokage's wife, aren't you? In your entire life, have you ever liked anyone other than him? Back when you weren't in a relationship with him."
+
+# game/sakuracan.rpy:5147
+translate crowdin krutibubut_9268f212:
+
+    # hi "I... I don't know. I can't answer that, I'd rather have a drink!"
+    hi "I... I don't know. I can't answer that, I'd rather have a drink!"
+
+# game/sakuracan.rpy:5151
+translate crowdin krutibubut_526705a6:
+
+    # saku "Good one, ou hit it right on the mark! Are newbies always this lucky?"
+    saku "Good one, ou hit it right on the mark! Are newbies always this lucky?"
+
+# game/sakuracan.rpy:5155
+translate crowdin krutibubut_b4eda2bc:
+
+    # r "I'm surprised myself!"
+    r "I'm surprised myself!"
+
+# game/sakuracan.rpy:5159
+translate crowdin krutibubut_f18c308e:
+
+    # saku "Alright, since Hinata couldn't answer, the circle changes its direction, now you ask me a question."
+    saku "Alright, since Hinata couldn't answer, the circle changes its direction, now you ask me a question."
+
+# game/sakuracan.rpy:5161
+translate crowdin krutibubut_8a875f9a:
+
+    # saku "Let's see if you're that good!"
+    saku "Let's see if you're that good!"
+
+# game/sakuracan.rpy:5165
+translate crowdin krutibubut_154b5f3b:
+
+    # r "Sakura... I'm sure we all have bad habits, name a bad habit you're ashamed of."
+    r "Sakura... I'm sure we all have bad habits, name a bad habit you're ashamed of."
+
+# game/sakuracan.rpy:5169
+translate crowdin krutibubut_8a97c956:
+
+    # hi "Ooh! Time for embarrassing stories!"
+    hi "Ooh! Time for embarrassing stories!"
+
+# game/sakuracan.rpy:5173
+translate crowdin krutibubut_211d3938:
+
+    # saku "Okay, you got me. Let my shameful story remain a secret!"
+    saku "Okay, you got me. Let my shameful story remain a secret!"
+
+# game/sakuracan.rpy:5177
+translate crowdin krutibubut_daeb94e7:
+
+    # hi "Drink, drink, drink!"
+    hi "Drink, drink, drink!"
+
+# game/sakuracan.rpy:5181
+translate crowdin krutibubut_3d403b6d:
+
+    # saku "It's time for something stronger, right? Okay, okay, I'm drinking."
+    saku "It's time for something stronger, right? Okay, okay, I'm drinking."
+
+# game/sakuracan.rpy:5189
+translate crowdin krutibubut_36de402a:
+
+    # hi "Now you're asking me a question again!"
+    hi "Now you're asking me a question again!"
+
+# game/sakuracan.rpy:5193
+translate crowdin krutibubut_11006e5d:
+
+    # r "Hinata... Hadn't you become a shinobi in your time, what profession do you think you would have learned?"
+    r "Hinata... Hadn't you become a shinobi in your time, what profession do you think you would have learned?"
+
+# game/sakuracan.rpy:5197
+translate crowdin krutibubut_4562cdaf:
+
+    # hi "Well... I loved cooking when I was a kid, and I still do. I think I'd be able to devote my life to cooking!"
+    hi "Well... I loved cooking when I was a kid, and I still do. I think I'd be able to devote my life to cooking!"
+
+# game/sakuracan.rpy:5201
+translate crowdin krutibubut_83a6644d:
+
+    # saku "That was an easy one!"
+    saku "That was an easy one!"
+
+# game/sakuracan.rpy:5205
+translate crowdin krutibubut_b2e49ee5:
+
+    # hi "It's going to be harder now, Sakura!"
+    hi "It's going to be harder now, Sakura!"
+
+# game/sakuracan.rpy:5209
+translate crowdin krutibubut_b6cee7c5:
+
+    # saku "I'm scared already! The shots we're drinking are pretty strong."
+    saku "I'm scared already! The shots we're drinking are pretty strong."
+
+# game/sakuracan.rpy:5213
+translate crowdin krutibubut_ba6ec6db:
+
+    # hi "Sakura! Do you have any sex toys at home? What do they look like?"
+    hi "Sakura! Do you have any sex toys at home? What do they look like?"
+
+# game/sakuracan.rpy:5217
+translate crowdin krutibubut_66b1e3aa:
+
+    # saku "Damn... How do I answer that? It's embarrassing..."
+    saku "Damn... How do I answer that? It's embarrassing..."
+
+# game/sakuracan.rpy:5221
+translate crowdin krutibubut_8a6b2693:
+
+    # hi "Then drink up!"
+    hi "Then drink up!"
+
+# game/sakuracan.rpy:5225
+translate crowdin krutibubut_4e7374f6:
+
+    # saku "You're playing dirty... But I'll get my revenge!"
+    saku "You're playing dirty... But I'll get my revenge!"
+
+# game/sakuracan.rpy:5229
+translate crowdin krutibubut_2f9520d0:
+
+    # hi "[viname]! If Sakura and I weren't married women, which one of us would be more popular with men?"
+    hi "[viname]! If Sakura and I weren't married women, which one of us would be more popular with men?"
+
+# game/sakuracan.rpy:5233
+translate crowdin krutibubut_b823128c:
+
+    # saku "Oh, Sakura's really going wild!"
+    saku "Oh, Sakura's really going wild!"
+
+# game/sakuracan.rpy:5247
+translate crowdin sakkurrea_72e47d78:
+
+    # r "It's hard to say, but I still think Sakura would."
+    r "It's hard to say, but I still think Sakura would."
+
+# game/sakuracan.rpy:5249
+translate crowdin sakkurrea_0eee0a58:
+
+    # r "You're both very pretty, but Sakura looks like a woman who can do anything!"
+    r "You're both very pretty, but Sakura looks like a woman who can do anything!"
+
+# game/sakuracan.rpy:5251
+translate crowdin sakkurrea_3b891e80:
+
+    # r "A hospital director with that kind of looks and status, that's attractive!"
+    r "A hospital director with that kind of looks and status, that's attractive!"
+
+# game/sakuracan.rpy:5255
+translate crowdin sakkurrea_f724de68:
+
+    # saku "Oh, cut this off... It's nice to hear, though!"
+    saku "Oh, cut this off... It's nice to hear, though!"
+
+# game/sakuracan.rpy:5263
+translate crowdin hinautat_d7840877:
+
+    # r "You both look excellent, but I'm leaning more towards Hinata."
+    r "You both look excellent, but I'm leaning more towards Hinata."
+
+# game/sakuracan.rpy:5265
+translate crowdin hinautat_88981363:
+
+    # r "A nice housewife who will always provide a good meal is something that a lot of men want."
+    r "A nice housewife who will always provide a good meal is something that a lot of men want."
+
+# game/sakuracan.rpy:5267
+translate crowdin hinautat_63d2871a:
+
+    # r "For most men, I think Hinata's type is the ideal."
+    r "For most men, I think Hinata's type is the ideal."
+
+# game/sakuracan.rpy:5271
+translate crowdin hinautat_92fafaaa:
+
+    # hi "Compliments! How nice to hear!"
+    hi "Compliments! How nice to hear!"
+
+# game/sakuracan.rpy:5281
+translate crowdin anuisseesa_5d23c9d7:
+
+    # r "Okay, Sakura... Since we can play dirty..."
+    r "Okay, Sakura... Since we can play dirty..."
+
+# game/sakuracan.rpy:5283
+translate crowdin anuisseesa_d8064d68:
+
+    # r "How often do you masturbate?"
+    r "How often do you masturbate?"
+
+# game/sakuracan.rpy:5287
+translate crowdin anuisseesa_049bf283:
+
+    # hi "Ha! I like this question!"
+    hi "Ha! I like this question!"
+
+# game/sakuracan.rpy:5291
+translate crowdin anuisseesa_ac64a57f:
+
+    # saku "Guys... That's quite the questions you're asking... But I can't lose again..."
+    saku "Guys... That's quite the questions you're asking... But I can't lose again..."
+
+# game/sakuracan.rpy:5293
+translate crowdin anuisseesa_7ae31b61:
+
+    # saku "O-okay, to hell with it! I want revenge on Hinata!"
+    saku "O-okay, to hell with it! I want revenge on Hinata!"
+
+# game/sakuracan.rpy:5295
+translate crowdin anuisseesa_199cf15e:
+
+    # saku "It's... about three times a day..."
+    saku "It's... about three times a day..."
+
+# game/sakuracan.rpy:5299
+translate crowdin anuisseesa_85c5667c:
+
+    # hi "Wow! That's a lot!"
+    hi "Wow! That's a lot!"
+
+# game/sakuracan.rpy:5303
+translate crowdin anuisseesa_7f6f880f:
+
+    # saku "That's it! Quit discussing this!"
+    saku "That's it! Quit discussing this!"
+
+# game/sakuracan.rpy:5305
+translate crowdin anuisseesa_a6e52b0c:
+
+    # saku "My question!"
+    saku "My question!"
+
+# game/sakuracan.rpy:5307
+translate crowdin anuisseesa_32c683d0:
+
+    # saku "Hinata! A few years ago, you and me bought the same dildo... What position do you use it in most often?"
+    saku "Hinata! A few years ago, you and me bought the same dildo... What position do you use it in most often?"
+
+# game/sakuracan.rpy:5311
+translate crowdin anuisseesa_43821adb:
+
+    # hi "Hey... That was our secret... I... I'll have a drink!"
+    hi "Hey... That was our secret... I... I'll have a drink!"
+
+# game/sakuracan.rpy:5315
+translate crowdin anuisseesa_2d693101:
+
+    # saku "That's right! That'll teach you how to corner me!"
+    saku "That's right! That'll teach you how to corner me!"
+
+# game/sakuracan.rpy:5319
+translate crowdin anuisseesa_ff6171c8:
+
+    # saku "[viname]! If you don't answer, I win!"
+    saku "[viname]! If you don't answer, I win!"
+
+# game/sakuracan.rpy:5321
+translate crowdin anuisseesa_dfe48dff:
+
+    # saku "Have you ever masturbated thinking about any of us?"
+    saku "Have you ever masturbated thinking about any of us?"
+
+# game/sakuracan.rpy:5335
+translate crowdin dada_de4be074:
+
+    # r "Since we have to be 100 percent honest here.... Yeah, I did it once."
+    r "Since we have to be 100 percent honest here.... Yeah, I did it once."
+
+# game/sakuracan.rpy:5337
+translate crowdin dada_226be31f:
+
+    # r "I couldn't help it, I'm a single guy and you girls are just too pretty."
+    r "I couldn't help it, I'm a single guy and you girls are just too pretty."
+
+# game/sakuracan.rpy:5341
+translate crowdin dada_b8970653:
+
+    # saku "Bold! I didn't think you'd answer."
+    saku "Bold! I didn't think you'd answer."
+
+# game/sakuracan.rpy:5349
+translate crowdin nenet_c73d5990:
+
+    # r "No, why would I when I can just watch porn?"
+    r "No, why would I when I can just watch porn?"
+
+# game/sakuracan.rpy:5351
+translate crowdin nenet_940aef7d:
+
+    # r "Thoughts haven't turned me on for a long time."
+    r "Thoughts haven't turned me on for a long time."
+
+# game/sakuracan.rpy:5355
+translate crowdin nenet_266b792f:
+
+    # saku "Missed... Although if you did, I'm sure you wouldn't have said so!"
+    saku "Missed... Although if you did, I'm sure you wouldn't have said so!"
+
+# game/sakuracan.rpy:5365
+translate crowdin oossncm_600c02ce:
+
+    # r "Hinata, what's your favorite kind of sex and position?"
+    r "Hinata, what's your favorite kind of sex and position?"
+
+# game/sakuracan.rpy:5369
+translate crowdin oossncm_297bf6bd:
+
+    # saku "After a question like that, you have to drink the whole bottle!"
+    saku "After a question like that, you have to drink the whole bottle!"
+
+# game/sakuracan.rpy:5373
+translate crowdin oossncm_8a748d2f:
+
+    # hi "No way!"
+    hi "No way!"
+
+# game/sakuracan.rpy:5377
+translate crowdin oossncm_861a00f3:
+
+    # hi "I like anal sex, my favorite position is doggystyle."
+    hi "I like anal sex, my favorite position is doggystyle."
+
+# game/sakuracan.rpy:5381
+translate crowdin oossncm_fe0a84c9:
+
+    # saku "Damn girl... I can't even imagine what you're going to ask me next..."
+    saku "Damn girl... I can't even imagine what you're going to ask me next..."
+
+# game/sakuracan.rpy:5385
+translate crowdin oossncm_ad741545:
+
+    # r "You really answered, that's really brave."
+    r "You really answered, that's really brave."
+
+# game/sakuracan.rpy:5389
+translate crowdin oossncm_99258b6e:
+
+    # hi "Sakura, anal sex, vaginal or oral? And why, in detail!"
+    hi "Sakura, anal sex, vaginal or oral? And why, in detail!"
+
+# game/sakuracan.rpy:5393
+translate crowdin oossncm_ff9f048b:
+
+    # saku "Shit... I... Okay! I'll answer, but that's the last question, and we're going swimming!"
+    saku "Shit... I... Okay! I'll answer, but that's the last question, and we're going swimming!"
+
+# game/sakuracan.rpy:5397
+translate crowdin oossncm_2836f5f2:
+
+    # hi "Or maybe you'll finish the bottle after all?"
+    hi "Or maybe you'll finish the bottle after all?"
+
+# game/sakuracan.rpy:5401
+translate crowdin oossncm_49d894c8:
+
+    # saku "I can't... It'll just get me completely drunk, I won't be able to rest!"
+    saku "I can't... It'll just get me completely drunk, I won't be able to rest!"
+
+# game/sakuracan.rpy:5403
+translate crowdin oossncm_959daebe:
+
+    # saku "Anyway... Oral sex..."
+    saku "Anyway... Oral sex..."
+
+# game/sakuracan.rpy:5407
+translate crowdin oossncm_2e58ea8f:
+
+    # r "So that's how... And why?"
+    r "So that's how... And why?"
+
+# game/sakuracan.rpy:5411
+translate crowdin oossncm_465a8d81:
+
+    # saku "I just like the feeling... When, well..."
+    saku "I just like the feeling... When, well..."
+
+# game/sakuracan.rpy:5415
+translate crowdin oossncm_a9eb0615:
+
+    # hi "The bottle is waiting..."
+    hi "The bottle is waiting..."
+
+# game/sakuracan.rpy:5419
+translate crowdin oossncm_9694397b:
+
+    # saku "I like the feeling of a cock going straight down my throat! I just like it harder!"
+    saku "I like the feeling of a cock going straight down my throat! I just like it harder!"
+
+# game/sakuracan.rpy:5423
+translate crowdin oossncm_eeb3e77b:
+
+    # hi "No one's judging you!"
+    hi "No one's judging you!"
+
+# game/sakuracan.rpy:5427
+translate crowdin oossncm_c6242612:
+
+    # saku "It's all so embarrassing, guys... Let's just forget about this game..."
+    saku "It's all so embarrassing, guys... Let's just forget about this game..."
+
+# game/sakuracan.rpy:5431
+translate crowdin oossncm_be4a1f7d:
+
+    # hi "What game? I don't remember anything! You're going into the water!"
+    hi "What game? I don't remember anything! You're going into the water!"
+
+# game/sakuracan.rpy:5435
+translate crowdin oossncm_ccb5b728:
+
+    # saku "Yeah, that's what I wanted to hear!"
+    saku "Yeah, that's what I wanted to hear!"
+
+# game/sakuracan.rpy:5441
+translate crowdin oossncm_d2baa3c9:
+
+    # m "How good they all look..."
+    m "How good they all look..."
+
+# game/sakuracan.rpy:5443
+translate crowdin oossncm_71c4ae77:
+
+    # m "This whole thing looks like a dream."
+    m "This whole thing looks like a dream."
+
+# game/sakuracan.rpy:5445
+translate crowdin oossncm_4f0c6178:
+
+    # m "I'm glad Hinata agreed to help me, the way she does it is amazing."
+    m "I'm glad Hinata agreed to help me, the way she does it is amazing."
+
+# game/sakuracan.rpy:5447
+translate crowdin oossncm_89bbe7d7:
+
+    # m "To jump to such intimate questions so easily... I couldn't have done it myself."
+    m "To jump to such intimate questions so easily... I couldn't have done it myself."
+
+# game/sakuracan.rpy:5449
+translate crowdin oossncm_85b40426:
+
+    # m "With her help, Sakura will be mine very soon..."
+    m "With her help, Sakura will be mine very soon..."
+
+# game/sakuracan.rpy:5453
+translate crowdin oossncm_e80f24ed:
+
+    # m "When that happens, days like this will become the norm. Not only will I be able to enjoy looking at their bodies in swimsuits, I'll enjoy their bodies to the fullest."
+    m "When that happens, days like this will become the norm. Not only will I be able to enjoy looking at their bodies in swimsuits, I'll enjoy their bodies to the fullest."
+
+# game/sakuracan.rpy:5457
+translate crowdin oossncm_2804de83:
+
+    # m "I just have to be patient..."
+    m "I just have to be patient..."
+
+# game/sakuracan.rpy:5459
+translate crowdin oossncm_7789e321:
+
+    # hi "Hey, what are you gawking at? Enjoying looking at our half-naked bodies?"
+    hi "Hey, what are you gawking at? Enjoying looking at our half-naked bodies?"
+
+# game/sakuracan.rpy:5461
+translate crowdin oossncm_a09f7aa9:
+
+    # r "How do you think? I love it!"
+    r "How do you think? I love it!"
+
+# game/sakuracan.rpy:5463
+translate crowdin oossncm_3ba2fa84:
+
+    # hi "And what about our big hard friend? Does your thing want some attention yet?"
+    hi "And what about our big hard friend? Does your thing want some attention yet?"
+
+# game/sakuracan.rpy:5465
+translate crowdin oossncm_b6775068:
+
+    # r "Hinata... Right here? Sakura's..."
+    r "Hinata... Right here? Sakura's..."
+
+# game/sakuracan.rpy:5467
+translate crowdin oossncm_02ee8f8d:
+
+    # hi "Shh... Behind the tree, quickly... Sakura won't even notice you came..."
+    hi "Shh... Behind the tree, quickly... Sakura won't even notice you came..."
+
+# game/sakuracan.rpy:5469
+translate crowdin oossncm_7d144f95:
+
+    # r "Come here, I'll warm you up a bit."
+    r "Come here, I'll warm you up a bit."
+
+# game/sakuracan.rpy:5480
+translate crowdin oossncm_eb91e1e2:
+
+    # hi "Mmmmm... Your tongue... It feels so good..."
+    hi "Mmmmm... Your tongue... It feels so good..."
+
+# game/sakuracan.rpy:5482
+translate crowdin oossncm_9e0c7dfc:
+
+    # hi "Good..."
+    hi "Good..."
+
+# game/sakuracan.rpy:5484
+translate crowdin oossncm_28510251:
+
+    # hi "You know what I need..."
+    hi "You know what I need..."
+
+# game/sakuracan.rpy:5490
+translate crowdin oossncm_8d129c3d:
+
+    # hi "M-M-M-M-M-M-M!"
+    hi "M-M-M-M-M-M-M!"
+
+# game/sakuracan.rpy:5492
+translate crowdin oossncm_eb609a86:
+
+    # hi "Right there!"
+    hi "Right there!"
+
+# game/sakuracan.rpy:5498
+translate crowdin oossncm_027d0421:
+
+    # hi "Come on!"
+    hi "Come on!"
+
+# game/sakuracan.rpy:5500
+translate crowdin oossncm_05172655:
+
+    # hi "Please! Fuck me!"
+    hi "Please! Fuck me!"
+
+# game/sakuracan.rpy:5510
+translate crowdin oossncm_cecaedc3:
+
+    # hi "Yes! Fuck me! YES!"
+    hi "Yes! Fuck me! YES!"
+
+# game/sakuracan.rpy:5512
+translate crowdin oossncm_bf89cb10:
+
+    # r "Shh, Hinata! Sakura will hear!"
+    r "Shh, Hinata! Sakura will hear!"
+
+# game/sakuracan.rpy:5514
+translate crowdin oossncm_59ac14d6:
+
+    # hi "Mmmm... I can't help myself... All this talk about sex..."
+    hi "Mmmm... I can't help myself... All this talk about sex..."
+
+# game/sakuracan.rpy:5516
+translate crowdin oossncm_3a862965:
+
+    # hi "It's so nice that you can fuck me good right now!"
+    hi "It's so nice that you can fuck me good right now!"
+
+# game/sakuracan.rpy:5522
+translate crowdin oossncm_ac8b42a9:
+
+    # hi "Yes! Yes! More!"
+    hi "Yes! Yes! More!"
+
+# game/sakuracan.rpy:5524
+translate crowdin oossncm_85cfd857:
+
+    # hi "You need to finish quickly!"
+    hi "You need to finish quickly!"
+
+# game/sakuracan.rpy:5526
+translate crowdin oossncm_f30794e0:
+
+    # hi "Fuck me hard! Use me like a toy!"
+    hi "Fuck me hard! Use me like a toy!"
+
+# game/sakuracan.rpy:5532
+translate crowdin oossncm_61821243:
+
+    # r "Fuck! It's too good!"
+    r "Fuck! It's too good!"
+
+# game/sakuracan.rpy:5534
+translate crowdin oossncm_9278e311:
+
+    # r "I'm gonna cum inside you!"
+    r "I'm gonna cum inside you!"
+
+# game/sakuracan.rpy:5536
+translate crowdin oossncm_84a4ec6a:
+
+    # hi "Do it! The water will wash it all away!"
+    hi "Do it! The water will wash it all away!"
+
+# game/sakuracan.rpy:5546
+translate crowdin oossncm_d7b6d445:
+
+    # r "Phew... That was quick..."
+    r "Phew... That was quick..."
+
+# game/sakuracan.rpy:5548
+translate crowdin oossncm_47fb1143:
+
+    # hi "Let's continue in the room..."
+    hi "Let's continue in the room..."
+
+# game/sakuracan.rpy:5552
+translate crowdin oossncm_900d3269:
+
+    # m "Either the alcohol has affected Hinata so much, or she's just becoming a pervert..."
+    m "Either the alcohol has affected Hinata so much, or she's just becoming a pervert..."
+
+# game/sakuracan.rpy:5554
+translate crowdin oossncm_785169fc:
+
+    # m "Whatever it is, I like it."
+    m "Whatever it is, I like it."
+
+# game/sakuracan.rpy:5560
+translate crowdin oossncm_d9f9acbf:
+
+    # hi "The water is so refreshing... I'm glad we went swimming today..."
+    hi "The water is so refreshing... I'm glad we went swimming today..."
+
+# game/sakuracan.rpy:5564
+translate crowdin oossncm_c0e471cb:
+
+    # saku "You don't say... I've missed this for a long time with this weather..."
+    saku "You don't say... I've missed this for a long time with this weather..."
+
+# game/sakuracan.rpy:5568
+translate crowdin oossncm_79f32a06:
+
+    # hi "I think we should do it again someday, it was fun!"
+    hi "I think we should do it again someday, it was fun!"
+
+# game/sakuracan.rpy:5572
+translate crowdin oossncm_8c2d51e2:
+
+    # r "I agree, we had a great time."
+    r "I agree, we had a great time."
+
+# game/sakuracan.rpy:5576
+translate crowdin oossncm_b5b84c87:
+
+    # saku "Yeah... It's always nice to have company!"
+    saku "Yeah... It's always nice to have company!"
+
+# game/sakuracan.rpy:5578
+translate crowdin oossncm_dc7f59c3:
+
+    # saku "[viname], we have to go to work tomorrow, are you ready for the shift?"
+    saku "[viname], we have to go to work tomorrow, are you ready for the shift?"
+
+# game/sakuracan.rpy:5582
+translate crowdin oossncm_b0fe915c:
+
+    # r "Yes, quite. Will there be a lot of new visitors to the massage department?"
+    r "Yes, quite. Will there be a lot of new visitors to the massage department?"
+
+# game/sakuracan.rpy:5586
+translate crowdin oossncm_d33ad4e0:
+
+    # saku "Well, you'll definitely have one more!"
+    saku "Well, you'll definitely have one more!"
+
+# game/sakuracan.rpy:5588
+translate crowdin oossncm_a2e59817:
+
+    # saku "I still don't want to abuse my power as your boss, but people have been praising your hands so much... Maybe I should come over for a massage too."
+    saku "I still don't want to abuse my power as your boss, but people have been praising your hands so much... Maybe I should come over for a massage too."
+
+# game/sakuracan.rpy:5592
+translate crowdin oossncm_a22a7eaf:
+
+    # hi "That's the best idea you've ever had! Trust me, his hands are magical."
+    hi "That's the best idea you've ever had! Trust me, his hands are magical."
+
+# game/sakuracan.rpy:5596
+translate crowdin oossncm_f71a9f72:
+
+    # saku "Here comes some more positive feedback... This is where I can't resist anymore, my shoulders have been hurting too much lately."
+    saku "Here comes some more positive feedback... This is where I can't resist anymore, my shoulders have been hurting too much lately."
+
+# game/sakuracan.rpy:5600
+translate crowdin oossncm_78d5ffe2:
+
+    # r "You're welcome to visit, always happy to help!"
+    r "You're welcome to visit, always happy to help!"
+
+# game/sakuracan.rpy:5604
+translate crowdin oossncm_3c9beee1:
+
+    # saku "Alright then! In this case, wait for me at your workplace sometime before lunch."
+    saku "Alright then! In this case, wait for me at your workplace sometime before lunch."
+
+# game/sakuracan.rpy:5608
+translate crowdin oossncm_380ebdbf:
+
+    # r "Yes, boss!"
+    r "Yes, boss!"
+
+# game/sakuracan.rpy:5620
+translate crowdin oossncm_c92e98df:
+
+    # hi "Thought I was leaving? Not at all! There's still stuff waiting for us in the room..."
+    hi "Thought I was leaving? Not at all! There's still stuff waiting for us in the room..."
+
+# game/sakuracan.rpy:5625
+translate crowdin oossncm_65066c0d:
+
+    # r "You want to fuck so badly tonight, don't you?"
+    r "You want to fuck so badly tonight, don't you?"
+
+# game/sakuracan.rpy:5630
+translate crowdin oossncm_a5ec7c18:
+
+    # hi "We've been practicing anal... Your cock in my ass is the only thing I want lately!"
+    hi "We've been practicing anal... Your cock in my ass is the only thing I want lately!"
+
+# game/sakuracan.rpy:5635
+translate crowdin oossncm_e6468fa1:
+
+    # r "Get changed then, it's time to work on your ass."
+    r "Get changed then, it's time to work on your ass."
+
+# game/sakuracan.rpy:5649
+translate crowdin wintdmerss_7f6df6f5:
+
+    # r "Today was a great day, thanks for helping me, Hinata."
+    r "Today was a great day, thanks for helping me, Hinata."
+
+# game/sakuracan.rpy:5654
+translate crowdin wintdmerss_9b872763:
+
+    # hi "Thank you... For taking care of my body and my needs..."
+    hi "Thank you... For taking care of my body and my needs..."
+
+# game/sakuracan.rpy:5659
+translate crowdin wintdmerss_384ba531:
+
+    # hi "If you need me to help you with Sakura, I'm always here for you!"
+    hi "If you need me to help you with Sakura, I'm always here for you!"
+
+# game/sakuracan.rpy:5664
+translate crowdin wintdmerss_dd0124be:
+
+    # r "If I think of anything, I'll be sure to call you!"
+    r "If I think of anything, I'll be sure to call you!"
+
+# game/sakuracan.rpy:5669
+translate crowdin wintdmerss_d31d1f89:
+
+    # hi "See you then!"
+    hi "See you then!"
+
+# game/sakuracan.rpy:5676
+translate crowdin wintdmerss_31bc5006:
+
+    # m "Tomorrow I'll be able to touch Sakura and it won't look like anything weird."
+    m "Tomorrow I'll be able to touch Sakura and it won't look like anything weird."
+
+# game/sakuracan.rpy:5678
+translate crowdin wintdmerss_393f020b:
+
+    # m "The fact that she'll be in my hands is a big trap. Once I use provocation, she won't want to get up from the massage chair anymore."
+    m "The fact that she'll be in my hands is a big trap. Once I use provocation, she won't want to get up from the massage chair anymore."
+
+# game/sakuracan.rpy:5680
+translate crowdin wintdmerss_1628c1b7:
+
+    # m "Further and further, it's just a matter of pressing the right point, which is her sexual dissatisfaction."
+    m "Further and further, it's just a matter of pressing the right point, which is her sexual dissatisfaction."
+
+# game/sakuracan.rpy:5682
+translate crowdin wintdmerss_642303d6:
+
+    # m "Poor girl masturbates three times a day... Although I wouldn't be surprised if it started after the first provocation, we'll see."
+    m "Poor girl masturbates three times a day... Although I wouldn't be surprised if it started after the first provocation, we'll see."
+
+# game/sakuracan.rpy:5684
+translate crowdin wintdmerss_9bd3caba:
+
+    # m "Time to go to bed, tomorrow should be even more productive."
+    m "Time to go to bed, tomorrow should be even more productive."
+
+# game/sakuracan.rpy:5709
+translate crowdin wintdmerss_3cd7c96f:
+
+    # saku "Hey, good morning! How's your head today?"
+    saku "Hey, good morning! How's your head today?"
+
+# game/sakuracan.rpy:5713
+translate crowdin wintdmerss_62878a3c:
+
+    # r "I'm fine, what about you? Yesterday, you drank the most."
+    r "I'm fine, what about you? Yesterday, you drank the most."
+
+# game/sakuracan.rpy:5717
+translate crowdin wintdmerss_791e47b0:
+
+    # saku "Yeah... Thanks for asking... It's aching a little, to be honest."
+    saku "Yeah... Thanks for asking... It's aching a little, to be honest."
+
+# game/sakuracan.rpy:5721
+translate crowdin wintdmerss_dbf74827:
+
+    # saku "Anyway, I'm hoping for a nice massage! That should take the edge off."
+    saku "Anyway, I'm hoping for a nice massage! That should take the edge off."
+
+# game/sakuracan.rpy:5725
+translate crowdin wintdmerss_5fea05de:
+
+    # r "Before lunch, right?"
+    r "Before lunch, right?"
+
+# game/sakuracan.rpy:5729
+translate crowdin wintdmerss_8fad9f0c:
+
+    # saku "Exactly!"
+    saku "Exactly!"
+
+# game/sakuracan.rpy:5733
+translate crowdin wintdmerss_be13fc4b:
+
+    # r "Okay, I'll be waiting, boss!"
+    r "Okay, I'll be waiting, boss!"
+
+# game/sakuracan.rpy:5740
+translate crowdin wintdmerss_92a67328:
+
+    # m "Okay, that was the last one. Sakura should be coming now."
+    m "Okay, that was the last one. Sakura should be coming now."
+
+# game/sakuracan.rpy:5742
+translate crowdin wintdmerss_209919da:
+
+    # m "Good thing there aren't that many visitors, I haven't had a chance to get tired."
+    m "Good thing there aren't that many visitors, I haven't had a chance to get tired."
+
+# game/sakuracan.rpy:5750
+translate crowdin wintdmerss_8dd014b0:
+
+    # saku "Hey, hey! So, ready to give me a massage?"
+    saku "Hey, hey! So, ready to give me a massage?"
+
+# game/sakuracan.rpy:5754
+translate crowdin wintdmerss_2cd0571f:
+
+    # r "Of course, Sakura, anything for you."
+    r "Of course, Sakura, anything for you."
+
+# game/sakuracan.rpy:5758
+translate crowdin wintdmerss_5406ffeb:
+
+    # saku "So... Give commands! What do you want me to do? Should I undress a little or is staying dressed okay, too?"
+    saku "So... Give commands! What do you want me to do? Should I undress a little or is staying dressed okay, too?"
+
+# game/sakuracan.rpy:5762
+translate crowdin wintdmerss_0c7ae636:
+
+    # r "Yes, strip down to your waist. Don't worry, I'll go away for a second to prepare ointments."
+    r "Yes, strip down to your waist. Don't worry, I'll go away for a second to prepare ointments."
+
+# game/sakuracan.rpy:5766
+translate crowdin wintdmerss_59db61b4:
+
+    # saku "Okay!"
+    saku "Okay!"
+
+# game/sakuracan.rpy:5772
+translate crowdin wintdmerss_43ef04eb:
+
+    # saku "Your hands... They're so warm!"
+    saku "Your hands... They're so warm!"
+
+# game/sakuracan.rpy:5776
+translate crowdin wintdmerss_25c1e356:
+
+    # r "That's because of the ointment, it helps to keep the warmth in, so that the massage is more effective. Especially in the softer areas of your back."
+    r "That's because of the ointment, it helps to keep the warmth in, so that the massage is more effective. Especially in the softer areas of your back."
+
+# game/sakuracan.rpy:5780
+translate crowdin wintdmerss_f6973b96:
+
+    # saku "Sounds good..."
+    saku "Sounds good..."
+
+# game/sakuracan.rpy:5782
+translate crowdin wintdmerss_b355532e:
+
+    # m "It's time."
+    m "It's time."
+
+# game/sakuracan.rpy:5796
+translate crowdin winserse678_0a196739:
+
+    # saku "Mmmmm... You know... All those people weren't lying... You really are good at this..."
+    saku "Mmmmm... You know... All those people weren't lying... You really are good at this..."
+
+# game/sakuracan.rpy:5800
+translate crowdin winserse678_eeb221e0:
+
+    # r "Lots of people who praised me?"
+    r "Lots of people who praised me?"
+
+# game/sakuracan.rpy:5804
+translate crowdin winserse678_13283aff:
+
+    # saku "Older patients often leave reviews for masseurs they like, but they also leave angry ones..."
+    saku "Older patients often leave reviews for masseurs they like, but they also leave angry ones..."
+
+# game/sakuracan.rpy:5806
+translate crowdin winserse678_4f60a652:
+
+    # saku "No one complained about you... They wrote only rave reviews... All of which found their way to my desk... Now I know what they were talking about..."
+    saku "No one complained about you... They wrote only rave reviews... All of which found their way to my desk... Now I know what they were talking about..."
+
+# game/sakuracan.rpy:5808
+translate crowdin winserse678_06ee9c6a:
+
+    # saku "You have such a... Strong and yet gentle hands... I wonder how you do it..."
+    saku "You have such a... Strong and yet gentle hands... I wonder how you do it..."
+
+# game/sakuracan.rpy:5812
+translate crowdin winserse678_cdd3c8c6:
+
+    # r "I have a special technique... A little secret that masseurs like me don't reveal."
+    r "I have a special technique... A little secret that masseurs like me don't reveal."
+
+# game/sakuracan.rpy:5816
+translate crowdin winserse678_b7724bf1:
+
+    # saku "I s-see... Feels... Feels very good..."
+    saku "I s-see... Feels... Feels very good..."
+
+# game/sakuracan.rpy:5820
+translate crowdin winserse678_a27bbb31:
+
+    # r "You know, if you like it so much, you can come here every day. I'll find time for you."
+    r "You know, if you like it so much, you can come here every day. I'll find time for you."
+
+# game/sakuracan.rpy:5824
+translate crowdin winserse678_45539685:
+
+    # saku "I... I can't... I'm your boss..."
+    saku "I... I can't... I'm your boss..."
+
+# game/sakuracan.rpy:5828
+translate crowdin winserse678_0ad4b110:
+
+    # r "I insist, your muscles tell me that you don't know how to relax properly, you need it."
+    r "I insist, your muscles tell me that you don't know how to relax properly, you need it."
+
+# game/sakuracan.rpy:5832
+translate crowdin winserse678_12402e4a:
+
+    # saku "I guess... You're right about that..."
+    saku "I guess... You're right about that..."
+
+# game/sakuracan.rpy:5834
+translate crowdin winserse678_0072a899:
+
+    # saku "I... I'll think about it... Thanks..."
+    saku "I... I'll think about it... Thanks..."
+
+# game/sakuracan.rpy:5844
+translate crowdin winserse678_2b2fc86e:
+
+    # saku "Now that was something! Thank you for your massage. I feel born anew now!"
+    saku "Now that was something! Thank you for your massage. I feel born anew now!"
+
+# game/sakuracan.rpy:5849
+translate crowdin winserse678_a2825571:
+
+    # r "Oh, it's nothing, just my first massage. You should come in every day, then I'll fix your back right up."
+    r "Oh, it's nothing, just my first massage. You should come in every day, then I'll fix your back right up."
+
+# game/sakuracan.rpy:5851
+translate crowdin winserse678_b3392499:
+
+    # r "I can see it's not in the best condition; it's probably the sedentary work taking its toll."
+    r "I can see it's not in the best condition; it's probably the sedentary work taking its toll."
+
+# game/sakuracan.rpy:5856
+translate crowdin winserse678_e8708c3a:
+
+    # saku "Yeah... Filling out paperwork is harder than it looks. But at the same time, no one can do it for me."
+    saku "Yeah... Filling out paperwork is harder than it looks. But at the same time, no one can do it for me."
+
+# game/sakuracan.rpy:5861
+translate crowdin winserse678_e867143a:
+
+    # r "It's cool that you're so responsible when it comes to work."
+    r "It's cool that you're so responsible when it comes to work."
+
+# game/sakuracan.rpy:5866
+translate crowdin winserse678_5ae9f30a:
+
+    # saku "Oh, you flatterer! You're making me blush!"
+    saku "Oh, you flatterer! You're making me blush!"
+
+# game/sakuracan.rpy:5871
+translate crowdin winserse678_5c4562d7:
+
+    # r "Come on, I'm just pointing out my boss's strengths!"
+    r "Come on, I'm just pointing out my boss's strengths!"
+
+# game/sakuracan.rpy:5876
+translate crowdin winserse678_614a6aad:
+
+    # saku "Thanks... Maybe you want to... well..."
+    saku "Thanks... Maybe you want to... well..."
+
+# game/sakuracan.rpy:5878
+translate crowdin winserse678_59912854:
+
+    # saku "Of course, I never offer this to my employees, but you're kind of a friend and..."
+    saku "Of course, I never offer this to my employees, but you're kind of a friend and..."
+
+# game/sakuracan.rpy:5880
+translate crowdin winserse678_1b974fd4:
+
+    # saku "I have some nice wine in my office, and your shift is over..."
+    saku "I have some nice wine in my office, and your shift is over..."
+
+# game/sakuracan.rpy:5885
+translate crowdin winserse678_d880315e:
+
+    # r "I gladly accept! I don't mind relaxing after being on my feet all day."
+    r "I gladly accept! I don't mind relaxing after being on my feet all day."
+
+# game/sakuracan.rpy:5890
+translate crowdin winserse678_e90d20b9:
+
+    # saku "Great! Let's go then!"
+    saku "Great! Let's go then!"
+
+# game/sakuracan.rpy:5901
+translate crowdin winserse678_095ab8f3:
+
+    # saku "Of course, I wanted to tell Hinata that Naruto would appreciate such a gift, but, man... I was so embarrassed!"
+    saku "Of course, I wanted to tell Hinata that Naruto would appreciate such a gift, but, man... I was so embarrassed!"
+
+# game/sakuracan.rpy:5905
+translate crowdin winserse678_59d2a291:
+
+    # r "No wonder, it's never easy to talk about such things in a large company."
+    r "No wonder, it's never easy to talk about such things in a large company."
+
+# game/sakuracan.rpy:5909
+translate crowdin winserse678_d4957809:
+
+    # saku "That's what I mean! It would sound super weird..."
+    saku "That's what I mean! It would sound super weird..."
+
+# game/sakuracan.rpy:5911
+translate crowdin winserse678_f99be74c:
+
+    # saku "What about you? I don't know how you still manage to stay single."
+    saku "What about you? I don't know how you still manage to stay single."
+
+# game/sakuracan.rpy:5913
+translate crowdin winserse678_f8727a11:
+
+    # saku "I bet you've had affairs while traveling all over the world!"
+    saku "I bet you've had affairs while traveling all over the world!"
+
+# game/sakuracan.rpy:5917
+translate crowdin winserse678_0aaee476:
+
+    # r "Nothing serious, Sakura. I don't mean to cry the blues, but it never got serious."
+    r "Nothing serious, Sakura. I don't mean to cry the blues, but it never got serious."
+
+# game/sakuracan.rpy:5921
+translate crowdin winserse678_e3b5809a:
+
+    # r "How are you doing on the love front? You must be married, aren't you?"
+    r "How are you doing on the love front? You must be married, aren't you?"
+
+# game/sakuracan.rpy:5925
+translate crowdin winserse678_39c04227:
+
+    # saku "Yeah... I have a husband and everything.... I don't see him very often, though."
+    saku "Yeah... I have a husband and everything.... I don't see him very often, though."
+
+# game/sakuracan.rpy:5929
+translate crowdin winserse678_71b21f8a:
+
+    # r "Really? What's the matter? Does he work outside the village?"
+    r "Really? What's the matter? Does he work outside the village?"
+
+# game/sakuracan.rpy:5933
+translate crowdin winserse678_7977cfaa:
+
+    # saku "You could say that, yes..."
+    saku "You could say that, yes..."
+
+# game/sakuracan.rpy:5937
+translate crowdin winserse678_c0aae700:
+
+    # r "You seem a little upset when you talk about him, is everything alright?"
+    r "You seem a little upset when you talk about him, is everything alright?"
+
+# game/sakuracan.rpy:5941
+translate crowdin winserse678_e71b8b20:
+
+    # saku "I... I guess I'm not in the mood to talk about this... Don't worry about it..."
+    saku "I... I guess I'm not in the mood to talk about this... Don't worry about it..."
+
+# game/sakuracan.rpy:5945
+translate crowdin winserse678_f957ec75:
+
+    # m "I gotta push forward!"
+    m "I gotta push forward!"
+
+# game/sakuracan.rpy:5951
+translate crowdin winserse678_e0ed82b3:
+
+    # m "Now!"
+    m "Now!"
+
+# game/sakuracan.rpy:5965
+translate crowdin xcmv743bsd_1501921c:
+
+    # r "You know, Sakura, if there's anything worrying you, don't be afraid to tell me or anyone else."
+    r "You know, Sakura, if there's anything worrying you, don't be afraid to tell me or anyone else."
+
+# game/sakuracan.rpy:5967
+translate crowdin xcmv743bsd_04d45f0b:
+
+    # r "When you share your problems, it gets easier..."
+    r "When you share your problems, it gets easier..."
+
+# game/sakuracan.rpy:5969
+translate crowdin xcmv743bsd_c67bab63:
+
+    # r "I'm sure there's nothing you can't handle, but everyone deserves to be heard."
+    r "I'm sure there's nothing you can't handle, but everyone deserves to be heard."
+
+# game/sakuracan.rpy:5971
+translate crowdin xcmv743bsd_da803ec7:
+
+    # saku "Yeah... I deserve that... You're right..."
+    saku "Yeah... I deserve that... You're right..."
+
+# game/sakuracan.rpy:5973
+translate crowdin xcmv743bsd_616e3cbd:
+
+    # saku "I do love my husband... He's a bit of an unusual man..."
+    saku "I do love my husband... He's a bit of an unusual man..."
+
+# game/sakuracan.rpy:5975
+translate crowdin xcmv743bsd_7ca6c79a:
+
+    # saku "A lot of things have happened between us in the past..."
+    saku "A lot of things have happened between us in the past..."
+
+# game/sakuracan.rpy:5977
+translate crowdin xcmv743bsd_043dab16:
+
+    # saku "Sometimes I think... that I'll never..."
+    saku "Sometimes I think... that I'll never..."
+
+# game/sakuracan.rpy:5979
+translate crowdin xcmv743bsd_94ce01b8:
+
+    # saku "It's getting harder and harder now. We see each other so rarely that I'm getting used to his absence."
+    saku "It's getting harder and harder now. We see each other so rarely that I'm getting used to his absence."
+
+# game/sakuracan.rpy:5981
+translate crowdin xcmv743bsd_ee2bd640:
+
+    # saku "It scares me."
+    saku "It scares me."
+
+# game/sakuracan.rpy:5983
+translate crowdin xcmv743bsd_ca811c68:
+
+    # r "How does he feel about it? Have you talked this through?"
+    r "How does he feel about it? Have you talked this through?"
+
+# game/sakuracan.rpy:5985
+translate crowdin xcmv743bsd_e3db9a1f:
+
+    # saku "I tried... but his work is more important... He's never been one for emotion or... tenderness..."
+    saku "I tried... but his work is more important... He's never been one for emotion or... tenderness..."
+
+# game/sakuracan.rpy:5987
+translate crowdin xcmv743bsd_ca3da63f:
+
+    # saku "Maybe it's okay... It's just that sometimes dark thoughts creep into my head..."
+    saku "Maybe it's okay... It's just that sometimes dark thoughts creep into my head..."
+
+# game/sakuracan.rpy:5989
+translate crowdin xcmv743bsd_f7f5ef46:
+
+    # r "It's up to you to decide what's normal and what's not. If the situation is bothering you, then there's a problem. That's what I think."
+    r "It's up to you to decide what's normal and what's not. If the situation is bothering you, then there's a problem. That's what I think."
+
+# game/sakuracan.rpy:5991
+translate crowdin xcmv743bsd_cff0074c:
+
+    # saku "It's harder to solve it than it seems... I've tried, really."
+    saku "It's harder to solve it than it seems... I've tried, really."
+
+# game/sakuracan.rpy:5993
+translate crowdin xcmv743bsd_664ff7c1:
+
+    # r "Yeah, I don't know everything you know; my vision of your situation is only superficial."
+    r "Yeah, I don't know everything you know; my vision of your situation is only superficial."
+
+# game/sakuracan.rpy:5995
+translate crowdin xcmv743bsd_19fb7f66:
+
+    # r "But a positive attitude is also very important! Even if you miss him and there's nothing you can do about it, don't let yourself lose your spirit!"
+    r "But a positive attitude is also very important! Even if you miss him and there's nothing you can do about it, don't let yourself lose your spirit!"
+
+# game/sakuracan.rpy:5997
+translate crowdin xcmv743bsd_0221861b:
+
+    # r "There are lots of other ways to unwind."
+    r "There are lots of other ways to unwind."
+
+# game/sakuracan.rpy:5999
+translate crowdin xcmv743bsd_f4ea31c4:
+
+    # saku "Like what?"
+    saku "Like what?"
+
+# game/sakuracan.rpy:6001
+translate crowdin xcmv743bsd_85844d1f:
+
+    # r "Like spending more time with your friends. Come to my workplace for a massage! Let yourself get more out of life than you currently do."
+    r "Like spending more time with your friends. Come to my workplace for a massage! Let yourself get more out of life than you currently do."
+
+# game/sakuracan.rpy:6003
+translate crowdin xcmv743bsd_bb28a8a3:
+
+    # saku "Yeah... I guess that makes sense. It was fun when we all went swimming together. It was a really nice day... I wasn't thinking about Sasuke at all..."
+    saku "Yeah... I guess that makes sense. It was fun when we all went swimming together. It was a really nice day... I wasn't thinking about Sasuke at all..."
+
+# game/sakuracan.rpy:6005
+translate crowdin xcmv743bsd_0ad4c24b:
+
+    # r "It's time to start thinking about yourself. It'll be easier to deal with difficulties that way!"
+    r "It's time to start thinking about yourself. It'll be easier to deal with difficulties that way!"
+
+# game/sakuracan.rpy:6007
+translate crowdin xcmv743bsd_b25b0d9c:
+
+    # saku "I'll try..."
+    saku "I'll try..."
+
+# game/sakuracan.rpy:6015
+translate crowdin xcmv743bsd_9919a571:
+
+    # saku "Time to go home... Thank you for this conversation... I haven't talked to someone so frankly in a long time..."
+    saku "Time to go home... Thank you for this conversation... I haven't talked to someone so frankly in a long time..."
+
+# game/sakuracan.rpy:6019
+translate crowdin xcmv743bsd_8572c214:
+
+    # r "Oh, please, I'm at your service. I'm still your employee, after all!"
+    r "Oh, please, I'm at your service. I'm still your employee, after all!"
+
+# game/sakuracan.rpy:6023
+translate crowdin xcmv743bsd_9280f717:
+
+    # saku "See you tomorrow!"
+    saku "See you tomorrow!"
+
+# game/sakuracan.rpy:6029
+translate crowdin xcmv743bsd_b63e5fb9:
+
+    # m "No way! I can feel how horny you are right now."
+    m "No way! I can feel how horny you are right now."
+
+# game/sakuracan.rpy:6031
+translate crowdin xcmv743bsd_5347028c:
+
+    # m "My provocation is making you wetter by every second. Is that why you're trying to make me go home?"
+    m "My provocation is making you wetter by every second. Is that why you're trying to make me go home?"
+
+# game/sakuracan.rpy:6033
+translate crowdin xcmv743bsd_ff3a7966:
+
+    # m "I know that after all the workers have finished their shifts, you check to make sure that no doors are left unlocked."
+    m "I know that after all the workers have finished their shifts, you check to make sure that no doors are left unlocked."
+
+# game/sakuracan.rpy:6035
+translate crowdin xcmv743bsd_fbe2ac53:
+
+    # m "But I also know that when you do that, you don't lock your office."
+    m "But I also know that when you do that, you don't lock your office."
+
+# game/sakuracan.rpy:6037
+translate crowdin xcmv743bsd_fdc1c3d4:
+
+    # m "Will you surprise me with something today?"
+    m "Will you surprise me with something today?"
+
+# game/sakuracan.rpy:6056
+translate crowdin scxver4324t24_5102f1e3:
+
+    # m "She's gone, so I just have to wait for her to come back."
+    m "She's gone, so I just have to wait for her to come back."
+
+# game/sakuracan.rpy:6058
+translate crowdin scxver4324t24_05d9fea8:
+
+    # m "As she was walking away, I could feel her body burning from the inside."
+    m "As she was walking away, I could feel her body burning from the inside."
+
+# game/sakuracan.rpy:6060
+translate crowdin scxver4324t24_397ea8ae:
+
+    # m "My mastery of provocation has improved by leaps and bounds."
+    m "My mastery of provocation has improved by leaps and bounds."
+
+# game/sakuracan.rpy:6062
+translate crowdin scxver4324t24_7207591e:
+
+    # m "Despite Sakura's high chakra control, she's very susceptible to the influence of my provocation."
+    m "Despite Sakura's high chakra control, she's very susceptible to the influence of my provocation."
+
+# game/sakuracan.rpy:6064
+translate crowdin scxver4324t24_ad363a56:
+
+    # m "It's probably because of her personal problems."
+    m "It's probably because of her personal problems."
+
+# game/sakuracan.rpy:6066
+translate crowdin scxver4324t24_4f29a6f1:
+
+    # m "Plainly speaking, it's all because Sasuke doesn't fuck you at all, right, Sakura?"
+    m "Plainly speaking, it's all because Sasuke doesn't fuck you at all, right, Sakura?"
+
+# game/sakuracan.rpy:6083
+translate crowdin scxver4324t24_9837afab:
+
+    # m "A little warm-up before the main course?"
+    m "A little warm-up before the main course?"
+
+# game/sakuracan.rpy:6085
+translate crowdin scxver4324t24_c90353bf:
+
+    # m "I've turned her on so much that even the slightest touch makes her tremble."
+    m "I've turned her on so much that even the slightest touch makes her tremble."
+
+# game/sakuracan.rpy:6087
+translate crowdin scxver4324t24_2ea0ce0b:
+
+    # m "But to think, right in the office? I was certainly hoping for that, but I still had my doubts."
+    m "But to think, right in the office? I was certainly hoping for that, but I still had my doubts."
+
+# game/sakuracan.rpy:6089
+translate crowdin scxver4324t24_d1e126e1:
+
+    # m "She's playing with her pussy like it's the only thing she needs in her life right now."
+    m "She's playing with her pussy like it's the only thing she needs in her life right now."
+
+# game/sakuracan.rpy:6091
+translate crowdin scxver4324t24_8165d456:
+
+    # m "She's breathing so hard, it's like she's just come back from a long run on the hottest day."
+    m "She's breathing so hard, it's like she's just come back from a long run on the hottest day."
+
+# game/sakuracan.rpy:6093
+translate crowdin scxver4324t24_6499136c:
+
+    # m "Poor girl... She's still very young. Not having a good cock on a regular basis must be literal torture."
+    m "Poor girl... She's still very young. Not having a good cock on a regular basis must be literal torture."
+
+# game/sakuracan.rpy:6097
+translate crowdin scxver4324t24_d6e81c07:
+
+    # m "Can't wait, can you?"
+    m "Can't wait, can you?"
+
+# game/sakuracan.rpy:6099
+translate crowdin scxver4324t24_cfc4caa6:
+
+    # m "So that's where you're hiding it. I never thought that filing cabinet would hide a rubber dick."
+    m "So that's where you're hiding it. I never thought that filing cabinet would hide a rubber dick."
+
+# game/sakuracan.rpy:6110
+translate crowdin scxver4324t24_30d45815:
+
+    # m "No foreplay whatsoever!"
+    m "No foreplay whatsoever!"
+
+# game/sakuracan.rpy:6112
+translate crowdin scxver4324t24_4617c865:
+
+    # m "She just started pounding with that thing right away."
+    m "She just started pounding with that thing right away."
+
+# game/sakuracan.rpy:6114
+translate crowdin scxver4324t24_ec31fe87:
+
+    # m "Now every time I walk into her office, there will be this image of cock-hungry Sakura riding a dildo on her desk right in my mind."
+    m "Now every time I walk into her office, there will be this image of cock-hungry Sakura riding a dildo on her desk right in my mind."
+
+# game/sakuracan.rpy:6116
+translate crowdin scxver4324t24_ab554d64:
+
+    # m "I can feel her chakra giving in further and further."
+    m "I can feel her chakra giving in further and further."
+
+# game/sakuracan.rpy:6118
+translate crowdin scxver4324t24_ab8f0b44:
+
+    # m "She just can't resist anymore."
+    m "She just can't resist anymore."
+
+# game/sakuracan.rpy:6120
+translate crowdin scxver4324t24_8ef07de0:
+
+    # m "Just a little more and that big ass will end up on my cock."
+    m "Just a little more and that big ass will end up on my cock."
+
+# game/sakuracan.rpy:6122
+translate crowdin scxver4324t24_aa388059:
+
+    # m "I can feel it..."
+    m "I can feel it..."
+
+# game/sakuracan.rpy:6131
+translate crowdin scxver4324t24_c80e8dce:
+
+    # m "That was fast... You went a little too hard, it seems."
+    m "That was fast... You went a little too hard, it seems."
+
+# game/sakuracan.rpy:6133
+translate crowdin scxver4324t24_ecfeecb9:
+
+    # m "It's okay, Sakura. We're almost at the finish line. Wait a little, and you'll throw that thing in the trash."
+    m "It's okay, Sakura. We're almost at the finish line. Wait a little, and you'll throw that thing in the trash."
+
+# game/sakuracan.rpy:6142
+translate crowdin scxver4324t24_46c61d7c:
+
+    # m "I should fool around with Hinata, I miss her ass."
+    m "I should fool around with Hinata, I miss her ass."
+
+# game/sakuracan.rpy:6144
+translate crowdin scxver4324t24_7032ed9f:
+
+    # m "Besides, she'll be thrilled to learn a little more about Sakura."
+    m "Besides, she'll be thrilled to learn a little more about Sakura."
+
+# game/sakuracan.rpy:6152
+translate crowdin scxver4324t24_3d8b989a:
+
+    # r "What's up? Are you up for some fun tonight?"
+    r "What's up? Are you up for some fun tonight?"
+
+# game/sakuracan.rpy:6154
+translate crowdin scxver4324t24_dc3b36d5:
+
+    # hi "Why not. Can I also stay at your place?"
+    hi "Why not. Can I also stay at your place?"
+
+# game/sakuracan.rpy:6156
+translate crowdin scxver4324t24_f116a0a7:
+
+    # r "Sure, we could sleep together, too."
+    r "Sure, we could sleep together, too."
+
+# game/sakuracan.rpy:6158
+translate crowdin scxver4324t24_7012f48b:
+
+    # hi "I'll be there soon!"
+    hi "I'll be there soon!"
+
+# game/sakuracan.rpy:6167
+translate crowdin scxver4324t24_b2875931:
+
+    # hi "Is the room ready for us?"
+    hi "Is the room ready for us?"
+
+# game/sakuracan.rpy:6172
+translate crowdin scxver4324t24_c5208a28:
+
+    # r "Straight to the main course? Why don't we have tea first?"
+    r "Straight to the main course? Why don't we have tea first?"
+
+# game/sakuracan.rpy:6177
+translate crowdin scxver4324t24_6b3d1407:
+
+    # hi "Do we have to? We've long since moved on to what happens after tea!"
+    hi "Do we have to? We've long since moved on to what happens after tea!"
+
+# game/sakuracan.rpy:6179
+translate crowdin scxver4324t24_f06a82d5:
+
+    # hi "I want to be yours tonight!"
+    hi "I want to be yours tonight!"
+
+# game/sakuracan.rpy:6184
+translate crowdin scxver4324t24_74d87bd3:
+
+    # r "Well, since you're asking..."
+    r "Well, since you're asking..."
+
+# game/sakuracan.rpy:6186
+translate crowdin scxver4324t24_69da5c09:
+
+    # r "Get changed; let's go have some fun."
+    r "Get changed; let's go have some fun."
+
+# game/sakuracan.rpy:6200
+translate crowdin teismcvwanefwvg_65bbf2f1:
+
+    # r "You know, I think Sakura will join us shortly."
+    r "You know, I think Sakura will join us shortly."
+
+# game/sakuracan.rpy:6204
+translate crowdin teismcvwanefwvg_a5b9acb8:
+
+    # hi "So soon? I thought it would take longer."
+    hi "So soon? I thought it would take longer."
+
+# game/sakuracan.rpy:6208
+translate crowdin teismcvwanefwvg_567e604d:
+
+    # r "She's giving in to my technique much faster than I thought."
+    r "She's giving in to my technique much faster than I thought."
+
+# game/sakuracan.rpy:6212
+translate crowdin teismcvwanefwvg_2374c2da:
+
+    # hi "You know how to handle girls. There's nothing surprising."
+    hi "You know how to handle girls. There's nothing surprising."
+
+# game/sakuracan.rpy:6216
+translate crowdin teismcvwanefwvg_6245be17:
+
+    # r "Thank you, but that's not the point."
+    r "Thank you, but that's not the point."
+
+# game/sakuracan.rpy:6220
+translate crowdin teismcvwanefwvg_1b5bbda1:
+
+    # r "She does not get any sex at all."
+    r "She does not get any sex at all."
+
+# game/sakuracan.rpy:6224
+translate crowdin teismcvwanefwvg_d622d25e:
+
+    # hi "Yeah... We've talked about it sometimes. Of all the married women I know, she has the hardest time."
+    hi "Yeah... We've talked about it sometimes. Of all the married women I know, she has the hardest time."
+
+# game/sakuracan.rpy:6228
+translate crowdin teismcvwanefwvg_5119de05:
+
+    # r "Are you sure you're ready to let her into our private life?"
+    r "Are you sure you're ready to let her into our private life?"
+
+# game/sakuracan.rpy:6232
+translate crowdin teismcvwanefwvg_a09b99b0:
+
+    # hi "Yes! I can't wait... I want us both to feel as good as I do right now."
+    hi "Yes! I can't wait... I want us both to feel as good as I do right now."
+
+# game/sakuracan.rpy:6236
+translate crowdin teismcvwanefwvg_417140ea:
+
+    # m "Sakura?"
+    m "Sakura?"
+
+# game/sakuracan.rpy:6242
+translate crowdin teismcvwanefwvg_fb1e7546:
+
+    # r "Sakura? Did something happen?"
+    r "Sakura? Did something happen?"
+
+# game/sakuracan.rpy:6244
+translate crowdin teismcvwanefwvg_b4115ab2:
+
+    # saku "Hey! Sorry for calling you so late... You're still up, aren't you? I really hope I didn't wake you up... It's kind of embarrassing..."
+    saku "Hey! Sorry for calling you so late... You're still up, aren't you? I really hope I didn't wake you up... It's kind of embarrassing..."
+
+# game/sakuracan.rpy:6246
+translate crowdin teismcvwanefwvg_b5e17541:
+
+    # r "No, no, I'm still awake; it's fine. Did you want something?"
+    r "No, no, I'm still awake; it's fine. Did you want something?"
+
+# game/sakuracan.rpy:6248
+translate crowdin teismcvwanefwvg_ef901e64:
+
+    # saku "Yeah... Well... tomorrow, some of our patients are moving to another hospital, which means that your shift for tomorrow is canceled."
+    saku "Yeah... Well... tomorrow, some of our patients are moving to another hospital, which means that your shift for tomorrow is canceled."
+
+# game/sakuracan.rpy:6250
+translate crowdin teismcvwanefwvg_13ffb388:
+
+    # r "Oh... Yeah, okay, I got it."
+    r "Oh... Yeah, okay, I got it."
+
+# game/sakuracan.rpy:6252
+translate crowdin teismcvwanefwvg_38c6739a:
+
+    # saku "Maybe... Maybe you want to spend some time together? Not with me of course! Don't get any ideas! With me and Hinata! We could come over to my place and spend time in friendly company..."
+    saku "Maybe... Maybe you want to spend some time together? Not with me of course! Don't get any ideas! With me and Hinata! We could come over to my place and spend time in friendly company..."
+
+# game/sakuracan.rpy:6254
+translate crowdin teismcvwanefwvg_582b8608:
+
+    # saku "Or do you have other plans?"
+    saku "Or do you have other plans?"
+
+# game/sakuracan.rpy:6256
+translate crowdin teismcvwanefwvg_30bace47:
+
+    # r "No plans, Sakura. I'm all yours tomorrow. Or rather, yours and Hinata's."
+    r "No plans, Sakura. I'm all yours tomorrow. Or rather, yours and Hinata's."
+
+# game/sakuracan.rpy:6258
+translate crowdin teismcvwanefwvg_633474f7:
+
+    # saku "Great! Then, before you come over to my place, can you do me a friendly favor?"
+    saku "Great! Then, before you come over to my place, can you do me a friendly favor?"
+
+# game/sakuracan.rpy:6260
+translate crowdin teismcvwanefwvg_4b1af71e:
+
+    # r "Sure, what is it?"
+    r "Sure, what is it?"
+
+# game/sakuracan.rpy:6262
+translate crowdin teismcvwanefwvg_c1a91892:
+
+    # saku "I need to pick up some flowers from my friend's shop, but I have an online work call scheduled at the same time. It would be silly if I talked to an important customer on the way to the shop."
+    saku "I need to pick up some flowers from my friend's shop, but I have an online work call scheduled at the same time. It would be silly if I talked to an important customer on the way to the shop."
+
+# game/sakuracan.rpy:6264
+translate crowdin teismcvwanefwvg_74ec6b32:
+
+    # saku "Just pick up the vase of flowers and come straight to my place. I'll warn my friend. Will you do that for me?"
+    saku "Just pick up the vase of flowers and come straight to my place. I'll warn my friend. Will you do that for me?"
+
+# game/sakuracan.rpy:6266
+translate crowdin teismcvwanefwvg_7dd287ae:
+
+    # r "Yes, it's no big deal, rely on me."
+    r "Yes, it's no big deal, rely on me."
+
+# game/sakuracan.rpy:6268
+translate crowdin teismcvwanefwvg_a6a8bdb5:
+
+    # saku "Thank you! You're the best! A mountain off my shoulders, I didn't want to reschedule the call, thank you!"
+    saku "Thank you! You're the best! A mountain off my shoulders, I didn't want to reschedule the call, thank you!"
+
+# game/sakuracan.rpy:6270
+translate crowdin teismcvwanefwvg_a2bc8238:
+
+    # r "See you tomorrow, Sakura. I'll be on time!"
+    r "See you tomorrow, Sakura. I'll be on time!"
+
+# game/sakuracan.rpy:6272
+translate crowdin teismcvwanefwvg_32108cc2:
+
+    # saku "Good night!"
+    saku "Good night!"
+
+# game/sakuracan.rpy:6278
+translate crowdin teismcvwanefwvg_e8e15590:
+
+    # hi "Wow, that's unexpected. She didn't say anything to me."
+    hi "Wow, that's unexpected. She didn't say anything to me."
+
+# game/sakuracan.rpy:6280
+translate crowdin teismcvwanefwvg_884f63ed:
+
+    # hi "She'll probably text and invite you any moment now."
+    hi "She'll probably text and invite you any moment now."
+
+# game/sakuracan.rpy:6284
+translate crowdin teismcvwanefwvg_2dab4a52:
+
+    # r "Sakura called me first. I guess I'm her new favorite?"
+    r "Sakura called me first. I guess I'm her new favorite?"
+
+# game/sakuracan.rpy:6288
+translate crowdin teismcvwanefwvg_e50a0da7:
+
+    # hi "Oh, stop bragging!"
+    hi "Oh, stop bragging!"
+
+# game/sakuracan.rpy:6290
+translate crowdin teismcvwanefwvg_242b68d5:
+
+    # hi "Let's call it a day. I have to go home in the morning."
+    hi "Let's call it a day. I have to go home in the morning."
+
+# game/sakuracan.rpy:6294
+translate crowdin teismcvwanefwvg_77f79a3e:
+
+    # r "That's right, come here..."
+    r "That's right, come here..."
+
+# game/sakuracan.rpy:6324
+translate crowdin iramsn_9ecdd967:
+
+    # ino "Good afternoon! Would you like to buy some pretty flowers for your girl?"
+    ino "Good afternoon! Would you like to buy some pretty flowers for your girl?"
+
+# game/sakuracan.rpy:6328
+translate crowdin iramsn_d8e95b91:
+
+    # r "Hello. Perhaps... Do you think she will like flowers?"
+    r "Hello. Perhaps... Do you think she will like flowers?"
+
+# game/sakuracan.rpy:6332
+translate crowdin iramsn_aac3c1f8:
+
+    # ino "Rest assured! All girls love flowers; they are associated with youth, with spring and love!"
+    ino "Rest assured! All girls love flowers; they are associated with youth, with spring and love!"
+
+# game/sakuracan.rpy:6336
+translate crowdin iramsn_f3912109:
+
+    # r "Well, then maybe I'll buy some. What kind of flowers do you like? I'm ready to gift you with a bouquet right now."
+    r "Well, then maybe I'll buy some. What kind of flowers do you like? I'm ready to gift you with a bouquet right now."
+
+# game/sakuracan.rpy:6340
+translate crowdin iramsn_2fd2364f:
+
+    # ino "Oh! That's so sweet of you... but this girl's been married a long time! You're a little late!"
+    ino "Oh! That's so sweet of you... but this girl's been married a long time! You're a little late!"
+
+# game/sakuracan.rpy:6344
+translate crowdin iramsn_7d412266:
+
+    # r "Oh... I should have gotten here earlier..."
+    r "Oh... I should have gotten here earlier..."
+
+# game/sakuracan.rpy:6348
+translate crowdin iramsn_edbbc50b:
+
+    # ino "Don't worry, there are plenty of young girls in Konoha who would like a young man of such a gallant manner."
+    ino "Don't worry, there are plenty of young girls in Konoha who would like a young man of such a gallant manner."
+
+# game/sakuracan.rpy:6350
+translate crowdin iramsn_bfec3b0d:
+
+    # ino "It's all about choosing the right flowers!"
+    ino "It's all about choosing the right flowers!"
+
+# game/sakuracan.rpy:6354
+translate crowdin iramsn_e09c2e3a:
+
+    # r "I'll keep that in mind! But I'm actually here running an errand a friend. Sakura asked me to pick up a vase of flowers."
+    r "I'll keep that in mind! But I'm actually here running an errand a friend. Sakura asked me to pick up a vase of flowers."
+
+# game/sakuracan.rpy:6358
+translate crowdin iramsn_e6dca272:
+
+    # ino "Ohhhh, so you're the intern from the hospital? I see! My name is Ino. Nice to meet you!"
+    ino "Ohhhh, so you're the intern from the hospital? I see! My name is Ino. Nice to meet you!"
+
+# game/sakuracan.rpy:6362
+translate crowdin iramsn_f561bf15:
+
+    # r "That's right, it's me. I'm [viname]."
+    r "That's right, it's me. I'm [viname]."
+
+# game/sakuracan.rpy:6366
+translate crowdin iramsn_47e1d47f:
+
+    # ino "You're so young, yet you work in a hospital? I thought only old people worked there!"
+    ino "You're so young, yet you work in a hospital? I thought only old people worked there!"
+
+# game/sakuracan.rpy:6370
+translate crowdin iramsn_0936fd7e:
+
+    # r "What about Sakura? She's very young too."
+    r "What about Sakura? She's very young too."
+
+# game/sakuracan.rpy:6374
+translate crowdin iramsn_9751d732:
+
+    # ino "Sakura is the most experienced medical-nin in Konoha. Iit's a whole different thing!"
+    ino "Sakura is the most experienced medical-nin in Konoha. Iit's a whole different thing!"
+
+# game/sakuracan.rpy:6378
+translate crowdin iramsn_d1f896cc:
+
+    # r "I'm just interested in helping people. I'm good at giving massages, so I make use of that skill."
+    r "I'm just interested in helping people. I'm good at giving massages, so I make use of that skill."
+
+# game/sakuracan.rpy:6382
+translate crowdin iramsn_78f2f05b:
+
+    # ino "That's great! Finding one's calling at such a young age is worth half a life!"
+    ino "That's great! Finding one's calling at such a young age is worth half a life!"
+
+# game/sakuracan.rpy:6386
+translate crowdin iramsn_88f5c641:
+
+    # r "And what's the other half, then?"
+    r "And what's the other half, then?"
+
+# game/sakuracan.rpy:6390
+translate crowdin iramsn_bb50c9fe:
+
+    # ino "You answered your own question. Finding your other half is what you need for complete happiness! So don't forget to buy flowers, or you'll miss yours!"
+    ino "You answered your own question. Finding your other half is what you need for complete happiness! So don't forget to buy flowers, or you'll miss yours!"
+
+# game/sakuracan.rpy:6394
+translate crowdin iramsn_6484bdec:
+
+    # r "I'll keep that in mind, Ino! Now, let me take the vase."
+    r "I'll keep that in mind, Ino! Now, let me take the vase."
+
+# game/sakuracan.rpy:6398
+translate crowdin iramsn_bbd4efe6:
+
+    # ino "Of course, it's all yours."
+    ino "Of course, it's all yours."
+
+# game/sakuracan.rpy:6404
+translate crowdin iramsn_7a1c48bc:
+
+    # ino "Say hi to Sakura! She mentions you sometimes and says only nice things!"
+    ino "Say hi to Sakura! She mentions you sometimes and says only nice things!"
+
+# game/sakuracan.rpy:6406
+translate crowdin iramsn_fc265bd2:
+
+    # ino "I look forward to seeing you in my store again!"
+    ino "I look forward to seeing you in my store again!"
+
+# game/sakuracan.rpy:6410
+translate crowdin iramsn_37add773:
+
+    # r "Thanks a lot, Ino. I'm sure we'll meet again."
+    r "Thanks a lot, Ino. I'm sure we'll meet again."
+
+# game/sakuracan.rpy:6412
+translate crowdin iramsn_b0f5e006:
+
+    # m "One day... Ino..."
+    m "One day... Ino..."
+
+# game/sakuracan.rpy:6416
+translate crowdin iramsn_baf0b338:
+
+    # ino "See you later!"
+    ino "See you later!"
+
+# game/sakuracan.rpy:6422
+translate crowdin iramsn_a4d720fe:
+
+    # m "So... I got the flowers. I guess we can go in now?"
+    m "So... I got the flowers. I guess we can go in now?"
+
+# game/sakuracan.rpy:6426
+translate crowdin iramsn_ae4a0e2c:
+
+    # hi "You got here first! I thought I'd have to wait for you."
+    hi "You got here first! I thought I'd have to wait for you."
+
+# game/sakuracan.rpy:6430
+translate crowdin iramsn_f6300893:
+
+    # r "Yeah, I had to go out a little early, got the flowers."
+    r "Yeah, I had to go out a little early, got the flowers."
+
+# game/sakuracan.rpy:6434
+translate crowdin iramsn_1e296be3:
+
+    # hi "What a beautiful vase! The flowers look nice. I wish someone would give me one of these..."
+    hi "What a beautiful vase! The flowers look nice. I wish someone would give me one of these..."
+
+# game/sakuracan.rpy:6438
+translate crowdin iramsn_dfe0df6d:
+
+    # r "Someone might find out about us... Well, in case I start showering you with flowers..."
+    r "Someone might find out about us... Well, in case I start showering you with flowers..."
+
+# game/sakuracan.rpy:6442
+translate crowdin iramsn_bf13f233:
+
+    # hi "I'm just kidding! I don't need flowers. Just fuck me once in a while and I'll be happy!"
+    hi "I'm just kidding! I don't need flowers. Just fuck me once in a while and I'll be happy!"
+
+# game/sakuracan.rpy:6446
+translate crowdin iramsn_91a5185e:
+
+    # r "I can do that!"
+    r "I can do that!"
+
+# game/sakuracan.rpy:6450
+translate crowdin iramsn_464b64d7:
+
+    # hi "Let's go inside, Sakura's probably waiting already!"
+    hi "Let's go inside, Sakura's probably waiting already!"
+
+# game/sakuracan.rpy:6457
+translate crowdin iramsn_be48f8b5:
+
+    # m "I'm having fun."
+    m "I'm having fun."
+
+# game/sakuracan.rpy:6459
+translate crowdin iramsn_6fd6e49b:
+
+    # m "The pleasant company of the girls..."
+    m "The pleasant company of the girls..."
+
+# game/sakuracan.rpy:6461
+translate crowdin iramsn_a4900ae3:
+
+    # m "The warmth and comfort..."
+    m "The warmth and comfort..."
+
+# game/sakuracan.rpy:6463
+translate crowdin iramsn_080fb9b0:
+
+    # m "We ate some homemade food... We drank delicious tea... some wine..."
+    m "We ate some homemade food... We drank delicious tea... some wine..."
+
+# game/sakuracan.rpy:6465
+translate crowdin iramsn_8d7c8790:
+
+    # m "We chatted about all kinds of things."
+    m "We chatted about all kinds of things."
+
+# game/sakuracan.rpy:6467
+translate crowdin iramsn_a9735317:
+
+    # m "The day is still ahead of us... And I'm still having fun, but..."
+    m "The day is still ahead of us... And I'm still having fun, but..."
+
+# game/sakuracan.rpy:6469
+translate crowdin iramsn_ec35f6cf:
+
+    # m "For some reason..."
+    m "For some reason..."
+
+# game/sakuracan.rpy:6471
+translate crowdin iramsn_a5fa897f:
+
+    # m "Sometimes..."
+    m "Sometimes..."
+
+# game/sakuracan.rpy:6473
+translate crowdin iramsn_ddbc6bf4:
+
+    # m "I get the shivers..."
+    m "I get the shivers..."
+
+# game/sakuracan.rpy:6481
+translate crowdin iramsn_8f7ef22b:
+
+    # hi "[viname], do you get the rules?"
+    hi "[viname], do you get the rules?"
+
+# game/sakuracan.rpy:6483
+translate crowdin iramsn_caf72e09:
+
+    # hi "[viname]?"
+    hi "[viname]?"
+
+# game/sakuracan.rpy:6485
+translate crowdin iramsn_b56b3ccd:
+
+    # hi "[viname]!"
+    hi "[viname]!"
+
+# game/sakuracan.rpy:6495
+translate crowdin iramsn_dd9b3ee6:
+
+    # r "Oh... Yes, yes! I think it's all clear!"
+    r "Oh... Yes, yes! I think it's all clear!"
+
+# game/sakuracan.rpy:6497
+translate crowdin iramsn_ea413fe9:
+
+    # r "However, I'm not sure..."
+    r "However, I'm not sure..."
+
+# game/sakuracan.rpy:6501
+translate crowdin iramsn_6d94e4db:
+
+    # saku "You just put down the same colors or numbers; it's not that hard!"
+    saku "You just put down the same colors or numbers; it's not that hard!"
+
+# game/sakuracan.rpy:6505
+translate crowdin iramsn_c39fc971:
+
+    # r "And the black card?"
+    r "And the black card?"
+
+# game/sakuracan.rpy:6509
+translate crowdin iramsn_d5534d6d:
+
+    # hi "That's the coolest one! It can completely turn the game around! Keep it with you and use it at the right moment!"
+    hi "That's the coolest one! It can completely turn the game around! Keep it with you and use it at the right moment!"
+
+# game/sakuracan.rpy:6513
+translate crowdin iramsn_bb28305a:
+
+    # saku "It's kind of a joker, only more interesting and fun!"
+    saku "It's kind of a joker, only more interesting and fun!"
+
+# game/sakuracan.rpy:6517
+translate crowdin iramsn_25971b53:
+
+    # r "How about we just watch some movie? We can stay at your place more, Sakura?"
+    r "How about we just watch some movie? We can stay at your place more, Sakura?"
+
+# game/sakuracan.rpy:6521
+translate crowdin iramsn_b6660464:
+
+    # saku "It's already evening, but if you want, you can just crash here. The house is big, there's plenty of room for all of us!"
+    saku "It's already evening, but if you want, you can just crash here. The house is big, there's plenty of room for all of us!"
+
+# game/sakuracan.rpy:6525
+translate crowdin iramsn_0c0c037e:
+
+    # r "What do you say, Hinata?"
+    r "What do you say, Hinata?"
+
+# game/sakuracan.rpy:6529
+translate crowdin iramsn_6308b334:
+
+    # hi "I'm in! My house is empty right now too, so it'll be more fun with you guys than alone."
+    hi "I'm in! My house is empty right now too, so it'll be more fun with you guys than alone."
+
+# game/sakuracan.rpy:6533
+translate crowdin iramsn_e49b79d6:
+
+    # r "Cool! Since we have the whole evening ahead of us, I might as well learn to play this game."
+    r "Cool! Since we have the whole evening ahead of us, I might as well learn to play this game."
+
+# game/sakuracan.rpy:6537
+translate crowdin iramsn_2cba85a9:
+
+    # saku "You'll get the hang of it in no time, you just have to start!"
+    saku "You'll get the hang of it in no time, you just have to start!"
+
+# game/sakuracan.rpy:6555
+translate crowdin iramsn_41bd993b:
+
+    # hi "We had a great time. Thanks, Sakura!"
+    hi "We had a great time. Thanks, Sakura!"
+
+# game/sakuracan.rpy:6560
+translate crowdin iramsn_7c0b920a:
+
+    # saku "Oh, thank you two! It was I who invited you, after all. It was fun."
+    saku "Oh, thank you two! It was I who invited you, after all. It was fun."
+
+# game/sakuracan.rpy:6562
+translate crowdin iramsn_19e3ac87:
+
+    # saku "I'll go prepare a bed for you, Hinata."
+    saku "I'll go prepare a bed for you, Hinata."
+
+# game/sakuracan.rpy:6564
+translate crowdin iramsn_5614f4b7:
+
+    # saku "[viname], you don't mind sleeping on the couch, do you?"
+    saku "[viname], you don't mind sleeping on the couch, do you?"
+
+# game/sakuracan.rpy:6566
+translate crowdin iramsn_c4dcfef8:
+
+    # r "Your couch looks damn comfortable. I'm definitely up to spending the night on it."
+    r "Your couch looks damn comfortable. I'm definitely up to spending the night on it."
+
+# game/sakuracan.rpy:6568
+translate crowdin iramsn_dd04a0fe:
+
+    # saku "I'll find something to make it look even more comfortable! I promise!"
+    saku "I'll find something to make it look even more comfortable! I promise!"
+
+# game/sakuracan.rpy:6575
+translate crowdin iramsn_6deb9dc0:
+
+    # hi "Will you help me in the kitchen? I think there's something in there I can't sleep without."
+    hi "Will you help me in the kitchen? I think there's something in there I can't sleep without."
+
+# game/sakuracan.rpy:6580
+translate crowdin iramsn_02a109e5:
+
+    # r "Is my help required?"
+    r "Is my help required?"
+
+# game/sakuracan.rpy:6585
+translate crowdin iramsn_bdce97c4:
+
+    # hi "It absolutely is."
+    hi "It absolutely is."
+
+# game/sakuracan.rpy:6593
+translate crowdin iramsn_53e3ba9a:
+
+    # r "So, were you hungry or something?"
+    r "So, were you hungry or something?"
+
+# game/sakuracan.rpy:6595
+translate crowdin iramsn_ad94c7b1:
+
+    # r "It's a little dark in here..."
+    r "It's a little dark in here..."
+
+# game/sakuracan.rpy:6600
+translate crowdin iramsn_2e7a1c73:
+
+    # hi "Hungry... That's one way to put it."
+    hi "Hungry... That's one way to put it."
+
+# game/sakuracan.rpy:6602
+translate crowdin iramsn_84910f1d:
+
+    # hi "Let me kneel down in front of you, so you can feed me something delicious real quick..."
+    hi "Let me kneel down in front of you, so you can feed me something delicious real quick..."
+
+# game/sakuracan.rpy:6607
+translate crowdin iramsn_57aa2a7d:
+
+    # r "Right now? Sakura is..."
+    r "Right now? Sakura is..."
+
+# game/sakuracan.rpy:6612
+translate crowdin iramsn_e03d79b1:
+
+    # hi "It's dark in here. Sakura's upstairs!"
+    hi "It's dark in here. Sakura's upstairs!"
+
+# game/sakuracan.rpy:6614
+translate crowdin iramsn_f7eb0b59:
+
+    # hi "Come on... I want your delicious cock in my mouth. I can't sleep without playing with it!"
+    hi "Come on... I want your delicious cock in my mouth. I can't sleep without playing with it!"
+
+# game/sakuracan.rpy:6619
+translate crowdin iramsn_a8d30f5d:
+
+    # r "Let's just make it quick, okay? We don't want Sakura to hears us."
+    r "Let's just make it quick, okay? We don't want Sakura to hears us."
+
+# game/sakuracan.rpy:6624
+translate crowdin iramsn_69fdd892:
+
+    # hi "I'll use my throat like you taught me to!"
+    hi "I'll use my throat like you taught me to!"
+
+# game/sakuracan.rpy:6629
+translate crowdin iramsn_1edd2a44:
+
+    # r "Okay, come here."
+    r "Okay, come here."
+
+# game/sakuracan.rpy:6638
+translate crowdin iramsn_d0de5e66:
+
+    # m "She's very passionate..."
+    m "She's very passionate..."
+
+# game/sakuracan.rpy:6640
+translate crowdin iramsn_eebe2b1e:
+
+    # m "I would even say... insatiable..."
+    m "I would even say... insatiable..."
+
+# game/sakuracan.rpy:6642
+translate crowdin iramsn_fdf1440f:
+
+    # m "Hinata wants more and more."
+    m "Hinata wants more and more."
+
+# game/sakuracan.rpy:6644
+translate crowdin iramsn_0a659816:
+
+    # m "I think it's no exaggeration to say that she's addicted to my cock."
+    m "I think it's no exaggeration to say that she's addicted to my cock."
+
+# game/sakuracan.rpy:6646
+translate crowdin iramsn_ebaf7c02:
+
+    # m "Hinata kisses me so greedily and with such love..."
+    m "Hinata kisses me so greedily and with such love..."
+
+# game/sakuracan.rpy:6648
+translate crowdin iramsn_26ca3416:
+
+    # m "My cock is literally ecstatic about it!"
+    m "My cock is literally ecstatic about it!"
+
+# game/sakuracan.rpy:6650
+translate crowdin iramsn_b5adf2af:
+
+    # m "I have to fuck her in the mouth quickly before this gets out of hand..."
+    m "I have to fuck her in the mouth quickly before this gets out of hand..."
+
+# game/sakuracan.rpy:6656
+translate crowdin iramsn_fcb4b5f2:
+
+    # saku "Guys..."
+    saku "Guys..."
+
+# game/sakuracan.rpy:6658
+translate crowdin iramsn_65a682f9:
+
+    # saku "what..."
+    saku "what..."
+
+# game/sakuracan.rpy:6660
+translate crowdin iramsn_d08825b5:
+
+    # saku "What are you doing!?"
+    saku "What are you doing!?"
 
 translate crowdin strings:
 
@@ -4802,11 +9944,59 @@ translate crowdin strings:
     old "I’m leaving, it’s getting too scary."
     new "I’m leaving, it’s getting too scary."
 
-    # game/sakuracan.rpy:3257
+    # game/sakuracan.rpy:3228
     old "Tell her about the murderer and rebirth."
     new "Tell her about the murderer and rebirth."
 
-    # game/sakuracan.rpy:3257
+    # game/sakuracan.rpy:3228
     old "Don’t tell her, figure it out yourself."
     new "Don’t tell her, figure it out yourself."
+
+    # game/sakuracan.rpy:4091
+    old "Who are you? How did you get here?"
+    new "Who are you? How did you get here?"
+
+    # game/sakuracan.rpy:4091
+    old "How do you know Kamiko, how are you two related?"
+    new "How do you know Kamiko, how are you two related?"
+
+    # game/sakuracan.rpy:4091
+    old "You're not our enemy?"
+    new "You're not our enemy?"
+
+    # game/sakuracan.rpy:4091
+    old "Why me?"
+    new "Why me?"
+
+    # game/sakuracan.rpy:4091
+    old "What happens next?"
+    new "What happens next?"
+
+    # game/sakuracan.rpy:4091
+    old "What do you yourself want out of all this?"
+    new "What do you yourself want out of all this?"
+
+    # game/sakuracan.rpy:4815
+    old "You'll always be in the first place for me."
+    new "You'll always be in the first place for me."
+
+    # game/sakuracan.rpy:4815
+    old "I can't promise this."
+    new "I can't promise this."
+
+    # game/sakuracan.rpy:5085
+    old "Bold and fun."
+    new "Bold and fun."
+
+    # game/sakuracan.rpy:5085
+    old "Calm and sweet."
+    new "Calm and sweet."
+
+    # game/sakuracan.rpy:5235
+    old "Sakura"
+    new "Sakura"
+
+    # game/sakuracan.rpy:5235
+    old "Hinata"
+    new "Hinata"
 

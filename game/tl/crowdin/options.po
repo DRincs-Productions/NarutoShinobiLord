@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-08 11:40 #|#|# # §translate crowdin strings: #|#|# # game/options.rpy:15
+﻿# TODO: Translation updated at 2024-07-17 11:01 #|#|# # §translate crowdin strings: #|#|# # game/options.rpy:15
 msgid "Naruto: Shinobi Lord"
 msgstr "Naruto: Shinobi Lord"
 

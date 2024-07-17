@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2023-12-08 11:40
+﻿# TODO: Translation updated at 2024-07-17 11:01
 
 # game/trainroom4.rpy:126
 translate crowdin roomhand1s22_20e36cd1:
@@ -534,181 +534,139 @@ translate crowdin cumatoraerv_fc3cfba3:
     # hi "D-don't pull it out... Just lie like this for a while..."
     hi "D-don't pull it out... Just lie like this for a while..."
 
-# game/trainroom4.rpy:725
+# game/trainroom4.rpy:768
 translate crowdin naezorni_2f648286:
 
     # r "You're so wet today..."
     r "You're so wet today..."
 
-# game/trainroom4.rpy:726
+# game/trainroom4.rpy:769
 translate crowdin naezorni_11e2954c:
 
     # r "Glad to see me?"
     r "Glad to see me?"
 
-# game/trainroom4.rpy:728
+# game/trainroom4.rpy:771
 translate crowdin naezorni_065a3507:
 
     # hi "Mmmmm... I'm just ovulating..."
     hi "Mmmmm... I'm just ovulating..."
 
-# game/trainroom4.rpy:732
+# game/trainroom4.rpy:775
 translate crowdin naezorni_02b2cf3f:
 
     # r "Is that so... No sperm inside today?"
     r "Is that so... No sperm inside today?"
 
-# game/trainroom4.rpy:734
+# game/trainroom4.rpy:777
 translate crowdin naezorni_182bebe9:
 
     # hi "W-well... Why..."
     hi "W-well... Why..."
 
-# game/trainroom4.rpy:735
+# game/trainroom4.rpy:778
 translate crowdin naezorni_2180ed84:
 
     # hi "Y-you can... Mmmmmm..."
     hi "Y-you can... Mmmmmm..."
 
-# game/trainroom4.rpy:736
+# game/trainroom4.rpy:779
 translate crowdin naezorni_42be3e11:
 
     # hi "You can cum in my ass..."
     hi "You can cum in my ass..."
 
-# game/trainroom4.rpy:740
+# game/trainroom4.rpy:785
 translate crowdin naezorni_7ccb46a4:
 
     # r "You are teasing me so much..."
     r "You are teasing me so much..."
 
-# game/trainroom4.rpy:741
+# game/trainroom4.rpy:786
 translate crowdin naezorni_074b2b30:
 
     # r "I'm just warming up!"
     r "I'm just warming up!"
 
-# game/trainroom4.rpy:742
+# game/trainroom4.rpy:787
 translate crowdin naezorni_af93d09f:
 
     # r "Lie on your back."
     r "Lie on your back."
 
-# game/trainroom4.rpy:757
-translate crowdin misian_3a9e3ed0:
-
-    # hi "Yes..."
-    hi "Yes..."
-
-# game/trainroom4.rpy:758
-translate crowdin misian_054d29ab:
-
-    # hi "Mmmmm..."
-    hi "Mmmmm..."
-
-# game/trainroom4.rpy:762
-translate crowdin misian_a86038fd:
-
-    # r "I love to look at you when I fuck you!"
-    r "I love to look at you when I fuck you!"
-
-# game/trainroom4.rpy:763
-translate crowdin misian_505d18ea:
-
-    # r "Your body is truly made for pleasure..."
-    r "Your body is truly made for pleasure..."
-
-# game/trainroom4.rpy:767
-translate crowdin misian_292a32ab:
-
-    # r "I feel..."
-    r "I feel..."
-
-# game/trainroom4.rpy:768
-translate crowdin misian_9c644010:
-
-    # r "A little longer..."
-    r "A little longer..."
-
-# game/trainroom4.rpy:769
-translate crowdin misian_5a8f444b:
-
-    # r "Get on all fours. Let's try your ass out."
-    r "Get on all fours. Let's try your ass out."
-
-# game/trainroom4.rpy:826
+# game/trainroom4.rpy:874
 translate crowdin analenok_922a9412:
 
     # r "Fuck... It's a bit cramped..."
     r "Fuck... It's a bit cramped..."
 
-# game/trainroom4.rpy:827
+# game/trainroom4.rpy:875
 translate crowdin analenok_138d7de5:
 
     # hi "It's been a while since I... Practiced..."
     hi "It's been a while since I... Practiced..."
 
-# game/trainroom4.rpy:828
+# game/trainroom4.rpy:876
 translate crowdin analenok_bbd25067:
 
     # hi "I'll get used to it now..."
     hi "I'll get used to it now..."
 
-# game/trainroom4.rpy:829
+# game/trainroom4.rpy:877
 translate crowdin analenok_b806fde2:
 
     # hi "Come in with confidence... I'm ready!"
     hi "Come in with confidence... I'm ready!"
 
-# game/trainroom4.rpy:835
+# game/trainroom4.rpy:883
 translate crowdin analenok_9f234244:
 
     # r "Fuck... You are squeezing so much!"
     r "Fuck... You are squeezing so much!"
 
-# game/trainroom4.rpy:836
+# game/trainroom4.rpy:884
 translate crowdin analenok_2f270abd:
 
     # r "Are you feeling good?"
     r "Are you feeling good?"
 
-# game/trainroom4.rpy:837
+# game/trainroom4.rpy:885
 translate crowdin analenok_ba6371ae:
 
     # hi "Yes! God! I love being fucked in the ass..."
     hi "Yes! God! I love being fucked in the ass..."
 
-# game/trainroom4.rpy:843
+# game/trainroom4.rpy:891
 translate crowdin analenok_e77db8d2:
 
     # r "Damn... I'm so close..."
     r "Damn... I'm so close..."
 
-# game/trainroom4.rpy:844
+# game/trainroom4.rpy:892
 translate crowdin analenok_0494dc7c:
 
     # hi "Fill me up! I want it inside!"
     hi "Fill me up! I want it inside!"
 
-# game/trainroom4.rpy:845
+# game/trainroom4.rpy:893
 translate crowdin analenok_e08fbc3f:
 
     # r "Take it!"
     r "Take it!"
 
-# game/trainroom4.rpy:855
+# game/trainroom4.rpy:903
 translate crowdin conskila_f1a938c5:
 
     # r "Fuck... This is something new..."
     r "Fuck... This is something new..."
 
-# game/trainroom4.rpy:856
+# game/trainroom4.rpy:904
 translate crowdin conskila_98d29628:
 
     # r "I’ll fuck that ass of yours more often from now on."
     r "I’ll fuck that ass of yours more often from now on."
 
-# game/trainroom4.rpy:857
+# game/trainroom4.rpy:905
 translate crowdin conskila_3a9e3ed0:
 
     # hi "Yes..."
