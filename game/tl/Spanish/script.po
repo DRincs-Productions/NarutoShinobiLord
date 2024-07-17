@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-23 15:01\n"
+"PO-Revision-Date: 2024-07-17 09:23\n"
 
-# TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
+# TODO: Translation updated at 2024-07-17 11:01 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
 msgstr "[_e_] Suelo pensar en lo que podría ser mi vida si tomo diferentes decisiones..."
 
@@ -16489,8 +16489,8 @@ msgid "Ask if she needs help with something else?"
 msgstr "Preguntar si necesita ayuda con otra cosa?"
 
 # game/script.rpy:13273
-msgid "Give me a glass of water and let's go... (Patrons only)"
-msgstr "Déjame un vaso de agua y vamos... (Solo en los patrones)"
+msgid " Give me a glass of water and let's go... (Patrons only)"
+msgstr ""
 
 # game/script.rpy:13273
 msgid "You'll get more only when I say so, not now."
@@ -16557,8 +16557,8 @@ msgid "Cum in my pussy."
 msgstr "Cum en mi coño."
 
 # game/script.rpy:16797
-msgid "Let him suck my balls (only for patrons)"
-msgstr "Déjelo chupar mis bolas (sólo para los clientes)"
+msgid " Let him suck my balls (only for patrons)"
+msgstr ""
 
 # game/script.rpy:16971
 msgid "It wouldn't be easy for me to accept."
@@ -16589,8 +16589,8 @@ msgid "Cum in Hinata."
 msgstr "Cum in Hinata."
 
 # game/script.rpy:18089
-msgid "Let her take the initiative (Patrons only)"
-msgstr "Dejemos que tome la iniciativa (Patrons solamente)"
+msgid " Let her take the initiative (Patrons only)"
+msgstr ""
 
 # game/script.rpy:18847
 msgid "Okay, I'll go with you."
@@ -16633,6 +16633,6 @@ msgid "Don't stop, I'm about to cum!"
 msgstr "¡No pares, estoy a punto de cum!"
 
 # game/script.rpy:19653
-msgid "Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
-msgstr "Pon tu boca a usar un poco, quiero cum directamente por tu garganta (para los Patrones)"
+msgid " Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
+msgstr ""
 
