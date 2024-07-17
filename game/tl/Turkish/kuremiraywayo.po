@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Turkish\n"
 "Language: tr_TR\n"
-"PO-Revision-Date: 2024-07-17 09:24\n"
+"PO-Revision-Date: 2024-07-17 11:26\n"
 
 # TODO: Translation updated at 2024-07-17 11:01 #|#|# # game/kuremiraywayo.rpy:6 #-#-# translate crowdin kuremiraywayo_2c661c9f:
 msgid "[_m_] I'm not sure I can get both mother and daughter at the same time."
@@ -3194,15 +3194,15 @@ msgstr "Bu canavarı şimdi savaşa mı götürmeliyiz?"
 
 # game/kuremiraywayo.rpy:3417 #-#-# translate crowdin uenakmamnna_a1036361:
 msgid "[_ka_] He's not a monster, he's my precious son."
-msgstr ""
+msgstr "O bir canavar değil, benim değerli oğlum."
 
 # game/kuremiraywayo.rpy:3421 #-#-# translate crowdin uenakmamnna_48b4ae51:
 msgid "[_ri_] Disgusting..."
-msgstr ""
+msgstr "İğrençsin."
 
 # game/kuremiraywayo.rpy:3425 #-#-# translate crowdin uenakmamnna_48a38b9f:
 msgid "[_ka_] [viname]... The time has finally come..."
-msgstr ""
+msgstr "[ _ka_] [ viname] ... Nihayet zamanı geldi."
 
 # game/kuremiraywayo.rpy:3427 #-#-# translate crowdin uenakmamnna_91939834:
 msgid "[_ka_] Today, my boy, you will finally go into battle!"
@@ -3210,7 +3210,7 @@ msgstr "[ _ka_] Bugün, oğlum, sonunda savaşa gireceksin!"
 
 # game/kuremiraywayo.rpy:3429 #-#-# translate crowdin uenakmamnna_3ac84202:
 msgid "[_ka_] You will protect everyone you wanted to protect!"
-msgstr ""
+msgstr "Korumak istediğin herkesi korursun!"
 
 # game/kuremiraywayo.rpy:3433 #-#-# translate crowdin uenakmamnna_7c8153bb:
 msgid "[_ri_] Are you sure THIS can be controlled?"
@@ -3218,7 +3218,7 @@ msgstr "Bunun kontrol edilebileceğinden emin misin?"
 
 # game/kuremiraywayo.rpy:3437 #-#-# translate crowdin uenakmamnna_4e5294e4:
 msgid "[_ka_] My boy doesn't need to be controlled. But if he does want to absorb the chakra of ordinary people, the chain I created will hold him back."
-msgstr ""
+msgstr "Oğlumun kontrol altına alınmak zorunda değil. Ama eğer sıradan insanların çakrasını absorbe etmek istese, yarattığım zincir onu geri tutar."
 
 # game/kuremiraywayo.rpy:3441 #-#-# translate crowdin uenakmamnna_d81374c1:
 msgid "[_ri_] Never mind, he'll die fighting Otsutsuki anyway."
@@ -3234,11 +3234,11 @@ msgstr "[ _ka_] En azından [ viname] görevini yerine getirecektir."
 
 # game/kuremiraywayo.rpy:3506 #-#-# translate crowdin ob25veras_3102b6b2:
 msgid "[_m_] The preparations for my wife's labor arre in full swing. Constant trips to the hospital, tests, it's all become routine for us."
-msgstr ""
+msgstr "Karımın emeğinin tam salıncağı için hazırlıklar. Hastaneye sürekli geziler, testler, her şey bizim için rutin hale gelir."
 
 # game/kuremiraywayo.rpy:3508 #-#-# translate crowdin ob25veras_9f6fb09d:
 msgid "[_m_] The doctors say we're having a boy. My first child, my son... I keep thinking, will I be able to become a good father for him?"
-msgstr ""
+msgstr "Doktorlar bir erkek çocuğumuz olduğunu söylüyor. İlk çocuğumu, oğlumu ... Düşünüyorum da, onun için iyi bir baba olabileceğim diye düşünüyorum."
 
 # game/kuremiraywayo.rpy:3510 #-#-# translate crowdin ob25veras_69c7ea2a:
 msgid "[_m_] My past is rather shady. I was transported here from a completely different world. I'm the one who helped the woman from Otsutsuki. I don't even know if I've been doing anything good here so far."
@@ -3258,11 +3258,11 @@ msgstr "Muhtemelen yapılacak tek doğru şey bu. Eğer kendimi toparlamazsam, z
 
 # game/kuremiraywayo.rpy:3518 #-#-# translate crowdin ob25veras_f7f7f235:
 msgid "[_m_] Now I have a family. And this family is going to grow bigger and bigger."
-msgstr ""
+msgstr "[ _m_] Şimdi bir ailem var. Ve bu aile daha büyük ve daha büyük büyüyecek."
 
 # game/kuremiraywayo.rpy:3520 #-#-# translate crowdin ob25veras_372e22c4:
 msgid "[_m_] After all, you were right, old man. You didn't tell me the whole truth, but now I can read between the lines what you were trying to say."
-msgstr ""
+msgstr "Her şeyden önce, sen haklıydın, yaşlı adam. Bana bütün gerçeği anlatmadın, ama şimdi söylemeye çalıştığın satırlarla ilgili okuyabiliyorum."
 
 # game/kuremiraywayo.rpy:3522 #-#-# translate crowdin ob25veras_2b30f592:
 msgid "[_m_] It doesn't matter who I was in the past. It's who I'm going to be for my family in the future that matters."
@@ -3286,7 +3286,7 @@ msgstr "O zaman kesinlikle kişiliğiniz olacak. Evrendeki en sessiz bebek oldu�
 
 # game/kuremiraywayo.rpy:3545 #-#-# translate crowdin ob25veras_21ada36e:
 msgid "[_mira_] Oh, I hope you're wrong, if he's going to take after me, you and I won't be able to sleep a night."
-msgstr ""
+msgstr "Oh, umarım yanılıyordur, eğer peşimden gidecekse, sen ve ben bir gece uyuyamayız."
 
 # game/kuremiraywayo.rpy:3549 #-#-# translate crowdin ob25veras_2714beb0:
 msgid "[_r_] No matter how loud our Mamoru will be, I'll help you with everything."
@@ -3298,7 +3298,7 @@ msgstr "-Yani Mayoru mu? Ona Yuchi ismini vermek istediğini sanıyordum."
 
 # game/kuremiraywayo.rpy:3557 #-#-# translate crowdin ob25veras_387e6252:
 msgid "[_r_] And I changed my mind. Yuchi isn't a bad name, but I feel like you were right. Mamoru would suit him better."
-msgstr ""
+msgstr "Ve fikrimi değiştirdim. Yuchi kötü bir isim değil, ama ben senin haklı olduğunu hissediyorum. Mamoru ona daha çok yakışırdı."
 
 # game/kuremiraywayo.rpy:3561 #-#-# translate crowdin ob25veras_c79e1da4:
 msgid "[_mira_] You know, this is our first child. Whatever I want to name him, you as a man have to make your own decision, and I'll accept any choice you make, love."
@@ -3310,11 +3310,11 @@ msgstr "Biraz daha düşüneceğim ve ... Seni seviyorum, Mirai. Bu kadar öneml
 
 # game/kuremiraywayo.rpy:3569 #-#-# translate crowdin ob25veras_2707aa3f:
 msgid "[_mira_] How could I not? Your choice will always be the most important to me, until the end."
-msgstr ""
+msgstr "[ _mira_] Nasıl olmaz? Seçiminiz her zaman benim için en önemli şey olacak, ta ki sonuna kadar."
 
 # game/kuremiraywayo.rpy:3571 #-#-# translate crowdin ob25veras_48582310:
 msgid "[_mira_] Are you hungry? Would you like your wife to fix you something?"
-msgstr ""
+msgstr "[ _mira_] Aç mısınız? Karının sana bir şey ayartmasını ister misin?"
 
 # game/kuremiraywayo.rpy:3575 #-#-# translate crowdin ob25veras_93da63f2:
 msgid "[_r_] Oh, well, if it's not too much trouble. I could really use a snack."
@@ -3322,1059 +3322,1059 @@ msgstr "Eğer sorun yoksa, sorun değil. Atıştırmalık bir şeyler kullanabil
 
 # game/kuremiraywayo.rpy:3579 #-#-# translate crowdin ob25veras_77629540:
 msgid "[_mira_] Let's go to the kitchen, I'll see what I can do."
-msgstr ""
+msgstr "Mutfağa gidelim, ne yapabilirim bir bakayım."
 
 # game/kuremiraywayo.rpy:3587 #-#-# translate crowdin ob25veras_603a1ce6:
 msgid "[_mira_] Seems like we don't have a lot of food left. Would you like a sandwich?"
-msgstr ""
+msgstr "Görünüşe göre çok fazla yiyeceğimiz kalmadı. Sandviç ister misin?"
 
 # game/kuremiraywayo.rpy:3589 #-#-# translate crowdin ob25veras_0a187ec5:
 msgid "[_mira_] We should definitely do some groceries tomorrow."
-msgstr ""
+msgstr "Yarın kesinlikle yiyecek bir şeyler yapmalıyız."
 
 # game/kuremiraywayo.rpy:3594 #-#-# translate crowdin ob25veras_4aea27f9:
 msgid "[_r_] A sandwich sounds great, I was just thinking of something simple."
-msgstr ""
+msgstr "Bir sandviç kulağa harika geliyor, ben sadece basit bir şey düşünüyordum."
 
 # game/kuremiraywayo.rpy:3599 #-#-# translate crowdin ob25veras_f21d0426:
 msgid "[_mira_] It'll be ready in a moment, dear."
-msgstr ""
+msgstr "[ _mira_] Bir an için hazır olur, canım."
 
 # game/kuremiraywayo.rpy:3601 #-#-# translate crowdin ob25veras_8524bc19:
 msgid "[_mira_] Go ahead and wait in the living room, I'll bring it all to you."
-msgstr ""
+msgstr "Devam et ve oturma odasında bekle, hepsini sana getireceğim."
 
 # game/kuremiraywayo.rpy:3606 #-#-# translate crowdin ob25veras_b0ede5bd:
 msgid "[_r_] Thank you, my love!"
-msgstr ""
+msgstr "Teşekkür ederim, aşkım!"
 
 # game/kuremiraywayo.rpy:3619 #-#-# translate crowdin ob25veras_f3c814a1:
 msgid "[_mira_] Enjoy your meal, honey. I've added some of your favorite sauce."
-msgstr ""
+msgstr "Yemeğin tadını çıkar, tatlım. En sevdiğin sosun birazını da ekledim."
 
 # game/kuremiraywayo.rpy:3623 #-#-# translate crowdin ob25veras_3ec67b7f:
 msgid "[_r_] Thanks, Mirai. It looks scrumptious!"
-msgstr ""
+msgstr "[ _r_] Teşekkürler, Mirai. Çok güzel görünüyor!"
 
 # game/kuremiraywayo.rpy:3627 #-#-# translate crowdin ob25veras_b6c13151:
 msgid "[_mira_] Relax and eat up. Let your wife serve you as you deserve..."
-msgstr ""
+msgstr "Rahatla ve yemeğini ye. Karının sana hak ettiği gibi hizmet vermesine izin ver. .."
 
 # game/kuremiraywayo.rpy:3631 #-#-# translate crowdin ob25veras_6a0088b3:
 msgid "[_r_] Oh... Do you... wanna get to it again?"
-msgstr ""
+msgstr "[ _r_] Oh ... Bir daha almak ister misin?"
 
 # game/kuremiraywayo.rpy:3635 #-#-# translate crowdin ob25veras_411ef161:
 msgid "[_mira_] Shh... Just enjoy your food, I'll get it done."
-msgstr ""
+msgstr "[ _mira_] Şşş ... Sadece yemeğinin tadını çıkar, ben bitiririm."
 
 # game/kuremiraywayo.rpy:3644 #-#-# translate crowdin ob25veras_fe97c956:
 msgid "[_m_] I love her surprise blowjobs, she's really been spoiling me a lot lately."
-msgstr ""
+msgstr "Onun sürpriz oral seks işini seviyorum, son zamanlarda beni çok şımartabiliyor."
 
 # game/kuremiraywayo.rpy:3646 #-#-# translate crowdin ob25veras_732fc268:
 msgid "[_m_] Maybe it's just the pregnancy that's affecting her, but she's become very gentle and submissive."
-msgstr ""
+msgstr "Belki de sadece hamilelik onu etkiliyor, ama çok nazik ve uysal bir hale geldi."
 
 # game/kuremiraywayo.rpy:3648 #-#-# translate crowdin ob25veras_14cca664:
 msgid "[_m_] Always trying to please me, always trying to make me happy."
-msgstr ""
+msgstr "Her zaman beni mutlu etmeye çalışırmış, hep beni mutlu etmeye çalışırmış."
 
 # game/kuremiraywayo.rpy:3650 #-#-# translate crowdin ob25veras_fb55f0d3:
 msgid "[_m_] It's not like I'm gonna complain... I just hope it doesn't suddenly end..."
-msgstr ""
+msgstr "Şikayet edecekmişim gibi değil ... Umarım bir anda sonu gelmez ..."
 
 # game/kuremiraywayo.rpy:3656 #-#-# translate crowdin ob25veras_0f0e31e1:
 msgid "[_r_] You're doing a hell of a job..."
-msgstr ""
+msgstr "Sen çok iyi bir iş yapıyorsun."
 
 # game/kuremiraywayo.rpy:3658 #-#-# translate crowdin ob25veras_4f0d8575:
 msgid "[_r_] The sandwich is really good too!"
-msgstr ""
+msgstr "Sandviç de çok güzel!"
 
 # game/kuremiraywayo.rpy:3660 #-#-# translate crowdin ob25veras_becaaeb7:
 msgid "[_r_] Mmmm... Keep going, honey..."
-msgstr ""
+msgstr "[ _r_] Mmmm ... Devam et, tatlım."
 
 # game/kuremiraywayo.rpy:3666 #-#-# translate crowdin ob25veras_e4ead197:
 msgid "[_mira_] Aw you enshoying ish?"
-msgstr ""
+msgstr "-Sen de mi böyle bir şey gösteriyorsun?"
 
 # game/kuremiraywayo.rpy:3668 #-#-# translate crowdin ob25veras_f9db2fce:
 msgid "[_r_] I sure do... You're just the best..."
-msgstr ""
+msgstr "-Evet, eminim ... Sen sadece en iyisisin."
 
 # game/kuremiraywayo.rpy:3670 #-#-# translate crowdin ob25veras_80d45ac1:
 msgid "[_r_] That's so... good..."
-msgstr ""
+msgstr "Bu çok ... iyi ..."
 
 # game/kuremiraywayo.rpy:3676 #-#-# translate crowdin ob25veras_7aac47ba:
 msgid "[_mira_] Cum... in my moush!"
-msgstr ""
+msgstr "[ _mira_] Cum ... benim mous'umda!"
 
 # game/kuremiraywayo.rpy:3678 #-#-# translate crowdin ob25veras_3d8c61d8:
 msgid "[_r_] Sure! I... I think I'm almost ready..."
-msgstr ""
+msgstr "[ _r_] Tabi ki! Ben ... Sanırım neredeyse hazırım."
 
 # game/kuremiraywayo.rpy:3680 #-#-# translate crowdin ob25veras_41bafefa:
 msgid "[_r_] Keep working with your tongue like that, yeah..."
-msgstr ""
+msgstr "Dilinle çalışmaya devam et, evet ..."
 
 # game/kuremiraywayo.rpy:3682 #-#-# translate crowdin ob25veras_38604908:
 msgid "[_r_] Don't slow down!"
-msgstr ""
+msgstr "Yavaşlamayın!"
 
 # game/kuremiraywayo.rpy:3684 #-#-# translate crowdin ob25veras_acceeecb:
 msgid "[_mira_] Come on! Fill my moush witsh cum!"
-msgstr ""
+msgstr "Hadi ama! Ağzımı doldursana!"
 
 # game/kuremiraywayo.rpy:3696 #-#-# translate crowdin ob25veras_40d39307:
 msgid "[_m_] Just how much... I love my life..."
-msgstr ""
+msgstr "[ _m_] Sadece ne kadar ... Hayatımı seviyorum."
 
 # game/kuremiraywayo.rpy:3698 #-#-# translate crowdin ob25veras_74140cd7:
 msgid "[_m_] Am I really not in paradise?"
-msgstr ""
+msgstr "Gerçekten cennette değil miyim?"
 
 # game/kuremiraywayo.rpy:3706 #-#-# translate crowdin ob25veras_5b26bd2c:
 msgid "[_mira_] Thanks for the treat, honey."
-msgstr ""
+msgstr "Tedavi için teşekkürler, tatlım."
 
 # game/kuremiraywayo.rpy:3711 #-#-# translate crowdin ob25veras_e0418186:
 msgid "[_r_] You've really been spoiling me lately..."
-msgstr ""
+msgstr "Son zamanlarda beni şımartadın."
 
 # game/kuremiraywayo.rpy:3716 #-#-# translate crowdin ob25veras_5f167bb7:
 msgid "[_mira_] Of course! You're my husband, it'll always be like that."
-msgstr ""
+msgstr "-Tabii ki! Sen benim kocamsın, her zaman böyle olacak."
 
 # game/kuremiraywayo.rpy:3721 #-#-# translate crowdin ob25veras_14e02d05:
 msgid "[_r_] You're teasing me..."
-msgstr ""
+msgstr "Benimle dalga geçiyorsunuz."
 
 # game/kuremiraywayo.rpy:3723 #-#-# translate crowdin ob25veras_b3fd119e:
 msgid "[_r_] Your words alone make my dick go hard again!"
-msgstr ""
+msgstr "Sözlerin tek başına benim sikimi tekrar sertti!"
 
 # game/kuremiraywayo.rpy:3728 #-#-# translate crowdin ob25veras_e45ba2fe:
 msgid "[_mira_] Does my husband crave his pregnant wife once again?"
-msgstr ""
+msgstr "Kocam hamile karısına bir kez daha tecavüz ediyor mu?"
 
 # game/kuremiraywayo.rpy:3733 #-#-# translate crowdin ob25veras_959142ee:
 msgid "[_r_] He sure does..."
-msgstr ""
+msgstr "-O kesinlikle ..."
 
 # game/kuremiraywayo.rpy:3752 #-#-# translate crowdin bezkurenai_e63080c0:
 msgid "[_mira_] Well, what are you waiting for? Come and take me! I can sure still take you!"
-msgstr ""
+msgstr "Ne bekliyorsunuz? Gel de al beni! Seni hala alabileceğimden emin değilim!"
 
 # game/kuremiraywayo.rpy:3757 #-#-# translate crowdin bezkurenai_b3349177:
 msgid "[_r_] You don't have to ask me twice!"
-msgstr ""
+msgstr "Bana iki kez sormanıza gerek yok!"
 
 # game/kuremiraywayo.rpy:3759 #-#-# translate crowdin bezkurenai_a7514e05:
 msgid "[_r_] Get on all fours, I can't wait any longer!"
-msgstr ""
+msgstr "[ _r_] [ _r_] Bütün fonların üzerine çıkın, daha fazla bekleyemem!"
 
 # game/kuremiraywayo.rpy:3767 #-#-# translate crowdin bezkurenai_860ec344:
 msgid "[_mira_] Careful... Let's take it slow..."
-msgstr ""
+msgstr "[ _mira_] Dikkat ... Ağırdan alalım."
 
 # game/kuremiraywayo.rpy:3769 #-#-# translate crowdin bezkurenai_3b227a54:
 msgid "[_mira_] I do want you, but don't rush it, please..."
-msgstr ""
+msgstr "Seni istiyorum, ama acele etme, lütfen ..."
 
 # game/kuremiraywayo.rpy:3771 #-#-# translate crowdin bezkurenai_94fa51fa:
 msgid "[_r_] Is this alright? I'll go in slowly, okay?"
-msgstr ""
+msgstr "Bu iyi mi? Yavaşça içeri gireyim, tamam mı?"
 
 # game/kuremiraywayo.rpy:3773 #-#-# translate crowdin bezkurenai_b1354427:
 msgid "[_mira_] Uh-huh... Come on, put it in..."
-msgstr ""
+msgstr "[ _mira_] Uh-huh ... Hadi, koy şunu ..."
 
 # game/kuremiraywayo.rpy:3779 #-#-# translate crowdin bezkurenai_6ff16dc2:
 msgid "[_r_] Just like that... Are you feeling good?"
-msgstr ""
+msgstr "[ _r_] Tıpkı onun gibi ... Kendini iyi hissediyor musun?"
 
 # game/kuremiraywayo.rpy:3781 #-#-# translate crowdin bezkurenai_799f4176:
 msgid "[_mira_] Yeah... I don't feel any discomfort... It feels good!"
-msgstr ""
+msgstr "[ _mira_] Evet ... Rahatsızlık duymam ... İyi hissettiriyor!"
 
 # game/kuremiraywayo.rpy:3783 #-#-# translate crowdin bezkurenai_fc732e14:
 msgid "[_mira_] Go on, get to it!"
-msgstr ""
+msgstr "Devam et, git!"
 
 # game/kuremiraywayo.rpy:3789 #-#-# translate crowdin bezkurenai_bdf5a165:
 msgid "[_r_] Fuck! I love it when you're so slutty!"
-msgstr ""
+msgstr "Siktir! O kadar sürtük olduğun zaman çok seviyorum!"
 
 # game/kuremiraywayo.rpy:3791 #-#-# translate crowdin bezkurenai_320be80c:
 msgid "[_mira_] I'm all yours! Fuck me harder!"
-msgstr ""
+msgstr "[ _mira_] Ben seninim! Daha sert becer beni!"
 
 # game/kuremiraywayo.rpy:3793 #-#-# translate crowdin bezkurenai_51481278:
 msgid "[_mira_] I've got used to it! Come on!"
-msgstr ""
+msgstr "Buna alışırım! -Hadi ama!"
 
 # game/kuremiraywayo.rpy:3799 #-#-# translate crowdin bezkurenai_86891355:
 msgid "[_mira_] YES! YES!"
-msgstr ""
+msgstr "[ _Mira_] EVET! EVET!"
 
 # game/kuremiraywayo.rpy:3801 #-#-# translate crowdin bezkurenai_14366467:
 msgid "[_mira_] Fuck me! Keep going!"
-msgstr ""
+msgstr "Becer beni! Devam edin!"
 
 # game/kuremiraywayo.rpy:3803 #-#-# translate crowdin bezkurenai_9e318692:
 msgid "[_r_] Come over herre! I want to see your face!"
-msgstr ""
+msgstr "Gel buraya! Yüzünü görmek istiyorum!"
 
 # game/kuremiraywayo.rpy:3805 #-#-# translate crowdin bezkurenai_7f264ad9:
 msgid "[_mira_] Sure! Let me just lie down like this!"
-msgstr ""
+msgstr "[ _mira_] Tabi! Bu şekilde uzanmama izin verin!"
 
 # game/kuremiraywayo.rpy:3813 #-#-# translate crowdin bezkurenai_c69cae9c:
 msgid "[_mira_] Yes! Yes! Yes!"
-msgstr ""
+msgstr "[ _mira_] Evet! Evet! Evet!"
 
 # game/kuremiraywayo.rpy:3815 #-#-# translate crowdin bezkurenai_f488520f:
 msgid "[_mira_] God! That feels so good! Fuck!"
-msgstr ""
+msgstr "[ _mira_] Tanrım! Bu çok iyi hissettiriyor! Sikeyim!"
 
 # game/kuremiraywayo.rpy:3817 #-#-# translate crowdin bezkurenai_b276e6c3:
 msgid "[_r_] I'm gonna cum inside!"
-msgstr ""
+msgstr "İçeri boşalacağım!"
 
 # game/kuremiraywayo.rpy:3819 #-#-# translate crowdin bezkurenai_9a0575ee:
 msgid "[_mira_] Cum anywhere you want! In any of my holes!"
-msgstr ""
+msgstr "İstediğin her yere Cum! Her hangi bir deliğin içinde!"
 
 # game/kuremiraywayo.rpy:3821 #-#-# translate crowdin bezkurenai_35714a28:
 msgid "[_r_] Just a little more!!"
-msgstr ""
+msgstr "[ _r_] Sadece biraz daha!!"
 
 # game/kuremiraywayo.rpy:3823 #-#-# translate crowdin bezkurenai_c183a53f:
 msgid "[_mira_] I love you! I love you! COME ON, DO IT!"
-msgstr ""
+msgstr "[ _mira_] Seni seviyorum! Seni seviyorum! HADI, YAP şUNU!"
 
 # game/kuremiraywayo.rpy:3829 #-#-# translate crowdin bezkurenai_77551cac:
 msgid "[_mira_] MMMMMMMMMMMMMM!!!"
-msgstr ""
+msgstr "[ _mira_] MMMMMMMMMM !!!"
 
 # game/kuremiraywayo.rpy:3831 #-#-# translate crowdin bezkurenai_7fc7574f:
 msgid "[_mira_] It's all inside me... I love it..."
-msgstr ""
+msgstr "[ _mira_] Hepsi içimde. Bayıldım ..."
 
 # game/kuremiraywayo.rpy:3841 #-#-# translate crowdin bezkurenai_2c175790:
 msgid "[_mira_] How's that? Am I taking care of my beloved husband's needs well enough?"
-msgstr ""
+msgstr "Bu nasıl? Sevgili kocamın ihtiyaçlarını yeterince iyi mi çıkarıyorum?"
 
 # game/kuremiraywayo.rpy:3845 #-#-# translate crowdin bezkurenai_27741091:
 msgid "[_r_] Oh, Mirai... more than enough!"
-msgstr ""
+msgstr "Oh, Mirai ... geriden fazla!"
 
 # game/kuremiraywayo.rpy:3847 #-#-# translate crowdin bezkurenai_0a12b7d8:
 msgid "[_r_] I couldn't even dream of such a perfect wife!"
-msgstr ""
+msgstr "Böyle mükemmel bir eş bile hayal bile edemezdim!"
 
 # game/kuremiraywayo.rpy:3851 #-#-# translate crowdin bezkurenai_6adff7c8:
 msgid "[_mira_] What a smooth talker you've become!"
-msgstr ""
+msgstr "Ne kadar güzel bir konuşkan oldun!"
 
 # game/kuremiraywayo.rpy:3853 #-#-# translate crowdin bezkurenai_edd11bc3:
 msgid "[_mira_] But I'm in a good mood, so this time I'll believe you."
-msgstr ""
+msgstr "[ _mira_] Ama iyi bir ruh halindeyim, bu sefer sana inanacağım."
 
 # game/kuremiraywayo.rpy:3857 #-#-# translate crowdin bezkurenai_c8dbc1ab:
 msgid "[_r_] I love you so much!"
-msgstr ""
+msgstr "Seni çok seviyorum!"
 
 # game/kuremiraywayo.rpy:3859 #-#-# translate crowdin bezkurenai_9ec0d98f:
 msgid "[_r_] It took some effort, but I found the most romantic record we have. Do you want to listen to it?"
-msgstr ""
+msgstr "Biraz çaba harcadı, ama sahip olduğumuz en romantik rekoru buldum. Dinlemek ister misin?"
 
 # game/kuremiraywayo.rpy:3863 #-#-# translate crowdin bezkurenai_ce135007:
 msgid "[_mira_] Oh... Are you inviting me for a dance again?"
-msgstr ""
+msgstr "[ _mira_] Oh ... Beni tekrar dansa davet ediyor musun?"
 
 # game/kuremiraywayo.rpy:3867 #-#-# translate crowdin bezkurenai_d8a1862e:
 msgid "[_r_] You got it right!"
-msgstr ""
+msgstr "-Doğru anladın!"
 
 # game/kuremiraywayo.rpy:3869 #-#-# translate crowdin bezkurenai_1ac17f71:
 msgid "[_r_] It's on the bottom shelf, in a fresh package. Put it on, I'll be right down!"
-msgstr ""
+msgstr "Alt rafta, yeni bir paket var. Tak şunu, hemen ineceğim!"
 
 # game/kuremiraywayo.rpy:3873 #-#-# translate crowdin bezkurenai_13d29f81:
 msgid "[_mira_] Okay, waiting for you, my love!"
-msgstr ""
+msgstr "Tamam, seni bekliyorum, aşkım!"
 
 # game/kuremiraywayo.rpy:3892 #-#-# translate crowdin skurenai_ca11e03b:
 msgid "[_r_] But there's enough of my love for the two of you tonight... if you know what I mean..."
-msgstr ""
+msgstr "Ama bu gece ikiniz için yeterince sevgi var. Ne demek istediğimi anladıysanız ..."
 
 # game/kuremiraywayo.rpy:3897 #-#-# translate crowdin skurenai_5b4ae7ce:
 msgid "[_mira_] Do you want to call her?"
-msgstr ""
+msgstr "[ _mira_] Onu aramak ister misin?"
 
 # game/kuremiraywayo.rpy:3902 #-#-# translate crowdin skurenai_75e2d5f5:
 msgid "[_r_] Yes... You'll work as a team tonight. You don't mind, do you?"
-msgstr ""
+msgstr "[ _r_] Evet ... Bu gece takım olarak çalışacaksın. Sakıncası yok, değil mi?"
 
 # game/kuremiraywayo.rpy:3907 #-#-# translate crowdin skurenai_309f2dba:
 msgid "[_mira_] Of course not. Go to bed, I'll call her."
-msgstr ""
+msgstr "-Tabii ki hayır. Yatağa git, onu ararım."
 
 # game/kuremiraywayo.rpy:3916 #-#-# translate crowdin skurenai_04de48ff:
 msgid "[_kure_] You're in the mood tonight, aren't you?"
-msgstr ""
+msgstr "Bu gece havamdasın, değil mi?"
 
 # game/kuremiraywayo.rpy:3921 #-#-# translate crowdin skurenai_fc9aa862:
 msgid "[_r_] More than ever! It's been a while since the three of us did this."
-msgstr ""
+msgstr "Her zamankinden daha fazla! Üçümüz bunu yapmayalı uzun zaman oldu."
 
 # game/kuremiraywayo.rpy:3923 #-#-# translate crowdin skurenai_75ea019c:
 msgid "[_mira_] A long time? Honey, it's only been three days!"
-msgstr ""
+msgstr "-Uzun bir zaman mı? Tatlım, sadece üç gün oldu!"
 
 # game/kuremiraywayo.rpy:3925 #-#-# translate crowdin skurenai_8dd7f48b:
 msgid "[_r_] Such gorgeous women should be fucked every day!"
-msgstr ""
+msgstr "[ _r_] Bu kadar muhteşem kadınlar her gün sikilmeli!"
 
 # game/kuremiraywayo.rpy:3930 #-#-# translate crowdin skurenai_e4eab818:
 msgid "[_kure_] I don't know where you get the strength for the two of us, but I like it..."
-msgstr ""
+msgstr "İkiz için ne kadar güç olduğunu bilmiyorum, ama hoşuma gitti ..."
 
 # game/kuremiraywayo.rpy:3935 #-#-# translate crowdin skurenai_a4f3fb7e:
 msgid "[_kure_] Lie down, we'll get it all done!"
-msgstr ""
+msgstr "Uzan, hepsini bitireceğiz!"
 
 # game/kuremiraywayo.rpy:3937 #-#-# translate crowdin skurenai_bbecfe02:
 msgid "[_kure_] Come on, Mirai. Don't keep your husband waiting. We have to get his cock ready for work."
-msgstr ""
+msgstr "Hadi, Mirai. Kocanızı bekletmeyin. Aletini işe hazırlamaya hazırlarız."
 
 # game/kuremiraywayo.rpy:3939 #-#-# translate crowdin skurenai_e2585851:
 msgid "[_mira_] I'm in for it!"
-msgstr ""
+msgstr "Ben onun yerine geldim!"
 
 # game/kuremiraywayo.rpy:3949 #-#-# translate crowdin skurenai_02832757:
 msgid "[_m_] I just love it when these two team up together..."
-msgstr ""
+msgstr "Bu iki takımı bir araya getirirken çok seviyorum."
 
 # game/kuremiraywayo.rpy:3951 #-#-# translate crowdin skurenai_4732e475:
 msgid "[_m_] Every motion is so coordinated... They always manage to polish every inch of my cock."
-msgstr ""
+msgstr "[ _m_] Her önerge çok koordineli ... Her zaman aletimin her santimi cilalamayı başarırlar."
 
 # game/kuremiraywayo.rpy:3953 #-#-# translate crowdin skurenai_c897b701:
 msgid "[_m_] Never forgetting the balls, too... Doing everything they can to make me feel their love."
-msgstr ""
+msgstr "Topları da hiç unutmadım. Beni sevdiklerini hissettirmek için elinden geleni yapıyorlar."
 
 # game/kuremiraywayo.rpy:3959 #-#-# translate crowdin skurenai_6135d085:
 msgid "[_kure_] Salivate it more, Mirai. Quit slacking off!"
-msgstr ""
+msgstr "Daha çok Salivate, Mirai. Kaçmayı bırak!"
 
 # game/kuremiraywayo.rpy:3961 #-#-# translate crowdin skurenai_9c838731:
 msgid "[_mira_] I know!"
-msgstr ""
+msgstr "Biliyorum!"
 
 # game/kuremiraywayo.rpy:3963 #-#-# translate crowdin skurenai_4682c451:
 msgid "[_m_] Kurenai is always so attentive to detail! Experience does make a difference!"
-msgstr ""
+msgstr "Kurenai her zaman detaylara çok dikkat eder! Deneyim bir fark yaratabiliyor!"
 
 # game/kuremiraywayo.rpy:3969 #-#-# translate crowdin skurenai_ecb32776:
 msgid "[_m_] They're so damn good... at this..."
-msgstr ""
+msgstr "Bu işte çok iyiler ..."
 
 # game/kuremiraywayo.rpy:3971 #-#-# translate crowdin skurenai_22343c4f:
 msgid "[_m_] I'm going to cum any second now... if I don't control myself..."
-msgstr ""
+msgstr "Şimdi her an boşalacağım. Kendimi kontrol edemiyorsam ..."
 
 # game/kuremiraywayo.rpy:3973 #-#-# translate crowdin skurenai_62921469:
 msgid "[_m_] But I can't! I have to fuck them properly!"
-msgstr ""
+msgstr "[ _m_] Ama yapamam! Onları düzmek zorundayım!"
 
 # game/kuremiraywayo.rpy:3975 #-#-# translate crowdin skurenai_a858e120:
 msgid "[_r_] That's enough, girls!"
-msgstr ""
+msgstr "-Bu kadar yeter, kızlar!"
 
 # game/kuremiraywayo.rpy:3977 #-#-# translate crowdin skurenai_05b66221:
 msgid "[_r_] Come here, Kurenai, I want to fuck you first!"
-msgstr ""
+msgstr "Buraya gel, Kurenai, önce seni sikmek istiyorum!"
 
 # game/kuremiraywayo.rpy:3979 #-#-# translate crowdin skurenai_a1d93a85:
 msgid "[_kure_] Uh-huh!"
-msgstr ""
+msgstr "[ _kure_] Uh-huh!"
 
 # game/kuremiraywayo.rpy:3989 #-#-# translate crowdin skurenai_83ef75b6:
 msgid "[_m_] I love fucking Kurenai right in front of Mirai..."
-msgstr ""
+msgstr "Mirai 'nin tam karşısında Kurenai 'yi seviyorum."
 
 # game/kuremiraywayo.rpy:3991 #-#-# translate crowdin skurenai_0174fcc6:
 msgid "[_m_] At first, Mirai was uneasy, even a little embarrassed, but she quickly got used to it."
-msgstr ""
+msgstr "İlk başlarda, Mirai kolay değildi, biraz utanıyordu, ama çabucak alıverdi."
 
 # game/kuremiraywayo.rpy:3993 #-#-# translate crowdin skurenai_e9ad4ca9:
 msgid "[_m_] Now these two want to have a threesome more often than I do!"
-msgstr ""
+msgstr "Şimdi bu ikisi benim yaptığımdan daha sık üçlü yapmak istiyor!"
 
 # game/kuremiraywayo.rpy:3999 #-#-# translate crowdin skurenai_249e0d1b:
 msgid "[_m_] We agreed that I wouldn't cum inside Kurenai, and everything would be fine."
-msgstr ""
+msgstr "Kurenai 'ye girmemem konusunda anlaşmıştık, ve her şey yoluna girecekti."
 
 # game/kuremiraywayo.rpy:4001 #-#-# translate crowdin skurenai_3fcb0de3:
 msgid "[_m_] Kurenai doesn't want to have any more kids, and Mirai gets a little jealous if I don't cum inside her."
-msgstr ""
+msgstr "Kurenai daha fazla çocuk istemiyor, ve Mirai, eğer onun içine girmesem de biraz kıskanç olur."
 
 # game/kuremiraywayo.rpy:4003 #-#-# translate crowdin skurenai_540393b8:
 msgid "[_m_] I don't mind it all, really. The main thing is that they're both totally into sex. I love it."
-msgstr ""
+msgstr "Her şeyi umursamıyorum, gerçekten. Asıl önemli olan, ikisi de tamamen seksle ilgilenmek. Bayıldım."
 
 # game/kuremiraywayo.rpy:4009 #-#-# translate crowdin skurenai_7662a70d:
 msgid "[_r_] Kurenai..."
-msgstr ""
+msgstr "[ _r_] Kurenai ..."
 
 # game/kuremiraywayo.rpy:4011 #-#-# translate crowdin skurenai_74127a51:
 msgid "[_r_] That was just too good... Come one, get on top of my face."
-msgstr ""
+msgstr "[ _r_] Bu çok iyiydi ... Hadi, yüzümün üstüne çık."
 
 # game/kuremiraywayo.rpy:4013 #-#-# translate crowdin skurenai_a1d93a85_1:
 msgid "[_kure_] Uh-huh!"
-msgstr ""
+msgstr "[ _kure_] Uh-huh!"
 
 # game/kuremiraywayo.rpy:4015 #-#-# translate crowdin skurenai_1aa4996b:
 msgid "[_r_] It's your turn, Mirai. Your favorite seat is ready for you!"
-msgstr ""
+msgstr "-Senin sıran, Mirai. Favori koltuğunuz sizin için hazır!"
 
 # game/kuremiraywayo.rpy:4017 #-#-# translate crowdin skurenai_640d9de3:
 msgid "[_mira_] Good! You may cum anytime you want, honey!"
-msgstr ""
+msgstr "[ _mira_] İyi! İstediğin zaman boşaltabilirsin, tatlım!"
 
 # game/kuremiraywayo.rpy:4025 #-#-# translate crowdin skurenai_3e91e21b:
 msgid "[_m_] When they're not busy with my cock, they just won't stop kissing each other."
-msgstr ""
+msgstr "Aletimle meşgul olmadıkları zaman birbirlerini öpmekten vazgeçmezler."
 
 # game/kuremiraywayo.rpy:4027 #-#-# translate crowdin skurenai_6daff118:
 msgid "[_m_] I love the sound of them kissing, it's so fucking hot!"
-msgstr ""
+msgstr "Öpüşme sesine bayılıyorum, çok sıcak!"
 
 # game/kuremiraywayo.rpy:4029 #-#-# translate crowdin skurenai_014ebfbe:
 msgid "[_m_] I'm not sure if they do it that loud on purpose... but I like it!"
-msgstr ""
+msgstr "Bunu bilerek mi yapmışlardı emin değilim ... ama hoşuma gitti!"
 
 # game/kuremiraywayo.rpy:4031 #-#-# translate crowdin skurenai_8ccd7c57:
 msgid "[_r_] Mirai... honey... I'm about to..."
-msgstr ""
+msgstr "[ _r_] Mirai ... tatlım ... Şey yapmak üzereyim ..."
 
 # game/kuremiraywayo.rpy:4033 #-#-# translate crowdin skurenai_c1ebabf7:
 msgid "[_mira_] It's okay, honey! Cum inside me!"
-msgstr ""
+msgstr "Sorun değil, tatlım! İçime boşalt!"
 
 # game/kuremiraywayo.rpy:4035 #-#-# translate crowdin skurenai_df1f7f68:
 msgid "[_r_] Yes, I'm almost there!"
-msgstr ""
+msgstr "-Evet, neredeyse geldim!"
 
 # game/kuremiraywayo.rpy:4037 #-#-# translate crowdin skurenai_c59aac5a:
 msgid "[_mira_] Come on! Come on! Fill me up!"
-msgstr ""
+msgstr "Hadi ama! -Hadi ama! Doldur beni!"
 
 # game/kuremiraywayo.rpy:4043 #-#-# translate crowdin skurenai_7ded41c3:
 msgid "[_m_] That felt so good... And to think that we do this almost every day..."
-msgstr ""
+msgstr "Çok iyi hissettirdi ... Ve bunu neredeyse her gün yapıyoruz diye düşünmek ..."
 
 # game/kuremiraywayo.rpy:4053 #-#-# translate crowdin skurenai_d56d61f1:
 msgid "[_kure_] That was fun, my sweethearts. But I'm gonna go downstairs and fix us some dinner."
-msgstr ""
+msgstr "Bu çok eğlenceliydi, benim tatlarım. Ama aşağı inip bize yemek hazırlayacağım."
 
 # game/kuremiraywayo.rpy:4055 #-#-# translate crowdin skurenai_d43ccabb:
 msgid "[_kure_] Today is your favorite veal, Mirai."
-msgstr ""
+msgstr "[ _kure_] Bugün favori dana etiniz, Mirai."
 
 # game/kuremiraywayo.rpy:4060 #-#-# translate crowdin skurenai_070dcfe9:
 msgid "[_mira_] Thank you! Want me to help you?"
-msgstr ""
+msgstr "Teşekkür ederim! Sana yardım edeyim mi?"
 
 # game/kuremiraywayo.rpy:4065 #-#-# translate crowdin skurenai_06a238cd:
 msgid "[_kure_] No, no. Just relax with your husband, I'll take care of it."
-msgstr ""
+msgstr "[ _kure_] Hayır, hayır. Sadece kocanla rahatla, ben hallederim."
 
 # game/kuremiraywayo.rpy:4070 #-#-# translate crowdin skurenai_c0abf6b4:
 msgid "[_r_] Thank you, Kurenai. We love you."
-msgstr ""
+msgstr "Teşekkür ederim, Kurenai. Seni seviyoruz."
 
 # game/kuremiraywayo.rpy:4075 #-#-# translate crowdin skurenai_3cfa48d3:
 msgid "[_kure_] And I love you two!"
-msgstr ""
+msgstr "Ve ikinizi de seviyorum!"
 
 # game/kuremiraywayo.rpy:4089 #-#-# translate crowdin skurenai_4b48bf62:
 msgid "[_mira_] Do you want to just lie around?"
-msgstr ""
+msgstr "Sadece uzanmak ister misin?"
 
 # game/kuremiraywayo.rpy:4094 #-#-# translate crowdin skurenai_072aaeb0:
 msgid "[_r_] How about we... Well, you know what I'm talking about."
-msgstr ""
+msgstr "[ _r_] Ne dersiniz ... Şey, neden bahsettiğimi biliyorsun."
 
 # game/kuremiraywayo.rpy:4099 #-#-# translate crowdin skurenai_8e13039c:
 msgid "[_mira_] Of course! I'll run downstairs and put your favorite record on then!"
-msgstr ""
+msgstr "-Tabii ki! Aşağı inip favori sicilini giyeceğim o zaman!"
 
 # game/kuremiraywayo.rpy:4104 #-#-# translate crowdin skurenai_633d8669:
 msgid "[_r_] Okay! I'll take a quick shower and come downstairs in a second."
-msgstr ""
+msgstr "Tamam! Hızlı bir duş alacağım ve bir saniye sonra aşağıya ineceğim."
 
 # game/kuremiraywayo.rpy:4109 #-#-# translate crowdin skurenai_5d188f2a:
 msgid "[_mira_] I'll be waiting, love!"
-msgstr ""
+msgstr "Bekliyor olacağım, aşkım!"
 
 # game/kuremiraywayo.rpy:4114 #-#-# translate crowdin skurenai_e5e24c56:
 msgid "[_r_] I won't keep you waiting!"
-msgstr ""
+msgstr "Seni bekletmeyeceğim!"
 
 # game/kuremiraywayo.rpy:4131 #-#-# translate crowdin noupredat_71d89c64:
 msgid "[_r_] That's it, darling. One leg steps back, the back is kept straight..."
-msgstr ""
+msgstr "Bu kadar, hayatım. Bir bacak geri adım, geri dönüş düz tutulur ..."
 
 # game/kuremiraywayo.rpy:4135 #-#-# translate crowdin noupredat_14b46896:
 msgid "[_mira_] You're a great teacher! Ever thought of opening your own ballet school?"
-msgstr ""
+msgstr "Sen harika bir öğretmensin! Hiç kendi bale okulunu açmayı düşündün mü?"
 
 # game/kuremiraywayo.rpy:4139 #-#-# translate crowdin noupredat_83c929de:
 msgid "[_r_] Oh, please. I'm but an amateur!"
-msgstr ""
+msgstr "Oh, lütfen. Ben bir amatörüm!"
 
 # game/kuremiraywayo.rpy:4143 #-#-# translate crowdin noupredat_1b06e468:
 msgid "[_mira_] Where'd you learn to dance so skillfully, amateur?"
-msgstr ""
+msgstr "Bu kadar çok amatör dans etmeyi nereden öğrendin?"
 
 # game/kuremiraywayo.rpy:4147 #-#-# translate crowdin noupredat_fd6ae79f:
 msgid "[_r_] Well, you know... It doesn't take much skill to dance with the love of your life."
-msgstr ""
+msgstr "Şey, bilirsin ... Hayatınızın aşkıyla dans etmek pek de beceriksiz bir şey değil."
 
 # game/kuremiraywayo.rpy:4149 #-#-# translate crowdin noupredat_612e6205:
 msgid "[_r_] It's just feeling the rhythm, looking into the loving eyes, and getting lost in the moment."
-msgstr ""
+msgstr "Sadece ritmi hissetmek, sevgi dolu gözlere bakmak, ve şu anda kaybolmak."
 
 # game/kuremiraywayo.rpy:4153 #-#-# translate crowdin noupredat_493e032d:
 msgid "[_mira_] You're so sweet... You're gonna make me cry..."
-msgstr ""
+msgstr "Çok tatlısın ... Beni ağlatacaksın ..."
 
 # game/kuremiraywayo.rpy:4157 #-#-# translate crowdin noupredat_87de61e1:
 msgid "[_r_] Don't hold back then. You're free to be weak and sensitive next to me."
-msgstr ""
+msgstr "O zaman beklemeyin. Benim yanımdaki zayıf ve zayıf olduğun için özgürsün."
 
 # game/kuremiraywayo.rpy:4161 #-#-# translate crowdin noupredat_0b72a228:
 msgid "[_mira_] But it's only for a while! As long as I'm pregnant! Later, I'll be a strong and responsible shinobi once more."
-msgstr ""
+msgstr "[ _mira_] Ama sadece bir süre için! Hamile olduğum sürece! Daha sonra, güçlü ve sorumluluk sahibi bir shinobi olacağım."
 
 # game/kuremiraywayo.rpy:4165 #-#-# translate crowdin noupredat_9476b652:
 msgid "[_r_] Of course, of course, honey... Whatever you become, I'll always be there for you."
-msgstr ""
+msgstr "Tabii ki, tatlım ... Ne olursa olsun, her zaman senin yanında olacağım."
 
 # game/kuremiraywayo.rpy:4169 #-#-# translate crowdin noupredat_e913987e:
 msgid "[_mira_] You will... you will never leave me... right...?"
-msgstr ""
+msgstr "Beni asla terk etmezsin, değil mi?"
 
 # game/kuremiraywayo.rpy:4173 #-#-# translate crowdin noupredat_2a6f4b55:
 msgid "[_r_] Nothing can make me leave my beloved wife."
-msgstr ""
+msgstr "[ _r_] Hiçbir şey beni sevgili karımdan bırakamaz."
 
 # game/kuremiraywayo.rpy:4175 #-#-# translate crowdin noupredat_31a977de:
 msgid "[_r_] That's a promise!"
-msgstr ""
+msgstr "[ _r_] Bu bir söz!"
 
 # game/kuremiraywayo.rpy:4182 #-#-# translate crowdin noupredat_44eb7e00:
 msgid "[_ri_] So, how's he special?"
-msgstr ""
+msgstr "Peki, özel durumu nasıl?"
 
 # game/kuremiraywayo.rpy:4184 #-#-# translate crowdin noupredat_92a46947:
 msgid "[_ka_] Why did you think there was anything special about him?"
-msgstr ""
+msgstr "Neden onun hakkında özel bir şey olduğunu düşündün ki?"
 
 # game/kuremiraywayo.rpy:4186 #-#-# translate crowdin noupredat_9a80b8c0:
 msgid "[_ri_] You decided to check on him before leaving the Land of Fire."
-msgstr ""
+msgstr "Ateş Diyarı 'dan ayrılmadan önce onu kontrol etmeye karar vermişsin."
 
 # game/kuremiraywayo.rpy:4188 #-#-# translate crowdin noupredat_617a3925:
 msgid "[_ri_] Isn't that enough?"
-msgstr ""
+msgstr "Bu kadar yeterli değil mi?"
 
 # game/kuremiraywayo.rpy:4190 #-#-# translate crowdin noupredat_1c2939e4:
 msgid "[_ka_] Maybe you're right."
-msgstr ""
+msgstr "Belki de haklısınız."
 
 # game/kuremiraywayo.rpy:4192 #-#-# translate crowdin noupredat_fcd240e9:
 msgid "[_ka_] [viname] was my first experiment. The first one who didn't die after traveling through space."
-msgstr ""
+msgstr "[ _ka_] [ viname] benim ilk deneyimdi. Uzayda yolculuk ettikten sonra ölmeyen ilk kişi."
 
 # game/kuremiraywayo.rpy:4194 #-#-# translate crowdin noupredat_6ee474bd:
 msgid "[_ri_] I managed to do that too."
-msgstr ""
+msgstr "[ _ri_] Ben de bunu başardım."
 
 # game/kuremiraywayo.rpy:4196 #-#-# translate crowdin noupredat_aa4571e8:
 msgid "[_ka_] That's why we're leaving."
-msgstr ""
+msgstr "[ _ka_] İşte bu yüzden gidiyoruz."
 
 # game/kuremiraywayo.rpy:4198 #-#-# translate crowdin noupredat_e3b9a0a4:
 msgid "[_ri_] I don't understand it, why didn't you kill him? He freed the damn old man."
-msgstr ""
+msgstr "Anlamıyorum, neden onu öldürmedin? O lanet yaşlı adamı serbest bıraktı."
 
 # game/kuremiraywayo.rpy:4200 #-#-# translate crowdin noupredat_4507e7f0:
 msgid "[_ri_] Doesn't he deserve to die?"
-msgstr ""
+msgstr "Ölmeyi hak etmiyor mu?"
 
 # game/kuremiraywayo.rpy:4202 #-#-# translate crowdin noupredat_d756d085:
 msgid "[_ka_] Maybe he does, maybe he does not. Either way, I don't want to see him die."
-msgstr ""
+msgstr "Belki de tanıyordur, belki de değildir. Her iki şekilde de, onun ölümünü görmek istemiyorum."
 
 # game/kuremiraywayo.rpy:4204 #-#-# translate crowdin noupredat_482ae0d6:
 msgid "[_ka_] He made that choice driven by fear. I can understand him."
-msgstr ""
+msgstr "O seçimi korkuyla yönlendirdi. Onu anlayabilirim."
 
 # game/kuremiraywayo.rpy:4206 #-#-# translate crowdin noupredat_c00d85cd:
 msgid "[_ka_] With your arrival and the old man's death, our plans have changed course anyway."
-msgstr ""
+msgstr "Senin gelişinle ve yaşlı adamın ölümünden sonra, planlarımız yine de rotamızı değiştirdi."
 
 # game/kuremiraywayo.rpy:4208 #-#-# translate crowdin noupredat_395008a2:
 msgid "[_ka_] Now there's more paths for me to follow than before."
-msgstr ""
+msgstr "Şimdi daha önce takip etmek için daha fazla yol var."
 
 # game/kuremiraywayo.rpy:4210 #-#-# translate crowdin noupredat_8dd0d24c:
 msgid "[_ka_] And he... He's done enough."
-msgstr ""
+msgstr "Ve o ... Yeterince şey yaptı."
 
 # game/kuremiraywayo.rpy:4212 #-#-# translate crowdin noupredat_bc464217:
 msgid "[_ka_] He's at the beginning of his evolution into Otsutsuki, but now he won't be able to finish it since he's no longer feeding his thirst."
-msgstr ""
+msgstr "Otsutsuki evriminin başlangıcındaki o, ama artık susuzluğunu besleyemediğinden bu işi bitiremeyecek."
 
 # game/kuremiraywayo.rpy:4214 #-#-# translate crowdin noupredat_a906847d:
 msgid "[_ka_] After a while, his power will get weathered. He will become an ordinary human."
-msgstr ""
+msgstr "[ _ka_] Bir süre sonra, gücü dokumaya devam edecek. O, sıradan bir insan olacak."
 
 # game/kuremiraywayo.rpy:4216 #-#-# translate crowdin noupredat_685aeda2:
 msgid "[_ri_] He knows too much, he is dangerous to you."
-msgstr ""
+msgstr "O çok şey biliyor, senin için tehlikeli."
 
 # game/kuremiraywayo.rpy:4218 #-#-# translate crowdin noupredat_fca1270f:
 msgid "[_ka_] He's proven that he's not."
-msgstr ""
+msgstr "Öyle olmadığını kanıtladı."
 
 # game/kuremiraywayo.rpy:4220 #-#-# translate crowdin noupredat_24a9f129:
 msgid "[_ri_] Does that mean that you..."
-msgstr ""
+msgstr "Bu demek oluyor ki ..."
 
 # game/kuremiraywayo.rpy:4222 #-#-# translate crowdin noupredat_6ab03069:
 msgid "[_ka_] We're leaving. The old man is dead, which means there's nothing keeping us in the Land of Fire anymore."
-msgstr ""
+msgstr "-Gidiyoruz. Yaşlı adam öldü, bu da demektir ki bizi artık Ateş Diyarı 'nda tutan bir şey yok."
 
 # game/kuremiraywayo.rpy:4224 #-#-# translate crowdin noupredat_e2e99640:
 msgid "[_ri_] Whatever you say, but I'd kill that guy if I were you."
-msgstr ""
+msgstr "Sen ne diyorsan, ama ben senin yerinde olsam o adamı öldürürdüm."
 
 # game/kuremiraywayo.rpy:4226 #-#-# translate crowdin noupredat_fc5fc918:
 msgid "[_ka_] You've been a good boy, [viname]... Let's hope your life doesn't get cut short, and you'll be happy."
-msgstr ""
+msgstr "[ _ka_] İyi bir çocuk oldun, [ viname] ... Umalım da hayatın kısa kesmiyor, sen de mutlu olacaksın."
 
 # game/kuremiraywayo.rpy:4228 #-#-# translate crowdin noupredat_bff18661:
 msgid "[_ka_] Goodbye."
-msgstr ""
+msgstr "Güle güle."
 
 # game/kuremiraywayo.rpy:4239 #-#-# translate crowdin noupredat_9880b09d:
 msgid "[_ko3_] Daddy! His hair are funny!"
-msgstr ""
+msgstr "Babacığım! Saçları komikmiş!"
 
 # game/kuremiraywayo.rpy:4243 #-#-# translate crowdin noupredat_3abf48a3:
 msgid "[_r_] Don't mess around, Kaoru! Mr Photographer's got to take a picture."
-msgstr ""
+msgstr "Ortalığı karıştırmayın, Kaoru! Bay Fotoğrafçı 'nın bir fotoğrafını çekmesi lazım."
 
 # game/kuremiraywayo.rpy:4247 #-#-# translate crowdin noupredat_2351067c:
 msgid "[_ko3_] But I wanna watch Ninja-Kenshi!!"
-msgstr ""
+msgstr "Ama ben Ninja-Kenshi izlemek istiyorum!"
 
 # game/kuremiraywayo.rpy:4251 #-#-# translate crowdin noupredat_d1d854f9:
 msgid "[_kure_] If you sit still until Mr Photographer leaves, I'll make you some milk chocolate. Are you fine with that, sweetie?"
-msgstr ""
+msgstr "[ _kure_] Bay Fotoğrafçıyı bırakana kadar kıpırdamadan oturursanız, size biraz süt çikolata yapacağım. -İyi misin tatlım?"
 
 # game/kuremiraywayo.rpy:4255 #-#-# translate crowdin noupredat_d41c4907:
 msgid "[_ko3_] Cocolate!? Okay then!"
-msgstr ""
+msgstr "-Ne kadar da kötü. Tamam o zaman!"
 
 # game/kuremiraywayo.rpy:4259 #-#-# translate crowdin noupredat_28346c2e:
 msgid "[_ko1_] Father... Do you remember that..."
-msgstr ""
+msgstr "[ _ko1_] Baba ... Hatırlıyor musun ..."
 
 # game/kuremiraywayo.rpy:4263 #-#-# translate crowdin noupredat_ed9a429a:
 msgid "[_r_] I know, I know, they'll wait for you. Taking a family photo is very important!"
-msgstr ""
+msgstr "Biliyorum, biliyorum, seni bekleyecekler. Bir aile fotoğrafının alınması çok önemli!"
 
 # game/kuremiraywayo.rpy:4267 #-#-# translate crowdin noupredat_7c865013:
 msgid "[_mira_] Dad's right, your mission isn't going anywhere."
-msgstr ""
+msgstr "Babam haklı, senin görevin hiçbir yere gitmiyor."
 
 # game/kuremiraywayo.rpy:4271 #-#-# translate crowdin noupredat_241aad64:
 msgid "[_ko1_] You know better than anyone that A rank missions require punctuality, mom."
-msgstr ""
+msgstr "Bir rütbe görevinin dakikliği gerektirdiğinden daha iyi bilirsin, anne."
 
 # game/kuremiraywayo.rpy:4275 #-#-# translate crowdin noupredat_86e80b43:
 msgid "[_ko2_] Quit grumbling, brother! It took Daddy so long to convince them to let you go for a while!"
-msgstr ""
+msgstr "-Kes sırıtmayı, kardeşim! Babanı bir süre izin vermeleri için ikna etmek çok uzun sürdü."
 
 # game/kuremiraywayo.rpy:4279 #-#-# translate crowdin noupredat_5236fe8f:
 msgid "[_ko1_] I know... Jeez..."
-msgstr ""
+msgstr "Biliyorum ... Tanrım ..."
 
 # game/kuremiraywayo.rpy:4283 #-#-# translate crowdin noupredat_5e11b328:
 msgid "[_fotik_] Smile for the camera, everyone!"
-msgstr ""
+msgstr "Herkes kameraya gülümsüyor!"
 
 # game/kuremiraywayo.rpy:4287 #-#-# translate crowdin noupredat_cbf9764f:
 msgid "[_fotik_] 3..."
-msgstr ""
+msgstr "[ _fotik_] 3 ..."
 
 # game/kuremiraywayo.rpy:4291 #-#-# translate crowdin noupredat_34d2aef7:
 msgid "[_fotik_] 2..."
-msgstr ""
+msgstr "[ _fotik_] 2 ..."
 
 # game/kuremiraywayo.rpy:4295 #-#-# translate crowdin noupredat_4bb0f77b:
 msgid "[_fotik_] 1..."
-msgstr ""
+msgstr "[ _fotik_] 1 ..."
 
 # game/kuremiraywayo.rpy:4310 #-#-# translate crowdin noupredat_ebf6fd63:
 msgid "[_m_] It's all been... so long ago..."
-msgstr ""
+msgstr "Her şey ... çok uzun zaman önce ..."
 
 # game/kuremiraywayo.rpy:4312 #-#-# translate crowdin noupredat_be199f12:
 msgid "[_m_] How long has it been..."
-msgstr ""
+msgstr "Ne kadar zaman oldu ..."
 
 # game/kuremiraywayo.rpy:4314 #-#-# translate crowdin noupredat_fd9d9f7e:
 msgid "[_m_] God... To think of it... twenty one years have passed..."
-msgstr ""
+msgstr "[ _m_] Tanrım ... Bunu düşünmek ... Yirmi bir yıl geçti ..."
 
 # game/kuremiraywayo.rpy:4321 #-#-# translate crowdin noupredat_b73ee468:
 msgid "[_m_] The photo's all worn out."
-msgstr ""
+msgstr "Fotoğrafın hepsi yıpranmış."
 
 # game/kuremiraywayo.rpy:4323 #-#-# translate crowdin noupredat_e9b0fbe9:
 msgid "[_m_] This is my favorite one."
-msgstr ""
+msgstr "[ _m_] Bu benim en sevdiğim."
 
 # game/kuremiraywayo.rpy:4325 #-#-# translate crowdin noupredat_b968c9f7:
 msgid "[_m_] There were many after it, but it's become so special to me for some reason."
-msgstr ""
+msgstr "Ondan sonra pek çok kişi vardı, ama nedense benim için çok özel bir hale geldi."
 
 # game/kuremiraywayo.rpy:4327 #-#-# translate crowdin noupredat_d9653ecd:
 msgid "[_m_] Who would have thought I'd live to be seventy-two years old..."
-msgstr ""
+msgstr "Yetmiş iki yaşında olmak için yaşayacağımı kim düşünecekti ki?"
 
 # game/kuremiraywayo.rpy:4329 #-#-# translate crowdin noupredat_78413c59:
 msgid "[_m_] My lifestyle is as senile as it can get at this point."
-msgstr ""
+msgstr "Yaşam tartım bu noktada olduğu kadar bunamış."
 
 # game/kuremiraywayo.rpy:4331 #-#-# translate crowdin noupredat_db924574:
 msgid "[_m_] I'm bedridden, it's been hard to walk for some time now."
-msgstr ""
+msgstr "Ben yatağım, bir süredir yürümek zor oldu."
 
 # game/kuremiraywayo.rpy:4333 #-#-# translate crowdin noupredat_4432f6cb:
 msgid "[_m_] But I still have a loving and relatively young wife who takes care of me all the time."
-msgstr ""
+msgstr "[ _m_] Ama yine de sürekli bana göz kulak olan sevgi dolu ve görece genç bir karım var."
 
 # game/kuremiraywayo.rpy:4335 #-#-# translate crowdin noupredat_2fca1255:
 msgid "[_m_] Mirai is only 57 years old, she never leaves my side... Looking after me like I'm a small child... So sick of it."
-msgstr ""
+msgstr "[ _m_] Mirai sadece 57 yaşında, hiçbir zaman benim tarafımdan ayrılamamış ... Küçük bir çocukmışım gibi bana bakıyorsun. Çok sıkıldım."
 
 # game/kuremiraywayo.rpy:4337 #-#-# translate crowdin noupredat_ab9b7f12:
 msgid "[_m_] All I can do now is lie here and make draw some conclusions."
-msgstr ""
+msgstr "Şimdi tek yapabildiğim burada yalan söylemek ve bazı sonuçlara varmak."
 
 # game/kuremiraywayo.rpy:4339 #-#-# translate crowdin noupredat_048ee7ab:
 msgid "[_m_] Yes, gotta think of my life and of what I've come to after all this time."
-msgstr ""
+msgstr "Evet, bu kadar zaman sonra yaşamımı ve yaşamımı düşünmem lazım."
 
 # game/kuremiraywayo.rpy:4341 #-#-# translate crowdin noupredat_656602dd:
 msgid "[_m_] And to tell the truth, without any whining and all that... I think I've been very lucky."
-msgstr ""
+msgstr "Ve doğruyu söylemek, sızlanmamak ve tüm bu ... Sanırım çok şanslıydım."
 
 # game/kuremiraywayo.rpy:4343 #-#-# translate crowdin noupredat_83973361:
 msgid "[_m_] I came into this world at Kamiko's will, probably by some complete accident, too... Yet, not only didn't I die, but was also able to build a strong family."
-msgstr ""
+msgstr "Bu dünyaya Kaiko 'nun vasfında rastladım. Muhtemelen kazayla ilgili bir kazayla ... Yine de, ölmekle kalmadım, aynı zamanda güçlü bir aile kurabilmiştim."
 
 # game/kuremiraywayo.rpy:4345 #-#-# translate crowdin noupredat_85498c00:
 msgid "[_m_] My youngest daughter, Kaoru, my sweetheart, she's grown into a good girl."
-msgstr ""
+msgstr "En küçük kızım, Kaoru, tatlım, o iyi bir kıza dönüşüyordu."
 
 # game/kuremiraywayo.rpy:4347 #-#-# translate crowdin noupredat_db6fa0f7:
 msgid "[_m_] She's always been so energetic. I even used to think she would become a shinobi... But no, Kaoru chose a different path."
-msgstr ""
+msgstr "Her zaman çok enerjikti. Hatta onun bir shinobi olacağını düşünmezdim. Ama hayır, Kaoru farklı bir yol seçti."
 
 # game/kuremiraywayo.rpy:4349 #-#-# translate crowdin noupredat_4f6a4c43:
 msgid "[_m_] I don't know where this came from, but she turned out to have a good talent for business. Now she's the owner of numerous large companies all over the Land of Fire."
-msgstr ""
+msgstr "Bunun nereden geldiğini bilmiyorum, ama iş için iyi bir yeteneği olduğu ortaya çıktı. Şimdi de Ateş Diyarı 'nın her yerinde çok sayıda büyük şirketin sahibi."
 
 # game/kuremiraywayo.rpy:4351 #-#-# translate crowdin noupredat_ba5aee72:
 msgid "[_m_] My second daughter, Eri, has always been such a clever girl."
-msgstr ""
+msgstr "İkinci kızım, Eri, her zaman çok zeki bir kız olmuştur."
 
 # game/kuremiraywayo.rpy:4353 #-#-# translate crowdin noupredat_ed0cafaa:
 msgid "[_m_] The best in her class, the most modest and the most polite of all... I still have no idea who she took after."
-msgstr ""
+msgstr "[ _m_] sınıfının en iyisi, en mütevazı ve en kibar olan ... Onun peşinden kimi götürmesine hala dair bir fikrim yok."
 
 # game/kuremiraywayo.rpy:4355 #-#-# translate crowdin noupredat_f1c31f84:
 msgid "[_m_] In the end, Eri has grown into a reliable and wise woman."
-msgstr ""
+msgstr "Sonunda, Eri güvenilir ve akıllı bir kadın haline geldi."
 
 # game/kuremiraywayo.rpy:4357 #-#-# translate crowdin noupredat_21ba94bc:
 msgid "[_m_] She holds an important position in the country's ministry, she's such a brilliant girl."
-msgstr ""
+msgstr "[ _m_] Ülkenin bakanlığında önemli bir konuma sahip, o kadar zeki bir kız ki."
 
 # game/kuremiraywayo.rpy:4359 #-#-# translate crowdin noupredat_58ee2483:
 msgid "[_m_] As for our eldest son, Mamoru..."
-msgstr ""
+msgstr "En büyük oğlumuz Mamoru 'ya gelince ..."
 
 # game/kuremiraywayo.rpy:4361 #-#-# translate crowdin noupredat_c4d5da90:
 msgid "[_m_] He's the pride of our family."
-msgstr ""
+msgstr "Ailemizin gururu o."
 
 # game/kuremiraywayo.rpy:4363 #-#-# translate crowdin noupredat_0c68009d:
 msgid "[_m_] What can I say? He's the pride of the Land of Fire and the whole current generation of shinobi."
-msgstr ""
+msgstr "[ _m_] Ne diyebilirim ki? O, Ateş Diyarı 'nın gururu ve şu anki yeni nesil shinobi 'nin gururudur."
 
 # game/kuremiraywayo.rpy:4365 #-#-# translate crowdin noupredat_cf733f52:
 msgid "[_m_] Mamoru was born very strong. I always felt like it was due to Kamiko's power that was still living inside me at the time of Mamoru's conception."
-msgstr ""
+msgstr "Mamoru çok güçlüydün. Mamoru 'nun doğumunda hala içimde yaşayan Kamiko 'nun gücü yüzünden hep böyle hissetmiştim."
 
 # game/kuremiraywayo.rpy:4367 #-#-# translate crowdin noupredat_4e025de0:
 msgid "[_m_] That would explain his tremendous strength in battle."
-msgstr ""
+msgstr "Bu savaşta muazzam gücünü açıklıyor."
 
 # game/kuremiraywayo.rpy:4369 #-#-# translate crowdin noupredat_6bc79384:
 msgid "[_m_] My son became a high-ranking elite shinobi at the age of 14."
-msgstr ""
+msgstr "Oğlum 14 yaşında yüksek rütbe sahibi bir shinobi oldu."
 
 # game/kuremiraywayo.rpy:4371 #-#-# translate crowdin noupredat_b63d2903:
 msgid "[_m_] At 20, he became the head of the country's foreign intelligence organization."
-msgstr ""
+msgstr "[ _m_] 20 yaşında, ülkenin dış istihbarat örgütü başkanı oldu."
 
 # game/kuremiraywayo.rpy:4373 #-#-# translate crowdin noupredat_fcbb00ae:
 msgid "[_m_] And at 25, he became the 10th Hokage of the Leaf Village."
-msgstr ""
+msgstr "Ve 25 yaşında, Leaf Köyü 'nin 10. Hokasyonu oldu."
 
 # game/kuremiraywayo.rpy:4375 #-#-# translate crowdin noupredat_e8f19fc0:
 msgid "[_m_] Back then, his power was as high as Otsutsuki's, which isn't strange considering where it all comes from."
-msgstr ""
+msgstr "O zamanlar, onun gücü Otsutsuki kadar yükseğiydi, ki bu da nereden geldiği düşünülürse, hiç de garip değil."
 
 # game/kuremiraywayo.rpy:4377 #-#-# translate crowdin noupredat_c8156083:
 msgid "[_m_] Even now, after all these years, his power is feared and respected even outside the Land of Fire."
-msgstr ""
+msgstr "[ _m_] Şu anda bile, bunca yıldan sonra, onun gücü, Ateş Diyarı 'nın dışında bile korku ve saygı duyulan bir güç."
 
 # game/kuremiraywayo.rpy:4379 #-#-# translate crowdin noupredat_06dbab9d:
 msgid "[_m_] Sadly, Kurenai was not able to live to see her grandson become the highest ranking shinobi of the Leaf Village."
-msgstr ""
+msgstr "Ne yazık ki, Kurenai, torununun Leaf Köyü 'nin en yüksek rütbe shinobi haline geldiğini görmek için yaşayamadı."
 
 # game/kuremiraywayo.rpy:4381 #-#-# translate crowdin noupredat_bb142863:
 msgid "[_m_] I still miss her, even though she passed away a long time ago."
-msgstr ""
+msgstr "Onu hala özlüyorum, uzun zaman önce vefat etse de."
 
 # game/kuremiraywayo.rpy:4383 #-#-# translate crowdin noupredat_5e824a1a:
 msgid "[_m_] It won't be long... till I pass away, too..."
-msgstr ""
+msgstr "Ben de geçene kadar uzun sürmeyecek."
 
 # game/kuremiraywayo.rpy:4385 #-#-# translate crowdin noupredat_e71ad5ba:
 msgid "[_m_] Thanks to that old man, I got another chance in my life."
-msgstr ""
+msgstr "O yaşlı adam sayesinde, hayatımda bir şansım daha var."
 
 # game/kuremiraywayo.rpy:4387 #-#-# translate crowdin noupredat_134db18f:
 msgid "[_m_] And after I took that chance to the fullest... I still wonder... Had I done things differently, what would've happened?"
-msgstr ""
+msgstr "Ve bu şansı en dolu yere götürdükten sonra ... Hala merak ediyorum ... Daha farklı şeyler yapsaydım, ne olurdu?"
 
 # game/kuremiraywayo.rpy:4389 #-#-# translate crowdin noupredat_db41ad44:
 msgid "[_m_] And how just one right choice... managed to give me such a long and happy life... with a loving family... and..."
-msgstr ""
+msgstr "Ve doğru bir seçim nasıl oldu da bana sevgi dolu bir aile ile bu kadar uzun ve mutlu bir hayat yaşatmayı başardı ... ve ..."
 
 # game/kuremiraywayo.rpy:4391 #-#-# translate crowdin noupredat_88fa4b31:
 msgid "[_m_] Weren't you angry with me... Kamiko...?"
-msgstr ""
+msgstr "Bana kızmadın mı? Kamiko ...?"
 
 # game/kuremiraywayo.rpy:4393 #-#-# translate crowdin noupredat_2849bd81:
 msgid "[_m_] I hope you're still... alive."
-msgstr ""
+msgstr "Umarım hala hayattasınız."
 
 # game/kuremiraywayo.rpy:4418 #-#-# translate crowdin dapredat_96155a9f:
 msgid "[_m_] Strange, I didn't notice it myself how I've begun taking my hygene more seriously."
-msgstr ""
+msgstr "Strange, higenimi daha ciddiye almaya başladığım için kendimi hiç fark etmedim."
 
 # game/kuremiraywayo.rpy:4420 #-#-# translate crowdin dapredat_4f75ff70:
 msgid "[_m_] Does married life really change people like that?"
-msgstr ""
+msgstr "(_m_] Evli yaşam insanları gerçekten bu şekilde değiştirir mi?"
 
 # game/kuremiraywayo.rpy:4422 #-#-# translate crowdin dapredat_7fbfcb05:
 msgid "[_m_] Or is it just me?"
-msgstr ""
+msgstr "[ _m_] Yoksa sadece ben miyim?"
 
 # game/kuremiraywayo.rpy:4424 #-#-# translate crowdin dapredat_f7a2367c:
 msgid "[_m_] Anyway, I want to smell nice next to her so that..."
-msgstr ""
+msgstr "Herneyse, onun yanında güzel kokmak istiyorum ki ..."
 
 # game/kuremiraywayo.rpy:4438 #-#-# translate crowdin dapredat_bdfcffe4:
 msgid "[_m_] Wha.."
-msgstr ""
+msgstr "[ _m_] Ne .."
 
 # game/kuremiraywayo.rpy:4440 #-#-# translate crowdin dapredat_d9487eeb:
 msgid "[_m_] oh..."
-msgstr ""
+msgstr "[ _m_] oh ..."
 
 # game/kuremiraywayo.rpy:4447 #-#-# translate crowdin dapredat_29884f14:
 msgid "[_ri_] How long do we have to stay here?"
-msgstr ""
+msgstr "Burada daha ne kadar kalmamız gerekiyor?"
 
 # game/kuremiraywayo.rpy:4449 #-#-# translate crowdin dapredat_f95f0130:
 msgid "[_ri_] It's getting cold."
-msgstr ""
+msgstr "Hava soğuyor."
 
 # game/kuremiraywayo.rpy:4456 #-#-# translate crowdin dapredat_a235ee56:
 msgid "[_ka_] Not long, he's waking up."
-msgstr ""
+msgstr "Uzun değil, uyanıyor."
 
 # game/kuremiraywayo.rpy:4458 #-#-# translate crowdin dapredat_a932fe26:
 msgid "[_ka_] Wake up, my sweetie."
-msgstr ""
+msgstr "Uyan, tatlım."
 
 # game/kuremiraywayo.rpy:4460 #-#-# translate crowdin dapredat_42638bc8:
 msgid "[_r_] It hurts... My head..."
-msgstr ""
+msgstr "Acıtıyor ... Başım ..."
 
 # game/kuremiraywayo.rpy:4467 #-#-# translate crowdin dapredat_929fe772:
 msgid "[_r_] K-Kamiko..."
-msgstr ""
+msgstr "K-Kamiko ..."
 
 # game/kuremiraywayo.rpy:4469 #-#-# translate crowdin dapredat_5b55a26f:
 msgid "[_r_] W-what the..."
-msgstr ""
+msgstr "[ _r_] W-ne ..."
 
 # game/kuremiraywayo.rpy:4471 #-#-# translate crowdin dapredat_6b93eb3c:
 msgid "[_r_] The g-girls..."
-msgstr ""
+msgstr "[ _r_] The g-girls ..."
 
 # game/kuremiraywayo.rpy:4475 #-#-# translate crowdin dapredat_afe6eded:
 msgid "[_ka_] So you've woken up at last. You've always been such a sleepy head."
-msgstr ""
+msgstr "Sonunda uyandın. Her zaman çok uykulu bir kafan vardı."
 
 # game/kuremiraywayo.rpy:4479 #-#-# translate crowdin dapredat_83064bbc:
 msgid "[_r_] What have you... done..."
-msgstr ""
+msgstr "[ _r_] Ne yaptın ..."
 
 # game/kuremiraywayo.rpy:4483 #-#-# translate crowdin dapredat_038a8310:
 msgid "[_ka_] Oh, come on... There's no need for self-pity, my dear."
-msgstr ""
+msgstr "-Hadi ama ... Kendine acımana gerek yok, canım."
 
 # game/kuremiraywayo.rpy:4485 #-#-# translate crowdin dapredat_9ab55587:
 msgid "[_ka_] I have nothing to do with it, it's all a consequence of your decisions."
-msgstr ""
+msgstr "Benim bu konuda bir şey yapamam, bu kararların bir sonucu."
 
 # game/kuremiraywayo.rpy:4489 #-#-# translate crowdin dapredat_7250d0ae:
 msgid "[_ri_] Hah, what a face you've got. Is that you crying?"
-msgstr ""
+msgstr "-Ne biçim bir yüzsün. Ağlıyor musun sen?"
 
 # game/kuremiraywayo.rpy:4493 #-#-# translate crowdin dapredat_9854d0dc:
 msgid "[_ka_] Of course he is crying, honey. You've butchered his entire new family."
-msgstr ""
+msgstr "-Tabii ki ağlıyor, tatlım. Bütün yeni ailesini katlettin."
 
 # game/kuremiraywayo.rpy:4495 #-#-# translate crowdin dapredat_fefabc34:
 msgid "[_ka_] [viname], meet Kaya. She's a foreigner, just like you. It even goes further than that, you're from the same universe."
-msgstr ""
+msgstr "[ _ka_] [ viname], Kaya ile tanışın. O bir yabancı, tıpkı senin gibi. Hatta daha da ileri gidiyor, sen de aynı evrenden birisin."
 
 # game/kuremiraywayo.rpy:4499 #-#-# translate crowdin dapredat_52958216:
 msgid "[_ri_] Salut, asshole."
-msgstr ""
+msgstr "[ _ri_] Salut, göt herif."
 
 # game/kuremiraywayo.rpy:4503 #-#-# translate crowdin dapredat_55c9b230:
 msgid "[_r_] M...Mir-ai... Kure..."
-msgstr ""
+msgstr "[ _r_] M. ..Mir-ai ... Kure ..."
 
 # game/kuremiraywayo.rpy:4507 #-#-# translate crowdin dapredat_207ce03d:
 msgid "[_ri_] God, shut the fuck up already... Can't I just kill him?"
-msgstr ""
+msgstr "Tanrım, kapa şu lanet çeneni! Onu öldüremez miyim?"
 
 # game/kuremiraywayo.rpy:4511 #-#-# translate crowdin dapredat_1b52f46d:
 msgid "[_ka_] Not now, my girl."
-msgstr ""
+msgstr "Şimdi değil, kızım."
 
 # game/kuremiraywayo.rpy:4513 #-#-# translate crowdin dapredat_cbefef18:
 msgid "[_ka_] I want you to see it all with your own eyes, see everything you've lost. I want you to realize it's all your own fault."
-msgstr ""
+msgstr "Her şeyi kendi gözlerinizle görmenizi istiyorum, kaybettiğimiz her şeyi görmenizi istiyorum. Bunun kendi hatan olduğunu anlamanı istiyorum."
 
 # game/kuremiraywayo.rpy:4515 #-#-# translate crowdin dapredat_b0651775:
 msgid "[_ka_] I can forgive you for betraying me out of fear."
-msgstr ""
+msgstr "Korkudan bana ihanet ettiğim için seni affedebilirim."
 
 # game/kuremiraywayo.rpy:4517 #-#-# translate crowdin dapredat_d83534ec:
 msgid "[_ka_] But I can't forgive you for betraying our bond."
-msgstr ""
+msgstr "Ama bağımıza ihanet eden için seni affedemem."
 
 # game/kuremiraywayo.rpy:4519 #-#-# translate crowdin dapredat_d99978a7:
 msgid "[_ka_] I've done so much for you. You've been everything to me... You were my precious creation... My child..."
-msgstr ""
+msgstr "Senin için çok şey yaptım. Sen benim için her şeysin ... Sen benim değerli yaratığımdın. Çocuğum ..."
 
 # game/kuremiraywayo.rpy:4521 #-#-# translate crowdin dapredat_2cd14adf:
 msgid "[_ka_] Have I not earned even a little bit of your respect?"
-msgstr ""
+msgstr "Biraz saygı bile kazanmadım mı?"
 
 # game/kuremiraywayo.rpy:4525 #-#-# translate crowdin dapredat_dc2d6217:
 msgid "[_r_] What have I... What have I done to... I didn't..."
-msgstr ""
+msgstr "[ _r_] Ne yaptım ben ... Ben ne yaptım ki ... Ben ..."
 
 # game/kuremiraywayo.rpy:4529 #-#-# translate crowdin dapredat_18e02442:
 msgid "[_ka_] The old man found me, he was able to find me earlier than I thought... And it's all thanks to your efforts."
-msgstr ""
+msgstr "[ _ka_] Yaşlı adam beni buldu, beni düşündüğümden daha önce bulabildi ... Ve bu çabaların için de teşekkür ederim."
 
 # game/kuremiraywayo.rpy:4531 #-#-# translate crowdin dapredat_d3539824:
 msgid "[_ka_] Did you really think he could kill me?"
-msgstr ""
+msgstr "Gerçekten beni öldürebileceğini mi sandın?"
 
 # game/kuremiraywayo.rpy:4533 #-#-# translate crowdin dapredat_72edd86b:
 msgid "[_ka_] Me... an Otsutsuki, who has lived on this planet for hundreds of years, for dozens of generations..."
-msgstr ""
+msgstr "Ben ... yüzlerce yıldır bu gezegende yaşamış Otsutsuki ... onlarca nesil boyunca ..."
 
 # game/kuremiraywayo.rpy:4535 #-#-# translate crowdin dapredat_0f640e94:
 msgid "[_ka_] He was nothing like he used to be... that old man..."
-msgstr ""
+msgstr "Eskisi gibi bir şey değildi ... o yaşlı adam ..."
 
 # game/kuremiraywayo.rpy:4537 #-#-# translate crowdin dapredat_2aa1844f:
 msgid "[_ka_] But you did help me in some ways... Thanks to the absorption of his chakra, I was able to repeat the ritual and capture my second child."
-msgstr ""
+msgstr "Ama bazı yönlerden bana yardım ettin ... çakra ' nın emilimi sayesinde, ritüeli tekrar edip ikinci çocuğumu yakalamayı başardım."
 
 # game/kuremiraywayo.rpy:4539 #-#-# translate crowdin dapredat_1f630229:
 msgid "[_ka_] No matter what, Uchichas' chakra is truly special..."
-msgstr ""
+msgstr "Ne olursa olsun, Uchichas ' çakra gerçekten özeldir ..."
 
 # game/kuremiraywayo.rpy:4543 #-#-# translate crowdin dapredat_b3452807:
 msgid "[_r_] Old man..."
-msgstr ""
+msgstr "[ _r_] Yaşlı adam ..."
 
 # game/kuremiraywayo.rpy:4547 #-#-# translate crowdin dapredat_c19060c4:
 msgid "[_ka_] Your new friend didn't succeed, that's why you're in such an unfortunate position..."
-msgstr ""
+msgstr "Yeni arkadaşın başarılı olamadı, bu yüzden bu kadar talihsiz bir durumdasın ..."
 
 # game/kuremiraywayo.rpy:4549 #-#-# translate crowdin dapredat_a34d885c:
 msgid "[_ka_] Kaya, finish what you started, will you?"
-msgstr ""
+msgstr "Kaya, başladığın işi bitir, olur mu?"
 
 # game/kuremiraywayo.rpy:4553 #-#-# translate crowdin dapredat_b04954e3:
 msgid "[_ri_] Took you long enough..."
-msgstr ""
+msgstr "Yeterince uzun sürdü."
 
 # game/kuremiraywayo.rpy:4560 #-#-# translate crowdin dapredat_e66100dd:
 msgid "[_ka_] One last thing..."
-msgstr ""
+msgstr "Son bir şey daha ..."
 
 # game/kuremiraywayo.rpy:4562 #-#-# translate crowdin dapredat_042d1b90:
 msgid "[_ka_] Is there anything you want to say?"
-msgstr ""
+msgstr "Söylemek istediğin bir şey var mı?"
 
 # game/kuremiraywayo.rpy:4564 #-#-# translate crowdin dapredat_a5bfe262:
 msgid "[_r_] I was just doing what y--"
-msgstr ""
+msgstr "Ben de tam olarak ..."
 
 # game/kuremiraywayo.rpy:4578 #-#-# translate crowdin dapredat_cb87ba2a:
 msgid "[_ri_] Fuck... I've got to wash his brains off my hands now! Gross..."
-msgstr ""
+msgstr "Siktir ... Şimdi onun beynini yıkamam lazım! İğrenç ..."
 
 # §translate crowdin strings: #|#|# # game/kuremiraywayo.rpy:221
 msgid "Yes, I want to fuck you again."
@@ -4386,7 +4386,7 @@ msgstr ""
 
 # game/kuremiraywayo.rpy:514
 msgid " Do not restrain yourself and jerk off (For patrons)"
-msgstr ""
+msgstr " Kendini dizginlemeyin ve otuzbir çekmeyin (patronlar için)"
 
 # game/kuremiraywayo.rpy:514
 msgid "It's too weird, I won't..."
@@ -4402,7 +4402,7 @@ msgstr ""
 
 # game/kuremiraywayo.rpy:1153
 msgid " Offer to fuck her in the ass. (for patrons)"
-msgstr ""
+msgstr " Onu götten sikmeye teklif et. (patronlar için)"
 
 # game/kuremiraywayo.rpy:1153
 msgid "I think that's enough for today."
@@ -4410,33 +4410,33 @@ msgstr ""
 
 # game/kuremiraywayo.rpy:1543
 msgid "If that's what Kamiko's mission requires, I'm ready"
-msgstr ""
+msgstr "Eğer Kamiko 'nun görevi bu ise, ben hazırım."
 
 # game/kuremiraywayo.rpy:1543
 msgid "And what do you suggest?"
-msgstr ""
+msgstr "-Ne öneriyorsun?"
 
 # game/kuremiraywayo.rpy:1607
 msgid "No. I must continue on the path I have chosen."
-msgstr ""
+msgstr "Hayır. Seçtiğim yolda devam etmeliyim."
 
 # game/kuremiraywayo.rpy:1607
 msgid "So I still have a chance for a happy life? Without blood and tears?"
-msgstr ""
+msgstr "Yani hala mutlu bir hayat için bir şansım var mı? Kan ve gözyaşı olmadan mı?"
 
 # game/kuremiraywayo.rpy:1659
 msgid "Cut the rope."
-msgstr ""
+msgstr "İpi kes."
 
 # game/kuremiraywayo.rpy:1659
 msgid "Cut his throat."
-msgstr ""
+msgstr "Boğazını kes."
 
 # game/kuremiraywayo.rpy:1798
 msgid "Use provocation on him."
-msgstr ""
+msgstr "Ona provokasyon kullan."
 
 # game/kuremiraywayo.rpy:1798
 msgid "Don't do it."
-msgstr ""
+msgstr "-Hayır, yapma."
 
