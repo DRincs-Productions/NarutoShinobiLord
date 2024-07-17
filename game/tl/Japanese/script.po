@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2024-01-25 21:47\n"
+"PO-Revision-Date: 2024-07-17 09:24\n"
 
-# TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
+# TODO: Translation updated at 2024-07-17 11:01 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
 msgstr ""
 
@@ -16489,7 +16489,7 @@ msgid "Ask if she needs help with something else?"
 msgstr ""
 
 # game/script.rpy:13273
-msgid "Give me a glass of water and let's go... (Patrons only)"
+msgid " Give me a glass of water and let's go... (Patrons only)"
 msgstr ""
 
 # game/script.rpy:13273
@@ -16557,7 +16557,7 @@ msgid "Cum in my pussy."
 msgstr ""
 
 # game/script.rpy:16797
-msgid "Let him suck my balls (only for patrons)"
+msgid " Let him suck my balls (only for patrons)"
 msgstr ""
 
 # game/script.rpy:16971
@@ -16589,7 +16589,7 @@ msgid "Cum in Hinata."
 msgstr ""
 
 # game/script.rpy:18089
-msgid "Let her take the initiative (Patrons only)"
+msgid " Let her take the initiative (Patrons only)"
 msgstr ""
 
 # game/script.rpy:18847
@@ -16633,6 +16633,6 @@ msgid "Don't stop, I'm about to cum!"
 msgstr ""
 
 # game/script.rpy:19653
-msgid "Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
+msgid " Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
 msgstr ""
 
