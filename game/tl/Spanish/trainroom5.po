@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-07-17 09:23\n"
+"PO-Revision-Date: 2024-07-17 11:25\n"
 
 # TODO: Translation updated at 2024-07-17 11:01 #|#|# # game/trainroom5.rpy:130 #-#-# translate crowdin roomhand1s221_20e36cd1:
 msgid "[_r_] That's it Hinata, don't rush, just get a feel of my cock with your hands."
@@ -486,7 +486,7 @@ msgstr "[_r_] a partir de ahora follaré ese culo tuyo más frecuentemente."
 
 # game/trainroom5.rpy:971 #-#-# translate crowdin conskilao_3a9e3ed0:
 msgid "[_hi_] Yes..."
-msgstr ""
+msgstr "[_hi_] Sí ..."
 
 # game/trainroom5.rpy:1033 #-#-# translate crowdin aynelou_4735ed46:
 msgid "[_r_] Is that okay?"
@@ -502,7 +502,7 @@ msgstr "[_hi_] Mmm... "
 
 # game/trainroom5.rpy:1043 #-#-# translate crowdin aynelou_eec153ef:
 msgid "[_hi_] Keep going... Yes..."
-msgstr ""
+msgstr "[_hi_] Seguir adelante ... Sí ..."
 
 # game/trainroom5.rpy:1045 #-#-# translate crowdin aynelou_17d8f84a:
 msgid "[_hi_] I can feel... Inside... Right there..."
@@ -514,7 +514,7 @@ msgstr "[_r_] Se siente bien... ¡Es un placer trabajar tu culo!"
 
 # game/trainroom5.rpy:1053 #-#-# translate crowdin aynelou_11d847f0:
 msgid "[_hi_] Yes! Fuck! YES!"
-msgstr ""
+msgstr "[_hi_] Sí! ¡Joder ¡SÍ!"
 
 # game/trainroom5.rpy:1055 #-#-# translate crowdin aynelou_f9e91ecd:
 msgid "[_hi_] I'M GONNA CUM!!"
@@ -522,11 +522,11 @@ msgstr "[_hi_] ¡¡¡¡GONNA CUM!!"
 
 # game/trainroom5.rpy:1057 #-#-# translate crowdin aynelou_9a8faf6c:
 msgid "[_r_] Me too!"
-msgstr ""
+msgstr "[_r_] ¡Yo también!"
 
 # game/trainroom5.rpy:1059 #-#-# translate crowdin aynelou_b3ddbb20:
 msgid "[_hi_] GIVE IT TO ME!!"
-msgstr ""
+msgstr "[_hi_] ¡GIVE IT A MÍ!!"
 
 # game/trainroom5.rpy:1133 #-#-# translate crowdin yayayanelouuu_75d7332e:
 msgid "[_hi_] You don't have to go easy on me..."
@@ -566,7 +566,7 @@ msgstr "[_r_] ¡Un poco más!"
 
 # game/trainroom5.rpy:1242 #-#-# translate crowdin vianeliouuuuuupatre_30135a65:
 msgid "[_r_] We've worked your ass so well, Hinata..."
-msgstr ""
+msgstr "[_r_] Hemos trabajado tan bien su culo, Hinata ..."
 
 # game/trainroom5.rpy:1244 #-#-# translate crowdin vianeliouuuuuupatre_11e968fb:
 msgid "[_r_] How do you like this toy? I've got a lot more fun stuff in here."
@@ -582,7 +582,7 @@ msgstr "[_hi_] Después de tu polla, se siente tan pequeño..."
 
 # game/trainroom5.rpy:1254 #-#-# translate crowdin vianeliouuuuuupatre_e3ca09b5:
 msgid "[_r_] Do you like it when I play with your ass like that?"
-msgstr ""
+msgstr "[_r_] ¿Te gusta cuando juego con tu culo así?"
 
 # game/trainroom5.rpy:1256 #-#-# translate crowdin vianeliouuuuuupatre_d017bab0:
 msgid "[_hi_] I think we should put something bigger in it later."
@@ -606,11 +606,11 @@ msgstr "[_hi_] MMMM... ¡Eso se siente muy bien! ¡El ritmo es perfecto!"
 
 # game/trainroom5.rpy:1270 #-#-# translate crowdin vianeliouuuuuupatre_54ec70f6:
 msgid "[_hi_] Keep going like this!"
-msgstr ""
+msgstr "[_hi_] ¡Sigue así!"
 
 # game/trainroom5.rpy:1282 #-#-# translate crowdin cuuuuummmmea_3e956dbb:
 msgid "[_hi_] YES!!! I'M CUMMING!!!"
-msgstr ""
+msgstr "[_hi_] SÍ !!! I ' M CUMMING !!!"
 
 # game/trainroom5.rpy:1284 #-#-# translate crowdin cuuuuummmmea_b54c940c:
 msgid "[_r_] So fast from such a small toy... You're just an anal nymphomaniac."
