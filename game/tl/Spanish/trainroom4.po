@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2024-01-23 15:01\n"
+"PO-Revision-Date: 2024-07-17 09:23\n"
 
-# TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/trainroom4.rpy:126 #-#-# translate crowdin roomhand1s22_20e36cd1:
+# TODO: Translation updated at 2024-07-17 11:01 #|#|# # game/trainroom4.rpy:126 #-#-# translate crowdin roomhand1s22_20e36cd1:
 msgid "[_r_] That's it Hinata, don't rush, just get a feel of my cock with your hands."
 msgstr "[_r_] Eso es Hinata, no te agites, simplemente toma una sensación de mi polla con tus manos."
 
@@ -368,123 +368,95 @@ msgstr "[_r_] Damn... Me he cansado..."
 msgid "[_hi_] D-don't pull it out... Just lie like this for a while..."
 msgstr "[_hi_] No lo saques... Solo mentira como esto durante un tiempo..."
 
-# game/trainroom4.rpy:725 #-#-# translate crowdin naezorni_2f648286:
+# game/trainroom4.rpy:768 #-#-# translate crowdin naezorni_2f648286:
 msgid "[_r_] You're so wet today..."
 msgstr "[_r_] Usted está tan mojado hoy ..."
 
-# game/trainroom4.rpy:726 #-#-# translate crowdin naezorni_11e2954c:
+# game/trainroom4.rpy:769 #-#-# translate crowdin naezorni_11e2954c:
 msgid "[_r_] Glad to see me?"
 msgstr "¿[_r_] encantado de verme?"
 
-# game/trainroom4.rpy:728 #-#-# translate crowdin naezorni_065a3507:
+# game/trainroom4.rpy:771 #-#-# translate crowdin naezorni_065a3507:
 msgid "[_hi_] Mmmmm... I'm just ovulating..."
 msgstr "[_hi_] Mmmm... Estoy simplemente ovulando..."
 
-# game/trainroom4.rpy:732 #-#-# translate crowdin naezorni_02b2cf3f:
+# game/trainroom4.rpy:775 #-#-# translate crowdin naezorni_02b2cf3f:
 msgid "[_r_] Is that so... No sperm inside today?"
 msgstr "[_r_] ¿Es así... ¿No hay esperma dentro de hoy?"
 
-# game/trainroom4.rpy:734 #-#-# translate crowdin naezorni_182bebe9:
+# game/trainroom4.rpy:777 #-#-# translate crowdin naezorni_182bebe9:
 msgid "[_hi_] W-well... Why..."
 msgstr "[_hi_] Bueno... ¿Por qué..."
 
-# game/trainroom4.rpy:735 #-#-# translate crowdin naezorni_2180ed84:
+# game/trainroom4.rpy:778 #-#-# translate crowdin naezorni_2180ed84:
 msgid "[_hi_] Y-you can... Mmmmmm..."
 msgstr "[_hi_] Y-you puede... Mmmmm..."
 
-# game/trainroom4.rpy:736 #-#-# translate crowdin naezorni_42be3e11:
+# game/trainroom4.rpy:779 #-#-# translate crowdin naezorni_42be3e11:
 msgid "[_hi_] You can cum in my ass..."
 msgstr "[_hi_] Puedes cum en mi asso..."
 
-# game/trainroom4.rpy:740 #-#-# translate crowdin naezorni_7ccb46a4:
+# game/trainroom4.rpy:785 #-#-# translate crowdin naezorni_7ccb46a4:
 msgid "[_r_] You are teasing me so much..."
 msgstr "[_r_] Me estás burlando tanto ..."
 
-# game/trainroom4.rpy:741 #-#-# translate crowdin naezorni_074b2b30:
+# game/trainroom4.rpy:786 #-#-# translate crowdin naezorni_074b2b30:
 msgid "[_r_] I'm just warming up!"
 msgstr "[_r_] ¡Estoy calentando!"
 
-# game/trainroom4.rpy:742 #-#-# translate crowdin naezorni_af93d09f:
+# game/trainroom4.rpy:787 #-#-# translate crowdin naezorni_af93d09f:
 msgid "[_r_] Lie on your back."
 msgstr "[_r_] Mente en su espalda."
 
-# game/trainroom4.rpy:757 #-#-# translate crowdin misian_3a9e3ed0:
-msgid "[_hi_] Yes..."
-msgstr "[_hi_] Sí ..."
-
-# game/trainroom4.rpy:758 #-#-# translate crowdin misian_054d29ab:
-msgid "[_hi_] Mmmmm..."
-msgstr "[_hi_] Mmmm..."
-
-# game/trainroom4.rpy:762 #-#-# translate crowdin misian_a86038fd:
-msgid "[_r_] I love to look at you when I fuck you!"
-msgstr "[_r_] Me encanta mirarte cuando te folle!"
-
-# game/trainroom4.rpy:763 #-#-# translate crowdin misian_505d18ea:
-msgid "[_r_] Your body is truly made for pleasure..."
-msgstr "[_r_] Su cuerpo es realmente hecho para el placer ..."
-
-# game/trainroom4.rpy:767 #-#-# translate crowdin misian_292a32ab:
-msgid "[_r_] I feel..."
-msgstr "[_r_] me siento..."
-
-# game/trainroom4.rpy:768 #-#-# translate crowdin misian_9c644010:
-msgid "[_r_] A little longer..."
-msgstr "[_r_] Un poco más..."
-
-# game/trainroom4.rpy:769 #-#-# translate crowdin misian_5a8f444b:
-msgid "[_r_] Get on all fours. Let's try your ass out."
-msgstr "[_r_] Ponte en cuatro. Probemos tu golpe."
-
-# game/trainroom4.rpy:826 #-#-# translate crowdin analenok_922a9412:
+# game/trainroom4.rpy:874 #-#-# translate crowdin analenok_922a9412:
 msgid "[_r_] Fuck... It's a bit cramped..."
 msgstr "[_r_] Suerte... Está un poco agobiado..."
 
-# game/trainroom4.rpy:827 #-#-# translate crowdin analenok_138d7de5:
+# game/trainroom4.rpy:875 #-#-# translate crowdin analenok_138d7de5:
 msgid "[_hi_] It's been a while since I... Practiced..."
 msgstr "[_hi_] Ha pasado un tiempo desde que... Práctica..."
 
-# game/trainroom4.rpy:828 #-#-# translate crowdin analenok_bbd25067:
+# game/trainroom4.rpy:876 #-#-# translate crowdin analenok_bbd25067:
 msgid "[_hi_] I'll get used to it now..."
 msgstr "[_hi_] ahora me acostumbraré..."
 
-# game/trainroom4.rpy:829 #-#-# translate crowdin analenok_b806fde2:
+# game/trainroom4.rpy:877 #-#-# translate crowdin analenok_b806fde2:
 msgid "[_hi_] Come in with confidence... I'm ready!"
 msgstr "[_hi_] Ven con confianza... ¡Estoy listo!"
 
-# game/trainroom4.rpy:835 #-#-# translate crowdin analenok_9f234244:
+# game/trainroom4.rpy:883 #-#-# translate crowdin analenok_9f234244:
 msgid "[_r_] Fuck... You are squeezing so much!"
 msgstr "[_r_] Suerte... ¡Estás exprimiendo tanto!"
 
-# game/trainroom4.rpy:836 #-#-# translate crowdin analenok_2f270abd:
+# game/trainroom4.rpy:884 #-#-# translate crowdin analenok_2f270abd:
 msgid "[_r_] Are you feeling good?"
 msgstr "[_r_] ¿Se siente bien?"
 
-# game/trainroom4.rpy:837 #-#-# translate crowdin analenok_ba6371ae:
+# game/trainroom4.rpy:885 #-#-# translate crowdin analenok_ba6371ae:
 msgid "[_hi_] Yes! God! I love being fucked in the ass..."
 msgstr "[_hi_] ¡Sí! ¡Dios! Me encanta ser follado en el culo..."
 
-# game/trainroom4.rpy:843 #-#-# translate crowdin analenok_e77db8d2:
+# game/trainroom4.rpy:891 #-#-# translate crowdin analenok_e77db8d2:
 msgid "[_r_] Damn... I'm so close..."
 msgstr "[_r_] Damn... Estoy tan cerca..."
 
-# game/trainroom4.rpy:844 #-#-# translate crowdin analenok_0494dc7c:
+# game/trainroom4.rpy:892 #-#-# translate crowdin analenok_0494dc7c:
 msgid "[_hi_] Fill me up! I want it inside!"
 msgstr "[_hi_] ¡Rellénamo! ¡Lo quiero dentro!"
 
-# game/trainroom4.rpy:845 #-#-# translate crowdin analenok_e08fbc3f:
+# game/trainroom4.rpy:893 #-#-# translate crowdin analenok_e08fbc3f:
 msgid "[_r_] Take it!"
 msgstr "[_r_] ¡Tómalo!"
 
-# game/trainroom4.rpy:855 #-#-# translate crowdin conskila_f1a938c5:
+# game/trainroom4.rpy:903 #-#-# translate crowdin conskila_f1a938c5:
 msgid "[_r_] Fuck... This is something new..."
 msgstr "[_r_] Pierde... Esto es algo nuevo..."
 
-# game/trainroom4.rpy:856 #-#-# translate crowdin conskila_98d29628:
+# game/trainroom4.rpy:904 #-#-# translate crowdin conskila_98d29628:
 msgid "[_r_] I’ll fuck that ass of yours more often from now on."
 msgstr "[_r_] a partir de ahora follaré ese culo tuyo más frecuentemente."
 
-# game/trainroom4.rpy:857 #-#-# translate crowdin conskila_3a9e3ed0:
+# game/trainroom4.rpy:905 #-#-# translate crowdin conskila_3a9e3ed0:
 msgid "[_hi_] Yes..."
 msgstr "[_hi_] Sí ..."
 
