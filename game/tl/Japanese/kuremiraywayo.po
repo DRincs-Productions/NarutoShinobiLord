@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Japanese\n"
 "Language: ja_JP\n"
-"PO-Revision-Date: 2024-01-25 21:47\n"
+"PO-Revision-Date: 2024-07-17 09:23\n"
 
-# TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/kuremiraywayo.rpy:6 #-#-# translate crowdin kuremiraywayo_2c661c9f:
+# TODO: Translation updated at 2024-07-17 11:01 #|#|# # game/kuremiraywayo.rpy:6 #-#-# translate crowdin kuremiraywayo_2c661c9f:
 msgid "[_m_] I'm not sure I can get both mother and daughter at the same time."
 msgstr ""
 
@@ -1372,6 +1372,3010 @@ msgstr ""
 msgid "[_ka_] No pity for food."
 msgstr ""
 
+# game/kuremiraywayo.rpy:1439 #-#-# translate crowdin swistun_25dd155d:
+msgid "[_m_] To kill somebody... with my own hands..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1441 #-#-# translate crowdin swistun_28525cb3:
+msgid "[_m_] What's there to think about... it is necessary... Is it so necessary?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1443 #-#-# translate crowdin swistun_cccea207:
+msgid "[_m_] He's an enemy. Kamiko said he's a danger..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1445 #-#-# translate crowdin swistun_23f19855:
+msgid "[_m_] But is it really so? I guess he is. Kamiko would not lie to me..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1447 #-#-# translate crowdin swistun_97d0b575:
+msgid "[_m_] But, fuck... Just to grab a knife and stab a living person... I just can't..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1453 #-#-# translate crowdin swistun_7b788bf6:
+msgid "[_su_] You've been thinking for so long."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1457 #-#-# translate crowdin swistun_b9b755e5:
+msgid "[_r_] ..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1461 #-#-# translate crowdin swistun_3a8f4f39:
+msgid "[_su_] I can see how nervous you are. It's strange to see you like this."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1465 #-#-# translate crowdin swistun_8efe95fc:
+msgid "[_r_] You don't know me."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1469 #-#-# translate crowdin swistun_5aa9ad59:
+msgid "[_su_] Indeed, I don't know the present you at all."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1471 #-#-# translate crowdin swistun_de37025a:
+msgid "[_su_] I can see human qualities in you that make me feel strange."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1475 #-#-# translate crowdin swistun_92547910:
+msgid "[_r_] What's strange about the fact that I can't kill a man with my own hands?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1479 #-#-# translate crowdin swistun_025a689e:
+msgid "[_su_] The fact that you're the one asking that question seems to have broken my view of the world completely."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1483 #-#-# translate crowdin swistun_811c2837:
+msgid "[_r_] You're speaking in riddles, old man. I don't understand you at all."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1487 #-#-# translate crowdin swistun_6f7fefa8:
+msgid "[_su_] Kamiko wants me dead, she wants you to do it. But it'll ruin your life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1489 #-#-# translate crowdin swistun_0a6e2235:
+msgid "[_su_] I know very well what your absorbing my chakra will lead to... Because I've seen it happen before."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1491 #-#-# translate crowdin swistun_41554464:
+msgid "[_su_] You're not going to like what will happen to your mind after that."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1495 #-#-# translate crowdin swistun_dc6aee2a:
+msgid "[_r_] How interesting, you sound like you know everything."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1499 #-#-# translate crowdin swistun_933c9614:
+msgid "[_su_] You are closer to the truth than you think."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1503 #-#-# translate crowdin swistun_f9868d69:
+msgid "[_r_] And what do you expect me to do? Want me to spare you? Gonna try talking me into it?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1507 #-#-# translate crowdin swistun_c304e610:
+msgid "[_su_] The fact that you can still think for yourself and carry on a conversation is much more than I expected already."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1511 #-#-# translate crowdin swistun_4edcb813:
+msgid "[_r_] Give me one reason, at least something... to convince me that I don't have to kill you..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1515 #-#-# translate crowdin swistun_aa1dc740:
+msgid "[_su_] Kamiko is a renegade from the Otsutsuki clan. And you're an outsider from another world, you were just an ordinary guy until you were forced into our universe, which you're very familiar with."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1519 #-#-# translate crowdin swistun_06391608:
+msgid "[_r_] How did you..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1523 #-#-# translate crowdin swistun_66d9376e:
+msgid "[_su_] You told me yourself. It was... under different circumstances. More frightening than what we have now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1525 #-#-# translate crowdin swistun_e341219c:
+msgid "[_su_] I know many contradictory facts about you. But the only thing I know for sure is that once you taste my flesh, you will never be the same again."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1529 #-#-# translate crowdin swistun_178b3917:
+msgid "[_r_] I know. Kamiko told me I would gain strength, great strength. What's wrong with it?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1533 #-#-# translate crowdin swistun_988c306f:
+msgid "[_su_] She didn't lie. You'll gain power that present day's shinobi can't match. You'll become extremely powerful."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1535 #-#-# translate crowdin swistun_90d06e40:
+msgid "[_su_] Unfortunately though, you'll lose yourself completely."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1537 #-#-# translate crowdin swistun_60381582:
+msgid "[_su_] What do you really want? I can see a human in you, with a desire to help people, with a desire to love."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1539 #-#-# translate crowdin swistun_9f5228d5:
+msgid "[_su_] But all these qualities are easy to lose."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1541 #-#-# translate crowdin swistun_0f25c197:
+msgid "[_su_] Are you ready to pay such a price?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1557 #-#-# translate crowdin yagotow_ccf6c799:
+msgid "[_su_] I guess I was wrong about you then."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1559 #-#-# translate crowdin yagotow_ceb308a1:
+msgid "[_su_] I mistook what I saw in you for what I hoped to see."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1563 #-#-# translate crowdin yagotow_605b584d:
+msgid "[_r_] Kamiko knows what's best. If she tells me to do this, I'll follow."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1565 #-#-# translate crowdin yagotow_6607b62e:
+msgid "[_r_] If she needs my power to protect this world, then I'm doing the right thing."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1569 #-#-# translate crowdin yagotow_80d0acd9:
+msgid "[_su_] From now on... This world... needs protection from you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1579 #-#-# translate crowdin predlagay_55a2afc4:
+msgid "[_su_] Let me go, give me an opportunity to escape."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1581 #-#-# translate crowdin predlagay_bcb5b102:
+msgid "[_su_] I'm a danger to Kamiko, not to you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1583 #-#-# translate crowdin predlagay_502cdbe3:
+msgid "[_su_] All this time I've been trying to figure out how to destroy her. And I've found a way."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1585 #-#-# translate crowdin predlagay_5185e7e3:
+msgid "[_su_] You won't be harmed. What's more, after she's dealt with, you'll live a good life, a life of a decent man."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1589 #-#-# translate crowdin predlagay_ce2b6250:
+msgid "[_r_] You can't hurt Kamiko, she..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1593 #-#-# translate crowdin predlagay_070602d2:
+msgid "[_su_] I know she's a monster with great power, but I've spent half my life researching her phenomenon."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1595 #-#-# translate crowdin predlagay_56949781:
+msgid "[_su_] She will disappear. And you will stay."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1599 #-#-# translate crowdin predlagay_ad1f710b:
+msgid "[_r_] But the girls... all of them... Hinata, Mirai, Kurenai... They feel attached to me because of Kamiko's power... If she's gone, what will I do..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1603 #-#-# translate crowdin predlagay_c55b556a:
+msgid "[_su_] Their feelings can't be changed. You gained access to them because of Kamiko's power, but who they've grown to love is you. And this can't be changed."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1605 #-#-# translate crowdin predlagay_f8fc980d:
+msgid "[_su_] Let me go, and you'll live a life you won't be ashamed of."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1621 #-#-# translate crowdin yaposeldalse_06f75c0f:
+msgid "[_su_] Don't make a mistake, you're so close to ending it all..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1625 #-#-# translate crowdin yaposeldalse_90867460:
+msgid "[_r_] Your words are so sweet... They're so full of hopes and dreams... But I don't believe it all."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1627 #-#-# translate crowdin yaposeldalse_6ea535a7:
+msgid "[_r_] Kamiko has been taking care of me this whole time. I won't let her down."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1631 #-#-# translate crowdin yaposeldalse_bfbe1bc2:
+msgid "[_su_] Too bad. The happy ending was so close."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1635 #-#-# translate crowdin yaposeldalse_a47f862a:
+msgid "[_r_] It's up to me to decide what the happy ending is."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1645 #-#-# translate crowdin yasmoguze_f5537804:
+msgid "[_su_] Yeah, if what you've already gotten is enough for you, you'll be fine."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1647 #-#-# translate crowdin yasmoguze_edecbd7c:
+msgid "[_su_] When I'm gone, you won't hear from Kamiko again."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1649 #-#-# translate crowdin yasmoguze_a62f90b2:
+msgid "[_su_] Settle down in the village, start a family with Mirai, or Kurenai, or both. Start a new life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1653 #-#-# translate crowdin yasmoguze_432f77dd:
+msgid "[_r_] I want to trust you so much..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1657 #-#-# translate crowdin yasmoguze_ed5c1263:
+msgid "[_su_] Just one step... I know it's hard... But you have to make this decision."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1671 #-#-# translate crowdin razwazat_4b1da891:
+msgid "[_r_] You... You've convinced me."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1673 #-#-# translate crowdin razwazat_469a6b30:
+msgid "[_r_] If it's really as you say, I'll trust it and just leave it all to you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1685 #-#-# translate crowdin gorlorez_7c08c9ef:
+msgid "[_r_] I want to believe you so badly... Whoever you are..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1689 #-#-# translate crowdin gorlorez_075c1d79:
+msgid "[_su_] Listen to your heart... While you're still human."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1693 #-#-# translate crowdin gorlorez_4306ba27:
+msgid "[_r_] I've listened."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1697 #-#-# translate crowdin gorlorez_560946ec:
+msgid "[_su_] Wai—"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1719 #-#-# translate crowdin otrezalemu_73544028:
+msgid "[_m_] No one decides what to do with my life... No one but me..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1721 #-#-# translate crowdin otrezalemu_bb8e8777:
+msgid "[_m_] I've done... What I was supposed to."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1723 #-#-# translate crowdin otrezalemu_d6a17e53:
+msgid "[_m_] Now that I've tasted his flesh..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1725 #-#-# translate crowdin otrezalemu_505ae1db:
+msgid "[_m_] I'll have the power."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1727 #-#-# translate crowdin otrezalemu_b766e421:
+msgid "[_m_] And with that power..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1729 #-#-# translate crowdin otrezalemu_ed92f6a9:
+msgid "[_m_] I'll never be useless again."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1752 #-#-# translate crowdin postadak_4fe1e800:
+msgid "[_su_] It's a big step towards your new life. I'm glad you did the right thing."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1756 #-#-# translate crowdin postadak_17337e42:
+msgid "[_r_] Who are you anyway? Will you tell me your name?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1760 #-#-# translate crowdin postadak_bc78cf54:
+msgid "[_su_] Perhaps I would have, but it doesn't matter now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1762 #-#-# translate crowdin postadak_ef107df1:
+msgid "[_su_] We'll never see each other again."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1764 #-#-# translate crowdin postadak_cb3fd4d1:
+msgid "[_su_] You'll never see Kamiko again."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1766 #-#-# translate crowdin postadak_4bf0f40b:
+msgid "[_su_] After I walk out of this old barn, you'll finally start a new life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1770 #-#-# translate crowdin postadak_17a23740:
+msgid "[_r_] I... I believe you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1774 #-#-# translate crowdin postadak_34427a5f:
+msgid "[_su_] I have one last favor to ask of you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1776 #-#-# translate crowdin postadak_494ff03f:
+msgid "[_su_] You don't have to agree, of course. But it would go a long way toward helping me find Kamiko right now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1778 #-#-# translate crowdin postadak_7e7db016:
+msgid "[_su_] It will make her much more vulnerable, weaker. If you do this, you may be doing me the biggest favor of my entire life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1782 #-#-# translate crowdin postadak_51e6ea0c:
+msgid "[_r_] What are you talking about?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1786 #-#-# translate crowdin postadak_a8ebd220:
+msgid "[_su_] Your power, use it on me. When you do, I will be able to feel her chakra flow with my sharingan."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1788 #-#-# translate crowdin postadak_94be886c:
+msgid "[_su_] I'll find her either way, she won't hide from me, but this way you'll make it all that much easier."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1792 #-#-# translate crowdin postadak_bd0b06f9:
+msgid "[_r_] It won't hurt me?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1796 #-#-# translate crowdin postadak_b4b3789e:
+msgid "[_su_] It will only hurt her."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1812 #-#-# translate crowdin prowokarte_15e4cfd5:
+msgid "[_r_] Okay, give me your hand, let's get this over with."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1826 #-#-# translate crowdin kmsmnnsdfnje_053a89b5:
+msgid "[_su_] Thank you... It'll be much easier for me now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1828 #-#-# translate crowdin kmsmnnsdfnje_758bfdca:
+msgid "[_su_] One last thing... Live a long and happy life, kid."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1830 #-#-# translate crowdin kmsmnnsdfnje_03fd415b:
+msgid "[_su_] Goodbye."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1840 #-#-# translate crowdin nedelatet_73ae705d:
+msgid "[_r_] No."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1842 #-#-# translate crowdin nedelatet_69470cd2:
+msgid "[_r_] I've already done more than you could ask of me..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1844 #-#-# translate crowdin nedelatet_afcdb55e:
+msgid "[_r_] If you want to end it, do it without my help."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1848 #-#-# translate crowdin nedelatet_50f75de8:
+msgid "[_su_] I understand."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1850 #-#-# translate crowdin nedelatet_97b11e29:
+msgid "[_su_] Too many hard decisions to make at once."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1852 #-#-# translate crowdin nedelatet_d7dc17e8:
+msgid "[_su_] Well, I hope you live a good life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1854 #-#-# translate crowdin nedelatet_5808881a:
+msgid "[_su_] Goodbye, kid."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1876 #-#-# translate crowdin taimskip_9832f190:
+msgid "[_mira_] Hey, have you seen mom?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1878 #-#-# translate crowdin taimskip_8d33925e:
+msgid "[_mira_] I didn't notice her leave at all."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1883 #-#-# translate crowdin taimskip_9551022b:
+msgid "[_r_] Yeah, Kurenai went out to buy flowers, tomorrow is the memorial day."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1888 #-#-# translate crowdin taimskip_80050a05:
+msgid "[_r_] You're going to visit your father, right?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1893 #-#-# translate crowdin taimskip_a2067d6e:
+msgid "[_mira_] Of course, we do so every year."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1895 #-#-# translate crowdin taimskip_10f30939:
+msgid "[_mira_] Are you coming with us?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1900 #-#-# translate crowdin taimskip_bba60c49:
+msgid "[_r_] Your mom asked me to come with you, too... But I don't even know if it's appropriate."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1905 #-#-# translate crowdin taimskip_69eaadc5:
+msgid "[_mira_] What's wrong with that? You're my boyfriend, practically a part of the family, I think dad would have loved it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1910 #-#-# translate crowdin taimskip_bc4a8253:
+msgid "[_r_] But your mom and I... Well, you know..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1915 #-#-# translate crowdin taimskip_7879f429:
+msgid "[_mira_] Come on, nobody except me knows about it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1920 #-#-# translate crowdin taimskip_bdb78495:
+msgid "[_mira_] You didn't become my boyfriend and move in with us to be afraid of other people's opinions, did you?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1922 #-#-# translate crowdin taimskip_cb599c70:
+msgid "[_m_] That's right. After that night, I made a big move."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1924 #-#-# translate crowdin taimskip_56718b2e:
+msgid "[_m_] I talked to Mirai, and she agreed to be my girlfriend."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1926 #-#-# translate crowdin taimskip_950cd040:
+msgid "[_m_] But we also had to tell Kurenai about it, which was quite awkward."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1933 #-#-# translate crowdin taimskip_a880f93c:
+msgid "[_r_] The thing is... Kurenai, your daughter and I have been very close for a long time..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1937 #-#-# translate crowdin taimskip_59f26034:
+msgid "[_r_] I realized that she was dear to me, so I decided to ask her to be my girlfriend."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1941 #-#-# translate crowdin taimskip_874b8efb:
+msgid "[_mira_] Mom... I know you were close to him too... We just feel such a deep connection, I really like him as a person."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1943 #-#-# translate crowdin taimskip_cb35a542:
+msgid "[_mira_] You won't be upset?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1947 #-#-# translate crowdin taimskip_d6857d71:
+msgid "[_kure_] Of course not, honey. As strange as it may sound, I'm glad there is now a man in your life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1949 #-#-# translate crowdin taimskip_c35b464c:
+msgid "[_kure_] You gave yourself whole to the way ninja. You did not spare any effort or nerves. I know how hard it is and what it can lead to, so I'm glad that you have someone to rely on."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1951 #-#-# translate crowdin taimskip_d7cdf4fe:
+msgid "[_kure_] [viname] a good guy, I hope everything goes well for you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1955 #-#-# translate crowdin taimskip_a9a09ed6:
+msgid "[_r_] Thank you, Kurenai. You're an amazing woman."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1959 #-#-# translate crowdin taimskip_6d786449:
+msgid "[_mira_] Thank you... I thought you'd be mad... Thank you so much for understanding me..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1963 #-#-# translate crowdin taimskip_dc92437e:
+msgid "[_kure_] I have a suggestion. Why don't you move in with us?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1967 #-#-# translate crowdin taimskip_a9ceb3ef:
+msgid "[_r_] Really? Is that what you want?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1971 #-#-# translate crowdin taimskip_faa2c653:
+msgid "[_kure_] Why not? We have a big house, plenty of land, lots of space. You'll help me with the chores. We could really use your help. You and Mirai can move into the big bedroom on the second floor."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1975 #-#-# translate crowdin taimskip_3a6dd55f:
+msgid "[_mira_] Indeed, why wait, it'll be cool to live together!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1979 #-#-# translate crowdin taimskip_a462d555:
+msgid "[_r_] O-okay... Since that's what you both want, let's do it!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1987 #-#-# translate crowdin taimskip_75804326:
+msgid "[_r_] Okay, you're right. I'll go with you, I guess there's nothing wrong with me being with you at a moment like this."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1991 #-#-# translate crowdin taimskip_64cede03:
+msgid "[_mira_] Right-right! And to motivate my hot guy, I have a few interesting ideas..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1995 #-#-# translate crowdin taimskip_db1003da:
+msgid "[_r_] Yeah? How interesting exactly?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1999 #-#-# translate crowdin taimskip_6bcecb22:
+msgid "[_mira_] Get undressed and get down on the floor, I'll show you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2003 #-#-# translate crowdin taimskip_56e1361b:
+msgid "[_r_] You get so slutty when Mommy's not home."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2007 #-#-# translate crowdin taimskip_147623c4:
+msgid "[_mira_] Shut up, pervert. I'm just showing my boyfriend how much I love him!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2016 #-#-# translate crowdin taimskip_6f8979b3:
+msgid "[_mira_] How do you like your young girlfriend's body? Admit it, you're the happiest man in the world, aren't you?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2020 #-#-# translate crowdin taimskip_28a8001f:
+msgid "[_r_] You read my mind, I was just thinking how lucky I am to have such a beautiful girl."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2024 #-#-# translate crowdin taimskip_75636c3e:
+msgid "[_mira_] Well, that's what you should be thinking. No wonder I trained my body for so long."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2026 #-#-# translate crowdin taimskip_636df681:
+msgid "[_mira_] It's all yours now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2028 #-#-# translate crowdin taimskip_18e7625e:
+msgid "[_mira_] You can look, touch, kiss, and do whatever you want to me!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2053 #-#-# translate crowdin kwizard124_211b239b:
+msgid "[_m_] Again..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2055 #-#-# translate crowdin kwizard124_da8edd73:
+msgid "[_m_] Fuck... This is so creepy..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2057 #-#-# translate crowdin kwizard124_b68c8753:
+msgid "[_m_] Why am I seeing more and more of this?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2059 #-#-# translate crowdin kwizard124_ec4930ab:
+msgid "[_m_] Stupid thoughts, get out of my head!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2065 #-#-# translate crowdin kwizard124_d74e8f24:
+msgid "[_mira_] Hey, with that expression? There's such a pretty girl in front of you, and you're making faces?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2069 #-#-# translate crowdin kwizard124_b3eeddfb:
+msgid "[_r_] I'm sorry, pretty girl. I just remembered the dinner you made last night. Now that wasn't pretty..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2073 #-#-# translate crowdin kwizard124_9afd7e79:
+msgid "[_mira_] Shut up! I'll drain you dry for saying that!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2077 #-#-# translate crowdin kwizard124_d9c1531f:
+msgid "[_r_] Well, get on with it!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2088 #-#-# translate crowdin bezwarik_cd53792d:
+msgid "[_r_] Whatever I want, you said?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2090 #-#-# translate crowdin bezwarik_c94e8b64:
+msgid "[_r_] Then how about you get off that tight ass of yours, put my cock in your pussy so we can finally start fucking?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2094 #-#-# translate crowdin bezwarik_46b4fa8e:
+msgid "[_mira_] So impatient, you don't even let me tease you properly."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2096 #-#-# translate crowdin bezwarik_d10432ee:
+msgid "[_mira_] Well hold on then, I want to be on top tonight!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2115 #-#-# translate crowdin sekaskekask_a4099599:
+msgid "[_mira_] Mm-hmm... Take your time..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2117 #-#-# translate crowdin sekaskekask_f75f9b00:
+msgid "[_mira_] We still have time..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2119 #-#-# translate crowdin sekaskekask_72812795:
+msgid "[_mira_] You do know... how long it takes mom to fiddle with the flowers..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2125 #-#-# translate crowdin sekaskekask_febf433e:
+msgid "[_r_] It's hard to hold back when I'm inside you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2127 #-#-# translate crowdin sekaskekask_ea49fc38:
+msgid "[_mira_] Try harder then..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2129 #-#-# translate crowdin sekaskekask_f5364bd8:
+msgid "[_r_] How about I try fucking you harder instead?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2131 #-#-# translate crowdin sekaskekask_3b3f745b:
+msgid "[_mira_] Do your worst!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2139 #-#-# translate crowdin sekaskekask_69f6c9cd:
+msgid "[_mira_] Yes! Yes! Keep going like this! I'm so close!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2141 #-#-# translate crowdin sekaskekask_0269675a:
+msgid "[_r_] Cum, baby! Then get on your knees!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2143 #-#-# translate crowdin sekaskekask_bbd667d5:
+msgid "[_mira_] I'm cumming!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2145 #-#-# translate crowdin sekaskekask_6e57f122:
+msgid "[_r_] I'm almost there! Come on!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2156 #-#-# translate crowdin sekaskekask_24f2e4c3:
+msgid "[_r_] You are so pretty... Just a little more..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2158 #-#-# translate crowdin sekaskekask_061d6348:
+msgid "[_r_] You look awesome from this angle..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2162 #-#-# translate crowdin sekaskekask_2b00e120:
+msgid "[_mira_] Do it! Cum all over my face!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2166 #-#-# translate crowdin sekaskekask_5f05e6b9:
+msgid "[_r_] Just a little more!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2168 #-#-# translate crowdin sekaskekask_e08fbc3f:
+msgid "[_r_] Take it!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2180 #-#-# translate crowdin sekaskekask_1b000d51:
+msgid "[_mira_] Hey! Good job aiming!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2182 #-#-# translate crowdin sekaskekask_cc08eca4:
+msgid "[_mira_] Now my eye will get red!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2184 #-#-# translate crowdin sekaskekask_73951d80:
+msgid "[_mira_] Ah, should've just made you cum in my mouth like you always do."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2188 #-#-# translate crowdin sekaskekask_b803b96b:
+msgid "[_r_] Shit... Sorry, baby, I must have closed my eyes when I came."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2192 #-#-# translate crowdin sekaskekask_be8a7609:
+msgid "[_mira_] You dumbass! Aim better next time!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2196 #-#-# translate crowdin sekaskekask_ff356e7c:
+msgid "[_r_] You know it yourself. I've always been bad at throwing kunai."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2200 #-#-# translate crowdin sekaskekask_cb5f5664:
+msgid "[_mira_] Fuck it, we'll work on your accuracy later."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2209 #-#-# translate crowdin sekaskekask_6027777a:
+msgid "[_r_] You know Mirai, we've started having unprotected sex quite often..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2211 #-#-# translate crowdin sekaskekask_2e4f1693:
+msgid "[_r_] You've been off the pill for a long time."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2216 #-#-# translate crowdin sekaskekask_d0599b12:
+msgid "[_mira_] Yeah, the pills have a bad effect on my health. I don't want this to affect my performance on missions..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2218 #-#-# translate crowdin sekaskekask_f51fc1aa:
+msgid "[_mira_] They began trusting me with A-rank missions along with jonin. I'll probably get promoted eventually..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2223 #-#-# translate crowdin sekaskekask_85c3d575:
+msgid "[_r_] You're doing a great job, I can see how hard you're trying, but..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2228 #-#-# translate crowdin sekaskekask_c569ea9a:
+msgid "[_r_] You realize you could get pregnant, right?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2233 #-#-# translate crowdin sekaskekask_4a6a97a5:
+msgid "[_mira_] Yes. Of course I do."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2238 #-#-# translate crowdin sekaskekask_15ff2e2c:
+msgid "[_r_] You're taking a risk."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2243 #-#-# translate crowdin sekaskekask_1db9c0f2:
+msgid "[_mira_] Risk? What are you talking about? You're my beloved boyfriend, I trust you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2248 #-#-# translate crowdin sekaskekask_292ab589:
+msgid "[_r_] Trust me enough to get pregnant?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2253 #-#-# translate crowdin sekaskekask_33a0692d:
+msgid "[_mira_] Well, yeah. We haven't talked about it before, but honestly, I wouldn't mind having a baby with you..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2258 #-#-# translate crowdin sekaskekask_bdfbb5f7:
+msgid "[_r_] Wow... But pregnancy and a baby will put you a long way away from getting that rank you want so badly."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2263 #-#-# translate crowdin sekaskekask_f34df287:
+msgid "[_mira_] Don't worry about it. In such cases, kunoichi can take a long maternity leave, which does not affect one's rank upon return."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2268 #-#-# translate crowdin sekaskekask_1e6c75b8:
+msgid "[_r_] But a child is such a big responsibility..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2273 #-#-# translate crowdin sekaskekask_03820c39:
+msgid "[_mira_] So what? You'll be a great daddy. Moreover, we have my mom. She'll be happy to babysit the grandkids."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2278 #-#-# translate crowdin sekaskekask_d2b9fda1:
+msgid "[_r_] So you're serious about this, huh?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2283 #-#-# translate crowdin sekaskekask_8d5acaa3:
+msgid "[_mira_] You bet I am. I'd like that very much!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2298 #-#-# translate crowdin retedgf_5062bd2b:
+msgid "[_r_] I can't tell you that I share your desire of this..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2300 #-#-# translate crowdin retedgf_cdf2f3a5:
+msgid "[_r_] After all, it's a massive responsibility for us right now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2302 #-#-# translate crowdin retedgf_497a8ce2:
+msgid "[_r_] But I'll think about it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2307 #-#-# translate crowdin retedgf_297dd0d8:
+msgid "[_mira_] Sure. In any case, keep in mind that I am not against it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2312 #-#-# translate crowdin retedgf_e7c25539:
+msgid "[_r_] Of course, Mirai."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2323 #-#-# translate crowdin oinsvclra_05855331:
+msgid "[_r_] You know what... I'd like that, too. More than anything."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2325 #-#-# translate crowdin oinsvclra_65fd2a71:
+msgid "[_r_] When we have a baby, we'll become a complete family!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2330 #-#-# translate crowdin oinsvclra_748ca9ed:
+msgid "[_mira_] Well... Not quite complete... I don't see a ring on my finger, you know."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2335 #-#-# translate crowdin oinsvclra_2e8558bf:
+msgid "[_r_] Should I count this as a proposal?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2340 #-#-# translate crowdin oinsvclra_62850ce4:
+msgid "[_mira_] Maybe..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2375 #-#-# translate crowdin sonenan_38a64786:
+msgid "[_kure_] Are you ready?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2380 #-#-# translate crowdin sonenan_8b9ef26f:
+msgid "[_r_] Yes, of course, but are you sure you want me to come?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2385 #-#-# translate crowdin sonenan_499a7ea8:
+msgid "[_kure_] Yes."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2387 #-#-# translate crowdin sonenan_a5f717cd:
+msgid "[_kure_] You're like a new family member to us. I've been wanting to introduce you to my husband for a long time."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2392 #-#-# translate crowdin sonenan_a7cfa464:
+msgid "[_r_] Okay, if that's what you want, I'll go with you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2401 #-#-# translate crowdin sonenan_2f9c7ac9:
+msgid "[_m_] Many heroes of the past are buried in this place."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2403 #-#-# translate crowdin sonenan_177f66de:
+msgid "[_m_] A special place... With a special energy."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2405 #-#-# translate crowdin sonenan_efb52397:
+msgid "[_m_] The respect this village has for its heroes... It certainly is something..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2407 #-#-# translate crowdin sonenan_8ad4d2c7:
+msgid "[_kure_] We're doing well, Asuma."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2409 #-#-# translate crowdin sonenan_ac533fa9:
+msgid "[_kure_] Life goes by quietly and slowly, with its minutes of joy and sadness."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2411 #-#-# translate crowdin sonenan_511ba770:
+msgid "[_kure_] I often think of you and your sacrifice for all of us."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2413 #-#-# translate crowdin sonenan_3fa6d611:
+msgid "[_kure_] I still love and treasure the memory of you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2415 #-#-# translate crowdin sonenan_8f65cdba:
+msgid "[_mira_] I'm doing well, too, Dad..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2417 #-#-# translate crowdin sonenan_1117687f:
+msgid "[_mira_] I'm successful at my missions. The village and the Hokage trust me."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2419 #-#-# translate crowdin sonenan_e910cb45:
+msgid "[_mira_] I've become a shinobi worthy of the Sarutobi family name."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2421 #-#-# translate crowdin sonenan_8e5b3ea5:
+msgid "[_mira_] I am still proud of you and love you with all my heart..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2423 #-#-# translate crowdin sonenan_f526d9bb:
+msgid "[_kure_] Also, an important person has come into our lives, a man."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2425 #-#-# translate crowdin sonenan_2b858e68:
+msgid "[_mira_] His name is [viname], and he's my boyfriend."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2427 #-#-# translate crowdin sonenan_b45f7080:
+msgid "[_kure_] He is a very kind and caring man, he helps us with everything we need."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2429 #-#-# translate crowdin sonenan_5161c5d5:
+msgid "[_mira_] Say something [viname]..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2431 #-#-# translate crowdin sonenan_2449016d:
+msgid "[_r_] Hello, Asuma... You have a wonderful daughter and a great wife... I promise to take care of them with all due respect."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2433 #-#-# translate crowdin sonenan_591c90f0:
+msgid "[_mira_] We all love you very much, Daddy, and remember you often."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2435 #-#-# translate crowdin sonenan_4790d8ed:
+msgid "[_kure_] Rest in peace, my love."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2437 #-#-# translate crowdin sonenan_1ded2170:
+msgid "[_mira_] Sleep well, Daddy."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2448 #-#-# translate crowdin sonenan_09430ee4:
+msgid "[_kure_] I've already told you but... Thank you for sharing this moment with us..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2453 #-#-# translate crowdin sonenan_941ce013:
+msgid "[_r_] Sure, no problem, it was my pleasure to support you, too."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2458 #-#-# translate crowdin sonenan_5905e1fd:
+msgid "[_kure_] You're a good guy... We're lucky to have you..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2463 #-#-# translate crowdin sonenan_2bf997c8:
+msgid "[_r_] There, there, come here."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2470 #-#-# translate crowdin sonenan_bacbcf04:
+msgid "[_r_] You've done a lot for me too. Accepting me, caring for me. I see it all and appreciate it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2474 #-#-# translate crowdin sonenan_2d3390f6:
+msgid "[_kure_] Have you thought about the future? What's going to happen to us next?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2476 #-#-# translate crowdin sonenan_8f85b2e6:
+msgid "[_kure_] My daughter is very happy with you and I accept that, but how do you feel?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2490 #-#-# translate crowdin nsnvbu4_62c8f79d:
+msgid "[_r_] I don't know..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2492 #-#-# translate crowdin nsnvbu4_7d634a45:
+msgid "[_r_] You and Mirai are very dear to me... I want to take care of you, but I don't know what will happen next."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2494 #-#-# translate crowdin nsnvbu4_f23ae1dd:
+msgid "[_r_] There are also things in my past and present that I clearly have to deal with..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2498 #-#-# translate crowdin nsnvbu4_1b9be8ec:
+msgid "[_kure_] I noticed a long time ago that you're no simple guy. I hope you can deal with everything that's bothering you and..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2500 #-#-# translate crowdin nsnvbu4_0051c72b:
+msgid "[_kure_] Stay with us..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2504 #-#-# translate crowdin nsnvbu4_4d06e9a4:
+msgid "[_r_] I really hope so too..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2517 #-#-# translate crowdin snvgbve_991df1d8:
+msgid "[_r_] I love your daughter, Kurenai. And, of course, I love you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2519 #-#-# translate crowdin snvgbve_00ffbc74:
+msgid "[_r_] I really want to stay with you and be one big family."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2521 #-#-# translate crowdin snvgbve_e1fe1a61:
+msgid "[_r_] You know, I'm thinking of proposing to Mirai. We've talked about it a little, I think she wouldn't mind..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2525 #-#-# translate crowdin snvgbve_c63b6337:
+msgid "[_kure_] It will make her happy. If you decide to take this big step, I will support you and help with whatever is coming."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2529 #-#-# translate crowdin snvgbve_1b7d091e:
+msgid "[_r_] Are you ready for all of this? In spite of what happened between us in the past?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2533 #-#-# translate crowdin snvgbve_d0d5e50b:
+msgid "[_kure_] It's nothing. I only want the best for my daughter. You are a good and caring man, I would want you to make her happy."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2537 #-#-# translate crowdin snvgbve_2a0685af:
+msgid "[_r_] How about you? Will you be happy?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2541 #-#-# translate crowdin snvgbve_d640a46d:
+msgid "[_kure_] Seeing her happy with you makes me the happiest person in the world myself."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2545 #-#-# translate crowdin snvgbve_b81eb947:
+msgid "[_r_] I want you to know that even though I love your daughter, I still love and desire you as a woman..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2549 #-#-# translate crowdin snvgbve_f25eae36:
+msgid "[_kure_] Honey... You are making things so complicated..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2551 #-#-# translate crowdin snvgbve_ae9ac17d:
+msgid "[_kure_] I desire you too, but Mirai's happiness comes first for me..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2555 #-#-# translate crowdin snvgbve_2c2f725e:
+msgid "[_r_] I want to ask you... If I can convince Mirai to have the same relationship with you as with her, will you agree to it?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2559 #-#-# translate crowdin snvgbve_d08d6300:
+msgid "[_kure_] She already knows about us, and we talked about it earlier, without you... It wasn't an easy conversation."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2563 #-#-# translate crowdin snvgbve_219a6420:
+msgid "[_r_] What did you decide on?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2567 #-#-# translate crowdin snvgbve_99d129a0:
+msgid "[_kure_] I decided to step back. I told her that if she loves you, then eventually you'll be a complete family."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2569 #-#-# translate crowdin snvgbve_82de8949:
+msgid "[_kure_] She was grateful for my understanding, but said that we could be a family all together... Whatever that means..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2573 #-#-# translate crowdin snvgbve_70bff9e1:
+msgid "[_r_] So you're okay with it?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2577 #-#-# translate crowdin snvgbve_c292891c:
+msgid "[_kure_] If Mirai says that's what she wants, I'll be fine with it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2581 #-#-# translate crowdin snvgbve_dfee174f:
+msgid "[_r_] Okay, I'll talk to her."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2606 #-#-# translate crowdin ver024pomog_c19e023b:
+msgid "[_m_] He was right after all."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2608 #-#-# translate crowdin ver024pomog_a6467c40:
+msgid "[_m_] I still have a chance for a happy ending."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2610 #-#-# translate crowdin ver024pomog_f57ddaca:
+msgid "[_m_] Kamiko hasn't shown up all this time, which makes me happy."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2612 #-#-# translate crowdin ver024pomog_55066f3c:
+msgid "[_m_] Sometimes I feel guilty about this, but deep inside I realize that I didn't choose to come into this world in the first place."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2614 #-#-# translate crowdin ver024pomog_f35cfcd1:
+msgid "[_m_] Even though it's been fun, I've been through some terrifying things."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2616 #-#-# translate crowdin ver024pomog_b56f6d9b:
+msgid "[_m_] Thanks to all that thinking before bed and reflecting on everything that's happened to me since the beginning of the journey..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2618 #-#-# translate crowdin ver024pomog_b270d750:
+msgid "[_m_] I realized that Kamiko really was a monster."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2620 #-#-# translate crowdin ver024pomog_61a2856f:
+msgid "[_m_] She said she wanted to protect people from being killed, but she killed a team of Anbu and the entire family at the hotel without any hesitation."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2622 #-#-# translate crowdin ver024pomog_19e4867e:
+msgid "[_m_] She said she valued me, but it was from her that I constantly felt the greatest threat to my life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2624 #-#-# translate crowdin ver024pomog_d45c8a67:
+msgid "[_m_] When she disappeared, a heavy weight fell from my shoulders that I probably wouldn't have been able to carry for long."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2626 #-#-# translate crowdin ver024pomog_1a9f766a:
+msgid "[_m_] Everything is clear and simple now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2628 #-#-# translate crowdin ver024pomog_edba0b34:
+msgid "[_m_] I'm finally truly appreciated and loved."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2635 #-#-# translate crowdin ver024pomog_3e3dfb49:
+msgid "[_m_] When Mirai became pregnant, I proposed to her, and soon we had a modest wedding."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2637 #-#-# translate crowdin ver024pomog_4e9cec76:
+msgid "[_m_] Only the closest relatives came, many of whom I had already gotten to know well being Mirai's boyfriend."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2639 #-#-# translate crowdin ver024pomog_d375a6f2:
+msgid "[_m_] Oddly enough, Hinata and Naruto came too. I'm still in close contact with Hinata, we even had sex a couple of times, but I've decided to call it quits."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2641 #-#-# translate crowdin ver024pomog_e5d9af9e:
+msgid "[_m_] I don't want to lose what I hold now so dearly. A real family."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2648 #-#-# translate crowdin ver024pomog_5537b656:
+msgid "[_m_] We're going to have a baby in a little while, which will probably be the biggest event in my life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2650 #-#-# translate crowdin ver024pomog_01b834a8:
+msgid "[_m_] Mirai and Kurenai have been very gentle and caring towards me. They will be a great mom and a perfect grandmother. I have no doubt about that."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2652 #-#-# translate crowdin ver024pomog_85442ecb:
+msgid "[_m_] I used to really think of it all as a big adventure, I thought it was an opportunity to do things I would never have been able to do in my old life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2654 #-#-# translate crowdin ver024pomog_f17af772:
+msgid "[_m_] Now I think if my adventure ends this way, with family and love, I wouldn't mind at all."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2669 #-#-# translate crowdin ver024ubil_55bb1b82:
+msgid "[_m_] It's been a really long time..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2671 #-#-# translate crowdin ver024ubil_e7bbafd5:
+msgid "[_m_] I think I've been here too long."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2673 #-#-# translate crowdin ver024ubil_43f656ff:
+msgid "[_m_] Kamiko's been bugging me about the delay from time to time."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2675 #-#-# translate crowdin ver024ubil_33d96d03:
+msgid "[_m_] But with every hot sex with the girls, I can feel my strength growing."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2677 #-#-# translate crowdin ver024ubil_3c78a662:
+msgid "[_m_] When I killed that old man, when I tasted his flesh, I was very scared, but over time I got used to the feeling."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2679 #-#-# translate crowdin ver024ubil_162b5fb6:
+msgid "[_m_] The terrifying images in my head haven't gone away, there are even more of them now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2681 #-#-# translate crowdin ver024ubil_ba178228:
+msgid "[_m_] But I guess that's the price the old man was talking about."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2683 #-#-# translate crowdin ver024ubil_66d68e1a:
+msgid "[_m_] No big deal, I'm getting stronger. I feel like I can beat anyone."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2685 #-#-# translate crowdin ver024ubil_5c791565:
+msgid "[_m_] I'm getting access to new abilities, combat abilities."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2687 #-#-# translate crowdin ver024ubil_715dd787:
+msgid "[_m_] I always thought my job was to work in the shadows, to help Kamiko by winning these kunoichi over."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2689 #-#-# translate crowdin ver024ubil_7b0fe203:
+msgid "[_m_] But with my new powers, I can actually be useful in battle..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2691 #-#-# translate crowdin ver024ubil_9ed9eca6:
+msgid "[_m_] If this keeps up, I'll be able to stand up to Otsutsuki on my own, give them a real fight."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2693 #-#-# translate crowdin ver024ubil_0429faf9:
+msgid "[_m_] Kamiko told me Momoshiki should be arriving soon."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2695 #-#-# translate crowdin ver024ubil_934f6aba:
+msgid "[_m_] She told me that it's strictly forbidden for me to interfere with the course of events, I'm not allowed to kill him. After all, it's up to Boruto to deal with him."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2697 #-#-# translate crowdin ver024ubil_f044fb57:
+msgid "[_m_] But just when I think about how much chakra he must have... How high quality and strong it is... I feel like going against Kamiko's words..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2699 #-#-# translate crowdin ver024ubil_72e582dc:
+msgid "[_m_] When I kill him, absorb his chakra, I will gain so much power that the need for Boruto to save humanity in the future will disappear..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2701 #-#-# translate crowdin ver024ubil_6d8c886d:
+msgid "[_m_] I can do it all myself... I can protect everyone..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2703 #-#-# translate crowdin ver024ubil_a092f638:
+msgid "[_m_] I can do it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2739 #-#-# translate crowdin oimsvnnnd4_c6f2bab5:
+msgid "[_kure_] [viname], please make sure Mirai doesn't get a heat stroke..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2741 #-#-# translate crowdin oimsvnnnd4_5e1041a4:
+msgid "[_kure_] God... This is such a bad idea..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2746 #-#-# translate crowdin oimsvnnnd4_569020cc:
+msgid "[_r_] Don't worry, Kurenai. It's just a little steam and hot water, nothing bad will happen to her. I'll be around all the time anyway."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2748 #-#-# translate crowdin oimsvnnnd4_fb121d68:
+msgid "[_r_] She's not at a late stage, she won't give birth that soon."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2753 #-#-# translate crowdin oimsvnnnd4_3deb2e38:
+msgid "[_kure_] She's always been overconfident, just please keep an eye on her..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2758 #-#-# translate crowdin oimsvnnnd4_70554885:
+msgid "[_r_] I promise."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2765 #-#-# translate crowdin oimsvnnnd4_263e0269:
+msgid "[_mira_] Have somebody been discussing me behind my back?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2770 #-#-# translate crowdin oimsvnnnd4_e305cdac:
+msgid "[_r_] Kurenai's worried about you, yet you are as calm as always."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2775 #-#-# translate crowdin oimsvnnnd4_49f5896c:
+msgid "[_mira_] Mom, stop worrying about me. We've talked about this."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2780 #-#-# translate crowdin oimsvnnnd4_0f5458b9:
+msgid "[_kure_] I know, I know... But I just can't stop, you're so vulnerable at this stage..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2785 #-#-# translate crowdin oimsvnnnd4_3e92a81a:
+msgid "[_mira_] Well, I'll have [viname] with me! It won't be a big deal!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2790 #-#-# translate crowdin oimsvnnnd4_238afc2d:
+msgid "[_r_] Exactly, leave it all to me!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2795 #-#-# translate crowdin oimsvnnnd4_540fb1e0:
+msgid "[_mira_] Let's go already! It's not every day we rent out the whole hot springs for one night. I want to be there for the entire time we have!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2800 #-#-# translate crowdin oimsvnnnd4_01d63e2f:
+msgid "[_r_] Yeah, I've grabbed everything we need, let's go honey."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2805 #-#-# translate crowdin oimsvnnnd4_428d826c:
+msgid "[_mira_] Don't miss us, Mom! If you change your mind, you can still join us at the springs, they'll let you in!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2810 #-#-# translate crowdin oimsvnnnd4_80909c6e:
+msgid "[_kure_] I don't like high temperatures lately. Have fun out there without me."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2825 #-#-# translate crowdin oimsvnnnd4_66735264:
+msgid "[_mira_] So, darling, you ready for some steam?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2829 #-#-# translate crowdin oimsvnnnd4_966e74e2:
+msgid "[_r_] You betcha! But are you sure high temperatures won't affect you in a bad way?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2833 #-#-# translate crowdin oimsvnnnd4_dddf28b7:
+msgid "[_mira_] I am sure! I know well what my body is capable of. Let's go!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2851 #-#-# translate crowdin neybewkaist_31713875:
+msgid "[_mira_] It's so nice being here, especially when it's with my husband..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2855 #-#-# translate crowdin neybewkaist_07ac70e5:
+msgid "[_r_] Agreed, I do love these springs, I already feel at home here. But now that we're in the same pool and there are no old sweaty men around, it's even better!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2859 #-#-# translate crowdin neybewkaist_0a9a60fe:
+msgid "[_mira_] I never thought I would allow myself to relax so much... Mirai from the past would've scolded me right now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2863 #-#-# translate crowdin neybewkaist_46a307ac:
+msgid "[_r_] But Mirai from the future will thank you. Everyone needs to relax sometimes, especially since you're pregnant."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2867 #-#-# translate crowdin neybewkaist_a4851c20:
+msgid "[_mira_] And you're going to be a daddy, aren't you? Gonna babysit the child and everything, lucky me."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2871 #-#-# translate crowdin neybewkaist_74ce24b1:
+msgid "[_r_] As it turns out, I'm quite ready! No matter how many kids we have, I'll be happy."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2875 #-#-# translate crowdin neybewkaist_a4f9c603:
+msgid "[_mira_] You know, I'd like a big family... I used to think I'd just have a baby, give it to my mom and go on with my career, but..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2877 #-#-# translate crowdin neybewkaist_8ed8917c:
+msgid "[_mira_] With pregnancy and all this thinking about the future. I'm starting to want other things..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2881 #-#-# translate crowdin neybewkaist_3e0111c1:
+msgid "[_r_] But being a shinobi has always been your dream, hasn't it?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2885 #-#-# translate crowdin neybewkaist_a85b62b9:
+msgid "[_mira_] Yes, for a long time. I felt like it was my duty, I'm from the Sarutobi family, which means I have to be strong, I have to live up to someone's expectations..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2887 #-#-# translate crowdin neybewkaist_c32a10e0:
+msgid "[_mira_] But the further you and I go, the more I realize that... It's all in the past."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2889 #-#-# translate crowdin neybewkaist_a858b879:
+msgid "[_mira_] I want a family, I want to be a mom, I want you to be a dad."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2891 #-#-# translate crowdin neybewkaist_cc95bca4:
+msgid "[_mira_] Especially since we'll never have to work and earn money... Our family inheritance is huge, there's enough money for several generations..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2895 #-#-# translate crowdin neybewkaist_7172b602:
+msgid "[_r_] So it's true? Your family really has some savings?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2899 #-#-# translate crowdin neybewkaist_83bd61fa:
+msgid "[_mira_] Our family! You're part of it now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2901 #-#-# translate crowdin neybewkaist_3633173f:
+msgid "[_mira_] My grandfather was Hokage for a long time, but as my mom told me, that wasn't the only thing he was doing."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2903 #-#-# translate crowdin neybewkaist_88a8db5d:
+msgid "[_mira_] Grandpa used his influence and connections to do business outside Konoha. In fact, he was all busy with work after the fourth took his place."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2907 #-#-# translate crowdin neybewkaist_d3e60a46:
+msgid "[_r_] I get it now, Hiruzen was a businessman."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2911 #-#-# translate crowdin neybewkaist_518e730e:
+msgid "[_mira_] Grandpa left a huge inheritance that was divided between our families, so my mom and I never knew what hard times were like."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2915 #-#-# translate crowdin neybewkaist_ee89f3e8:
+msgid "[_r_] Since you say it's gonna be like this, I believe you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2917 #-#-# translate crowdin neybewkaist_f6b623ec:
+msgid "[_r_] You want to be a full-time mommy? Please, I'll always be here for you, I'll be your shoulder to lean on."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2921 #-#-# translate crowdin neybewkaist_842e6495:
+msgid "[_mira_] Thank you..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2923 #-#-# translate crowdin neybewkaist_83bccf3d:
+msgid "[_mira_] You're a very good person... I would do anything with you!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2927 #-#-# translate crowdin neybewkaist_39133228:
+msgid "[_r_] Anything you say? Like, absolutely anything?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2931 #-#-# translate crowdin neybewkaist_912c6766:
+msgid "[_mira_] Oh, that's a familiar tone... Someone's craving his pregnant wife here?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2935 #-#-# translate crowdin neybewkaist_b69d60af:
+msgid "[_r_] Why not? We fuck all the time, now I want you even more!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2939 #-#-# translate crowdin neybewkaist_01ada941:
+msgid "[_mira_] Come here honey! Right now I can still take you, but soon it will be over!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2943 #-#-# translate crowdin neybewkaist_8fe9c8e9:
+msgid "[_r_] I know, that's why I want to fuck you as often as possible."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2955 #-#-# translate crowdin ubewkaist_86a063de:
+msgid "[_mira_] I love this place!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2957 #-#-# translate crowdin ubewkaist_9add6ae5:
+msgid "[_mira_] Relaxing here with you, without thinking of anything and without any secrets is so nice!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2961 #-#-# translate crowdin ubewkaist_bdac4583:
+msgid "[_r_] Yeah, I feel so refreshed each time after the springs. It's a damn good thing."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2965 #-#-# translate crowdin ubewkaist_d1bc2202:
+msgid "[_mira_] Very soon I'll give birth to our baby. Do you want to name it?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2969 #-#-# translate crowdin ubewkaist_71d92212:
+msgid "[_r_] Haven't thought about it... We don't even have any idea if it's going to be a boy or a girl."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2971 #-#-# translate crowdin ubewkaist_37051159:
+msgid "[_r_] Did you think of something?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2975 #-#-# translate crowdin ubewkaist_4b586c3c:
+msgid "[_mira_] I want you to give our baby a name! You're the father!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2979 #-#-# translate crowdin ubewkaist_3fd642ac:
+msgid "[_r_] I guess I'll have to come up with one."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2983 #-#-# translate crowdin ubewkaist_1b9bc547:
+msgid "[_mira_] You know, sometimes I feel a little sad..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2987 #-#-# translate crowdin ubewkaist_970b96ef:
+msgid "[_r_] Why?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:2991 #-#-# translate crowdin ubewkaist_f1629d4a:
+msgid "[_mira_] I didn't want to be so blunt about it, but you seem more and more distant..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2993 #-#-# translate crowdin ubewkaist_f14e6756:
+msgid "[_mira_] I'm about to have your baby, and it's like you have your head in the clouds..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:2997 #-#-# translate crowdin ubewkaist_ab38ddfb:
+msgid "[_r_] I'm sorry... I've just been thinking about a lot of things lately."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3001 #-#-# translate crowdin ubewkaist_b9077c4d:
+msgid "[_mira_] I'm your girlfriend, aren't I? Why don't you tell me what's bothering you?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3005 #-#-# translate crowdin ubewkaist_14139c15:
+msgid "[_r_] Don't ask me how I know, but there's a disaster coming, a huge disaster."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3007 #-#-# translate crowdin ubewkaist_5881c697:
+msgid "[_r_] Everyone in the village is in danger, including you and Kurenai, and our future child, of course..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3011 #-#-# translate crowdin ubewkaist_f7989719:
+msgid "[_mira_] What are you talking about? What kind of danger could it be?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3015 #-#-# translate crowdin ubewkaist_e9689b7c:
+msgid "[_r_] I can't tell you now, but in the future you'll find out for yourself..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3019 #-#-# translate crowdin ubewkaist_a0cd3f32:
+msgid "[_mira_] If we are in danger, then something must be done about it..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3023 #-#-# translate crowdin ubewkaist_36798167:
+msgid "[_m_] I will protect you... You and Kurenai... And Hinata with the others..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3025 #-#-# translate crowdin ubewkaist_e2f5a5a3:
+msgid "[_m_] I'll do anything to keep you safe..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3027 #-#-# translate crowdin ubewkaist_d5f1ff93:
+msgid "[_mira_] Don't you hear me? Shouldn't we do something about it?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3029 #-#-# translate crowdin ubewkaist_89416565:
+msgid "[_m_] I'll kill every enemy, I won't let anyone hurt you, I'll..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3033 #-#-# translate crowdin ubewkaist_69435603:
+msgid "[_mira_] [viname]!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3037 #-#-# translate crowdin ubewkaist_a0a04a43:
+msgid "[_r_] Huh? Yes..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3039 #-#-# translate crowdin ubewkaist_90e13c08:
+msgid "[_r_] Don't worry, let's just rest now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3043 #-#-# translate crowdin ubewkaist_d61f376c:
+msgid "[_mira_] Silly, you say such strange things sometimes..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3047 #-#-# translate crowdin ubewkaist_34281ac8:
+msgid "[_r_] I'm sorry, I don't know what's gotten into me. Sometimes I feel anxious, don't mind me."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3051 #-#-# translate crowdin ubewkaist_291ebdb4:
+msgid "[_mira_] In case you've forgotten, I'm your pregnant girlfriend! You can't be scaring me like this! Apologize right now!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3055 #-#-# translate crowdin ubewkaist_81631201:
+msgid "[_r_] I'm sorry, I'm sorry!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3057 #-#-# translate crowdin ubewkaist_52bc17da:
+msgid "[_r_] You know, I can think of a better way to apologize."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3061 #-#-# translate crowdin ubewkaist_b783b7d7:
+msgid "[_mira_] What, you just saw me naked, and you can't help it already?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3065 #-#-# translate crowdin ubewkaist_92457e79:
+msgid "[_r_] I can't, you're too gorgeous!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3069 #-#-# translate crowdin ubewkaist_ada36c16:
+msgid "[_mira_] There, I can't resist you when you're so cute, come here!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3088 #-#-# translate crowdin nugoseksikss4_35cc3d43:
+msgid "[_r_] Is that comfortable for you? It's not the easiest position."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3090 #-#-# translate crowdin nugoseksikss4_07e89232:
+msgid "[_mira_] Yes! Stop thinking! Just keep going like that!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3092 #-#-# translate crowdin nugoseksikss4_3579ac87:
+msgid "[_r_] Okay, let's try speeding up."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3096 #-#-# translate crowdin nugoseksikss4_8a75aba1:
+msgid "[_mira_] That's it..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3098 #-#-# translate crowdin nugoseksikss4_14779918:
+msgid "[_mira_] Great... Feels great..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3100 #-#-# translate crowdin nugoseksikss4_4975c965:
+msgid "[_r_] Good girl... Keep moving your hips like that!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3104 #-#-# translate crowdin nugoseksikss4_1dc04737:
+msgid "[_r_] Good pace..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3106 #-#-# translate crowdin nugoseksikss4_44040fe5:
+msgid "[_mira_] Mmm... It's so nice... But a little hard for me..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3108 #-#-# translate crowdin nugoseksikss4_801e4340:
+msgid "[_r_] Lie down, leave the rest to me."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3119 #-#-# translate crowdin nugoseksikss4_157b9490:
+msgid "[_r_] That's it baby, now I can take you fully!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3121 #-#-# translate crowdin nugoseksikss4_438801d2:
+msgid "[_mira_] Yeah... Fuck me however you want!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3125 #-#-# translate crowdin nugoseksikss4_d83ec1d6:
+msgid "[_mira_] Yes! Yes!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3127 #-#-# translate crowdin nugoseksikss4_65c6f2de:
+msgid "[_mira_] Strangle me a little harder!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3129 #-#-# translate crowdin nugoseksikss4_49c8af64:
+msgid "[_mira_] Fuck me harder!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3133 #-#-# translate crowdin nugoseksikss4_b5301215:
+msgid "[_mira_] Aaah! Yes!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3135 #-#-# translate crowdin nugoseksikss4_decf5905:
+msgid "[_mira_] Come on! Don't spare me!!!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3137 #-#-# translate crowdin nugoseksikss4_d6960d25:
+msgid "[_r_] You asked for it!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3155 #-#-# translate crowdin wsetutanasie_7fc9738c:
+msgid "[_mira_] Fuck... That feels so good..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3157 #-#-# translate crowdin wsetutanasie_9679d885:
+msgid "[_mira_] Keep going! Keep going!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3159 #-#-# translate crowdin wsetutanasie_dd3dcbfb:
+msgid "[_r_] It feels so good inside!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3161 #-#-# translate crowdin wsetutanasie_89985d08:
+msgid "[_r_] I can't keep going so fast!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3163 #-#-# translate crowdin wsetutanasie_690bb5e3:
+msgid "[_r_] I'm about to cum!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3165 #-#-# translate crowdin wsetutanasie_d897bdc1:
+msgid "[_mira_] Come on! Cum inside me!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3167 #-#-# translate crowdin wsetutanasie_d8fde5d7:
+msgid "[_r_] Now!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3169 #-#-# translate crowdin wsetutanasie_2a80e69f:
+msgid "[_r_] A little more!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3188 #-#-# translate crowdin wsetutanasie_2c9cb72b:
+msgid "[_mira_] So what, ready to leave? Didn't forget anything?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3192 #-#-# translate crowdin wsetutanasie_056bee2f:
+msgid "[_r_] Yep, got everything packed."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3194 #-#-# translate crowdin wsetutanasie_f95e2bcf:
+msgid "[_r_] It was nice."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3198 #-#-# translate crowdin wsetutanasie_9aaa37a5:
+msgid "[_mira_] Well, we could drop by here even more often after the baby's born."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3202 #-#-# translate crowdin wsetutanasie_27a15717:
+msgid "[_r_] You know what?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3206 #-#-# translate crowdin wsetutanasie_20b8ab1e:
+msgid "[_mira_] Huh?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3210 #-#-# translate crowdin wsetutanasie_f8a456e1:
+msgid "[_r_] I love you. Thank you for our future baby."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3214 #-#-# translate crowdin wsetutanasie_da987145:
+msgid "[_mira_] Oh, come on stop with this..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3218 #-#-# translate crowdin wsetutanasie_4367d51b:
+msgid "[_mira_] When we get back home, I'll call my mom, and we'll get you!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3222 #-#-# translate crowdin wsetutanasie_e9561d3a:
+msgid "[_r_] Hey, is that a threat?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3226 #-#-# translate crowdin wsetutanasie_8d20fa06:
+msgid "[_mira_] Well, if having sex with two beautiful women is a threat to you, then yes. I am pretty much threatening you!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3230 #-#-# translate crowdin wsetutanasie_5f98711d:
+msgid "[_r_] I think I could get used to that!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3242 #-#-# translate crowdin uenakmamnna_511089b3:
+msgid "[_mira_] Fuck... This feels so good..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3244 #-#-# translate crowdin uenakmamnna_9679d885:
+msgid "[_mira_] Keep going! Keep going!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3246 #-#-# translate crowdin uenakmamnna_bf74da72:
+msgid "[_r_] Fuck! It feels so... So good!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3248 #-#-# translate crowdin uenakmamnna_5a9824c5:
+msgid "[_mira_] Come on!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3250 #-#-# translate crowdin uenakmamnna_85c5dc48:
+msgid "[_r_] More! More! More! More!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3252 #-#-# translate crowdin uenakmamnna_e9a913fb:
+msgid "[_mira_] W-wait..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3262 #-#-# translate crowdin uenakmamnna_2b163dcb:
+msgid "[_mira_] N-not so..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3264 #-#-# translate crowdin uenakmamnna_4c303791:
+msgid "[_mira_] H-hard..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3270 #-#-# translate crowdin uenakmamnna_b19f46bf:
+msgid "[_mira_] Sto-oh-oh-ooop..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3272 #-#-# translate crowdin uenakmamnna_ef7aa509:
+msgid "[_m_] More! MORE! MORE! MORE! MORE!!!!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3276 #-#-# translate crowdin uenakmamnna_6345db26:
+msgid "[_m_] Harder! Harder! Harder! HARDER! HARDER! HARDER! HARDER! HARDER! HARDER!!! HARDER!!! HARDER!!!! HARDER!!!!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3278 #-#-# translate crowdin uenakmamnna_19bbcb8e:
+msgid "[_m_] YES!!! NOW!!!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3286 #-#-# translate crowdin uenakmamnna_9ad53928:
+msgid "[_r_] W-what..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3288 #-#-# translate crowdin uenakmamnna_ed912e80:
+msgid "[_r_] No..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3290 #-#-# translate crowdin uenakmamnna_c3969fa6:
+msgid "[_r_] Mirai..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3292 #-#-# translate crowdin uenakmamnna_b5c73e8a:
+msgid "[_r_] Mirai!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3294 #-#-# translate crowdin uenakmamnna_45ca93e9:
+msgid "[_r_] It can't be..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3296 #-#-# translate crowdin uenakmamnna_b2e673dc:
+msgid "[_r_] What have I done?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3298 #-#-# translate crowdin uenakmamnna_3abaef34:
+msgid "[_r_] She's n-not breathing."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3300 #-#-# translate crowdin uenakmamnna_4b5a532e:
+msgid "[_r_] What do I do... What do I do... What do I do!?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3302 #-#-# translate crowdin uenakmamnna_ace45897:
+msgid "[_r_] Kamiko. Kamiko! I have to call her!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3318 #-#-# translate crowdin uenakmamnna_f85b9de8:
+msgid "[_ka_] I brought you some water. Tell me, how do you feel now?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3322 #-#-# translate crowdin uenakmamnna_89d3f231:
+msgid "[_r_] It h-hurts..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3326 #-#-# translate crowdin uenakmamnna_d5cea3f6:
+msgid "[_ka_] On the inside?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3330 #-#-# translate crowdin uenakmamnna_44ae9c18:
+msgid "[_r_] My body... Arms... Legs... Neck..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3332 #-#-# translate crowdin uenakmamnna_bdca53de:
+msgid "[_r_] E-everything feels like it's on fire!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3336 #-#-# translate crowdin uenakmamnna_306b9b90:
+msgid "[_ka_] You're overflowing with chakra."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3338 #-#-# translate crowdin uenakmamnna_824bb6b2:
+msgid "[_ka_] You're changing."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3342 #-#-# translate crowdin uenakmamnna_26f1fbb5:
+msgid "[_r_] W-where are we?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3346 #-#-# translate crowdin uenakmamnna_e948d4bd:
+msgid "[_ka_] We're a long way from Konoha, in the wasteland, in an underground torture chamber that's been here since ancient times."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3350 #-#-# translate crowdin uenakmamnna_019c3022:
+msgid "[_r_] I did... Mirai... Why..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3354 #-#-# translate crowdin uenakmamnna_f4798cb3:
+msgid "[_ka_] There's something awakening inside you. Something I hoped you'd never have... Gluttony..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3361 #-#-# translate crowdin uenakmamnna_e4ac579b:
+msgid "[_ka_] I used to have it too but suppressed it with great difficulty many hundreds of years ago."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3363 #-#-# translate crowdin uenakmamnna_cf83a975:
+msgid "[_ka_] Since you possess my chakra, gluttony manifested itself and adapted in you when you absorbed a huge amount of chakra from the old man."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3367 #-#-# translate crowdin uenakmamnna_6aeed741:
+msgid "[_r_] Chakra... Ch-chakra..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3371 #-#-# translate crowdin uenakmamnna_50be95a0:
+msgid "[_ka_] I'm a beast, but I can control this horrible form thanks to my strong body and chakra control, but you..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3373 #-#-# translate crowdin uenakmamnna_ea6acbe8:
+msgid "[_ka_] I didn't think the change would happen so soon..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3375 #-#-# translate crowdin uenakmamnna_3d400224:
+msgid "[_ka_] My sweet boy..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3379 #-#-# translate crowdin uenakmamnna_1f146db5:
+msgid "[_r_] How could I... Mirai... Chakra..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3383 #-#-# translate crowdin uenakmamnna_2487e01d:
+msgid "[_ka_] I should have noticed earlier... But I was too carried away with summoning a new pawn..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3385 #-#-# translate crowdin uenakmamnna_61ab700c:
+msgid "[_ka_] All this time you've been quietly adapting to the highest stage of chakra absorption, and when the adaptation was over, it was enough for you to kill to get the chakra you so desired..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3389 #-#-# translate crowdin uenakmamnna_d1c045eb:
+msgid "[_r_] I... w-want... for... t-the pain... to s-stop..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3393 #-#-# translate crowdin uenakmamnna_2fb86371:
+msgid "[_ka_] Forgive me. Child..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3395 #-#-# translate crowdin uenakmamnna_896fc2a7:
+msgid "[_ka_] I promise you'll be all right."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3397 #-#-# translate crowdin uenakmamnna_e55cc1d6:
+msgid "[_ka_] You're not going to die."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3399 #-#-# translate crowdin uenakmamnna_3b580e31:
+msgid "[_ka_] One day you'll contribute to our victory."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3413 #-#-# translate crowdin uenakmamnna_fc7f0e89:
+msgid "[_ri_] Do we have to take this monster into battle now?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3417 #-#-# translate crowdin uenakmamnna_a1036361:
+msgid "[_ka_] He's not a monster, he's my precious son."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3421 #-#-# translate crowdin uenakmamnna_48b4ae51:
+msgid "[_ri_] Disgusting..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3425 #-#-# translate crowdin uenakmamnna_48a38b9f:
+msgid "[_ka_] [viname]... The time has finally come..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3427 #-#-# translate crowdin uenakmamnna_91939834:
+msgid "[_ka_] Today, my boy, you will finally go into battle!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3429 #-#-# translate crowdin uenakmamnna_3ac84202:
+msgid "[_ka_] You will protect everyone you wanted to protect!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3433 #-#-# translate crowdin uenakmamnna_7c8153bb:
+msgid "[_ri_] Are you sure THIS can be controlled?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3437 #-#-# translate crowdin uenakmamnna_4e5294e4:
+msgid "[_ka_] My boy doesn't need to be controlled. But if he does want to absorb the chakra of ordinary people, the chain I created will hold him back."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3441 #-#-# translate crowdin uenakmamnna_d81374c1:
+msgid "[_ri_] Never mind, he'll die fighting Otsutsuki anyway."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3445 #-#-# translate crowdin uenakmamnna_41057485:
+msgid "[_ka_] Maybe... But at least..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3452 #-#-# translate crowdin uenakmamnna_1550757c:
+msgid "[_ka_] At least [viname] will accomplish his mission."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3506 #-#-# translate crowdin ob25veras_3102b6b2:
+msgid "[_m_] The preparations for my wife's labor arre in full swing. Constant trips to the hospital, tests, it's all become routine for us."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3508 #-#-# translate crowdin ob25veras_9f6fb09d:
+msgid "[_m_] The doctors say we're having a boy. My first child, my son... I keep thinking, will I be able to become a good father for him?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3510 #-#-# translate crowdin ob25veras_69c7ea2a:
+msgid "[_m_] My past is rather shady. I was transported here from a completely different world. I'm the one who helped the woman from Otsutsuki. I don't even know if I've been doing anything good here so far."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3512 #-#-# translate crowdin ob25veras_902f3ada:
+msgid "[_m_] Will my son be safe around me?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3514 #-#-# translate crowdin ob25veras_760bdf5a:
+msgid "[_m_] Or does it not matter at all? Perhaps my past should be put aside... I've just got to leave it behind and never forget it. Start my life all over, like the old man said."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3516 #-#-# translate crowdin ob25veras_6673b2e3:
+msgid "[_m_] That's probably the only right thing to do. If I don't pull myself together, I'm not the only one who's gonna have a hard time. I'm not alone now, nor am I shackled by the fear of death."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3518 #-#-# translate crowdin ob25veras_f7f7f235:
+msgid "[_m_] Now I have a family. And this family is going to grow bigger and bigger."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3520 #-#-# translate crowdin ob25veras_372e22c4:
+msgid "[_m_] After all, you were right, old man. You didn't tell me the whole truth, but now I can read between the lines what you were trying to say."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3522 #-#-# translate crowdin ob25veras_2b30f592:
+msgid "[_m_] It doesn't matter who I was in the past. It's who I'm going to be for my family in the future that matters."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3524 #-#-# translate crowdin ob25veras_42f9ebab:
+msgid "[_m_] Thank you, whoever you were."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3533 #-#-# translate crowdin ob25veras_111b536a:
+msgid "[_r_] Is he kicking? Or am I the one going crazy?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3537 #-#-# translate crowdin ob25veras_69669253:
+msgid "[_mira_] He sure is. The boy is gonna be energetic, it seems."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3541 #-#-# translate crowdin ob25veras_e2e5865a:
+msgid "[_r_] He'll definitely have your personality then. I remember being the quietest baby in the universe. At least that's what my mom told me."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3545 #-#-# translate crowdin ob25veras_21ada36e:
+msgid "[_mira_] Oh, I hope you're wrong, if he's going to take after me, you and I won't be able to sleep a night."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3549 #-#-# translate crowdin ob25veras_2714beb0:
+msgid "[_r_] No matter how loud our Mamoru will be, I'll help you with everything."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3553 #-#-# translate crowdin ob25veras_aa188cb1:
+msgid "[_mira_] So it's Mamoru after all? I thought you wanted to name him Yuchi."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3557 #-#-# translate crowdin ob25veras_387e6252:
+msgid "[_r_] And I changed my mind. Yuchi isn't a bad name, but I feel like you were right. Mamoru would suit him better."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3561 #-#-# translate crowdin ob25veras_c79e1da4:
+msgid "[_mira_] You know, this is our first child. Whatever I want to name him, you as a man have to make your own decision, and I'll accept any choice you make, love."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3565 #-#-# translate crowdin ob25veras_24fb3a9e:
+msgid "[_r_] I'll give it some more thought... and... I love you, Mirai... Thank you for trusting me with such an important choice."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3569 #-#-# translate crowdin ob25veras_2707aa3f:
+msgid "[_mira_] How could I not? Your choice will always be the most important to me, until the end."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3571 #-#-# translate crowdin ob25veras_48582310:
+msgid "[_mira_] Are you hungry? Would you like your wife to fix you something?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3575 #-#-# translate crowdin ob25veras_93da63f2:
+msgid "[_r_] Oh, well, if it's not too much trouble. I could really use a snack."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3579 #-#-# translate crowdin ob25veras_77629540:
+msgid "[_mira_] Let's go to the kitchen, I'll see what I can do."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3587 #-#-# translate crowdin ob25veras_603a1ce6:
+msgid "[_mira_] Seems like we don't have a lot of food left. Would you like a sandwich?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3589 #-#-# translate crowdin ob25veras_0a187ec5:
+msgid "[_mira_] We should definitely do some groceries tomorrow."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3594 #-#-# translate crowdin ob25veras_4aea27f9:
+msgid "[_r_] A sandwich sounds great, I was just thinking of something simple."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3599 #-#-# translate crowdin ob25veras_f21d0426:
+msgid "[_mira_] It'll be ready in a moment, dear."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3601 #-#-# translate crowdin ob25veras_8524bc19:
+msgid "[_mira_] Go ahead and wait in the living room, I'll bring it all to you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3606 #-#-# translate crowdin ob25veras_b0ede5bd:
+msgid "[_r_] Thank you, my love!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3619 #-#-# translate crowdin ob25veras_f3c814a1:
+msgid "[_mira_] Enjoy your meal, honey. I've added some of your favorite sauce."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3623 #-#-# translate crowdin ob25veras_3ec67b7f:
+msgid "[_r_] Thanks, Mirai. It looks scrumptious!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3627 #-#-# translate crowdin ob25veras_b6c13151:
+msgid "[_mira_] Relax and eat up. Let your wife serve you as you deserve..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3631 #-#-# translate crowdin ob25veras_6a0088b3:
+msgid "[_r_] Oh... Do you... wanna get to it again?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3635 #-#-# translate crowdin ob25veras_411ef161:
+msgid "[_mira_] Shh... Just enjoy your food, I'll get it done."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3644 #-#-# translate crowdin ob25veras_fe97c956:
+msgid "[_m_] I love her surprise blowjobs, she's really been spoiling me a lot lately."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3646 #-#-# translate crowdin ob25veras_732fc268:
+msgid "[_m_] Maybe it's just the pregnancy that's affecting her, but she's become very gentle and submissive."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3648 #-#-# translate crowdin ob25veras_14cca664:
+msgid "[_m_] Always trying to please me, always trying to make me happy."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3650 #-#-# translate crowdin ob25veras_fb55f0d3:
+msgid "[_m_] It's not like I'm gonna complain... I just hope it doesn't suddenly end..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3656 #-#-# translate crowdin ob25veras_0f0e31e1:
+msgid "[_r_] You're doing a hell of a job..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3658 #-#-# translate crowdin ob25veras_4f0d8575:
+msgid "[_r_] The sandwich is really good too!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3660 #-#-# translate crowdin ob25veras_becaaeb7:
+msgid "[_r_] Mmmm... Keep going, honey..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3666 #-#-# translate crowdin ob25veras_e4ead197:
+msgid "[_mira_] Aw you enshoying ish?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3668 #-#-# translate crowdin ob25veras_f9db2fce:
+msgid "[_r_] I sure do... You're just the best..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3670 #-#-# translate crowdin ob25veras_80d45ac1:
+msgid "[_r_] That's so... good..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3676 #-#-# translate crowdin ob25veras_7aac47ba:
+msgid "[_mira_] Cum... in my moush!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3678 #-#-# translate crowdin ob25veras_3d8c61d8:
+msgid "[_r_] Sure! I... I think I'm almost ready..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3680 #-#-# translate crowdin ob25veras_41bafefa:
+msgid "[_r_] Keep working with your tongue like that, yeah..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3682 #-#-# translate crowdin ob25veras_38604908:
+msgid "[_r_] Don't slow down!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3684 #-#-# translate crowdin ob25veras_acceeecb:
+msgid "[_mira_] Come on! Fill my moush witsh cum!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3696 #-#-# translate crowdin ob25veras_40d39307:
+msgid "[_m_] Just how much... I love my life..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3698 #-#-# translate crowdin ob25veras_74140cd7:
+msgid "[_m_] Am I really not in paradise?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3706 #-#-# translate crowdin ob25veras_5b26bd2c:
+msgid "[_mira_] Thanks for the treat, honey."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3711 #-#-# translate crowdin ob25veras_e0418186:
+msgid "[_r_] You've really been spoiling me lately..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3716 #-#-# translate crowdin ob25veras_5f167bb7:
+msgid "[_mira_] Of course! You're my husband, it'll always be like that."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3721 #-#-# translate crowdin ob25veras_14e02d05:
+msgid "[_r_] You're teasing me..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3723 #-#-# translate crowdin ob25veras_b3fd119e:
+msgid "[_r_] Your words alone make my dick go hard again!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3728 #-#-# translate crowdin ob25veras_e45ba2fe:
+msgid "[_mira_] Does my husband crave his pregnant wife once again?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3733 #-#-# translate crowdin ob25veras_959142ee:
+msgid "[_r_] He sure does..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3752 #-#-# translate crowdin bezkurenai_e63080c0:
+msgid "[_mira_] Well, what are you waiting for? Come and take me! I can sure still take you!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3757 #-#-# translate crowdin bezkurenai_b3349177:
+msgid "[_r_] You don't have to ask me twice!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3759 #-#-# translate crowdin bezkurenai_a7514e05:
+msgid "[_r_] Get on all fours, I can't wait any longer!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3767 #-#-# translate crowdin bezkurenai_860ec344:
+msgid "[_mira_] Careful... Let's take it slow..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3769 #-#-# translate crowdin bezkurenai_3b227a54:
+msgid "[_mira_] I do want you, but don't rush it, please..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3771 #-#-# translate crowdin bezkurenai_94fa51fa:
+msgid "[_r_] Is this alright? I'll go in slowly, okay?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3773 #-#-# translate crowdin bezkurenai_b1354427:
+msgid "[_mira_] Uh-huh... Come on, put it in..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3779 #-#-# translate crowdin bezkurenai_6ff16dc2:
+msgid "[_r_] Just like that... Are you feeling good?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3781 #-#-# translate crowdin bezkurenai_799f4176:
+msgid "[_mira_] Yeah... I don't feel any discomfort... It feels good!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3783 #-#-# translate crowdin bezkurenai_fc732e14:
+msgid "[_mira_] Go on, get to it!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3789 #-#-# translate crowdin bezkurenai_bdf5a165:
+msgid "[_r_] Fuck! I love it when you're so slutty!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3791 #-#-# translate crowdin bezkurenai_320be80c:
+msgid "[_mira_] I'm all yours! Fuck me harder!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3793 #-#-# translate crowdin bezkurenai_51481278:
+msgid "[_mira_] I've got used to it! Come on!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3799 #-#-# translate crowdin bezkurenai_86891355:
+msgid "[_mira_] YES! YES!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3801 #-#-# translate crowdin bezkurenai_14366467:
+msgid "[_mira_] Fuck me! Keep going!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3803 #-#-# translate crowdin bezkurenai_9e318692:
+msgid "[_r_] Come over herre! I want to see your face!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3805 #-#-# translate crowdin bezkurenai_7f264ad9:
+msgid "[_mira_] Sure! Let me just lie down like this!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3813 #-#-# translate crowdin bezkurenai_c69cae9c:
+msgid "[_mira_] Yes! Yes! Yes!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3815 #-#-# translate crowdin bezkurenai_f488520f:
+msgid "[_mira_] God! That feels so good! Fuck!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3817 #-#-# translate crowdin bezkurenai_b276e6c3:
+msgid "[_r_] I'm gonna cum inside!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3819 #-#-# translate crowdin bezkurenai_9a0575ee:
+msgid "[_mira_] Cum anywhere you want! In any of my holes!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3821 #-#-# translate crowdin bezkurenai_35714a28:
+msgid "[_r_] Just a little more!!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3823 #-#-# translate crowdin bezkurenai_c183a53f:
+msgid "[_mira_] I love you! I love you! COME ON, DO IT!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3829 #-#-# translate crowdin bezkurenai_77551cac:
+msgid "[_mira_] MMMMMMMMMMMMMM!!!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3831 #-#-# translate crowdin bezkurenai_7fc7574f:
+msgid "[_mira_] It's all inside me... I love it..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3841 #-#-# translate crowdin bezkurenai_2c175790:
+msgid "[_mira_] How's that? Am I taking care of my beloved husband's needs well enough?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3845 #-#-# translate crowdin bezkurenai_27741091:
+msgid "[_r_] Oh, Mirai... more than enough!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3847 #-#-# translate crowdin bezkurenai_0a12b7d8:
+msgid "[_r_] I couldn't even dream of such a perfect wife!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3851 #-#-# translate crowdin bezkurenai_6adff7c8:
+msgid "[_mira_] What a smooth talker you've become!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3853 #-#-# translate crowdin bezkurenai_edd11bc3:
+msgid "[_mira_] But I'm in a good mood, so this time I'll believe you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3857 #-#-# translate crowdin bezkurenai_c8dbc1ab:
+msgid "[_r_] I love you so much!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3859 #-#-# translate crowdin bezkurenai_9ec0d98f:
+msgid "[_r_] It took some effort, but I found the most romantic record we have. Do you want to listen to it?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3863 #-#-# translate crowdin bezkurenai_ce135007:
+msgid "[_mira_] Oh... Are you inviting me for a dance again?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3867 #-#-# translate crowdin bezkurenai_d8a1862e:
+msgid "[_r_] You got it right!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3869 #-#-# translate crowdin bezkurenai_1ac17f71:
+msgid "[_r_] It's on the bottom shelf, in a fresh package. Put it on, I'll be right down!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3873 #-#-# translate crowdin bezkurenai_13d29f81:
+msgid "[_mira_] Okay, waiting for you, my love!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3892 #-#-# translate crowdin skurenai_ca11e03b:
+msgid "[_r_] But there's enough of my love for the two of you tonight... if you know what I mean..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3897 #-#-# translate crowdin skurenai_5b4ae7ce:
+msgid "[_mira_] Do you want to call her?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3902 #-#-# translate crowdin skurenai_75e2d5f5:
+msgid "[_r_] Yes... You'll work as a team tonight. You don't mind, do you?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3907 #-#-# translate crowdin skurenai_309f2dba:
+msgid "[_mira_] Of course not. Go to bed, I'll call her."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3916 #-#-# translate crowdin skurenai_04de48ff:
+msgid "[_kure_] You're in the mood tonight, aren't you?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3921 #-#-# translate crowdin skurenai_fc9aa862:
+msgid "[_r_] More than ever! It's been a while since the three of us did this."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3923 #-#-# translate crowdin skurenai_75ea019c:
+msgid "[_mira_] A long time? Honey, it's only been three days!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3925 #-#-# translate crowdin skurenai_8dd7f48b:
+msgid "[_r_] Such gorgeous women should be fucked every day!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3930 #-#-# translate crowdin skurenai_e4eab818:
+msgid "[_kure_] I don't know where you get the strength for the two of us, but I like it..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3935 #-#-# translate crowdin skurenai_a4f3fb7e:
+msgid "[_kure_] Lie down, we'll get it all done!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3937 #-#-# translate crowdin skurenai_bbecfe02:
+msgid "[_kure_] Come on, Mirai. Don't keep your husband waiting. We have to get his cock ready for work."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3939 #-#-# translate crowdin skurenai_e2585851:
+msgid "[_mira_] I'm in for it!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3949 #-#-# translate crowdin skurenai_02832757:
+msgid "[_m_] I just love it when these two team up together..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3951 #-#-# translate crowdin skurenai_4732e475:
+msgid "[_m_] Every motion is so coordinated... They always manage to polish every inch of my cock."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3953 #-#-# translate crowdin skurenai_c897b701:
+msgid "[_m_] Never forgetting the balls, too... Doing everything they can to make me feel their love."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3959 #-#-# translate crowdin skurenai_6135d085:
+msgid "[_kure_] Salivate it more, Mirai. Quit slacking off!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3961 #-#-# translate crowdin skurenai_9c838731:
+msgid "[_mira_] I know!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3963 #-#-# translate crowdin skurenai_4682c451:
+msgid "[_m_] Kurenai is always so attentive to detail! Experience does make a difference!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3969 #-#-# translate crowdin skurenai_ecb32776:
+msgid "[_m_] They're so damn good... at this..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3971 #-#-# translate crowdin skurenai_22343c4f:
+msgid "[_m_] I'm going to cum any second now... if I don't control myself..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3973 #-#-# translate crowdin skurenai_62921469:
+msgid "[_m_] But I can't! I have to fuck them properly!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3975 #-#-# translate crowdin skurenai_a858e120:
+msgid "[_r_] That's enough, girls!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3977 #-#-# translate crowdin skurenai_05b66221:
+msgid "[_r_] Come here, Kurenai, I want to fuck you first!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3979 #-#-# translate crowdin skurenai_a1d93a85:
+msgid "[_kure_] Uh-huh!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3989 #-#-# translate crowdin skurenai_83ef75b6:
+msgid "[_m_] I love fucking Kurenai right in front of Mirai..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3991 #-#-# translate crowdin skurenai_0174fcc6:
+msgid "[_m_] At first, Mirai was uneasy, even a little embarrassed, but she quickly got used to it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:3993 #-#-# translate crowdin skurenai_e9ad4ca9:
+msgid "[_m_] Now these two want to have a threesome more often than I do!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:3999 #-#-# translate crowdin skurenai_249e0d1b:
+msgid "[_m_] We agreed that I wouldn't cum inside Kurenai, and everything would be fine."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4001 #-#-# translate crowdin skurenai_3fcb0de3:
+msgid "[_m_] Kurenai doesn't want to have any more kids, and Mirai gets a little jealous if I don't cum inside her."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4003 #-#-# translate crowdin skurenai_540393b8:
+msgid "[_m_] I don't mind it all, really. The main thing is that they're both totally into sex. I love it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4009 #-#-# translate crowdin skurenai_7662a70d:
+msgid "[_r_] Kurenai..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4011 #-#-# translate crowdin skurenai_74127a51:
+msgid "[_r_] That was just too good... Come one, get on top of my face."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4013 #-#-# translate crowdin skurenai_a1d93a85_1:
+msgid "[_kure_] Uh-huh!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4015 #-#-# translate crowdin skurenai_1aa4996b:
+msgid "[_r_] It's your turn, Mirai. Your favorite seat is ready for you!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4017 #-#-# translate crowdin skurenai_640d9de3:
+msgid "[_mira_] Good! You may cum anytime you want, honey!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4025 #-#-# translate crowdin skurenai_3e91e21b:
+msgid "[_m_] When they're not busy with my cock, they just won't stop kissing each other."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4027 #-#-# translate crowdin skurenai_6daff118:
+msgid "[_m_] I love the sound of them kissing, it's so fucking hot!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4029 #-#-# translate crowdin skurenai_014ebfbe:
+msgid "[_m_] I'm not sure if they do it that loud on purpose... but I like it!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4031 #-#-# translate crowdin skurenai_8ccd7c57:
+msgid "[_r_] Mirai... honey... I'm about to..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4033 #-#-# translate crowdin skurenai_c1ebabf7:
+msgid "[_mira_] It's okay, honey! Cum inside me!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4035 #-#-# translate crowdin skurenai_df1f7f68:
+msgid "[_r_] Yes, I'm almost there!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4037 #-#-# translate crowdin skurenai_c59aac5a:
+msgid "[_mira_] Come on! Come on! Fill me up!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4043 #-#-# translate crowdin skurenai_7ded41c3:
+msgid "[_m_] That felt so good... And to think that we do this almost every day..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4053 #-#-# translate crowdin skurenai_d56d61f1:
+msgid "[_kure_] That was fun, my sweethearts. But I'm gonna go downstairs and fix us some dinner."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4055 #-#-# translate crowdin skurenai_d43ccabb:
+msgid "[_kure_] Today is your favorite veal, Mirai."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4060 #-#-# translate crowdin skurenai_070dcfe9:
+msgid "[_mira_] Thank you! Want me to help you?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4065 #-#-# translate crowdin skurenai_06a238cd:
+msgid "[_kure_] No, no. Just relax with your husband, I'll take care of it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4070 #-#-# translate crowdin skurenai_c0abf6b4:
+msgid "[_r_] Thank you, Kurenai. We love you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4075 #-#-# translate crowdin skurenai_3cfa48d3:
+msgid "[_kure_] And I love you two!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4089 #-#-# translate crowdin skurenai_4b48bf62:
+msgid "[_mira_] Do you want to just lie around?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4094 #-#-# translate crowdin skurenai_072aaeb0:
+msgid "[_r_] How about we... Well, you know what I'm talking about."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4099 #-#-# translate crowdin skurenai_8e13039c:
+msgid "[_mira_] Of course! I'll run downstairs and put your favorite record on then!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4104 #-#-# translate crowdin skurenai_633d8669:
+msgid "[_r_] Okay! I'll take a quick shower and come downstairs in a second."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4109 #-#-# translate crowdin skurenai_5d188f2a:
+msgid "[_mira_] I'll be waiting, love!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4114 #-#-# translate crowdin skurenai_e5e24c56:
+msgid "[_r_] I won't keep you waiting!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4131 #-#-# translate crowdin noupredat_71d89c64:
+msgid "[_r_] That's it, darling. One leg steps back, the back is kept straight..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4135 #-#-# translate crowdin noupredat_14b46896:
+msgid "[_mira_] You're a great teacher! Ever thought of opening your own ballet school?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4139 #-#-# translate crowdin noupredat_83c929de:
+msgid "[_r_] Oh, please. I'm but an amateur!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4143 #-#-# translate crowdin noupredat_1b06e468:
+msgid "[_mira_] Where'd you learn to dance so skillfully, amateur?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4147 #-#-# translate crowdin noupredat_fd6ae79f:
+msgid "[_r_] Well, you know... It doesn't take much skill to dance with the love of your life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4149 #-#-# translate crowdin noupredat_612e6205:
+msgid "[_r_] It's just feeling the rhythm, looking into the loving eyes, and getting lost in the moment."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4153 #-#-# translate crowdin noupredat_493e032d:
+msgid "[_mira_] You're so sweet... You're gonna make me cry..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4157 #-#-# translate crowdin noupredat_87de61e1:
+msgid "[_r_] Don't hold back then. You're free to be weak and sensitive next to me."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4161 #-#-# translate crowdin noupredat_0b72a228:
+msgid "[_mira_] But it's only for a while! As long as I'm pregnant! Later, I'll be a strong and responsible shinobi once more."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4165 #-#-# translate crowdin noupredat_9476b652:
+msgid "[_r_] Of course, of course, honey... Whatever you become, I'll always be there for you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4169 #-#-# translate crowdin noupredat_e913987e:
+msgid "[_mira_] You will... you will never leave me... right...?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4173 #-#-# translate crowdin noupredat_2a6f4b55:
+msgid "[_r_] Nothing can make me leave my beloved wife."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4175 #-#-# translate crowdin noupredat_31a977de:
+msgid "[_r_] That's a promise!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4182 #-#-# translate crowdin noupredat_44eb7e00:
+msgid "[_ri_] So, how's he special?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4184 #-#-# translate crowdin noupredat_92a46947:
+msgid "[_ka_] Why did you think there was anything special about him?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4186 #-#-# translate crowdin noupredat_9a80b8c0:
+msgid "[_ri_] You decided to check on him before leaving the Land of Fire."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4188 #-#-# translate crowdin noupredat_617a3925:
+msgid "[_ri_] Isn't that enough?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4190 #-#-# translate crowdin noupredat_1c2939e4:
+msgid "[_ka_] Maybe you're right."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4192 #-#-# translate crowdin noupredat_fcd240e9:
+msgid "[_ka_] [viname] was my first experiment. The first one who didn't die after traveling through space."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4194 #-#-# translate crowdin noupredat_6ee474bd:
+msgid "[_ri_] I managed to do that too."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4196 #-#-# translate crowdin noupredat_aa4571e8:
+msgid "[_ka_] That's why we're leaving."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4198 #-#-# translate crowdin noupredat_e3b9a0a4:
+msgid "[_ri_] I don't understand it, why didn't you kill him? He freed the damn old man."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4200 #-#-# translate crowdin noupredat_4507e7f0:
+msgid "[_ri_] Doesn't he deserve to die?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4202 #-#-# translate crowdin noupredat_d756d085:
+msgid "[_ka_] Maybe he does, maybe he does not. Either way, I don't want to see him die."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4204 #-#-# translate crowdin noupredat_482ae0d6:
+msgid "[_ka_] He made that choice driven by fear. I can understand him."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4206 #-#-# translate crowdin noupredat_c00d85cd:
+msgid "[_ka_] With your arrival and the old man's death, our plans have changed course anyway."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4208 #-#-# translate crowdin noupredat_395008a2:
+msgid "[_ka_] Now there's more paths for me to follow than before."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4210 #-#-# translate crowdin noupredat_8dd0d24c:
+msgid "[_ka_] And he... He's done enough."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4212 #-#-# translate crowdin noupredat_bc464217:
+msgid "[_ka_] He's at the beginning of his evolution into Otsutsuki, but now he won't be able to finish it since he's no longer feeding his thirst."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4214 #-#-# translate crowdin noupredat_a906847d:
+msgid "[_ka_] After a while, his power will get weathered. He will become an ordinary human."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4216 #-#-# translate crowdin noupredat_685aeda2:
+msgid "[_ri_] He knows too much, he is dangerous to you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4218 #-#-# translate crowdin noupredat_fca1270f:
+msgid "[_ka_] He's proven that he's not."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4220 #-#-# translate crowdin noupredat_24a9f129:
+msgid "[_ri_] Does that mean that you..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4222 #-#-# translate crowdin noupredat_6ab03069:
+msgid "[_ka_] We're leaving. The old man is dead, which means there's nothing keeping us in the Land of Fire anymore."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4224 #-#-# translate crowdin noupredat_e2e99640:
+msgid "[_ri_] Whatever you say, but I'd kill that guy if I were you."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4226 #-#-# translate crowdin noupredat_fc5fc918:
+msgid "[_ka_] You've been a good boy, [viname]... Let's hope your life doesn't get cut short, and you'll be happy."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4228 #-#-# translate crowdin noupredat_bff18661:
+msgid "[_ka_] Goodbye."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4239 #-#-# translate crowdin noupredat_9880b09d:
+msgid "[_ko3_] Daddy! His hair are funny!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4243 #-#-# translate crowdin noupredat_3abf48a3:
+msgid "[_r_] Don't mess around, Kaoru! Mr Photographer's got to take a picture."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4247 #-#-# translate crowdin noupredat_2351067c:
+msgid "[_ko3_] But I wanna watch Ninja-Kenshi!!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4251 #-#-# translate crowdin noupredat_d1d854f9:
+msgid "[_kure_] If you sit still until Mr Photographer leaves, I'll make you some milk chocolate. Are you fine with that, sweetie?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4255 #-#-# translate crowdin noupredat_d41c4907:
+msgid "[_ko3_] Cocolate!? Okay then!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4259 #-#-# translate crowdin noupredat_28346c2e:
+msgid "[_ko1_] Father... Do you remember that..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4263 #-#-# translate crowdin noupredat_ed9a429a:
+msgid "[_r_] I know, I know, they'll wait for you. Taking a family photo is very important!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4267 #-#-# translate crowdin noupredat_7c865013:
+msgid "[_mira_] Dad's right, your mission isn't going anywhere."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4271 #-#-# translate crowdin noupredat_241aad64:
+msgid "[_ko1_] You know better than anyone that A rank missions require punctuality, mom."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4275 #-#-# translate crowdin noupredat_86e80b43:
+msgid "[_ko2_] Quit grumbling, brother! It took Daddy so long to convince them to let you go for a while!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4279 #-#-# translate crowdin noupredat_5236fe8f:
+msgid "[_ko1_] I know... Jeez..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4283 #-#-# translate crowdin noupredat_5e11b328:
+msgid "[_fotik_] Smile for the camera, everyone!"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4287 #-#-# translate crowdin noupredat_cbf9764f:
+msgid "[_fotik_] 3..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4291 #-#-# translate crowdin noupredat_34d2aef7:
+msgid "[_fotik_] 2..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4295 #-#-# translate crowdin noupredat_4bb0f77b:
+msgid "[_fotik_] 1..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4310 #-#-# translate crowdin noupredat_ebf6fd63:
+msgid "[_m_] It's all been... so long ago..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4312 #-#-# translate crowdin noupredat_be199f12:
+msgid "[_m_] How long has it been..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4314 #-#-# translate crowdin noupredat_fd9d9f7e:
+msgid "[_m_] God... To think of it... twenty one years have passed..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4321 #-#-# translate crowdin noupredat_b73ee468:
+msgid "[_m_] The photo's all worn out."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4323 #-#-# translate crowdin noupredat_e9b0fbe9:
+msgid "[_m_] This is my favorite one."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4325 #-#-# translate crowdin noupredat_b968c9f7:
+msgid "[_m_] There were many after it, but it's become so special to me for some reason."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4327 #-#-# translate crowdin noupredat_d9653ecd:
+msgid "[_m_] Who would have thought I'd live to be seventy-two years old..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4329 #-#-# translate crowdin noupredat_78413c59:
+msgid "[_m_] My lifestyle is as senile as it can get at this point."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4331 #-#-# translate crowdin noupredat_db924574:
+msgid "[_m_] I'm bedridden, it's been hard to walk for some time now."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4333 #-#-# translate crowdin noupredat_4432f6cb:
+msgid "[_m_] But I still have a loving and relatively young wife who takes care of me all the time."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4335 #-#-# translate crowdin noupredat_2fca1255:
+msgid "[_m_] Mirai is only 57 years old, she never leaves my side... Looking after me like I'm a small child... So sick of it."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4337 #-#-# translate crowdin noupredat_ab9b7f12:
+msgid "[_m_] All I can do now is lie here and make draw some conclusions."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4339 #-#-# translate crowdin noupredat_048ee7ab:
+msgid "[_m_] Yes, gotta think of my life and of what I've come to after all this time."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4341 #-#-# translate crowdin noupredat_656602dd:
+msgid "[_m_] And to tell the truth, without any whining and all that... I think I've been very lucky."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4343 #-#-# translate crowdin noupredat_83973361:
+msgid "[_m_] I came into this world at Kamiko's will, probably by some complete accident, too... Yet, not only didn't I die, but was also able to build a strong family."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4345 #-#-# translate crowdin noupredat_85498c00:
+msgid "[_m_] My youngest daughter, Kaoru, my sweetheart, she's grown into a good girl."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4347 #-#-# translate crowdin noupredat_db6fa0f7:
+msgid "[_m_] She's always been so energetic. I even used to think she would become a shinobi... But no, Kaoru chose a different path."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4349 #-#-# translate crowdin noupredat_4f6a4c43:
+msgid "[_m_] I don't know where this came from, but she turned out to have a good talent for business. Now she's the owner of numerous large companies all over the Land of Fire."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4351 #-#-# translate crowdin noupredat_ba5aee72:
+msgid "[_m_] My second daughter, Eri, has always been such a clever girl."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4353 #-#-# translate crowdin noupredat_ed0cafaa:
+msgid "[_m_] The best in her class, the most modest and the most polite of all... I still have no idea who she took after."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4355 #-#-# translate crowdin noupredat_f1c31f84:
+msgid "[_m_] In the end, Eri has grown into a reliable and wise woman."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4357 #-#-# translate crowdin noupredat_21ba94bc:
+msgid "[_m_] She holds an important position in the country's ministry, she's such a brilliant girl."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4359 #-#-# translate crowdin noupredat_58ee2483:
+msgid "[_m_] As for our eldest son, Mamoru..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4361 #-#-# translate crowdin noupredat_c4d5da90:
+msgid "[_m_] He's the pride of our family."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4363 #-#-# translate crowdin noupredat_0c68009d:
+msgid "[_m_] What can I say? He's the pride of the Land of Fire and the whole current generation of shinobi."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4365 #-#-# translate crowdin noupredat_cf733f52:
+msgid "[_m_] Mamoru was born very strong. I always felt like it was due to Kamiko's power that was still living inside me at the time of Mamoru's conception."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4367 #-#-# translate crowdin noupredat_4e025de0:
+msgid "[_m_] That would explain his tremendous strength in battle."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4369 #-#-# translate crowdin noupredat_6bc79384:
+msgid "[_m_] My son became a high-ranking elite shinobi at the age of 14."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4371 #-#-# translate crowdin noupredat_b63d2903:
+msgid "[_m_] At 20, he became the head of the country's foreign intelligence organization."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4373 #-#-# translate crowdin noupredat_fcbb00ae:
+msgid "[_m_] And at 25, he became the 10th Hokage of the Leaf Village."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4375 #-#-# translate crowdin noupredat_e8f19fc0:
+msgid "[_m_] Back then, his power was as high as Otsutsuki's, which isn't strange considering where it all comes from."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4377 #-#-# translate crowdin noupredat_c8156083:
+msgid "[_m_] Even now, after all these years, his power is feared and respected even outside the Land of Fire."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4379 #-#-# translate crowdin noupredat_06dbab9d:
+msgid "[_m_] Sadly, Kurenai was not able to live to see her grandson become the highest ranking shinobi of the Leaf Village."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4381 #-#-# translate crowdin noupredat_bb142863:
+msgid "[_m_] I still miss her, even though she passed away a long time ago."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4383 #-#-# translate crowdin noupredat_5e824a1a:
+msgid "[_m_] It won't be long... till I pass away, too..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4385 #-#-# translate crowdin noupredat_e71ad5ba:
+msgid "[_m_] Thanks to that old man, I got another chance in my life."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4387 #-#-# translate crowdin noupredat_134db18f:
+msgid "[_m_] And after I took that chance to the fullest... I still wonder... Had I done things differently, what would've happened?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4389 #-#-# translate crowdin noupredat_db41ad44:
+msgid "[_m_] And how just one right choice... managed to give me such a long and happy life... with a loving family... and..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4391 #-#-# translate crowdin noupredat_88fa4b31:
+msgid "[_m_] Weren't you angry with me... Kamiko...?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4393 #-#-# translate crowdin noupredat_2849bd81:
+msgid "[_m_] I hope you're still... alive."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4418 #-#-# translate crowdin dapredat_96155a9f:
+msgid "[_m_] Strange, I didn't notice it myself how I've begun taking my hygene more seriously."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4420 #-#-# translate crowdin dapredat_4f75ff70:
+msgid "[_m_] Does married life really change people like that?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4422 #-#-# translate crowdin dapredat_7fbfcb05:
+msgid "[_m_] Or is it just me?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4424 #-#-# translate crowdin dapredat_f7a2367c:
+msgid "[_m_] Anyway, I want to smell nice next to her so that..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4438 #-#-# translate crowdin dapredat_bdfcffe4:
+msgid "[_m_] Wha.."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4440 #-#-# translate crowdin dapredat_d9487eeb:
+msgid "[_m_] oh..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4447 #-#-# translate crowdin dapredat_29884f14:
+msgid "[_ri_] How long do we have to stay here?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4449 #-#-# translate crowdin dapredat_f95f0130:
+msgid "[_ri_] It's getting cold."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4456 #-#-# translate crowdin dapredat_a235ee56:
+msgid "[_ka_] Not long, he's waking up."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4458 #-#-# translate crowdin dapredat_a932fe26:
+msgid "[_ka_] Wake up, my sweetie."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4460 #-#-# translate crowdin dapredat_42638bc8:
+msgid "[_r_] It hurts... My head..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4467 #-#-# translate crowdin dapredat_929fe772:
+msgid "[_r_] K-Kamiko..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4469 #-#-# translate crowdin dapredat_5b55a26f:
+msgid "[_r_] W-what the..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4471 #-#-# translate crowdin dapredat_6b93eb3c:
+msgid "[_r_] The g-girls..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4475 #-#-# translate crowdin dapredat_afe6eded:
+msgid "[_ka_] So you've woken up at last. You've always been such a sleepy head."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4479 #-#-# translate crowdin dapredat_83064bbc:
+msgid "[_r_] What have you... done..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4483 #-#-# translate crowdin dapredat_038a8310:
+msgid "[_ka_] Oh, come on... There's no need for self-pity, my dear."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4485 #-#-# translate crowdin dapredat_9ab55587:
+msgid "[_ka_] I have nothing to do with it, it's all a consequence of your decisions."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4489 #-#-# translate crowdin dapredat_7250d0ae:
+msgid "[_ri_] Hah, what a face you've got. Is that you crying?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4493 #-#-# translate crowdin dapredat_9854d0dc:
+msgid "[_ka_] Of course he is crying, honey. You've butchered his entire new family."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4495 #-#-# translate crowdin dapredat_fefabc34:
+msgid "[_ka_] [viname], meet Kaya. She's a foreigner, just like you. It even goes further than that, you're from the same universe."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4499 #-#-# translate crowdin dapredat_52958216:
+msgid "[_ri_] Salut, asshole."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4503 #-#-# translate crowdin dapredat_55c9b230:
+msgid "[_r_] M...Mir-ai... Kure..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4507 #-#-# translate crowdin dapredat_207ce03d:
+msgid "[_ri_] God, shut the fuck up already... Can't I just kill him?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4511 #-#-# translate crowdin dapredat_1b52f46d:
+msgid "[_ka_] Not now, my girl."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4513 #-#-# translate crowdin dapredat_cbefef18:
+msgid "[_ka_] I want you to see it all with your own eyes, see everything you've lost. I want you to realize it's all your own fault."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4515 #-#-# translate crowdin dapredat_b0651775:
+msgid "[_ka_] I can forgive you for betraying me out of fear."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4517 #-#-# translate crowdin dapredat_d83534ec:
+msgid "[_ka_] But I can't forgive you for betraying our bond."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4519 #-#-# translate crowdin dapredat_d99978a7:
+msgid "[_ka_] I've done so much for you. You've been everything to me... You were my precious creation... My child..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4521 #-#-# translate crowdin dapredat_2cd14adf:
+msgid "[_ka_] Have I not earned even a little bit of your respect?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4525 #-#-# translate crowdin dapredat_dc2d6217:
+msgid "[_r_] What have I... What have I done to... I didn't..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4529 #-#-# translate crowdin dapredat_18e02442:
+msgid "[_ka_] The old man found me, he was able to find me earlier than I thought... And it's all thanks to your efforts."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4531 #-#-# translate crowdin dapredat_d3539824:
+msgid "[_ka_] Did you really think he could kill me?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4533 #-#-# translate crowdin dapredat_72edd86b:
+msgid "[_ka_] Me... an Otsutsuki, who has lived on this planet for hundreds of years, for dozens of generations..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4535 #-#-# translate crowdin dapredat_0f640e94:
+msgid "[_ka_] He was nothing like he used to be... that old man..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4537 #-#-# translate crowdin dapredat_2aa1844f:
+msgid "[_ka_] But you did help me in some ways... Thanks to the absorption of his chakra, I was able to repeat the ritual and capture my second child."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4539 #-#-# translate crowdin dapredat_1f630229:
+msgid "[_ka_] No matter what, Uchichas' chakra is truly special..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4543 #-#-# translate crowdin dapredat_b3452807:
+msgid "[_r_] Old man..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4547 #-#-# translate crowdin dapredat_c19060c4:
+msgid "[_ka_] Your new friend didn't succeed, that's why you're in such an unfortunate position..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4549 #-#-# translate crowdin dapredat_a34d885c:
+msgid "[_ka_] Kaya, finish what you started, will you?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4553 #-#-# translate crowdin dapredat_b04954e3:
+msgid "[_ri_] Took you long enough..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4560 #-#-# translate crowdin dapredat_e66100dd:
+msgid "[_ka_] One last thing..."
+msgstr ""
+
+# game/kuremiraywayo.rpy:4562 #-#-# translate crowdin dapredat_042d1b90:
+msgid "[_ka_] Is there anything you want to say?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4564 #-#-# translate crowdin dapredat_a5bfe262:
+msgid "[_r_] I was just doing what y--"
+msgstr ""
+
+# game/kuremiraywayo.rpy:4578 #-#-# translate crowdin dapredat_cb87ba2a:
+msgid "[_ri_] Fuck... I've got to wash his brains off my hands now! Gross..."
+msgstr ""
+
 # §translate crowdin strings: #|#|# # game/kuremiraywayo.rpy:221
 msgid "Yes, I want to fuck you again."
 msgstr ""
@@ -1381,7 +4385,7 @@ msgid "This time I need something more than just one-time sex."
 msgstr ""
 
 # game/kuremiraywayo.rpy:514
-msgid "Do not restrain yourself and jerk off (For patrons)"
+msgid " Do not restrain yourself and jerk off (For patrons)"
 msgstr ""
 
 # game/kuremiraywayo.rpy:514
@@ -1397,10 +4401,42 @@ msgid "That’s not the only reason, I want her to be happy."
 msgstr ""
 
 # game/kuremiraywayo.rpy:1153
-msgid "Offer to fuck her in the ass. (for patrons)"
+msgid " Offer to fuck her in the ass. (for patrons)"
 msgstr ""
 
 # game/kuremiraywayo.rpy:1153
 msgid "I think that's enough for today."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1543
+msgid "If that's what Kamiko's mission requires, I'm ready"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1543
+msgid "And what do you suggest?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1607
+msgid "No. I must continue on the path I have chosen."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1607
+msgid "So I still have a chance for a happy life? Without blood and tears?"
+msgstr ""
+
+# game/kuremiraywayo.rpy:1659
+msgid "Cut the rope."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1659
+msgid "Cut his throat."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1798
+msgid "Use provocation on him."
+msgstr ""
+
+# game/kuremiraywayo.rpy:1798
+msgid "Don't do it."
 msgstr ""
 
