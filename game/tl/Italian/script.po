@@ -10,9 +10,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Italian\n"
 "Language: it_IT\n"
-"PO-Revision-Date: 2024-01-08 07:33\n"
+"PO-Revision-Date: 2024-07-17 09:23\n"
 
-# TODO: Translation updated at 2023-12-08 11:40 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
+# TODO: Translation updated at 2024-07-17 11:01 #|#|# # game/script.rpy:59 #-#-# translate crowdin start_9c9cf755:
 msgid "[_e_] I often think about what could my life be if I make different decisions..."
 msgstr "[_e_] Penso spesso a cosa potrebbe essere la mia vita se faccio decisioni diverse..."
 
@@ -16489,8 +16489,8 @@ msgid "Ask if she needs help with something else?"
 msgstr "Chiedi se ha bisogno di aiuto con qualcos'altro?"
 
 # game/script.rpy:13273
-msgid "Give me a glass of water and let's go... (Patrons only)"
-msgstr "Dammi un bicchiere di acqua e andiamo... (solo a bordo)"
+msgid " Give me a glass of water and let's go... (Patrons only)"
+msgstr ""
 
 # game/script.rpy:13273
 msgid "You'll get more only when I say so, not now."
@@ -16557,8 +16557,8 @@ msgid "Cum in my pussy."
 msgstr "Sperma nella mia figa."
 
 # game/script.rpy:16797
-msgid "Let him suck my balls (only for patrons)"
-msgstr "Lascia che succhii le mie palle (solo per i patroni)"
+msgid " Let him suck my balls (only for patrons)"
+msgstr ""
 
 # game/script.rpy:16971
 msgid "It wouldn't be easy for me to accept."
@@ -16589,8 +16589,8 @@ msgid "Cum in Hinata."
 msgstr "Cum in Hinata."
 
 # game/script.rpy:18089
-msgid "Let her take the initiative (Patrons only)"
-msgstr "Lasciate che prenda l'iniziativa (Patrons solo)"
+msgid " Let her take the initiative (Patrons only)"
+msgstr ""
 
 # game/script.rpy:18847
 msgid "Okay, I'll go with you."
@@ -16633,6 +16633,6 @@ msgid "Don't stop, I'm about to cum!"
 msgstr "Non fermarmi, sto per cum!"
 
 # game/script.rpy:19653
-msgid "Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
-msgstr "Metti la bocca da usare per un po ', voglio sborrare dritto giù la gola (per i Patroni)"
+msgid " Put your mouth to use for a bit, I want to cum straight down your throat (for Patrons)"
+msgstr ""
 
