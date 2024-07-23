@@ -1,0 +1,358 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: naruto-shinobi-lord\n"
+"X-Crowdin-Project-ID: 633788\n"
+"X-Crowdin-Language: zh-CN\n"
+"X-Crowdin-File: /main/game/tl/crowdin/newyear.po\n"
+"X-Crowdin-File-ID: 12752\n"
+"Project-Id-Version: naruto-shinobi-lord\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Chinese Simplified\n"
+"Language: zh_CN\n"
+"PO-Revision-Date: 2024-07-23 06:28\n"
+
+# TODO: Translation updated at 2024-07-17 11:01 #|#|# # game/newyear.rpy:9 #-#-# translate crowdin newyear_d37e6817:
+msgid "[_m_] It's nice to finally take a break from all this business..."
+msgstr ""
+
+# game/newyear.rpy:13 #-#-# translate crowdin newyear_a6d9a3bf:
+msgid "[_m_] I think I've been working too hard lately..."
+msgstr ""
+
+# game/newyear.rpy:17 #-#-# translate crowdin newyear_ed3c4a1b:
+msgid "[_m_] But man... Do I have a choice?"
+msgstr ""
+
+# game/newyear.rpy:19 #-#-# translate crowdin newyear_509e8611:
+msgid "[_m_] If I had stayed in the old world, I wonder how my life would have turned out..."
+msgstr ""
+
+# game/newyear.rpy:21 #-#-# translate crowdin newyear_322dfb91:
+msgid "[_m_] Probably nothing much, would have gone to my old job, lived one day at a time."
+msgstr ""
+
+# game/newyear.rpy:23 #-#-# translate crowdin newyear_0005bb27:
+msgid "[_m_] The days would go by too fast and I wouldn't even notice."
+msgstr ""
+
+# game/newyear.rpy:27 #-#-# translate crowdin newyear_d428de06:
+msgid "[_m_] But no... I'd notice... We have so many holidays."
+msgstr ""
+
+# game/newyear.rpy:31 #-#-# translate crowdin newyear_f5cf22a1:
+msgid "[_m_] I love holidays."
+msgstr ""
+
+# game/newyear.rpy:35 #-#-# translate crowdin newyear_a37b3a08:
+msgid "[_m_] Lately I've been celebrating without my family, and I don't have any friends."
+msgstr ""
+
+# game/newyear.rpy:39 #-#-# translate crowdin newyear_677f3ffb:
+msgid "[_m_] But it was still fun..."
+msgstr ""
+
+# game/newyear.rpy:43 #-#-# translate crowdin newyear_a619df87:
+msgid "[_m_] I remember on New Year's I'd buy a couple of beers and watch Harry Potter and just... Forgetting everything..."
+msgstr ""
+
+# game/newyear.rpy:51 #-#-# translate crowdin newyear_ae2487b8:
+msgid "[_m_] I wish... My happy memories... Were not so.... Lonely..."
+msgstr ""
+
+# game/newyear.rpy:59 #-#-# translate crowdin newyear_ddb46f80:
+msgid "[_saku_] This champagne is so strong! I didn't expect to get drunk that fast..."
+msgstr ""
+
+# game/newyear.rpy:63 #-#-# translate crowdin newyear_f235761c:
+msgid "[_hi_] You just don't see the measure, Sakura. The first bottle went away pretty quickly!"
+msgstr ""
+
+# game/newyear.rpy:67 #-#-# translate crowdin newyear_661d4da2:
+msgid "[_saku_] Well downtime! Never knew how to drink properly... It's actually not that easy!"
+msgstr ""
+
+# game/newyear.rpy:71 #-#-# translate crowdin newyear_4e1faa01:
+msgid "[_hi_] I seem to get it right, even though I'm not the most experienced drinker."
+msgstr ""
+
+# game/newyear.rpy:75 #-#-# translate crowdin newyear_0ddd5a73:
+msgid "[_saku_] What do you think? I think you should drink everything at once! Why stretch it out?"
+msgstr ""
+
+# game/newyear.rpy:79 #-#-# translate crowdin newyear_22cb048d:
+msgid "[_hi_] If you drink everything at once, you won't feel the pleasure, am I right?"
+msgstr ""
+
+# game/newyear.rpy:83 #-#-# translate crowdin newyear_a233482f:
+msgid "[_gg_] Girls..."
+msgstr ""
+
+# game/newyear.rpy:85 #-#-# translate crowdin newyear_5ece9ef7:
+msgid "[_gg_] You... You're having fun here, aren't you? With me?"
+msgstr ""
+
+# game/newyear.rpy:89 #-#-# translate crowdin newyear_c8328be2:
+msgid "[_saku_] What are you talking about? I'm having fun in your company! Sasuke is disappearing as usual to who knows where... Sarada's out celebrating with her friends... It's kinda sad to see the new year alone!"
+msgstr ""
+
+# game/newyear.rpy:93 #-#-# translate crowdin newyear_72ddfbe2:
+msgid "[_hi_] I agree... I wouldn't want to celebrate the new year alone either... It's fun with you, especially since we have things to do, right Sakura?"
+msgstr ""
+
+# game/newyear.rpy:97 #-#-# translate crowdin newyear_b524aa5d:
+msgid "[_saku_] Are you thinking the same thing Hinata?"
+msgstr ""
+
+# game/newyear.rpy:101 #-#-# translate crowdin newyear_cbdbb3fc:
+msgid "[_hi_] Yes. It's time to give him New Year's presents!"
+msgstr ""
+
+# game/newyear.rpy:107 #-#-# translate crowdin newyear_3670a65a:
+msgid "[_saku_] I can see in your eyes that you like our present."
+msgstr ""
+
+# game/newyear.rpy:115 #-#-# translate crowdin newyear_ddcfc6d5:
+msgid "[_hi_] He's in a stupor... I think we should really shake him up..."
+msgstr ""
+
+# game/newyear.rpy:119 #-#-# translate crowdin newyear_b9243fd2:
+msgid "[_saku_] You're about to get as much dirty sex as you've ever had!"
+msgstr ""
+
+# game/newyear.rpy:123 #-#-# translate crowdin newyear_f0e3db3d:
+msgid "[_gg_] You talk so much..."
+msgstr ""
+
+# game/newyear.rpy:127 #-#-# translate crowdin newyear_1bc435d0:
+msgid "[_gg_] Maybe it's time to occupy your mouths with something more useful."
+msgstr ""
+
+# game/newyear.rpy:131 #-#-# translate crowdin newyear_013282b7:
+msgid "[_saku_] Did you hear that? He's so cocky! Love it!"
+msgstr ""
+
+# game/newyear.rpy:135 #-#-# translate crowdin newyear_2c684bc9:
+msgid "[_hi_] Let's split this cock for two!"
+msgstr ""
+
+# game/newyear.rpy:147 #-#-# translate crowdin newyear_7ab48c3e:
+msgid "[_m_] These perverts have such hungry eyes!"
+msgstr ""
+
+# game/newyear.rpy:149 #-#-# translate crowdin newyear_5417a72b:
+msgid "[_m_] How well they work together..."
+msgstr ""
+
+# game/newyear.rpy:151 #-#-# translate crowdin newyear_7ffda88e:
+msgid "[_gg_] Yeah... That's it, suck my balls Hinata!"
+msgstr ""
+
+# game/newyear.rpy:153 #-#-# translate crowdin newyear_8a2f697d:
+msgid "[_m_] Fuck... I've never felt that in my life..."
+msgstr ""
+
+# game/newyear.rpy:155 #-#-# translate crowdin newyear_bcedf024:
+msgid "[_m_] Their mouths are sucking so greedily on my balls and cock that I can barely hold back..."
+msgstr ""
+
+# game/newyear.rpy:157 #-#-# translate crowdin newyear_0080894d:
+msgid "[_gg_] More saliva Sakura! That's the way to go..."
+msgstr ""
+
+# game/newyear.rpy:159 #-#-# translate crowdin newyear_6801822a:
+msgid "[_m_] I wish I could wake up to this every day..."
+msgstr ""
+
+# game/newyear.rpy:161 #-#-# translate crowdin newyear_3de647a5:
+msgid "[_m_] I'll remember this feeling for a long time!"
+msgstr ""
+
+# game/newyear.rpy:163 #-#-# translate crowdin newyear_c9748eb5:
+msgid "[_gg_] Change position, I want Hinata to suck that cock good!"
+msgstr ""
+
+# game/newyear.rpy:175 #-#-# translate crowdin newyear_190e1414:
+msgid "[_saku_] You like that cock Hinata? Don't hold back!"
+msgstr ""
+
+# game/newyear.rpy:177 #-#-# translate crowdin newyear_683d1225:
+msgid "[_saku_] No matter how much spit there is, I'll back you up with my mouth..."
+msgstr ""
+
+# game/newyear.rpy:179 #-#-# translate crowdin newyear_313a70ab:
+msgid "[_gg_] You suck so good, Hinata!"
+msgstr ""
+
+# game/newyear.rpy:181 #-#-# translate crowdin newyear_06bc9ccf:
+msgid "[_saku_] She loves it so much, I never would have thought our Hinata was such a slut!"
+msgstr ""
+
+# game/newyear.rpy:183 #-#-# translate crowdin newyear_e09f4e01:
+msgid "[_m_] And Sakura knows how to talk dirty..."
+msgstr ""
+
+# game/newyear.rpy:185 #-#-# translate crowdin newyear_5c4e8b7c:
+msgid "[_saku_] Only a real dirty slut would work her non-husband's cock with such love!"
+msgstr ""
+
+# game/newyear.rpy:187 #-#-# translate crowdin newyear_aa25bed6:
+msgid "[_gg_] You sucked my cock with enviable interest too, Sakura."
+msgstr ""
+
+# game/newyear.rpy:189 #-#-# translate crowdin newyear_5e11c9dd:
+msgid "[_saku_] And who says I'm any different from Hinata? I love dicks!"
+msgstr ""
+
+# game/newyear.rpy:191 #-#-# translate crowdin newyear_eb29cc61:
+msgid "[_gg_] You like dicks then? It's time to give you a good fuck."
+msgstr ""
+
+# game/newyear.rpy:193 #-#-# translate crowdin newyear_39e54cc1:
+msgid "[_saku_] Yes, Daddy! Give me your cock!"
+msgstr ""
+
+# game/newyear.rpy:205 #-#-# translate crowdin newyear_b8706a85:
+msgid "[_gg_] How do you like it? Do you like being fucked by someone other than your husband?"
+msgstr ""
+
+# game/newyear.rpy:207 #-#-# translate crowdin newyear_533cb457:
+msgid "[_saku_] Yes! I love it when your cock slides in my pussy!"
+msgstr ""
+
+# game/newyear.rpy:209 #-#-# translate crowdin newyear_75f2c74b:
+msgid "[_hi_] You sound like a real slut, Sakura..."
+msgstr ""
+
+# game/newyear.rpy:211 #-#-# translate crowdin newyear_c387f218:
+msgid "[_saku_] MMMM! I'm ready to be anything with that cock in me as often as possible!"
+msgstr ""
+
+# game/newyear.rpy:213 #-#-# translate crowdin newyear_376ec445:
+msgid "[_saku_] I love it when you fuck me like a slut!"
+msgstr ""
+
+# game/newyear.rpy:215 #-#-# translate crowdin newyear_e061abea:
+msgid "[_gg_] You're such a dirty bitch, Sakura!"
+msgstr ""
+
+# game/newyear.rpy:217 #-#-# translate crowdin newyear_22490c03:
+msgid "[_gg_] I need to punish you more often with my cock!"
+msgstr ""
+
+# game/newyear.rpy:219 #-#-# translate crowdin newyear_cb054a26:
+msgid "[_saku_] MMMMM! Yes! Yes! YES!"
+msgstr ""
+
+# game/newyear.rpy:221 #-#-# translate crowdin newyear_a7731569:
+msgid "[_hi_] Your mouth can only be closed with kisses right? Come here."
+msgstr ""
+
+# game/newyear.rpy:223 #-#-# translate crowdin newyear_4f8ae3e5:
+msgid "[_m_] Their duet is just something! "
+msgstr ""
+
+# game/newyear.rpy:225 #-#-# translate crowdin newyear_626d6385:
+msgid "[_m_] Hinata knows exactly what I want and when, and Sakura is just a dirty, perverted slut who loves my cock!"
+msgstr ""
+
+# game/newyear.rpy:227 #-#-# translate crowdin newyear_7a88eeb3:
+msgid "[_m_] Gotta pay attention to every hole!"
+msgstr ""
+
+# game/newyear.rpy:229 #-#-# translate crowdin newyear_68cc0e9d:
+msgid "[_gg_] Hinata! Give me your pussy, I want you!"
+msgstr ""
+
+# game/newyear.rpy:231 #-#-# translate crowdin newyear_e9e49393:
+msgid "[_hi_] Finally!"
+msgstr ""
+
+# game/newyear.rpy:243 #-#-# translate crowdin newyear_25f8aa15:
+msgid "[_gg_] Did you miss me? Don't think I've forgotten about you, Hinata."
+msgstr ""
+
+# game/newyear.rpy:245 #-#-# translate crowdin newyear_15a7ecf8:
+msgid "[_hi_] You have twice as much work today, so it's no big deal!"
+msgstr ""
+
+# game/newyear.rpy:247 #-#-# translate crowdin newyear_6a486b7e:
+msgid "[_saku_] Fuck! Yes! Your fingers!"
+msgstr ""
+
+# game/newyear.rpy:249 #-#-# translate crowdin newyear_84d77390:
+msgid "[_hi_] I'll take care of you Sakura, just trust me!"
+msgstr ""
+
+# game/newyear.rpy:251 #-#-# translate crowdin newyear_d44906f5:
+msgid "[_saku_] Yes! MMM! I'm... I'm so close!"
+msgstr ""
+
+# game/newyear.rpy:253 #-#-# translate crowdin newyear_c7b3d358:
+msgid "[_hi_] Come on! Don't stop! I want us to cum together with Sakura!"
+msgstr ""
+
+# game/newyear.rpy:255 #-#-# translate crowdin newyear_80bf78ee:
+msgid "[_gg_] I'll fuck you as hard as you deserve it!"
+msgstr ""
+
+# game/newyear.rpy:257 #-#-# translate crowdin newyear_05072a0f:
+msgid "[_saku_] Cumming! I'm coming!"
+msgstr ""
+
+# game/newyear.rpy:259 #-#-# translate crowdin newyear_46890f2d:
+msgid "[_hi_] That's it! Yes, that's it!!!"
+msgstr ""
+
+# game/newyear.rpy:261 #-#-# translate crowdin newyear_4ee04060:
+msgid "[_hi_] MMMMM! Yes... I..."
+msgstr ""
+
+# game/newyear.rpy:263 #-#-# translate crowdin newyear_5ff5af4a:
+msgid "[_saku_] You have incredible fingers, Hinata..."
+msgstr ""
+
+# game/newyear.rpy:265 #-#-# translate crowdin newyear_448cc520:
+msgid "[_gg_] Me too soon!"
+msgstr ""
+
+# game/newyear.rpy:267 #-#-# translate crowdin newyear_88c6694e:
+msgid "[_saku_] I want to taste it!"
+msgstr ""
+
+# game/newyear.rpy:269 #-#-# translate crowdin newyear_08a5c103:
+msgid "[_hi_] Give us the face!"
+msgstr ""
+
+# game/newyear.rpy:281 #-#-# translate crowdin newyear_9b662d32:
+msgid "[_gg_] FUCK! YES!!! Take it all!"
+msgstr ""
+
+# game/newyear.rpy:283 #-#-# translate crowdin newyear_2df2d112:
+msgid "[_gg_] Now you look like real whores."
+msgstr ""
+
+# game/newyear.rpy:287 #-#-# translate crowdin newyear_2b4fd871:
+msgid "[_hi_] So thick..."
+msgstr ""
+
+# game/newyear.rpy:289 #-#-# translate crowdin newyear_17c25219:
+msgid "[_saku_] What a strong smell!"
+msgstr ""
+
+# game/newyear.rpy:291 #-#-# translate crowdin newyear_1490d9f2:
+msgid "[_gg_] Oh, did you look at your watch? It's 00:00."
+msgstr ""
+
+# game/newyear.rpy:293 #-#-# translate crowdin newyear_155e8ab4:
+msgid "[_hi_] Let's go together Sakura!"
+msgstr ""
+
+# game/newyear.rpy:295 #-#-# translate crowdin newyear_187fa43e:
+msgid "[_saku_] 3...2...1..."
+msgstr ""
+
+# game/newyear.rpy:299 #-#-# translate crowdin newyear_400248f3:
+msgid "Happy New Year!"
+msgstr ""
+
