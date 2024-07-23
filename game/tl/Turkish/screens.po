@@ -1,0 +1,370 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: naruto-shinobi-lord\n"
+"X-Crowdin-Project-ID: 633788\n"
+"X-Crowdin-Language: tr\n"
+"X-Crowdin-File: /main/game/tl/crowdin/screens.po\n"
+"X-Crowdin-File-ID: 12758\n"
+"Project-Id-Version: naruto-shinobi-lord\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Turkish\n"
+"Language: tr_TR\n"
+"PO-Revision-Date: 2024-07-23 06:28\n"
+
+# TODO: Translation updated at 2024-07-17 11:01 #|#|# # §translate crowdin strings: #|#|# # game/screens.rpy:994
+msgid "Back"
+msgstr ""
+
+# game/screens.rpy:995
+msgid "History"
+msgstr ""
+
+# game/screens.rpy:996
+msgid "Skip"
+msgstr ""
+
+# game/screens.rpy:997
+msgid "Auto"
+msgstr ""
+
+# game/screens.rpy:998
+msgid "Save"
+msgstr ""
+
+# game/screens.rpy:999
+msgid "Q.Save"
+msgstr ""
+
+# game/screens.rpy:1000
+msgid "Q.Load"
+msgstr ""
+
+# game/screens.rpy:1001
+msgid "Prefs"
+msgstr ""
+
+# game/screens.rpy:1002
+msgid "Hide"
+msgstr ""
+
+# game/screens.rpy:1047
+msgid "Start"
+msgstr ""
+
+# game/screens.rpy:1055
+msgid "Load"
+msgstr ""
+
+# game/screens.rpy:1057
+msgid "Galery"
+msgstr ""
+
+# game/screens.rpy:1059
+msgid "Preferences"
+msgstr ""
+
+# game/screens.rpy:1063
+msgid "End Replay"
+msgstr ""
+
+# game/screens.rpy:1067
+msgid "Main Menu"
+msgstr ""
+
+# game/screens.rpy:1069
+msgid "About"
+msgstr ""
+
+# game/screens.rpy:1074
+msgid "Help"
+msgstr ""
+
+# game/screens.rpy:1080
+msgid "Quit"
+msgstr ""
+
+# game/screens.rpy:1623
+msgid "Return"
+msgstr ""
+
+# game/screens.rpy:1708
+msgid "Version [config.version!t]\n"
+msgstr ""
+
+# game/screens.rpy:1714
+msgid "Made with {a=https://www.renpy.org/}Ren'Py{/a} [renpy.version_only].\n\n"
+"[renpy.license!t]"
+msgstr ""
+
+# game/screens.rpy:1750
+msgid "Page {}"
+msgstr ""
+
+# game/screens.rpy:1750
+msgid "Automatic saves"
+msgstr ""
+
+# game/screens.rpy:1750
+msgid "Quick saves"
+msgstr ""
+
+# game/screens.rpy:1793
+msgid "{#file_time}%A, %B %d %Y, %H:%M"
+msgstr ""
+
+# game/screens.rpy:1793
+msgid "empty slot"
+msgstr ""
+
+# game/screens.rpy:1810
+msgid "<"
+msgstr ""
+
+# game/screens.rpy:1813
+msgid "{#auto_page}A"
+msgstr ""
+
+# game/screens.rpy:1816
+msgid "{#quick_page}Q"
+msgstr ""
+
+# game/screens.rpy:1822
+msgid ">"
+msgstr ""
+
+# game/screens.rpy:1879
+msgid "Display"
+msgstr ""
+
+# game/screens.rpy:1880
+msgid "Window"
+msgstr ""
+
+# game/screens.rpy:1881
+msgid "Fullscreen"
+msgstr ""
+
+# game/screens.rpy:1885
+msgid "Rollback Side"
+msgstr ""
+
+# game/screens.rpy:1886
+msgid "Disable"
+msgstr ""
+
+# game/screens.rpy:1887
+msgid "Left"
+msgstr ""
+
+# game/screens.rpy:1888
+msgid "Right"
+msgstr ""
+
+# game/screens.rpy:1893
+msgid "Unseen Text"
+msgstr ""
+
+# game/screens.rpy:1894
+msgid "After Choices"
+msgstr ""
+
+# game/screens.rpy:1895
+msgid "Transitions"
+msgstr ""
+
+# game/screens.rpy:1908
+msgid "Text Speed"
+msgstr ""
+
+# game/screens.rpy:1912
+msgid "Auto-Forward Time"
+msgstr ""
+
+# game/screens.rpy:1919
+msgid "Music Volume"
+msgstr ""
+
+# game/screens.rpy:1926
+msgid "Sound Volume"
+msgstr ""
+
+# game/screens.rpy:1932
+msgid "Test"
+msgstr ""
+
+# game/screens.rpy:1936
+msgid "Voice Volume"
+msgstr ""
+
+# game/screens.rpy:1947
+msgid "Mute All"
+msgstr ""
+
+# game/screens.rpy:1953
+msgid "Language"
+msgstr ""
+
+# game/screens.rpy:2071
+msgid "The dialogue history is empty."
+msgstr ""
+
+# game/screens.rpy:2141
+msgid "Keyboard"
+msgstr ""
+
+# game/screens.rpy:2142
+msgid "Mouse"
+msgstr ""
+
+# game/screens.rpy:2145
+msgid "Gamepad"
+msgstr ""
+
+# game/screens.rpy:2158
+msgid "Enter"
+msgstr ""
+
+# game/screens.rpy:2159
+msgid "Advances dialogue and activates the interface."
+msgstr ""
+
+# game/screens.rpy:2162
+msgid "Space"
+msgstr ""
+
+# game/screens.rpy:2163
+msgid "Advances dialogue without selecting choices."
+msgstr ""
+
+# game/screens.rpy:2166
+msgid "Arrow Keys"
+msgstr ""
+
+# game/screens.rpy:2167
+msgid "Navigate the interface."
+msgstr ""
+
+# game/screens.rpy:2170
+msgid "Escape"
+msgstr ""
+
+# game/screens.rpy:2171
+msgid "Accesses the game menu."
+msgstr ""
+
+# game/screens.rpy:2174
+msgid "Ctrl"
+msgstr ""
+
+# game/screens.rpy:2175
+msgid "Skips dialogue while held down."
+msgstr ""
+
+# game/screens.rpy:2178
+msgid "Tab"
+msgstr ""
+
+# game/screens.rpy:2179
+msgid "Toggles dialogue skipping."
+msgstr ""
+
+# game/screens.rpy:2182
+msgid "Page Up"
+msgstr ""
+
+# game/screens.rpy:2183
+msgid "Rolls back to earlier dialogue."
+msgstr ""
+
+# game/screens.rpy:2186
+msgid "Page Down"
+msgstr ""
+
+# game/screens.rpy:2187
+msgid "Rolls forward to later dialogue."
+msgstr ""
+
+# game/screens.rpy:2191
+msgid "Hides the user interface."
+msgstr ""
+
+# game/screens.rpy:2195
+msgid "Takes a screenshot."
+msgstr ""
+
+# game/screens.rpy:2199
+msgid "Toggles assistive {a=https://www.renpy.org/l/voicing}self-voicing{/a}."
+msgstr ""
+
+# game/screens.rpy:2203
+msgid "Opens the accessibility menu."
+msgstr ""
+
+# game/screens.rpy:2209
+msgid "Left Click"
+msgstr ""
+
+# game/screens.rpy:2213
+msgid "Middle Click"
+msgstr ""
+
+# game/screens.rpy:2217
+msgid "Right Click"
+msgstr ""
+
+# game/screens.rpy:2221
+msgid "Mouse Wheel Up\n"
+"Click Rollback Side"
+msgstr ""
+
+# game/screens.rpy:2225
+msgid "Mouse Wheel Down"
+msgstr ""
+
+# game/screens.rpy:2232
+msgid "Right Trigger\n"
+"A/Bottom Button"
+msgstr ""
+
+# game/screens.rpy:2236
+msgid "Left Trigger\n"
+"Left Shoulder"
+msgstr ""
+
+# game/screens.rpy:2240
+msgid "Right Shoulder"
+msgstr ""
+
+# game/screens.rpy:2245
+msgid "D-Pad, Sticks"
+msgstr ""
+
+# game/screens.rpy:2249
+msgid "Start, Guide"
+msgstr ""
+
+# game/screens.rpy:2253
+msgid "Y/Top Button"
+msgstr ""
+
+# game/screens.rpy:2256
+msgid "Calibrate"
+msgstr ""
+
+# game/screens.rpy:2321
+msgid "Yes"
+msgstr ""
+
+# game/screens.rpy:2322
+msgid "No"
+msgstr ""
+
+# game/screens.rpy:2368
+msgid "Skipping"
+msgstr ""
+
+# game/screens.rpy:2591
+msgid "Menu"
+msgstr ""
+
